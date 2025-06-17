@@ -1,0 +1,1981 @@
+{
+    "seed_word": "Understanding",
+    “words_list”: [
+  {
+    "word": "AND",
+    "length": 3,
+    "estimated_uncommonness": "Very Common",
+    "combined_score": 10
+  },
+  {
+    "word": "ANT",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 15
+  },
+  {
+    "word": "ARE",
+    "length": 3,
+    "estimated_uncommonness": "Very Common",
+    "combined_score": 10
+  },
+  {
+    "word": "ART",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "ATE",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 15
+  },
+  {
+    "word": "DAN",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 60
+  },
+  {
+    "word": "DEN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 25
+  },
+  {
+    "word": "DIE",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "DIN",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 65
+  },
+  {
+    "word": "DIG",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 30
+  },
+  {
+    "word": "DUE",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 25
+  },
+  {
+    "word": "DUG",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 30
+  },
+  {
+    "word": "EAR",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "EAT",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 15
+  },
+  {
+    "word": "END",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "ERA",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 25
+  },
+  {
+    "word": "ERG",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 70
+  },
+  {
+    "word": "GAD",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 60
+  },
+  {
+    "word": "GAN",
+    "length": 3,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 100
+  },
+  {
+    "word": "GAR",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 70
+  },
+  {
+    "word": "GAS",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "GET",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 15
+  },
+  {
+    "word": "GIN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 30
+  },
+  {
+    "word": "GIT",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 70
+  },
+  {
+    "word": "GNU",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 80
+  },
+  {
+    "word": "GUN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 30
+  },
+  {
+    "word": "GUT",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 30
+  },
+  {
+    "word": "INN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 25
+  },
+  {
+    "word": "INS",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "IRE",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 65
+  },
+  {
+    "word": "NAD",
+    "length": 3,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 110
+  },
+  {
+    "word": "NAG",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 30
+  },
+  {
+    "word": "NET",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "NIT",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 60
+  },
+  {
+    "word": "NUN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 30
+  },
+  {
+    "word": "NUT",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 25
+  },
+  {
+    "word": "RAD",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 60
+  },
+  {
+    "word": "RAG",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 30
+  },
+  {
+    "word": "RAN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "RAT",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 25
+  },
+  {
+    "word": "RED",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 15
+  },
+  {
+    "word": "RID",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 30
+  },
+  {
+    "word": "RIG",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 35
+  },
+  {
+    "word": "RUE",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 70
+  },
+  {
+    "word": "RUG",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 30
+  },
+  {
+    "word": "RUN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "RUT",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 65
+  },
+  {
+    "word": "SAD",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "SAG",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 65
+  },
+  {
+    "word": "SAN",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 60
+  },
+  {
+    "word": "SAT",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 15
+  },
+  {
+    "word": "SEA",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 15
+  },
+  {
+    "word": "SED",
+    "length": 3,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 100
+  },
+  {
+    "word": "SEG",
+    "length": 3,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 110
+  },
+  {
+    "word": "SEN",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 60
+  },
+  {
+    "word": "SET",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 15
+  },
+  {
+    "word": "SIN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "SIR",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 25
+  },
+  {
+    "word": "SIT",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 15
+  },
+  {
+    "word": "SUE",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 25
+  },
+  {
+    "word": "SUN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "TAD",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 65
+  },
+  {
+    "word": "TAG",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 25
+  },
+  {
+    "word": "TAN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "TAR",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 25
+  },
+  {
+    "word": "TEA",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 15
+  },
+  {
+    "word": "TED",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 60
+  },
+  {
+    "word": "TEN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 15
+  },
+  {
+    "word": "TIE",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 20
+  },
+  {
+    "word": "TIN",
+    "length": 3,
+    "estimated_uncommonness": "Common",
+    "combined_score": 25
+  },
+  {
+    "word": "TUG",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 70
+  },
+  {
+    "word": "TUN",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 65
+  },
+  {
+    "word": "URN",
+    "length": 3,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 70
+  },
+  {
+    "word": "USE",
+    "length": 3,
+    "estimated_uncommonness": "Very Common",
+    "combined_score": 10
+  },
+  {
+    "word": "ANTS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "ANTE",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 120
+  },
+  {
+    "word": "ARTS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "AUNT",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "DANG",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "DARE",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "DARN",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "DART",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "DATE",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "DEAN",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "DEAR",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "DENT",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "DIET",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "DINE",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "DINT",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "DIRE",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "DIRT",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "DRAG",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 70
+  },
+  {
+    "word": "DRAT",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "DUET",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "DUGS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 120
+  },
+  {
+    "word": "DUNE",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "DUNG",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 135
+  },
+  {
+    "word": "DUNS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "DUNT",
+    "length": 4,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "EARN",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "EARS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "EAST",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "EATS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "ENDS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "ERAS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "ERGS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 135
+  },
+  {
+    "word": "GAIN",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "GAIT",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "GARS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 135
+  },
+  {
+    "word": "GAUD",
+    "length": 4,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 210
+  },
+  {
+    "word": "GEAR",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "GENT",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "GETA",
+    "length": 4,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "GETS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "GINS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "GIRD",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 140
+  },
+  {
+    "word": "GIRT",
+    "length": 4,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 210
+  },
+  {
+    "word": "GNAR",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 140
+  },
+  {
+    "word": "GNAT",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 70
+  },
+  {
+    "word": "GRAD",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 70
+  },
+  {
+    "word": "GRAN",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "GRAT",
+    "length": 4,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "GRID",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 75
+  },
+  {
+    "word": "GRIN",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 70
+  },
+  {
+    "word": "GRIT",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 70
+  },
+  {
+    "word": "GUID",
+    "length": 4,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 210
+  },
+  {
+    "word": "GUNS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "GUST",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 70
+  },
+  {
+    "word": "GUTS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "IDEA",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "IDES",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 120
+  },
+  {
+    "word": "INNS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 120
+  },
+  {
+    "word": "IOTA",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "IRED",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "IRES",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "NAGS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 120
+  },
+  {
+    "word": "NEAT",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "NEST",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "NETS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "NITS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "NUNS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 120
+  },
+  {
+    "word": "NUTS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "RAGS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "RAID",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 70
+  },
+  {
+    "word": "RAIN",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "RAND",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "RANG",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "RANT",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "RATE",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "RATS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "READ",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "REDS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "REIN",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "REND",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 135
+  },
+  {
+    "word": "RENT",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "REST",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "RIDS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 120
+  },
+  {
+    "word": "RIGS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "RIND",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 135
+  },
+  {
+    "word": "RING",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "RUDE",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "RUED",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 135
+  },
+  {
+    "word": "RUES",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "RUGS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "RUIN",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "RUNE",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 140
+  },
+  {
+    "word": "RUNS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "RUNT",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "RUSE",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "RUST",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "RUTS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "SAGE",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "SAND",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "SANE",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "SANG",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "SARD",
+    "length": 4,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 210
+  },
+  {
+    "word": "SATE",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 120
+  },
+  {
+    "word": "SAUD",
+    "length": 4,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "SEND",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "SENT",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "SIGN",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "SING",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "SITE",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "STAG",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 70
+  },
+  {
+    "word": "STAR",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "STIR",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "STUD",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 70
+  },
+  {
+    "word": "SUED",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 120
+  },
+  {
+    "word": "SUER",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "SUET",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "SUIT",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "SUNG",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 65
+  },
+  {
+    "word": "SURA",
+    "length": 4,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "SURE",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "TADS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "TAGS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "TANS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "TARS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "TEAR",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "TEAS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "TEDS",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 125
+  },
+  {
+    "word": "TEND",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "TENS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 50
+  },
+  {
+    "word": "TERN",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 135
+  },
+  {
+    "word": "TIDE",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "TIED",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "TIER",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "TIES",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "TINE",
+    "length": 4,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 130
+  },
+  {
+    "word": "TINS",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 60
+  },
+  {
+    "word": "TIRE",
+    "length": 4,
+    "estimated_uncommonness": "Common",
+    "combined_score": 55
+  },
+  {
+    "word": "TREAD",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 120
+  },
+  {
+    "word": "TREND",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 120
+  },
+  {
+    "word": "TRIAD",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 220
+  },
+  {
+    "word": "TRIED",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 115
+  },
+  {
+    "word": "UNDER",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 110
+  },
+  {
+    "word": "UNTIE",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "URATE",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 300
+  },
+  {
+    "word": "URGED",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "GRAND",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 120
+  },
+  {
+    "word": "GRATE",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 115
+  },
+  {
+    "word": "GREAT",
+    "length": 5,
+    "estimated_uncommonness": "Very Common",
+    "combined_score": 80
+  },
+  {
+    "word": "GUARD",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 125
+  },
+  {
+    "word": "GUEST",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 110
+  },
+  {
+    "word": "INERT",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 210
+  },
+  {
+    "word": "INGER",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 300
+  },
+  {
+    "word": "INURE",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 220
+  },
+  {
+    "word": "NUDER",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 310
+  },
+  {
+    "word": "RAISE",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 110
+  },
+  {
+    "word": "RATED",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 110
+  },
+  {
+    "word": "RATES",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 105
+  },
+  {
+    "word": "READS",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 105
+  },
+  {
+    "word": "REAST",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 300
+  },
+  {
+    "word": "REINS",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 115
+  },
+  {
+    "word": "RENDS",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "RENIG",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 320
+  },
+  {
+    "word": "RENTS",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 110
+  },
+  {
+    "word": "RESAT",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 290
+  },
+  {
+    "word": "RESIN",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "RINDS",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "RINSE",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 115
+  },
+  {
+    "word": "RUING",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 210
+  },
+  {
+    "word": "RUNES",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 220
+  },
+  {
+    "word": "RUNTS",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "SATIN",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 120
+  },
+  {
+    "word": "SAUTE",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "SEDAN",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 115
+  },
+  {
+    "word": "SENGA",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 320
+  },
+  {
+    "word": "SITAR",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 210
+  },
+  {
+    "word": "SATED",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 190
+  },
+  {
+    "word": "SAGER",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "STADE",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 300
+  },
+  {
+    "word": "STAIN",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 115
+  },
+  {
+    "word": "STANG",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 220
+  },
+  {
+    "word": "STARE",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 110
+  },
+  {
+    "word": "STEAD",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 120
+  },
+  {
+    "word": "STEAR",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 210
+  },
+  {
+    "word": "STERN",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 125
+  },
+  {
+    "word": "STRAD",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 310
+  },
+  {
+    "word": "STUDY",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 120
+  },
+  {
+    "word": "SUINT",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 320
+  },
+  {
+    "word": "SUTRA",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 220
+  },
+  {
+    "word": "TANGS",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 200
+  },
+  {
+    "word": "TARES",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 190
+  },
+  {
+    "word": "TARGE",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 310
+  },
+  {
+    "word": "TEARS",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 105
+  },
+  {
+    "word": "TEGUA",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 320
+  },
+  {
+    "word": "TENIA",
+    "length": 5,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 290
+  },
+  {
+    "word": "TERNS",
+    "length": 5,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 210
+  },
+  {
+    "word": "TRADE",
+    "length": 5,
+    "estimated_uncommonness": "Common",
+    "combined_score": 110
+  },
+  {
+    "word": "ASTERN",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 320
+  },
+  {
+    "word": "AUNDER",
+    "length": 6,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 450
+  },
+  {
+    "word": "DATERS",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 300
+  },
+  {
+    "word": "DEARNS",
+    "length": 6,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 450
+  },
+  {
+    "word": "DENARS",
+    "length": 6,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 460
+  },
+  {
+    "word": "DERATS",
+    "length": 6,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 450
+  },
+  {
+    "word": "DURANT",
+    "length": 6,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 480
+  },
+  {
+    "word": "DUSTER",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 310
+  },
+  {
+    "word": "GRADUS",
+    "length": 6,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 470
+  },
+  {
+    "word": "RUSTED",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 300
+  },
+  {
+    "word": "SANDER",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 310
+  },
+  {
+    "word": "TRENDS",
+    "length": 6,
+    "estimated_uncommonness": "Common",
+    "combined_score": 180
+  },
+  {
+    "word": "TRIENS",
+    "length": 6,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 470
+  },
+  {
+    "word": "TUNERS",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 320
+  },
+  {
+    "word": "TURGID",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 340
+  },
+  {
+    "word": "UNREST",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 300
+  },
+  {
+    "word": "UNTIES",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 310
+  },
+  {
+    "word": "URANID",
+    "length": 6,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 480
+  },
+  {
+    "word": "URATES",
+    "length": 6,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 460
+  },
+  {
+    "word": "URINAE",
+    "length": 6,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 470
+  },
+  {
+    "word": "DARING",
+    "length": 6,
+    "estimated_uncommonness": "Common",
+    "combined_score": 190
+  },
+  {
+    "word": "DATING",
+    "length": 6,
+    "estimated_uncommonness": "Common",
+    "combined_score": 180
+  },
+  {
+    "word": "NUDIST",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 320
+  },
+  {
+    "word": "RATING",
+    "length": 6,
+    "estimated_uncommonness": "Common",
+    "combined_score": 170
+  },
+  {
+    "word": "SATURN",
+    "length": 6,
+    "estimated_uncommonness": "Common",
+    "combined_score": 190
+  },
+  {
+    "word": "SUNDER",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 330
+  },
+  {
+    "word": "TANDEM",
+    "length": 6,
+    "estimated_uncommonness": "Common",
+    "combined_score": 180
+  },
+  {
+    "word": "UNREAD",
+    "length": 6,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 310
+  },
+  {
+    "word": "READING",
+    "length": 7,
+    "estimated_uncommonness": "Common",
+    "combined_score": 250
+  },
+  {
+    "word": "SAUNTER",
+    "length": 7,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 400
+  },
+  {
+    "word": "STAINER",
+    "length": 7,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 410
+  },
+  {
+    "word": "STANDER",
+    "length": 7,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 420
+  },
+  {
+    "word": "STARING",
+    "length": 7,
+    "estimated_uncommonness": "Common",
+    "combined_score": 260
+  },
+  {
+    "word": "TRADING",
+    "length": 7,
+    "estimated_uncommonness": "Common",
+    "combined_score": 250
+  },
+  {
+    "word": "UNDATED",
+    "length": 7,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 400
+  },
+  {
+    "word": "UNTREAD",
+    "length": 7,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 550
+  },
+  {
+    "word": "URINATE",
+    "length": 7,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 420
+  },
+  {
+    "word": "DUSTING",
+    "length": 7,
+    "estimated_uncommonness": "Common",
+    "combined_score": 260
+  },
+  {
+    "word": "INTRUDE",
+    "length": 7,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 410
+  },
+  {
+    "word": "SANDING",
+    "length": 7,
+    "estimated_uncommonness": "Common",
+    "combined_score": 250
+  },
+  {
+    "word": "SARDINE",
+    "length": 7,
+    "estimated_uncommonness": "Common",
+    "combined_score": 270
+  },
+  {
+    "word": "SATINED",
+    "length": 7,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 400
+  },
+  {
+    "word": "TARDING",
+    "length": 7,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 550
+  },
+  {
+    "word": "SUTURING",
+    "length": 8,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 600
+  },
+  {
+    "word": "GRADIENT",
+    "length": 8,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 620
+  },
+  {
+    "word": "GRANITED",
+    "length": 8,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 750
+  },
+  {
+    "word": "INDURATE",
+    "length": 8,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 780
+  },
+  {
+    "word": "NUDATING",
+    "length": 8,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 760
+  },
+  {
+    "word": "SATURING",
+    "length": 8,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 750
+  },
+  {
+    "word": "SUDATING",
+    "length": 8,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 770
+  },
+  {
+    "word": "TRUDGEON",
+    "length": 8,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 800
+  },
+  {
+    "word": "UNDERACT",
+    "length": 8,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 790
+  },
+  {
+    "word": "UNDERAGE",
+    "length": 8,
+    "estimated_uncommonness": "Common",
+    "combined_score": 400
+  },
+  {
+    "word": "UNDERARM",
+    "length": 8,
+    "estimated_uncommonness": "Common",
+    "combined_score": 410
+  },
+  {
+    "word": "DURATIONS",
+    "length": 9,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 850
+  },
+  {
+    "word": "GRADUATES",
+    "length": 9,
+    "estimated_uncommonness": "Common",
+    "combined_score": 600
+  },
+  {
+    "word": "INDURATES",
+    "length": 9,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 920
+  },
+  {
+    "word": "UNTRADING",
+    "length": 9,
+    "estimated_uncommonness": "Very Uncommon",
+    "combined_score": 900
+  },
+  {
+    "word": "UNGUARDED",
+    "length": 9,
+    "estimated_uncommonness": "Uncommon",
+    "combined_score": 860
+  }
+]
+}
+
+
