@@ -1,26 +1,15 @@
 {
   "compilerOptions": {
-    "target": "es5",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
-    "allowJs": true,
-    "skipLibCheck": true,
+    "jsx": "react-native",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "noFallthroughCasesInSwitch": true,
-    "module": "esnext",
-    "moduleResolution": "node",
-    "resolveJsonModule": true,
-    "isolatedModules": true,
+    "moduleResolution": "node16",
+    "module": "Node16",
     "noEmit": true,
-    "jsx": "react-jsx"
+    "isolatedModules": true,
+    "target": "esnext",
+    "resolveJsonModule": true
   },
-  "include": [
-    "src"
-  ]
+  "extends": "expo/tsconfig.base"
 }

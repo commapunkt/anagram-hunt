@@ -1,0 +1,28 @@
+{
+    "game": {
+        "title": "Anagram Hunt",
+        "timeRemaining": "Time Remaining: {time}s",
+        "score": "Score: {score}",
+        "streak": "Streak: {streak}x",
+        "seedWord": "Seed Word: {word}",
+        "inputPlaceholder": "Type your word here...",
+        "submit": "Submit",
+        "foundWords": "Found Words:",
+        "gameOver": "Game Over!",
+        "finalScore": "Final Score: {score}",
+        "playAgain": "Play Again",
+        "invalidWord": "Invalid word!",
+        "alreadyFound": "Word already found!",
+        "tooShort": "Word too short!",
+        "notInSeed": "Word not in seed word!",
+        "correct": "Correct! +{points} points",
+        "streakBonus": "Streak Bonus! +{points} points"
+    },
+    "settings": {
+        "title": "Settings",
+        "language": "Language",
+        "sound": "Sound",
+        "music": "Music",
+        "difficulty": "Difficulty"
+    }
+} 

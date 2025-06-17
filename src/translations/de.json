@@ -1,0 +1,28 @@
+{
+    "game": {
+        "title": "Anagramm Jagd",
+        "timeRemaining": "Verbleibende Zeit: {time}s",
+        "score": "Punkte: {score}",
+        "streak": "Serie: {streak}x",
+        "seedWord": "Startwort: {word}",
+        "inputPlaceholder": "Geben Sie Ihr Wort ein...",
+        "submit": "Absenden",
+        "foundWords": "Gefundene Wörter:",
+        "gameOver": "Spiel vorbei!",
+        "finalScore": "Endpunktzahl: {score}",
+        "playAgain": "Noch einmal spielen",
+        "invalidWord": "Ungültiges Wort!",
+        "alreadyFound": "Wort bereits gefunden!",
+        "tooShort": "Wort zu kurz!",
+        "notInSeed": "Wort nicht im Startwort enthalten!",
+        "correct": "Richtig! +{points} Punkte",
+        "streakBonus": "Serienbonus! +{points} Punkte"
+    },
+    "settings": {
+        "title": "Einstellungen",
+        "language": "Sprache",
+        "sound": "Ton",
+        "music": "Musik",
+        "difficulty": "Schwierigkeitsgrad"
+    }
+} 
