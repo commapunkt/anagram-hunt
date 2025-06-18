@@ -1,0 +1,802 @@
+{
+  "seed_word": "COMPASSION",
+  "words_list": [
+    {
+      "word": "AIM",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "AIMS",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "AIN",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "AINS",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "AMP",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "AMPS",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "ANI",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "ANIS",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "ASP",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "CAM",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "CAMO",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "CAMP",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "CAMPI",
+      "estimated_uncommonness": 5,
+      "combined_score": 594
+    },
+    {
+      "word": "CAMPO",
+      "estimated_uncommonness": 5,
+      "combined_score": 594
+    },
+    {
+      "word": "CAMPOS",
+      "estimated_uncommonness": 5,
+      "combined_score": 693
+    },
+    {
+      "word": "CAMPS",
+      "estimated_uncommonness": 2,
+      "combined_score": 297
+    },
+    {
+      "word": "CAMS",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "CAN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "CAP",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "CAPO",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "CAPON",
+      "estimated_uncommonness": 4,
+      "combined_score": 495
+    },
+    {
+      "word": "CAPOS",
+      "estimated_uncommonness": 5,
+      "combined_score": 594
+    },
+    {
+      "word": "CAPS",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "CAS",
+      "estimated_uncommonness": 4,
+      "combined_score": 307
+    },
+    {
+      "word": "COIN",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "COINS",
+      "estimated_uncommonness": 2,
+      "combined_score": 297
+    },
+    {
+      "word": "COMA",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "COMAS",
+      "estimated_uncommonness": 3,
+      "combined_score": 396
+    },
+    {
+      "word": "COMP",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "COMPASS",
+      "estimated_uncommonness": 2,
+      "combined_score": 505
+    },
+    {
+      "word": "COMPS",
+      "estimated_uncommonness": 4,
+      "combined_score": 495
+    },
+    {
+      "word": "CON",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "CONI",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "CONS",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "COP",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "COPS",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "COS",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "ICON",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "ICONS",
+      "estimated_uncommonness": 2,
+      "combined_score": 297
+    },
+    {
+      "word": "IMP",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "IMPS",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "ION",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "IONS",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "ISO",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "MAC",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "MACON",
+      "estimated_uncommonness": 4,
+      "combined_score": 495
+    },
+    {
+      "word": "MACS",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "MAN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "MANO",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "MANOC",
+      "estimated_uncommonness": 6,
+      "combined_score": 693
+    },
+    {
+      "word": "MANS",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "MAP",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "MAS",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "MASON",
+      "estimated_uncommonness": 2,
+      "combined_score": 297
+    },
+    {
+      "word": "MASONIC",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "MIC",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "MNA",
+      "estimated_uncommonness": 5,
+      "combined_score": 406
+    },
+    {
+      "word": "MOA",
+      "estimated_uncommonness": 4,
+      "combined_score": 307
+    },
+    {
+      "word": "MOAN",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "MOANS",
+      "estimated_uncommonness": 3,
+      "combined_score": 396
+    },
+    {
+      "word": "MOAS",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "MOC",
+      "estimated_uncommonness": 4,
+      "combined_score": 307
+    },
+    {
+      "word": "MOCS",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "MON",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "MONAS",
+      "estimated_uncommonness": 5,
+      "combined_score": 594
+    },
+    {
+      "word": "MONICA",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "MONISH",
+      "estimated_uncommonness": 5,
+      "combined_score": 693
+    },
+    {
+      "word": "MOP",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "MOPS",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "MOS",
+      "estimated_uncommonness": 4,
+      "combined_score": 307
+    },
+    {
+      "word": "NAM",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "NAP",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "NAPS",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "NIP",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "NIPA",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "NIPAS",
+      "estimated_uncommonness": 5,
+      "combined_score": 594
+    },
+    {
+      "word": "NIPS",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "NOM",
+      "estimated_uncommonness": 4,
+      "combined_score": 307
+    },
+    {
+      "word": "NOMA",
+      "estimated_uncommonness": 5,
+      "combined_score": 495
+    },
+    {
+      "word": "NOMAS",
+      "estimated_uncommonness": 5,
+      "combined_score": 594
+    },
+    {
+      "word": "NOMS",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "OIS",
+      "estimated_uncommonness": 5,
+      "combined_score": 406
+    },
+    {
+      "word": "OCA",
+      "estimated_uncommonness": 5,
+      "combined_score": 406
+    },
+    {
+      "word": "OCAS",
+      "estimated_uncommonness": 5,
+      "combined_score": 495
+    },
+    {
+      "word": "OMS",
+      "estimated_uncommonness": 5,
+      "combined_score": 406
+    },
+    {
+      "word": "ON",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ONS",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "OPS",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "PAC",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "PAIN",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "PAINS",
+      "estimated_uncommonness": 2,
+      "combined_score": 297
+    },
+    {
+      "word": "PAM",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "PAN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "PANIC",
+      "estimated_uncommonness": 2,
+      "combined_score": 297
+    },
+    {
+      "word": "PANICS",
+      "estimated_uncommonness": 3,
+      "combined_score": 495
+    },
+    {
+      "word": "PANS",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "PAS",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "PASS",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "PASSIM",
+      "estimated_uncommonness": 5,
+      "combined_score": 693
+    },
+    {
+      "word": "PASSION",
+      "estimated_uncommonness": 2,
+      "combined_score": 505
+    },
+    {
+      "word": "PIA",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "PIAN",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "PIANO",
+      "estimated_uncommonness": 2,
+      "combined_score": 297
+    },
+    {
+      "word": "PIAS",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "PIC",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "PICA",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "PICAS",
+      "estimated_uncommonness": 4,
+      "combined_score": 495
+    },
+    {
+      "word": "PICS",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "PIN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "PINA",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "PINAS",
+      "estimated_uncommonness": 4,
+      "combined_score": 495
+    },
+    {
+      "word": "PINS",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "PION",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "PIONS",
+      "estimated_uncommonness": 5,
+      "combined_score": 594
+    },
+    {
+      "word": "PIS",
+      "estimated_uncommonness": 4,
+      "combined_score": 307
+    },
+    {
+      "word": "PISO",
+      "estimated_uncommonness": 5,
+      "combined_score": 495
+    },
+    {
+      "word": "POI",
+      "estimated_uncommonness": 4,
+      "combined_score": 307
+    },
+    {
+      "word": "POIS",
+      "estimated_uncommonness": 5,
+      "combined_score": 495
+    },
+    {
+      "word": "POMA",
+      "estimated_uncommonness": 5,
+      "combined_score": 495
+    },
+    {
+      "word": "POMS",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "PONS",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "POS",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "SAC",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "SAGO",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "SAIC",
+      "estimated_uncommonness": 5,
+      "combined_score": 495
+    },
+    {
+      "word": "SAIM",
+      "estimated_uncommonness": 5,
+      "combined_score": 495
+    },
+    {
+      "word": "SAIN",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "SAM",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "SAMP",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "SAN",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "SAP",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "SCAN",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "SCAM",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "SCAMP",
+      "estimated_uncommonness": 4,
+      "combined_score": 495
+    },
+    {
+      "word": "SCAMPI",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "SCION",
+      "estimated_uncommonness": 4,
+      "combined_score": 495
+    },
+    {
+      "word": "SCOP",
+      "estimated_uncommonness": 5,
+      "combined_score": 495
+    },
+    {
+      "word": "SIC",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "SICA",
+      "estimated_uncommonness": 5,
+      "combined_score": 495
+    },
+    {
+      "word": "SIM",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "SIMA",
+      "estimated_uncommonness": 5,
+      "combined_score": 495
+    },
+    {
+      "word": "SIMP",
+      "estimated_uncommonness": 3,
+      "combined_score": 297
+    },
+    {
+      "word": "SIN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "SIP",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "SNOOP",
+      "estimated_uncommonness": 3,
+      "combined_score": 396
+    },
+    {
+      "word": "SOAP",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "SOCA",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "SOM",
+      "estimated_uncommonness": 4,
+      "combined_score": 307
+    },
+    {
+      "word": "SOMA",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "SON",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "SONIC",
+      "estimated_uncommonness": 2,
+      "combined_score": 297
+    },
+    {
+      "word": "SOON",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "SOP",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "SOS",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "SPAM",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "SPAN",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "SPIC",
+      "estimated_uncommonness": 4,
+      "combined_score": 396
+    },
+    {
+      "word": "SPIN",
+      "estimated_uncommonness": 2,
+      "combined_score": 198
+    },
+    {
+      "word": "COMPASSO",
+      "estimated_uncommonness": 6,
+      "combined_score": 990
+    }
+  ]
+}
+
+
