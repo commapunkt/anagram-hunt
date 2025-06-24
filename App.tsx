@@ -1,47 +1,99 @@
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, Text, View, TextInput, TouchableOpacity, ScrollView, Alert } from 'react-native';
 import { getDeviceLanguage, t, SUPPORTED_LANGUAGES, LanguageCode } from './src/utils/language';
-import level1Data from './src/data/en/level-1.json';
+import * as FileSystem from 'expo-file-system';
+import { Platform } from 'react-native';
 
 // Game configuration
-const CURRENT_LEVEL = 1;
 const GAME_TIME = 300; // 5 minutes
 
-// Load level data with error handling
-let levelData: LevelData;
-try {
-    levelData = level1Data;
-    if (!levelData) {
-        throw new Error('Level data is undefined');
-    }
-    if (!levelData.seed_word) {
-        throw new Error('Seed word is missing from level data');
-    }
-    if (!levelData.words_list) {
-        throw new Error('Words list is missing from level data');
-    }
-    console.log('Level data loaded successfully:', {
-        seedWord: levelData.seed_word,
-        wordsListLength: levelData.words_list.length
-    });
-} catch (error: any) {
-    console.error('Error loading level data:', error);
-    throw new Error(`Failed to load level data: ${error?.message || 'Unknown error'}`);
+// Types for level data
+interface LevelMapping {
+    [key: string]: string;
 }
 
-const SEED_WORD = levelData.seed_word.toUpperCase();
+interface WordData {
+    word: string;
+    estimated_uncommonness: number;
+    combined_score: number;
+    length: number;
+}
 
-const SEED_LETTERS = SEED_WORD.split('');
+interface LevelData {
+    seed_word: string;
+    words_list: WordData[];
+}
 
-// Convert words list to the required format
-const VALID_WORDS = levelData.words_list.reduce((acc: { [key: string]: { length: number; estimatedUncommonness: string; combinedScore: number } }, word: WordData) => {
-    acc[word.word] = {
-        length: word.length,
-        estimatedUncommonness: word.estimated_uncommonness,
-        combinedScore: word.combined_score
+// Static imports for level mappings
+import enLevelMapping from './public/data/en/_level-mapping.json';
+import deLevelMapping from './public/data/de/_level-mapping.json';
+
+// Level mapping lookup
+const getLevelMapping = (language: LanguageCode): LevelMapping => {
+    switch (language) {
+        case 'de':
+            return deLevelMapping;
+        case 'en':
+        default:
+            return enLevelMapping;
+    }
+};
+
+// Type assertion function to normalize data
+const normalizeLevelData = (data: any): LevelData => {
+    return {
+        seed_word: data.seed_word,
+        words_list: data.words_list.map((word: any) => ({
+            word: word.word,
+            estimated_uncommonness: typeof word.estimated_uncommonness === 'string' 
+                ? (parseInt(word.estimated_uncommonness) || 1)
+                : (word.estimated_uncommonness || 1),
+            combined_score: word.combined_score || word.combined_ROE || 0,
+            length: word.length || word.word.length
+        }))
     };
-    return acc;
-}, {});
+};
+
+// Dynamic file reading function
+const readLevelFile = async (language: LanguageCode, filename: string): Promise<LevelData> => {
+    try {
+        if (Platform.OS === 'web') {
+            // For web, use fetch to load the JSON file from the public directory
+            const response = await fetch(`/data/${language}/${filename}`);
+            if (!response.ok) {
+                throw new Error(`Failed to fetch ${filename}: ${response.statusText}`);
+            }
+            const data = await response.json();
+            return normalizeLevelData(data);
+        } else {
+            // On native platforms, use FileSystem
+            const fileUri = `${FileSystem.documentDirectory}src/data/${language}/${filename}`;
+            const fileContent = await FileSystem.readAsStringAsync(fileUri);
+            const data = JSON.parse(fileContent);
+            return normalizeLevelData(data);
+        }
+    } catch (error) {
+        console.error(`Error reading file ${filename}:`, error);
+        throw new Error(`Failed to read level file ${filename}: ${error}`);
+    }
+};
+
+// Load level data
+const loadLevelData = async (levelNumber: number, language: LanguageCode): Promise<LevelData> => {
+    try {
+        const mapping = getLevelMapping(language);
+        const fileName = mapping[levelNumber.toString()];
+        
+        if (!fileName) {
+            throw new Error(`No level ${levelNumber} found in mapping`);
+        }
+        
+        return await readLevelFile(language, fileName);
+    } catch (error) {
+        console.error('Error loading level data:', error);
+        throw new Error(`Failed to load level ${levelNumber}: ${error}`);
+    }
+};
 
 export default function App() {
     const [input, setInput] = useState('');
@@ -55,16 +107,62 @@ export default function App() {
     const [letterFrequencies, setLetterFrequencies] = useState<{ [key: string]: number }>({});
     const [usedLetters, setUsedLetters] = useState<{ [key: string]: number }>({});
     const [message, setMessage] = useState<{ text: string; type: 'success' | 'error' | 'info' } | null>(null);
+    
+    // Level management
+    const [currentLevel, setCurrentLevel] = useState(1);
+    const [levelData, setLevelData] = useState<LevelData | null>(null);
+    const [validWords, setValidWords] = useState<{ [key: string]: { length: number; estimatedUncommonness: number; combinedScore: number } }>({});
+    const [seedWord, setSeedWord] = useState('');
+    const [seedLetters, setSeedLetters] = useState<string[]>([]);
+    const [loading, setLoading] = useState(true);
+
+    // Load level data
+    useEffect(() => {
+        const loadCurrentLevel = async () => {
+            try {
+                setLoading(true);
+                const data = await loadLevelData(currentLevel, language);
+                setLevelData(data);
+                setSeedWord(data.seed_word.toUpperCase());
+                setSeedLetters(data.seed_word.toUpperCase().split(''));
+                
+                // Convert words list to the required format
+                const wordsMap = data.words_list.reduce((acc: { [key: string]: { length: number; estimatedUncommonness: number; combinedScore: number } }, word: WordData) => {
+                    acc[word.word] = {
+                        length: word.length,
+                        estimatedUncommonness: word.estimated_uncommonness,
+                        combinedScore: word.combined_score
+                    };
+                    return acc;
+                }, {});
+                setValidWords(wordsMap);
+                
+                console.log(`Level ${currentLevel} loaded successfully:`, {
+                    seedWord: data.seed_word,
+                    wordsListLength: data.words_list.length
+                });
+            } catch (error) {
+                console.error('Error loading level:', error);
+                setMessage({ text: `Failed to load level ${currentLevel}`, type: 'error' });
+            } finally {
+                setLoading(false);
+            }
+        };
+        
+        loadCurrentLevel();
+    }, [currentLevel, language]);
 
     // Calculate letter frequencies in seed word
     useEffect(() => {
-        const frequencies: { [key: string]: number } = {};
-        SEED_LETTERS.forEach((letter: string) => {
-            frequencies[letter] = (frequencies[letter] || 0) + 1;
-        });
-        setLetterFrequencies(frequencies);
-        setUsedLetters(frequencies);
-    }, []);
+        if (seedLetters.length > 0) {
+            const frequencies: { [key: string]: number } = {};
+            seedLetters.forEach((letter: string) => {
+                frequencies[letter] = (frequencies[letter] || 0) + 1;
+            });
+            setLetterFrequencies(frequencies);
+            setUsedLetters(frequencies);
+        }
+    }, [seedLetters]);
 
     // Update used letters when input changes
     useEffect(() => {
@@ -79,13 +177,13 @@ export default function App() {
 
     // Timer effect
     useEffect(() => {
-        if (timeLeft > 0 && !gameOver) {
+        if (timeLeft > 0 && !gameOver && !loading) {
             const timer = setTimeout(() => setTimeLeft(timeLeft - 1), 1000);
             return () => clearTimeout(timer);
         } else if (timeLeft === 0 && !gameOver) {
             setGameOver(true);
         }
-    }, [timeLeft, gameOver]);
+    }, [timeLeft, gameOver, loading]);
 
     const handleLetterPress = (letter: string) => {
         if (usedLetters[letter] > 0) {
@@ -120,13 +218,13 @@ export default function App() {
             setMessage({ text: t('game.alreadyFound', language), type: 'error' });
             return;
         }
-        if (!VALID_WORDS[word]) {
+        if (!validWords[word]) {
             setMessage({ text: t('game.invalidWord', language), type: 'error' });
             return;
         }
 
         // Calculate score
-        const wordData = VALID_WORDS[word];
+        const wordData = validWords[word];
         let points = wordData.combinedScore;
 
         // Apply streak bonus
@@ -145,6 +243,24 @@ export default function App() {
         setUsedLetters(letterFrequencies);
     };
 
+    const nextLevel = async () => {
+        try {
+            const mapping = getLevelMapping(language);
+            const nextLevelNumber = currentLevel + 1;
+            
+            if (mapping[nextLevelNumber.toString()]) {
+                setCurrentLevel(nextLevelNumber);
+                resetGame();
+            } else {
+                // No more levels, show completion message
+                setMessage({ text: t('game.allLevelsComplete', language), type: 'success' });
+            }
+        } catch (error) {
+            console.error('Error loading next level:', error);
+            setMessage({ text: 'Failed to load next level', type: 'error' });
+        }
+    };
+
     const resetGame = () => {
         setInput('');
         setFoundWords([]);
@@ -154,6 +270,7 @@ export default function App() {
         setStreak(0);
         setLastWordLength(0);
         setUsedLetters(letterFrequencies);
+        setMessage(null);
     };
 
     const handleLanguageSwitch = () => {
@@ -201,90 +318,115 @@ export default function App() {
 
     return (
         <View style={styles.container}>
-            <View style={styles.header}>
-                <Text style={styles.title}>{t('game.title', language)}</Text>
-                <TouchableOpacity
-                    style={styles.languageButton}
-                    onPress={handleLanguageSwitch}
-                >
-                    <Text style={styles.languageButtonText}>
-                        {language.toUpperCase()}
+            {loading ? (
+                <View style={styles.loadingContainer}>
+                    <Text style={styles.loadingText}>
+                        {t('game.loading', language)}
                     </Text>
-                </TouchableOpacity>
-            </View>
-            <Text style={styles.timeRemaining}>
-                {t('game.timeRemaining', language, { time: timeLeft })}
-            </Text>
-            <Text style={styles.score}>
-                {t('game.score', language, { score })}
-            </Text>
-            <Text style={styles.streak}>
-                {t('game.streak', language, { streak })}
-            </Text>
-            <Text style={styles.seedWord}>
-                {t('game.seedWord', language, { word: SEED_WORD })}
-            </Text>
-
-            <TextInput
-                style={styles.input}
-                value={input}
-                onChangeText={handleInputChange}
-                placeholder={t('game.inputPlaceholder', language)}
-                placeholderTextColor="#666"
-                autoCapitalize="characters"
-                editable={!gameOver}
-            />
-
-            {message && (
-                <View style={[
-                    styles.messageContainer,
-                    message.type === 'error' && styles.errorMessage,
-                    message.type === 'success' && styles.successMessage
-                ]}>
-                    <Text style={styles.messageText}>{message.text}</Text>
                 </View>
-            )}
-
-            <TouchableOpacity
-                style={styles.submitButton}
-                onPress={handleSubmit}
-                disabled={gameOver}
-            >
-                <Text style={styles.submitButtonText}>
-                    {t('game.submit', language)}
-                </Text>
-            </TouchableOpacity>
-
-            {renderKeyboard()}
-
-            <ScrollView style={styles.foundWordsContainer}>
-                <Text style={styles.foundWordsTitle}>
-                    {t('game.foundWords', language)}
-                </Text>
-                {[...foundWords].reverse().map((word, index) => (
-                    <Text key={index} style={styles.foundWord}>
-                        {word} ({VALID_WORDS[word].combinedScore} points)
+            ) : (
+                <>
+                    <View style={styles.header}>
+                        <Text style={styles.title}>{t('game.title', language)}</Text>
+                        <View style={styles.headerRight}>
+                            <Text style={styles.levelText}>
+                                {t('game.level', language, { level: currentLevel })}
+                            </Text>
+                            <TouchableOpacity
+                                style={styles.languageButton}
+                                onPress={handleLanguageSwitch}
+                            >
+                                <Text style={styles.languageButtonText}>
+                                    {language.toUpperCase()}
+                                </Text>
+                            </TouchableOpacity>
+                        </View>
+                    </View>
+                    <Text style={styles.timeRemaining}>
+                        {t('game.timeRemaining', language, { time: timeLeft })}
                     </Text>
-                ))}
-            </ScrollView>
+                    <Text style={styles.score}>
+                        {t('game.score', language, { score })}
+                    </Text>
+                    <Text style={styles.streak}>
+                        {t('game.streak', language, { streak })}
+                    </Text>
+                    <Text style={styles.seedWord}>
+                        {t('game.seedWord', language, { word: seedWord })}
+                    </Text>
 
-            {gameOver && (
-                <View style={styles.gameOverContainer}>
-                    <Text style={styles.gameOverText}>
-                        {t('game.gameOver', language)}
-                    </Text>
-                    <Text style={styles.finalScore}>
-                        {t('game.finalScore', language, { score })}
-                    </Text>
+                    <TextInput
+                        style={styles.input}
+                        value={input}
+                        onChangeText={handleInputChange}
+                        placeholder={t('game.inputPlaceholder', language)}
+                        placeholderTextColor="#666"
+                        autoCapitalize="characters"
+                        editable={!gameOver}
+                    />
+
+                    {message && (
+                        <View style={[
+                            styles.messageContainer,
+                            message.type === 'error' && styles.errorMessage,
+                            message.type === 'success' && styles.successMessage
+                        ]}>
+                            <Text style={styles.messageText}>{message.text}</Text>
+                        </View>
+                    )}
+
                     <TouchableOpacity
-                        style={styles.playAgainButton}
-                        onPress={resetGame}
+                        style={styles.submitButton}
+                        onPress={handleSubmit}
+                        disabled={gameOver}
                     >
-                        <Text style={styles.playAgainButtonText}>
-                            {t('game.playAgain', language)}
+                        <Text style={styles.submitButtonText}>
+                            {t('game.submit', language)}
                         </Text>
                     </TouchableOpacity>
-                </View>
+
+                    {renderKeyboard()}
+
+                    <ScrollView style={styles.foundWordsContainer}>
+                        <Text style={styles.foundWordsTitle}>
+                            {t('game.foundWords', language)}
+                        </Text>
+                        {[...foundWords].reverse().map((word, index) => (
+                            <Text key={index} style={styles.foundWord}>
+                                {word} ({validWords[word].combinedScore} points)
+                            </Text>
+                        ))}
+                    </ScrollView>
+
+                    {gameOver && (
+                        <View style={styles.gameOverContainer}>
+                            <Text style={styles.gameOverText}>
+                                {t('game.gameOver', language)}
+                            </Text>
+                            <Text style={styles.finalScore}>
+                                {t('game.finalScore', language, { score })}
+                            </Text>
+                            <View style={styles.gameOverButtons}>
+                                <TouchableOpacity
+                                    style={styles.playAgainButton}
+                                    onPress={resetGame}
+                                >
+                                    <Text style={styles.playAgainButtonText}>
+                                        {t('game.playAgain', language)}
+                                    </Text>
+                                </TouchableOpacity>
+                                <TouchableOpacity
+                                    style={styles.nextLevelButton}
+                                    onPress={nextLevel}
+                                >
+                                    <Text style={styles.nextLevelButtonText}>
+                                        {t('game.nextLevel', language)}
+                                    </Text>
+                                </TouchableOpacity>
+                            </View>
+                        </View>
+                    )}
+                </>
             )}
         </View>
     );
@@ -308,6 +450,15 @@ const styles = StyleSheet.create({
         fontWeight: 'bold',
         flex: 1,
         color: '#FFFFFF',
+    },
+    headerRight: {
+        flexDirection: 'row',
+        alignItems: 'center',
+    },
+    levelText: {
+        fontSize: 18,
+        marginRight: 10,
+        color: '#E0E0E0',
     },
     languageButton: {
         backgroundColor: '#4CAF50',
@@ -466,6 +617,21 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontWeight: 'bold',
     },
+    nextLevelButton: {
+        backgroundColor: '#2196F3',
+        padding: 15,
+        borderRadius: 5,
+        marginLeft: 10,
+    },
+    nextLevelButtonText: {
+        color: '#fff',
+        fontSize: 18,
+        fontWeight: 'bold',
+    },
+    gameOverButtons: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+    },
     messageContainer: {
         padding: 10,
         borderRadius: 5,
@@ -481,6 +647,16 @@ const styles = StyleSheet.create({
     messageText: {
         fontSize: 16,
         textAlign: 'center',
+        color: '#FFFFFF',
+    },
+    loadingContainer: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
+    loadingText: {
+        fontSize: 18,
+        fontWeight: 'bold',
         color: '#FFFFFF',
     },
 });

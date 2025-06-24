@@ -53,12 +53,26 @@ const translations: Record<LanguageCode, TranslationStructure> = {
 export const getDeviceLanguage = (): LanguageCode => {
     let deviceLanguage: string;
     
-    if (Platform.OS === 'ios') {
-        deviceLanguage = 
-            NativeModules.SettingsManager.settings.AppleLocale ||
-            NativeModules.SettingsManager.settings.AppleLanguages[0];
-    } else {
-        deviceLanguage = NativeModules.I18nManager.localeIdentifier;
+    try {
+        if (Platform.OS === 'web') {
+            // Web environment - use navigator.language
+            deviceLanguage = typeof navigator !== 'undefined' && navigator.language 
+                ? navigator.language 
+                : 'en-US';
+        } else if (Platform.OS === 'ios') {
+            deviceLanguage = 
+                NativeModules.SettingsManager?.settings?.AppleLocale ||
+                NativeModules.SettingsManager?.settings?.AppleLanguages?.[0] ||
+                'en-US';
+        } else if (Platform.OS === 'android') {
+            deviceLanguage = NativeModules.I18nManager?.localeIdentifier || 'en-US';
+        } else {
+            // Fallback for other platforms
+            deviceLanguage = 'en-US';
+        }
+    } catch (error) {
+        console.warn('Error detecting device language:', error);
+        deviceLanguage = 'en-US';
     }
 
     deviceLanguage = deviceLanguage || 'en-US';
