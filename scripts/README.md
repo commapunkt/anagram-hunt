@@ -10,10 +10,10 @@ The `scripts/find-words.js` script will:
 
 ```bash
 # Using a word (script will count letters automatically)
-node scripts/find-words.js "understanding"
+npm run find-words "understanding"
 
 # Using specific letter counts
-node scripts/find-words.js "understanding" "u:1,n:3,d:2,e:1,r:1,s:1,t:1,a:1,i:1,g:1"
+npm run find-words "understanding" "u:1,n:3,d:2,e:1,r:1,s:1,t:1,a:1,i:1,g:1"
 ```
 
 ### Output
