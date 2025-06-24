@@ -2,6 +2,7 @@
   "name": "anagram-hunt",
   "version": "1.0.0",
   "main": "index.ts",
+  "homepage": "https://bright-words-studio.github.io/anagram-hunt",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -11,7 +12,9 @@
     "web-tunnel": "expo start --web --tunnel",
     "server": "expo start --web --port 3000",
     "launch-web": "node scripts/launch-web.js",
-    "find-words": "node scripts/find-words.js"
+    "find-words": "node scripts/find-words.js",
+    "build:web": "expo export --platform web",
+    "build-web": "node scripts/build-web.js"
   },
   "dependencies": {
     "@expo/metro-runtime": "^5.0.4",
