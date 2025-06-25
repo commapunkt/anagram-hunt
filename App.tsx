@@ -59,7 +59,7 @@ const readLevelFile = async (language: LanguageCode, filename: string): Promise<
     try {
         if (Platform.OS === 'web') {
             // For web, use fetch to load the JSON file from the public directory
-            const response = await fetch(`/data/${language}/${filename}`);
+            const response = await fetch(`./data/${language}/${filename}`);
             if (!response.ok) {
                 throw new Error(`Failed to fetch ${filename}: ${response.statusText}`);
             }
