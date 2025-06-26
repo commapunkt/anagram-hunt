@@ -2,1831 +2,1522 @@
   "seed_word": "SWITZERLAND",
   "words_list": [
     {
-      "word": "ADS",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
+      "word": "Drawliest",
+      "length": 9,
+      "combined_score": 1000
     },
     {
-      "word": "ADZ",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
+      "word": "Warstled",
+      "length": 8,
+      "combined_score": 925
     },
     {
-      "word": "AID",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
+      "word": "Wrastled",
+      "length": 8,
+      "combined_score": 925
     },
     {
-      "word": "AIDE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
+      "word": "Snirtled",
+      "length": 8,
+      "combined_score": 925
     },
     {
-      "word": "AIDS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
+      "word": "Trindles",
+      "length": 8,
+      "combined_score": 925
     },
     {
-      "word": "AIL",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
+      "word": "Lardiest",
+      "length": 8,
+      "combined_score": 925
     },
     {
-      "word": "AIN",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
+      "word": "Larniest",
+      "length": 8,
+      "combined_score": 925
     },
     {
-      "word": "AIR",
-      "estimated_uncommonness": 1,
+      "word": "Lawniest",
+      "length": 8,
+      "combined_score": 925
+    },
+    {
+      "word": "Trenails",
+      "length": 8,
+      "combined_score": 925
+    },
+    {
+      "word": "Wrizled",
+      "length": 7,
+      "combined_score": 849
+    },
+    {
+      "word": "Detrains",
+      "length": 8,
+      "combined_score": 622
+    },
+    {
+      "word": "Dilaters",
+      "length": 8,
+      "combined_score": 622
+    },
+    {
+      "word": "Ratlines",
+      "length": 8,
+      "combined_score": 622
+    },
+    {
+      "word": "Reinstal",
+      "length": 8,
+      "combined_score": 622
+    },
+    {
+      "word": "Retinals",
+      "length": 8,
+      "combined_score": 622
+    },
+    {
+      "word": "Slantier",
+      "length": 8,
+      "combined_score": 622
+    },
+    {
+      "word": "Tawdries",
+      "length": 8,
+      "combined_score": 622
+    },
+    {
+      "word": "Tinwares",
+      "length": 8,
+      "combined_score": 622
+    },
+    {
+      "word": "Randiest",
+      "length": 8,
+      "combined_score": 622
+    },
+    {
+      "word": "Eastlin",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Slinter",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Saltern",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Snirtle",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Staniel",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Starnie",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Wastrel",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Wastrie",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Westlin",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Wezands",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Warstle",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Wintled",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Wintles",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Wrastle",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Tindals",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Trindle",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Awniest",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Drazels",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Ranzels",
+      "length": 7,
+      "combined_score": 546
+    },
+    {
+      "word": "Entrails",
+      "length": 8,
+      "combined_score": 521
+    },
+    {
+      "word": "Latrines",
+      "length": 8,
+      "combined_score": 521
+    },
+    {
+      "word": "Redtails",
+      "length": 8,
+      "combined_score": 521
+    },
+    {
+      "word": "Swindler",
+      "length": 8,
+      "combined_score": 521
+    },
+    {
+      "word": "Tendrils",
+      "length": 8,
+      "combined_score": 521
+    },
+    {
+      "word": "Waltzers",
+      "length": 8,
+      "combined_score": 521
+    },
+    {
+      "word": "Warsled",
+      "length": 7,
+      "combined_score": 480
+    },
+    {
+      "word": "Wrasted",
+      "length": 7,
+      "combined_score": 480
+    },
+    {
+      "word": "Slarted",
+      "length": 7,
+      "combined_score": 480
+    },
+    {
+      "word": "Islander",
+      "length": 8,
+      "combined_score": 455
+    },
+    {
+      "word": "Strained",
+      "length": 8,
+      "combined_score": 455
+    },
+    {
+      "word": "Wetlands",
+      "length": 8,
+      "combined_score": 455
+    },
+    {
+      "word": "Anestri",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Antired",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Asterid",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Darnels",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Dartles",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Dawties",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Dentils",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Destain",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Dewanis",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Diaster",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Disrate",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Endarts",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Enlards",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Indarts",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Indwelt",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Lawines",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Nidates",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Ratines",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Ratlins",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Resiant",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Retsina",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Sideral",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Slainte",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Starned",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Stearin",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Strawen",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Swalier",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Tawnies",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Tenails",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Trenail",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Zeatins",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Zelants",
+      "length": 7,
+      "combined_score": 445
+    },
+    {
+      "word": "Aldrins",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Aliners",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Antlers",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Antsier",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Aridest",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Astride",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Dawners",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Denials",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Dentals",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Derails",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Details",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Detains",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Detrain",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Dialers",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Dilater",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Dilates",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Elastin",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Entails",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Entrail",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Instead",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Inwards",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Landers",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Latrine",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Lawnier",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Laziest",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Linters",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Lizards",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Nailers",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Nailset",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Nastier",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Randies",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Ratline",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Realist",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Redials",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Redtail",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Relands",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Reliant",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Renails",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Rentals",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Retails",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Retains",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Retinal",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Retinas",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Rewinds",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Sainted",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Salient",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Saltier",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Saltine",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Saltire",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Sandier",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Sardine",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Satined",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Slander",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Slanted",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Slanter",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Slatier",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Snailed",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Snarled",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Staider",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Stained",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Stainer",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Staired",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Stander",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Sternal",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Steward",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Strawed",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Swindle",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Swirled",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Tailers",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Tardies",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Tawnier",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Tendril",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Tinders",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Tinware",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Tirades",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Trailed",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Trained",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Trawled",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Twiners",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Twirled",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Wailers",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Waisted",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Waister",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Waiters",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Waliest",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Waltier",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Waltzed",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Waltzer",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Waltzes",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Wanders",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Waniest",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Wanters",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Wanties",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Wardens",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Wariest",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Wetland",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Wilders",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Wildest",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Winders",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Windles",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Winters",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Wizards",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Zanders",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Zaniest",
+      "length": 7,
+      "combined_score": 379
+    },
+    {
+      "word": "Ersatz",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Strand",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Island",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Linear",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Listen",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Rental",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Retail",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Silent",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Strain",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Stride",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Waiter",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Wander",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Winter",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Wizard",
+      "length": 6,
+      "combined_score": 278
+    },
+    {
+      "word": "Answer",
+      "length": 6,
+      "combined_score": 213
+    },
+    {
+      "word": "Alter",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Ideal",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Ideas",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Later",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Learn",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Least",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Liner",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Lines",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Raise",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Rates",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Saint",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Slate",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Stain",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Stair",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Stare",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Steal",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Swear",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Sweat",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Tears",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Tired",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Tires",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Trade",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Trail",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Train",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Trial",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Waist",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Waste",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Water",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Write",
+      "length": 5,
+      "combined_score": 147
+    },
+    {
+      "word": "Aids",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Airs",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Arts",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Deal",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Dear",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Dies",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Diet",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Earn",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "East",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Land",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Last",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Lead",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Lies",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Line",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "List",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Near",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "News",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Rain",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Rate",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Read",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Real",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Rent",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Rest",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Ride",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Rise",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Said",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Sail",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Sale",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Sand",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Seat",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Send",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Side",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Star",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Tear",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Tied",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Tier",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Wait",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Ward",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Ware",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Warn",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Wear",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Wind",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Wine",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Wire",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "Wise",
+      "length": 4,
+      "combined_score": 82
+    },
+    {
+      "word": "And",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "AIRN",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "AIRS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "AIRT",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "AIS",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "AIT",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "AITS",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "AND",
-      "estimated_uncommonness": 1,
+      "word": "Are",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "ANE",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "ANT",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "ANTE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "ANTI",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "ANTS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "ARE",
-      "estimated_uncommonness": 1,
+      "word": "Art",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "ARS",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "ART",
-      "estimated_uncommonness": 1,
+      "word": "Eat",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "ATE",
-      "estimated_uncommonness": 1,
+      "word": "Era",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "AWE",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "AWN",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "DAL",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "DALE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "DAN",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DARE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DARN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DART",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DATE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "DAW",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "DAWN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DAWT",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "DEAL",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "DEAN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DEAR",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "DEN",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DENI",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "DENT",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DEW",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DIE",
-      "estimated_uncommonness": 1,
+      "word": "Its",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "DIEL",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "DIET",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DIN",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "DINE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DINT",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "DIRE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "DIRL",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "DIRT",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DITA",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "DITE",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "DITZ",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "DRAIL",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "DRAIN",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "DRAT",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "DRAW",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "DRAWL",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "DREW",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "EAR",
-      "estimated_uncommonness": 1,
+      "word": "Law",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "EARN",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "EAST",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "EAT",
-      "estimated_uncommonness": 1,
+      "word": "Led",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "EDIT",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "END",
-      "estimated_uncommonness": 1,
+      "word": "Let",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "ERA",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "ERN",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "ETA",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "ETNA",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "IDEA",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "IDEAL",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "IDES",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "IDLE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "IDLER",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "ILEA",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "INERT",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "INLET",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "INTER",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "INTRA",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "IRE",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "IRED",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "ITS",
-      "estimated_uncommonness": 1,
+      "word": "Lie",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "IZAR",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "LAD",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "LADE",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "LADEN",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "LAID",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "LAIN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "LAIR",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "LAIRD",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "LAND",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "LANE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "LARD",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "LARE",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "LARI",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "LATE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "LATEN",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "LATER",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "LATI",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "LAW",
-      "estimated_uncommonness": 1,
+      "word": "New",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "LAWN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "LAZE",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "LAZED",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "LEAD",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "LEAN",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "LEAR",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "LEARN",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "LED",
-      "estimated_uncommonness": 1,
+      "word": "Ran",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "LEI",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "LEND",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "LENT",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "LET",
-      "estimated_uncommonness": 1,
+      "word": "Rat",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "LID",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "LIE",
-      "estimated_uncommonness": 1,
+      "word": "Red",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "LIED",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "LIEN",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "LIER",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "LINE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "LINED",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "LINER",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "LINT",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "LIRA",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "LIRE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "LITE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "LITER",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "LITRE",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "LIZARD",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "NET",
-      "estimated_uncommonness": 1,
+      "word": "Sad",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "NEW",
-      "estimated_uncommonness": 1,
+      "word": "Sat",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "NEWT",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "NIL",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "NIT",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "NITE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "NITER",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "NITRE",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "RAD",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "RAID",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "RAIL",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "RAIN",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "RAISED",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "RAN",
-      "estimated_uncommonness": 1,
+      "word": "Saw",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "RAND",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "RANI",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "RANT",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "RATE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "RATEL",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "RAZE",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "RAZED",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "READ",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "REAL",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "RED",
-      "estimated_uncommonness": 1,
+      "word": "Sea",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "REDAN",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "REI",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "REIN",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "RELAX",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "RELAXIN",
-      "estimated_uncommonness": 4,
-      "combined_score": 693
-    },
-    {
-      "word": "REND",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "RENT",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "RET",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "RETINA",
-      "estimated_uncommonness": 3,
-      "combined_score": 495
-    },
-    {
-      "word": "RETINAL",
-      "estimated_uncommonness": 3,
-      "combined_score": 594
-    },
-    {
-      "word": "RIA",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "RIAL",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "RID",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "RIDE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "RIEL",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "RILE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "RILED",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "RIND",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "RIN",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "RITZ",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SAD",
-      "estimated_uncommonness": 1,
+      "word": "Set",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "SADE",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "SADI",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "SAID",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SAIL",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SAIN",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "SAND",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SANE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "SANER",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SARD",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "SARI",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SAT",
-      "estimated_uncommonness": 1,
+      "word": "Sit",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "SATE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SATED",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "SATI",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "SATIN",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "SAW",
-      "estimated_uncommonness": 1,
+      "word": "Tan",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "SAWED",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SAWN",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SEA",
-      "estimated_uncommonness": 1,
+      "word": "Tea",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "SEAL",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SEAR",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SEAT",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SED",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "SEI",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "SEN",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "SEND",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SENT",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SER",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "SERA",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "SERAI",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "SERAL",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "SET",
-      "estimated_uncommonness": 1,
+      "word": "Ten",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "SEW",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "SEWAN",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "SID",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "SIDE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SIDLE",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SILT",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SIN",
-      "estimated_uncommonness": 1,
+      "word": "Tie",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "SINE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SIR",
-      "estimated_uncommonness": 1,
+      "word": "War",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "SIRE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SIRED",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "SIREN",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "SIT",
-      "estimated_uncommonness": 1,
+      "word": "Was",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "SITE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SITED",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SIZE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SIZED",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "SIZER",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "SLATE",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "SLATED",
-      "estimated_uncommonness": 3,
-      "combined_score": 495
-    },
-    {
-      "word": "SLAW",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SLEW",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "SLID",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "SLIDE",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "SLIDER",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "SLIT",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "SLUR",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SNAIL",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "SNARE",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SNIDE",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SWAD",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "SWAIL",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "SWAIN",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "SWALE",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "SWAN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "SWARD",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "SWAT",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SWINE",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SWIRL",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "TAD",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "TAEL",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "TAIL",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "TAILER",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "TAIN",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "TALE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "TAN",
-      "estimated_uncommonness": 1,
+      "word": "Wet",
+      "length": 3,
       "combined_score": 10
     },
     {
-      "word": "TAR",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "TARE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "TARN",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "TAW",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "TEA",
-      "estimated_uncommonness": 1,
+      "word": "Win",
+      "length": 3,
       "combined_score": 10
-    },
-    {
-      "word": "TEAL",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "TEAR",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "TED",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "TELA",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "TEN",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "TEND",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "TERN",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "TIDE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "TIE",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "TIED",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "TIER",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "TIL",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "TIN",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "TINE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "TINED",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "TIRE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "TIRED",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "TRADE",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "TRADIE",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "TRAIL",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "TRAIN",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "TRAINED",
-      "estimated_uncommonness": 1,
-      "combined_score": 397
-    },
-    {
-      "word": "TREAD",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "TREND",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "TRIAD",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "TRIAL",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "TRIED",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "TRINE",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "TSADE",
-      "estimated_uncommonness": 6,
-      "combined_score": 693
-    },
-    {
-      "word": "TSADI",
-      "estimated_uncommonness": 6,
-      "combined_score": 693
-    },
-    {
-      "word": "TWAE",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "TWAIN",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "TWIN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "TWINE",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "TWINED",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "WAD",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "WADE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "WADER",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "WADI",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "WAE",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "WAIL",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "WAILED",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "WAIN",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "WAIR",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "WAIT",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "WAITED",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "WAITER",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "WALE",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "WALED",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "WALER",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "WALI",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "WAN",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "WAND",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "WANE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "WANED",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "WANT",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "WANTED",
-      "estimated_uncommonness": 1,
-      "combined_score": 298
-    },
-    {
-      "word": "WAR",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "WARD",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "WARE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "WARN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "WARNED",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "WART",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "WAS",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "WAST",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "WASTE",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "WASTED",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "WATER",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "WAT",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "WEAL",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "WEAN",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "WEAR",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "WED",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "WELD",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "WEN",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "WEND",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "WENT",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "WET",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "WIDEN",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "WIELD",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "WILD",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "WILE",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "WILED",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "WILT",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "WILTED",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "WINE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "WINED",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "WINTER",
-      "estimated_uncommonness": 1,
-      "combined_score": 298
-    },
-    {
-      "word": "WINZE",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "WIRE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "WIRED",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "WIT",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "WITE",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "WITED",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "WIZ",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "WIZEN",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "WRATH",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "WREN",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "WRIT",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "WRITE",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "ZEN",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "ZETA",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "ZIN",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "ZINE",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "ZIT",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "WIZARD",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "WETLAND",
-      "estimated_uncommonness": 3,
-      "combined_score": 594
-    },
-    {
-      "word": "TIDELAND",
-      "estimated_uncommonness": 4,
-      "combined_score": 792
     }
   ]
 }
+
 
 
