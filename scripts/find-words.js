@@ -133,7 +133,7 @@ async function findWords(seedWord, letterCounts, language = 'en', minLength = 3)
         
         // Save to file with seed word as filename in appropriate language folder
         const filename = `${seedWord.toLowerCase()}.json`;
-        const outputPath = path.join(__dirname, `../src/data/${language}`, filename);
+        const outputPath = path.join(__dirname, `../public/data/${language}`, filename);
         fs.writeFileSync(outputPath, JSON.stringify(output, null, 2));
         console.log(`\nFull word list saved to: ${outputPath}`);
         
