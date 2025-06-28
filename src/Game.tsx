@@ -118,18 +118,6 @@ export default function Game({ language, isResuming }: GameProps) {
       setSeedLetterMap(newSeedMap);
       setScrambledLetters(shuffleArray(Array.from(newSeedMap.keys())));
 
-      // If we have restored found words, recalculate their scores
-      if (foundWords.length > 0 && foundWords[0].score === 0) {
-        const updatedFoundWords = foundWords.map(fw => {
-          const wordData = words.find(w => w.word.toLowerCase() === fw.word.toLowerCase());
-          return {
-            ...fw,
-            score: wordData ? wordData.combined_score : 0
-          };
-        });
-        setFoundWords(updatedFoundWords);
-      }
-
       // Reset game state for the new level (only if not restoring)
       if (!isResumingGame) {
         setFoundWords([]);
@@ -149,6 +137,20 @@ export default function Game({ language, isResuming }: GameProps) {
       setIsLoading(false);
     }
   }, [language]);
+
+  // Recalculate scores for resumed games after level data is loaded
+  useEffect(() => {
+    if (isResumingGame && foundWords.length > 0 && levelWords && levelWords.length > 0) {
+      const updatedFoundWords = foundWords.map(fw => {
+        const wordData = levelWords.find(w => w.word.toLowerCase() === fw.word.toLowerCase());
+        return {
+          ...fw,
+          score: wordData ? wordData.combined_score : 0
+        };
+      });
+      setFoundWords(updatedFoundWords);
+    }
+  }, [isResumingGame, foundWords, levelWords]);
 
   // Function to save current game state
   const saveCurrentState = useCallback(() => {
