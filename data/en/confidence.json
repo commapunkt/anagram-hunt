@@ -1,452 +1,783 @@
 {
   "seed_word": "CONFIDENCE",
+  "words_length_count": {
+    "3": 41,
+    "4": 69,
+    "5": 17,
+    "6": 21,
+    "7": 5,
+    "8": 1
+  },
   "words_list": [
     {
-      "word": "COD",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "CODE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "CODEC",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "CODEN",
+      "word": "Confined",
       "estimated_uncommonness": 5,
-      "combined_score": 594
+      "combined_score": 1000
     },
     {
-      "word": "CODEX",
+      "word": "Confide",
+      "estimated_uncommonness": 5,
+      "combined_score": 856
+    },
+    {
+      "word": "Concede",
       "estimated_uncommonness": 4,
-      "combined_score": 495
+      "combined_score": 811
     },
     {
-      "word": "CODIF",
-      "estimated_uncommonness": 6,
-      "combined_score": 693
+      "word": "Confine",
+      "estimated_uncommonness": 4,
+      "combined_score": 811
     },
     {
-      "word": "COED",
+      "word": "Ecocide",
+      "estimated_uncommonness": 4,
+      "combined_score": 811
+    },
+    {
+      "word": "Codeine",
+      "estimated_uncommonness": 4,
+      "combined_score": 721
+    },
+    {
+      "word": "Coifed",
+      "estimated_uncommonness": 4,
+      "combined_score": 712
+    },
+    {
+      "word": "Fenced",
+      "estimated_uncommonness": 4,
+      "combined_score": 712
+    },
+    {
+      "word": "Deccie",
+      "estimated_uncommonness": 4,
+      "combined_score": 667
+    },
+    {
+      "word": "Fennec",
+      "estimated_uncommonness": 4,
+      "combined_score": 667
+    },
+    {
+      "word": "Define",
+      "estimated_uncommonness": 4,
+      "combined_score": 622
+    },
+    {
+      "word": "Finned",
+      "estimated_uncommonness": 4,
+      "combined_score": 622
+    },
+    {
+      "word": "Foined",
+      "estimated_uncommonness": 4,
+      "combined_score": 622
+    },
+    {
+      "word": "Fonned",
+      "estimated_uncommonness": 4,
+      "combined_score": 622
+    },
+    {
+      "word": "Codein",
       "estimated_uncommonness": 3,
-      "combined_score": 297
+      "combined_score": 577
     },
     {
-      "word": "COIF",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "COIN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "COINED",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "CON",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "COND",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "CONE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "CONED",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "CONF",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "CONI",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "CONN",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "CONNED",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "DECO",
+      "word": "Coined",
       "estimated_uncommonness": 3,
-      "combined_score": 297
+      "combined_score": 577
     },
     {
-      "word": "DECON",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "DEF",
+      "word": "Condie",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 577
     },
     {
-      "word": "DEFO",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "DEI",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "DEN",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DICE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DIE",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "DIN",
+      "word": "Conned",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 577
     },
     {
-      "word": "DINE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DINO",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "DOC",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DOE",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DON",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DONE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "ECOD",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "END",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "EON",
+      "word": "Edenic",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 577
     },
     {
-      "word": "FED",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "FEN",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "FEND",
+      "word": "Encode",
       "estimated_uncommonness": 3,
-      "combined_score": 297
+      "combined_score": 577
     },
     {
-      "word": "FEO",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "FID",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "FIDO",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "FIE",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "FIN",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "FIND",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "FINE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "FINED",
+      "word": "Incede",
       "estimated_uncommonness": 3,
-      "combined_score": 396
+      "combined_score": 577
     },
     {
-      "word": "FINO",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "FOCI",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "FOE",
+      "word": "Conine",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 532
     },
     {
-      "word": "FOIN",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "FOINED",
-      "estimated_uncommonness": 5,
-      "combined_score": 693
-    },
-    {
-      "word": "FON",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "FOND",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "FONDED",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "ICE",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "ICED",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "ICON",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "ION",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "NED",
+      "word": "Connie",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 532
     },
     {
-      "word": "NICE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "NIDE",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "NOD",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "NODE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "NODI",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "NON",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "NONE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "NONCE",
+      "word": "Codec",
       "estimated_uncommonness": 4,
-      "combined_score": 495
+      "combined_score": 523
     },
     {
-      "word": "NONI",
+      "word": "Fence",
       "estimated_uncommonness": 4,
-      "combined_score": 396
+      "combined_score": 523
     },
     {
-      "word": "OCEAN",
+      "word": "Donnee",
       "estimated_uncommonness": 2,
-      "combined_score": 297
+      "combined_score": 487
     },
     {
-      "word": "ODE",
+      "word": "Indene",
       "estimated_uncommonness": 2,
-      "combined_score": 109
+      "combined_score": 487
     },
     {
-      "word": "ODIC",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
+      "word": "Neoned",
+      "estimated_uncommonness": 2,
+      "combined_score": 487
     },
     {
-      "word": "OFTEN",
-      "estimated_uncommonness": 1,
+      "word": "Ondine",
+      "estimated_uncommonness": 2,
+      "combined_score": 487
+    },
+    {
+      "word": "Conic",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Fiend",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Fined",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Coden",
+      "estimated_uncommonness": 3,
+      "combined_score": 433
+    },
+    {
+      "word": "Coned",
+      "estimated_uncommonness": 3,
+      "combined_score": 433
+    },
+    {
+      "word": "Deice",
+      "estimated_uncommonness": 3,
+      "combined_score": 433
+    },
+    {
+      "word": "Conin",
+      "estimated_uncommonness": 2,
+      "combined_score": 388
+    },
+    {
+      "word": "Conne",
+      "estimated_uncommonness": 2,
+      "combined_score": 388
+    },
+    {
+      "word": "Niece",
+      "estimated_uncommonness": 2,
+      "combined_score": 388
+    },
+    {
+      "word": "Nonce",
+      "estimated_uncommonness": 2,
+      "combined_score": 388
+    },
+    {
+      "word": "Coif",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Conf",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Fice",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Fico",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Foci",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Diene",
+      "estimated_uncommonness": 2,
+      "combined_score": 343
+    },
+    {
+      "word": "Donee",
+      "estimated_uncommonness": 2,
+      "combined_score": 343
+    },
+    {
+      "word": "Donne",
+      "estimated_uncommonness": 2,
+      "combined_score": 343
+    },
+    {
+      "word": "Inned",
+      "estimated_uncommonness": 2,
+      "combined_score": 343
+    },
+    {
+      "word": "Onned",
+      "estimated_uncommonness": 2,
+      "combined_score": 343
+    },
+    {
+      "word": "Defi",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Defo",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Deif",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Ecce",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Ecco",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Feed",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Fend",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Feod",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Fido",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Find",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Foid",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Fond",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Cede",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Cedi",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Cide",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Code",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Coed",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Cond",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Deco",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Dice",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Ecod",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Feen",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Feni",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Fine",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Fino",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Foen",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Foin",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Fone",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Iced",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Info",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Neif",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Nief",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Nife",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Odic",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Cine",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Cion",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Coin",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Cone",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Coni",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Conn",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Icon",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Nice",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Once",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Deen",
+      "estimated_uncommonness": 2,
       "combined_score": 199
     },
     {
-      "word": "ONCE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
+      "word": "Dene",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
     },
     {
-      "word": "ONE",
+      "word": "Deni",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Dine",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Dino",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Doen",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Done",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Eide",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Idee",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Need",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Nide",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Nied",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Node",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Nodi",
+      "estimated_uncommonness": 2,
+      "combined_score": 199
+    },
+    {
+      "word": "Def",
+      "estimated_uncommonness": 2,
+      "combined_score": 190
+    },
+    {
+      "word": "Dif",
+      "estimated_uncommonness": 2,
+      "combined_score": 190
+    },
+    {
+      "word": "Dof",
+      "estimated_uncommonness": 2,
+      "combined_score": 190
+    },
+    {
+      "word": "Fed",
+      "estimated_uncommonness": 2,
+      "combined_score": 190
+    },
+    {
+      "word": "Fid",
+      "estimated_uncommonness": 2,
+      "combined_score": 190
+    },
+    {
+      "word": "Eine",
+      "estimated_uncommonness": 1,
+      "combined_score": 154
+    },
+    {
+      "word": "Nene",
+      "estimated_uncommonness": 1,
+      "combined_score": 154
+    },
+    {
+      "word": "Neon",
+      "estimated_uncommonness": 1,
+      "combined_score": 154
+    },
+    {
+      "word": "Nine",
+      "estimated_uncommonness": 1,
+      "combined_score": 154
+    },
+    {
+      "word": "None",
+      "estimated_uncommonness": 1,
+      "combined_score": 154
+    },
+    {
+      "word": "Noni",
+      "estimated_uncommonness": 1,
+      "combined_score": 154
+    },
+    {
+      "word": "Onie",
+      "estimated_uncommonness": 1,
+      "combined_score": 154
+    },
+    {
+      "word": "Cid",
+      "estimated_uncommonness": 2,
+      "combined_score": 145
+    },
+    {
+      "word": "Cod",
+      "estimated_uncommonness": 2,
+      "combined_score": 145
+    },
+    {
+      "word": "Doc",
+      "estimated_uncommonness": 2,
+      "combined_score": 145
+    },
+    {
+      "word": "Fee",
+      "estimated_uncommonness": 2,
+      "combined_score": 145
+    },
+    {
+      "word": "Fen",
+      "estimated_uncommonness": 2,
+      "combined_score": 145
+    },
+    {
+      "word": "Fie",
+      "estimated_uncommonness": 2,
+      "combined_score": 145
+    },
+    {
+      "word": "Fin",
+      "estimated_uncommonness": 2,
+      "combined_score": 145
+    },
+    {
+      "word": "Foe",
+      "estimated_uncommonness": 2,
+      "combined_score": 145
+    },
+    {
+      "word": "Fon",
+      "estimated_uncommonness": 2,
+      "combined_score": 145
+    },
+    {
+      "word": "Nef",
+      "estimated_uncommonness": 2,
+      "combined_score": 145
+    },
+    {
+      "word": "Cee",
+      "estimated_uncommonness": 2,
+      "combined_score": 100
+    },
+    {
+      "word": "Con",
+      "estimated_uncommonness": 2,
+      "combined_score": 100
+    },
+    {
+      "word": "Eco",
+      "estimated_uncommonness": 2,
+      "combined_score": 100
+    },
+    {
+      "word": "Ice",
+      "estimated_uncommonness": 2,
+      "combined_score": 100
+    },
+    {
+      "word": "Dee",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Dei",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Den",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Die",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Din",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Doe",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Don",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "End",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Ide",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Ned",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Nid",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Nod",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Ode",
+      "estimated_uncommonness": 1,
+      "combined_score": 55
+    },
+    {
+      "word": "Een",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "CONNED",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
+      "word": "Ene",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "DECON",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
+      "word": "Eon",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "FOCI",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
+      "word": "Inn",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "FOINED",
-      "estimated_uncommonness": 5,
-      "combined_score": 693
+      "word": "Ion",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "FONDED",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
+      "word": "Nee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "COINED",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
+      "word": "Nie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "CODIF",
-      "estimated_uncommonness": 6,
-      "combined_score": 693
+      "word": "Non",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "CODEC",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "CODEN",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "FEOD",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "FICO",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "FOND",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "FONDUE",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "ICON",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
+      "word": "One",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     }
   ]
 }
-
-
