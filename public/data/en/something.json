@@ -1,0 +1,2563 @@
+{
+  "seed_word": "SOMETHING",
+  "words_length_count": {
+    "3": 107,
+    "4": 174,
+    "5": 133,
+    "6": 65,
+    "7": 28,
+    "8": 3
+  },
+  "words_list": [
+    {
+      "word": "Hoistmen",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Histogen",
+      "estimated_uncommonness": 5,
+      "combined_score": 951
+    },
+    {
+      "word": "Gnomish",
+      "estimated_uncommonness": 5,
+      "combined_score": 901
+    },
+    {
+      "word": "Homings",
+      "estimated_uncommonness": 5,
+      "combined_score": 901
+    },
+    {
+      "word": "Meshing",
+      "estimated_uncommonness": 5,
+      "combined_score": 901
+    },
+    {
+      "word": "Mitogens",
+      "estimated_uncommonness": 4,
+      "combined_score": 901
+    },
+    {
+      "word": "Moshing",
+      "estimated_uncommonness": 5,
+      "combined_score": 901
+    },
+    {
+      "word": "Theming",
+      "estimated_uncommonness": 5,
+      "combined_score": 901
+    },
+    {
+      "word": "Homiest",
+      "estimated_uncommonness": 5,
+      "combined_score": 852
+    },
+    {
+      "word": "Homines",
+      "estimated_uncommonness": 5,
+      "combined_score": 852
+    },
+    {
+      "word": "Moneths",
+      "estimated_uncommonness": 5,
+      "combined_score": 852
+    },
+    {
+      "word": "Hogties",
+      "estimated_uncommonness": 4,
+      "combined_score": 802
+    },
+    {
+      "word": "Hongies",
+      "estimated_uncommonness": 4,
+      "combined_score": 802
+    },
+    {
+      "word": "Hosting",
+      "estimated_uncommonness": 4,
+      "combined_score": 802
+    },
+    {
+      "word": "Nighest",
+      "estimated_uncommonness": 4,
+      "combined_score": 802
+    },
+    {
+      "word": "Shoeing",
+      "estimated_uncommonness": 4,
+      "combined_score": 802
+    },
+    {
+      "word": "Toshing",
+      "estimated_uncommonness": 4,
+      "combined_score": 802
+    },
+    {
+      "word": "Egotism",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Emongst",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Emoting",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Ethions",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Gnomist",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Histone",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Homing",
+      "estimated_uncommonness": 5,
+      "combined_score": 753
+    },
+    {
+      "word": "Mights",
+      "estimated_uncommonness": 5,
+      "combined_score": 753
+    },
+    {
+      "word": "Misgone",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Mitogen",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Smight",
+      "estimated_uncommonness": 5,
+      "combined_score": 753
+    },
+    {
+      "word": "Steming",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Temsing",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Hemins",
+      "estimated_uncommonness": 4,
+      "combined_score": 703
+    },
+    {
+      "word": "Hitmen",
+      "estimated_uncommonness": 4,
+      "combined_score": 703
+    },
+    {
+      "word": "Homies",
+      "estimated_uncommonness": 4,
+      "combined_score": 703
+    },
+    {
+      "word": "Inmesh",
+      "estimated_uncommonness": 4,
+      "combined_score": 703
+    },
+    {
+      "word": "Meiths",
+      "estimated_uncommonness": 4,
+      "combined_score": 703
+    },
+    {
+      "word": "Mestino",
+      "estimated_uncommonness": 3,
+      "combined_score": 703
+    },
+    {
+      "word": "Methos",
+      "estimated_uncommonness": 4,
+      "combined_score": 703
+    },
+    {
+      "word": "Moisten",
+      "estimated_uncommonness": 3,
+      "combined_score": 703
+    },
+    {
+      "word": "Moneth",
+      "estimated_uncommonness": 4,
+      "combined_score": 703
+    },
+    {
+      "word": "Monish",
+      "estimated_uncommonness": 4,
+      "combined_score": 703
+    },
+    {
+      "word": "Months",
+      "estimated_uncommonness": 4,
+      "combined_score": 703
+    },
+    {
+      "word": "Monties",
+      "estimated_uncommonness": 3,
+      "combined_score": 703
+    },
+    {
+      "word": "Sentimo",
+      "estimated_uncommonness": 3,
+      "combined_score": 703
+    },
+    {
+      "word": "Theism",
+      "estimated_uncommonness": 4,
+      "combined_score": 703
+    },
+    {
+      "word": "Eights",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Heting",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Hinges",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Hoeing",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Hogens",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Hogtie",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Hongis",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Hosing",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Neighs",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Nights",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Thegns",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Things",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Thongs",
+      "estimated_uncommonness": 4,
+      "combined_score": 653
+    },
+    {
+      "word": "Egoism",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Ethion",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Ethnos",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Gemots",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Genoms",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Gnomes",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Honest",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Hostie",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Meting",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Might",
+      "estimated_uncommonness": 4,
+      "combined_score": 604
+    },
+    {
+      "word": "Minges",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Mongst",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Mosing",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Sithen",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Stigme",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Theins",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Tonish",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Eonism",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Hemin",
+      "estimated_uncommonness": 4,
+      "combined_score": 555
+    },
+    {
+      "word": "Hiems",
+      "estimated_uncommonness": 4,
+      "combined_score": 555
+    },
+    {
+      "word": "Homes",
+      "estimated_uncommonness": 4,
+      "combined_score": 555
+    },
+    {
+      "word": "Homie",
+      "estimated_uncommonness": 4,
+      "combined_score": 555
+    },
+    {
+      "word": "Inmost",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Meith",
+      "estimated_uncommonness": 4,
+      "combined_score": 555
+    },
+    {
+      "word": "Mensh",
+      "estimated_uncommonness": 4,
+      "combined_score": 555
+    },
+    {
+      "word": "Mentos",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Metho",
+      "estimated_uncommonness": 4,
+      "combined_score": 555
+    },
+    {
+      "word": "Meths",
+      "estimated_uncommonness": 4,
+      "combined_score": 555
+    },
+    {
+      "word": "Monies",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Monist",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Montes",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Month",
+      "estimated_uncommonness": 4,
+      "combined_score": 555
+    },
+    {
+      "word": "Moths",
+      "estimated_uncommonness": 4,
+      "combined_score": 555
+    },
+    {
+      "word": "Smith",
+      "estimated_uncommonness": 4,
+      "combined_score": 555
+    },
+    {
+      "word": "Somite",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Timons",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Egoist",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Ehing",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Eight",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Ghest",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Ghost",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Goeth",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Goiest",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Gosht",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Goths",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Hinge",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Hings",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Hogen",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Hoing",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Hongi",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Hongs",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Ingest",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Ingoes",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Ingots",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Neigh",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Nighs",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Night",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Ohing",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Shogi",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Sight",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Signet",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Soigne",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Stingo",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Stogie",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Thegn",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Thigs",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Thing",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Thong",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Tigons",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Tinges",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Toeing",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Toings",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Tosing",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Emong",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Ethos",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Gemot",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Genom",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Gismo",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Gnome",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Heist",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Hents",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Hints",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Hoise",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Hoist",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Hones",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Hosen",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Hoten",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Mengs",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Minge",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Mings",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Misgo",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Mongs",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Shent",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Shine",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Shite",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Shone",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Shote",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Sieth",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Sithe",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Thein",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Thens",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Thine",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Thins",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Those",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Tonies",
+      "estimated_uncommonness": 2,
+      "combined_score": 455
+    },
+    {
+      "word": "Emits",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Hems",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Hims",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Home",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Homs",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Items",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Meins",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Meint",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Mento",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Mesh",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Meson",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Mesto",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Meth",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Metis",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Mhos",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Miens",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Mines",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Minos",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Mints",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Mites",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Moist",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Moits",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Monie",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Monte",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Mosh",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Moste",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Moten",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Motes",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Moth",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Motis",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Nomes",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Ohms",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Omens",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Omits",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Shim",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Shmo",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Smite",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Smote",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Stime",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Them",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Times",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Timon",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Tomes",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Geist",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Geits",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Gents",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Ghis",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Gites",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Goest",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Gosh",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Goth",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Hing",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Hogs",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Hong",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Ingot",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Nigh",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Segni",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Segno",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Sengi",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Shog",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Sigh",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Singe",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Sting",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Stong",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Thig",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Tiges",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Tigon",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Tinge",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Tings",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Toges",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Toing",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Tongs",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Eish",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Eosin",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Eths",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Gems",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Gism",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hens",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hent",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hest",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hets",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hies",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hins",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hint",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hisn",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hist",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hits",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hoes",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hone",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hons",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hose",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Host",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hote",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Hots",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Inset",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Megs",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Meng",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Migs",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Ming",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Mogs",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Mong",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Neist",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Nesh",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Nish",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Nites",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Noise",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Nosh",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Notes",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Oints",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Onset",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Senti",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Seton",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Shet",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Shin",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Shit",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Shoe",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Shot",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Sient",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Sinh",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Sith",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Smog",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Soth",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Stein",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Steno",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Stone",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Teins",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Then",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Thin",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Thio",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "This",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Thon",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Tines",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Toise",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Tones",
+      "estimated_uncommonness": 2,
+      "combined_score": 307
+    },
+    {
+      "word": "Tosh",
+      "estimated_uncommonness": 3,
+      "combined_score": 307
+    },
+    {
+      "word": "Emit",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Emos",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Hem",
+      "estimated_uncommonness": 3,
+      "combined_score": 258
+    },
+    {
+      "word": "Him",
+      "estimated_uncommonness": 3,
+      "combined_score": 258
+    },
+    {
+      "word": "Hom",
+      "estimated_uncommonness": 3,
+      "combined_score": 258
+    },
+    {
+      "word": "Item",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Meh",
+      "estimated_uncommonness": 3,
+      "combined_score": 258
+    },
+    {
+      "word": "Mein",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Meno",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Ment",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mets",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mho",
+      "estimated_uncommonness": 3,
+      "combined_score": 258
+    },
+    {
+      "word": "Mien",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mine",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mino",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mint",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mise",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Miso",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mist",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mite",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Moes",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Moit",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mons",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mose",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Most",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mote",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Moti",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Mots",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Nims",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Nome",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Noms",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Ohm",
+      "estimated_uncommonness": 3,
+      "combined_score": 258
+    },
+    {
+      "word": "Omen",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Omit",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Semi",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Smit",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Some",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Stem",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Stim",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Tems",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Time",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Tome",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Toms",
+      "estimated_uncommonness": 2,
+      "combined_score": 258
+    },
+    {
+      "word": "Egis",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Egos",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Engs",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Geit",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gens",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gent",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Geos",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gest",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gets",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Ghi",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "Gien",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gies",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gins",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gios",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gist",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gite",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gits",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Goes",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gone",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Gons",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Hog",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "Ingo",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Ings",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Negs",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Nogs",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Sego",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Sign",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Sing",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Snig",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Snog",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Song",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Tegs",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Tige",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Tigs",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Ting",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Toge",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Togs",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Tong",
+      "estimated_uncommonness": 2,
+      "combined_score": 208
+    },
+    {
+      "word": "Ehs",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Eons",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Eth",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Gem",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Hen",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Hes",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Het",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Hie",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Hin",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "His",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Hit",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Hoe",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Hoi",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Hon",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Hos",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Hot",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Into",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Ions",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Ish",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Meg",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Mig",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Mog",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Nest",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Nets",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Nies",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Nite",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Nits",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Noes",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Noh",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Nose",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Note",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Nth",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Ohs",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Oint",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Ones",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Onie",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Onst",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Sent",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "She",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Sien",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Sine",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Site",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Snit",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Snot",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Soh",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Sone",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Sten",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Stie",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Tein",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Tens",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "The",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Tho",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Ties",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Tine",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Tins",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Toes",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Tone",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Tons",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Tose",
+      "estimated_uncommonness": 1,
+      "combined_score": 159
+    },
+    {
+      "word": "Emo",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Ems",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Ism",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Men",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Mes",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Met",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Mis",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Moe",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Moi",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Mon",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Mos",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Mot",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Nim",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Nom",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Oms",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Sim",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Som",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Tom",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Ego",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Eng",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Gen",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Geo",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Get",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Gie",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Gin",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Gio",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Gis",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Git",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Goe",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Gon",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Gos",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Got",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Ing",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Neg",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Nog",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Seg",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Sog",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Teg",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Tig",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Tog",
+      "estimated_uncommonness": 1,
+      "combined_score": 60
+    },
+    {
+      "word": "Ens",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eon",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Est",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ins",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ion",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ios",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Iso",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Its",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Net",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nis",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nos",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Not",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Oes",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ois",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "One",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ons",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ose",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sei",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sen",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Set",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sin",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Son",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sot",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ten",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tes",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tin",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tis",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Toe",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ton",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
