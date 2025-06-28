@@ -307,9 +307,6 @@ export default function Game({ language }: GameProps) {
 
       <View style={styles.header}>
         <Text style={styles.score}>{t('game.score', language, { score })}</Text>
-        <Text style={styles.foundCount}>
-          {t('game.foundCount', language, { found: foundWords.length, total: levelWords?.length || 0 })}
-        </Text>
         <Text style={styles.timerText}>{formatTime(timeLeft)}</Text>
       </View>
 
@@ -403,10 +400,6 @@ const styles = StyleSheet.create({
   },
   score: {
     color: '#fff',
-    fontSize: 20,
-  },
-  foundCount: {
-    color: '#aaa',
     fontSize: 20,
   },
   gameArea: {
