@@ -1,900 +1,2037 @@
 {
   "seed_word": "BACKGROUND",
+  "words_length_count": {
+    "3": 111,
+    "4": 167,
+    "5": 87,
+    "6": 34,
+    "7": 6
+  },
   "words_list": [
     {
-      "word": "ADO",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
+      "word": "Burdock",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
     },
     {
-      "word": "ADORN",
-      "estimated_uncommonness": 3,
-      "combined_score": 515
+      "word": "Runback",
+      "estimated_uncommonness": 5,
+      "combined_score": 962
     },
     {
-      "word": "AGO",
+      "word": "Bucardo",
+      "estimated_uncommonness": 4,
+      "combined_score": 848
+    },
+    {
+      "word": "Barock",
+      "estimated_uncommonness": 4,
+      "combined_score": 800
+    },
+    {
+      "word": "Buckra",
+      "estimated_uncommonness": 4,
+      "combined_score": 800
+    },
+    {
+      "word": "Candour",
+      "estimated_uncommonness": 3,
+      "combined_score": 772
+    },
+    {
+      "word": "Caudron",
+      "estimated_uncommonness": 3,
+      "combined_score": 772
+    },
+    {
+      "word": "Kobang",
+      "estimated_uncommonness": 4,
+      "combined_score": 762
+    },
+    {
+      "word": "Undock",
+      "estimated_uncommonness": 4,
+      "combined_score": 762
+    },
+    {
+      "word": "Aground",
+      "estimated_uncommonness": 3,
+      "combined_score": 733
+    },
+    {
+      "word": "Unbark",
+      "estimated_uncommonness": 4,
+      "combined_score": 724
+    },
+    {
+      "word": "Uncork",
+      "estimated_uncommonness": 4,
+      "combined_score": 724
+    },
+    {
+      "word": "Bonduc",
+      "estimated_uncommonness": 3,
+      "combined_score": 686
+    },
+    {
+      "word": "Coburg",
+      "estimated_uncommonness": 3,
+      "combined_score": 686
+    },
+    {
+      "word": "Kurgan",
+      "estimated_uncommonness": 3,
+      "combined_score": 686
+    },
+    {
+      "word": "Nogaku",
+      "estimated_uncommonness": 3,
+      "combined_score": 686
+    },
+    {
+      "word": "Bandog",
+      "estimated_uncommonness": 3,
+      "combined_score": 648
+    },
+    {
+      "word": "Bodrag",
+      "estimated_uncommonness": 3,
+      "combined_score": 648
+    },
+    {
+      "word": "Carbon",
+      "estimated_uncommonness": 3,
+      "combined_score": 648
+    },
+    {
+      "word": "Corban",
+      "estimated_uncommonness": 3,
+      "combined_score": 648
+    },
+    {
+      "word": "Dorbug",
+      "estimated_uncommonness": 3,
+      "combined_score": 648
+    },
+    {
+      "word": "Koruna",
+      "estimated_uncommonness": 3,
+      "combined_score": 648
+    },
+    {
+      "word": "Brack",
+      "estimated_uncommonness": 4,
+      "combined_score": 638
+    },
+    {
+      "word": "Brock",
+      "estimated_uncommonness": 4,
+      "combined_score": 638
+    },
+    {
+      "word": "Bucko",
+      "estimated_uncommonness": 4,
+      "combined_score": 638
+    },
+    {
+      "word": "Abound",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Barong",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Brogan",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Candor",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Cardon",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Cougan",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Cougar",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Dacron",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Garcon",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Roband",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Uncord",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Drack",
+      "estimated_uncommonness": 4,
+      "combined_score": 600
+    },
+    {
+      "word": "Cornua",
+      "estimated_uncommonness": 3,
+      "combined_score": 572
+    },
+    {
+      "word": "Dragon",
+      "estimated_uncommonness": 3,
+      "combined_score": 572
+    },
+    {
+      "word": "Durgan",
+      "estimated_uncommonness": 3,
+      "combined_score": 572
+    },
+    {
+      "word": "Ground",
+      "estimated_uncommonness": 3,
+      "combined_score": 572
+    },
+    {
+      "word": "Ungord",
+      "estimated_uncommonness": 3,
+      "combined_score": 572
+    },
+    {
+      "word": "Borak",
+      "estimated_uncommonness": 3,
+      "combined_score": 562
+    },
+    {
+      "word": "Brank",
+      "estimated_uncommonness": 3,
+      "combined_score": 562
+    },
+    {
+      "word": "Bunko",
+      "estimated_uncommonness": 3,
+      "combined_score": 562
+    },
+    {
+      "word": "Burka",
+      "estimated_uncommonness": 3,
+      "combined_score": 562
+    },
+    {
+      "word": "Crank",
+      "estimated_uncommonness": 3,
+      "combined_score": 562
+    },
+    {
+      "word": "Croak",
+      "estimated_uncommonness": 3,
+      "combined_score": 562
+    },
+    {
+      "word": "Cronk",
+      "estimated_uncommonness": 3,
+      "combined_score": 562
+    },
+    {
+      "word": "Crunk",
+      "estimated_uncommonness": 3,
+      "combined_score": 562
+    },
+    {
+      "word": "Koban",
+      "estimated_uncommonness": 3,
+      "combined_score": 562
+    },
+    {
+      "word": "Konbu",
+      "estimated_uncommonness": 3,
+      "combined_score": 562
+    },
+    {
+      "word": "Around",
+      "estimated_uncommonness": 2,
+      "combined_score": 534
+    },
+    {
+      "word": "Ourang",
+      "estimated_uncommonness": 2,
+      "combined_score": 534
+    },
+    {
+      "word": "Drank",
+      "estimated_uncommonness": 3,
+      "combined_score": 524
+    },
+    {
+      "word": "Drouk",
+      "estimated_uncommonness": 3,
+      "combined_score": 524
+    },
+    {
+      "word": "Drunk",
+      "estimated_uncommonness": 3,
+      "combined_score": 524
+    },
+    {
+      "word": "Krang",
+      "estimated_uncommonness": 3,
+      "combined_score": 524
+    },
+    {
+      "word": "Bacon",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Banco",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Bronc",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Bunco",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Carbo",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Carob",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Coarb",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Cobra",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Courb",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Knaur",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Korun",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Koura",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Krona",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Back",
+      "estimated_uncommonness": 4,
+      "combined_score": 476
+    },
+    {
+      "word": "Bock",
+      "estimated_uncommonness": 4,
+      "combined_score": 476
+    },
+    {
+      "word": "Buck",
+      "estimated_uncommonness": 4,
+      "combined_score": 476
+    },
+    {
+      "word": "Abord",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Adunc",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Bardo",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Board",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Bogan",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Bound",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Bourd",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Bourg",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Brand",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Broad",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Brond",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Brung",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Cargo",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Conga",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Courd",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Dobra",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Dorba",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Draco",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Duroc",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Garbo",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Goban",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Gobar",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Guaco",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Obang",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Unbag",
+      "estimated_uncommonness": 3,
+      "combined_score": 448
+    },
+    {
+      "word": "Dack",
+      "estimated_uncommonness": 3,
+      "combined_score": 438
+    },
+    {
+      "word": "Dock",
+      "estimated_uncommonness": 3,
+      "combined_score": 438
+    },
+    {
+      "word": "Duck",
+      "estimated_uncommonness": 3,
+      "combined_score": 438
+    },
+    {
+      "word": "Guck",
+      "estimated_uncommonness": 3,
+      "combined_score": 438
+    },
+    {
+      "word": "Acorn",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Baron",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Borna",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Bourn",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Buran",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Caron",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Cornu",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Donga",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Gonad",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Gourd",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Grand",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Grund",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Guard",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Narco",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Racon",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Unbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Ungod",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Urban",
+      "estimated_uncommonness": 2,
+      "combined_score": 410
+    },
+    {
+      "word": "Bank",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Bark",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Bauk",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Boak",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Bonk",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Bork",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Bouk",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Brak",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Bunk",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Burk",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Cark",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Cauk",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Conk",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Cork",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Kbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Knob",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Knub",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Krab",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Nabk",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Nock",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Rack",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Rock",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Ruck",
+      "estimated_uncommonness": 3,
+      "combined_score": 400
+    },
+    {
+      "word": "Adorn",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Andro",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Argon",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Douar",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Doura",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Goura",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Groan",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Guano",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Nagor",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Orang",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Organ",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Radon",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Round",
+      "estimated_uncommonness": 2,
+      "combined_score": 372
+    },
+    {
+      "word": "Dank",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Dark",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Dork",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Douk",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Duka",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Dunk",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Gonk",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Gouk",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Grok",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Gunk",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Kago",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Kagu",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Kang",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Knag",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Kond",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Kudo",
+      "estimated_uncommonness": 3,
+      "combined_score": 362
+    },
+    {
+      "word": "Banc",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Carb",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Crab",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Curb",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Kaon",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Karn",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Karo",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Knar",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Knur",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Koan",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Kora",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Koru",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Kuna",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Nark",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Nork",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Okra",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Raku",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Rank",
+      "estimated_uncommonness": 3,
+      "combined_score": 324
+    },
+    {
+      "word": "Band",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bang",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bard",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Baud",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bond",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bong",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bord",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Brad",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Brag",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Brod",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Brog",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Buda",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Budo",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bund",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bung",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Burd",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Burg",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Cang",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Card",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Coda",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Cond",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Cord",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Crag",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Crog",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Crud",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Curd",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Darb",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Daub",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Doab",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Dorb",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Douc",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Drab",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Drac",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Drub",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Garb",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Grab",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Grub",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Arco",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Barn",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Baur",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Boar",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Bona",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Bora",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Born",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Boun",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Bran",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Buna",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Bura",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Burn",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Carn",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Corn",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Cour",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Cran",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Curn",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Dago",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Dang",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Darg",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Dong",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Drag",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Drug",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Dung",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Gaud",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Goad",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Grad",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Narc",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Orca",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Unco",
+      "estimated_uncommonness": 2,
+      "combined_score": 248
+    },
+    {
+      "word": "Bok",
+      "estimated_uncommonness": 3,
+      "combined_score": 238
+    },
+    {
+      "word": "Kab",
+      "estimated_uncommonness": 3,
+      "combined_score": 238
+    },
+    {
+      "word": "Kob",
+      "estimated_uncommonness": 3,
+      "combined_score": 238
+    },
+    {
+      "word": "Agon",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Darn",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Daur",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Dona",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Doun",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Dour",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Duan",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Duar",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Dura",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Durn",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Duro",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Gaun",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Gaur",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Gnar",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Gora",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Gran",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Guan",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Guar",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Gurn",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Nard",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Nurd",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Orad",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Ragu",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Rand",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Rang",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Road",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Rong",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Ruga",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Rund",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Rung",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Udon",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Undo",
+      "estimated_uncommonness": 2,
+      "combined_score": 210
+    },
+    {
+      "word": "Dak",
+      "estimated_uncommonness": 3,
+      "combined_score": 200
+    },
+    {
+      "word": "Gak",
+      "estimated_uncommonness": 3,
+      "combined_score": 200
+    },
+    {
+      "word": "Ourn",
+      "estimated_uncommonness": 1,
+      "combined_score": 172
+    },
+    {
+      "word": "Raun",
+      "estimated_uncommonness": 1,
+      "combined_score": 172
+    },
+    {
+      "word": "Roan",
+      "estimated_uncommonness": 1,
+      "combined_score": 172
+    },
+    {
+      "word": "Urao",
+      "estimated_uncommonness": 1,
+      "combined_score": 172
+    },
+    {
+      "word": "Ark",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Auk",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Bac",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Cab",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Cob",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Cub",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Koa",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Kon",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Kor",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Oak",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Oka",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Ouk",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Rok",
+      "estimated_uncommonness": 2,
+      "combined_score": 162
+    },
+    {
+      "word": "Bad",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Bag",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Bod",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Bog",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Bud",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Bug",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Cad",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Cag",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Cod",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Cog",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Cud",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Dab",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Dob",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Doc",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Dub",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Gab",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Gob",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Gub",
+      "estimated_uncommonness": 2,
+      "combined_score": 124
+    },
+    {
+      "word": "Abo",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Arb",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Arc",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Ban",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Bar",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Boa",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Bon",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Bor",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Bra",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Bro",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Bru",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Bun",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Bur",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Can",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Car",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Con",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Cor",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Cru",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Cur",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Dag",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Dog",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Dug",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Gad",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "God",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Nab",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Nob",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Nub",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Oba",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Oca",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Orb",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Orc",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Rob",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Roc",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Rub",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Ruc",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Urb",
+      "estimated_uncommonness": 2,
+      "combined_score": 86
+    },
+    {
+      "word": "Ado",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Ago",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "And",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Ard",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Dan",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Don",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Dor",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Dun",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Duo",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Gan",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Gar",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Gau",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Gnu",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Goa",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Gon",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Gor",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Gun",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Gur",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Nag",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Nod",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Nog",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Oda",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Ord",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Oud",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Rad",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Rag",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Rod",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Rud",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Rug",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Udo",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Urd",
+      "estimated_uncommonness": 1,
+      "combined_score": 48
+    },
+    {
+      "word": "Nor",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "AGON",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "AND",
+      "word": "Nur",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "ARC",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "AUK",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "BAC",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "BACK",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "BACON",
-      "estimated_uncommonness": 2,
-      "combined_score": 440
-    },
-    {
-      "word": "BAD",
+      "word": "Oar",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "BAG",
+      "word": "Ora",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "BAN",
+      "word": "Our",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "BAND",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "BANG",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "BANK",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "BAR",
+      "word": "Ran",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "BARD",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "BARK",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "BARN",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "BARON",
-      "estimated_uncommonness": 2,
-      "combined_score": 440
-    },
-    {
-      "word": "BOAR",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "BOARD",
-      "estimated_uncommonness": 1,
-      "combined_score": 341
-    },
-    {
-      "word": "BOCK",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "BOG",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "BOND",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "BONK",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "BOR",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "BORA",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "BORK",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "BORN",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "BOUND",
-      "estimated_uncommonness": 1,
-      "combined_score": 341
-    },
-    {
-      "word": "BRAG",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "BRAN",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "BRAND",
-      "estimated_uncommonness": 1,
-      "combined_score": 341
-    },
-    {
-      "word": "BRO",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "BROAD",
-      "estimated_uncommonness": 1,
-      "combined_score": 341
-    },
-    {
-      "word": "BROGAN",
-      "estimated_uncommonness": 5,
-      "combined_score": 876
-    },
-    {
-      "word": "BROK",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "BRONC",
-      "estimated_uncommonness": 4,
-      "combined_score": 627
-    },
-    {
-      "word": "BUCK",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "BUCKO",
-      "estimated_uncommonness": 4,
-      "combined_score": 627
-    },
-    {
-      "word": "BUNA",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "BUND",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "BUNG",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "BUNK",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "BUNKO",
-      "estimated_uncommonness": 3,
-      "combined_score": 515
-    },
-    {
-      "word": "BUR",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "BURD",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "BURG",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "BURN",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "BURR",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "CAB",
+      "word": "Run",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "CAD",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "CAN",
+      "word": "Urn",
       "estimated_uncommonness": 1,
       "combined_score": 10
-    },
-    {
-      "word": "CAR",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "CARB",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "CARD",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "CARGO",
-      "estimated_uncommonness": 2,
-      "combined_score": 440
-    },
-    {
-      "word": "CARK",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "CARN",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "CAROB",
-      "estimated_uncommonness": 4,
-      "combined_score": 627
-    },
-    {
-      "word": "COB",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "COD",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "COG",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "CON",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "CONK",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "COR",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "CORD",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "CORK",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "CORN",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "CRAB",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "CRAG",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "CRONK",
-      "estimated_uncommonness": 5,
-      "combined_score": 726
-    },
-    {
-      "word": "CRUD",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "CUR",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "CURB",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "CURD",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "CURN",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "DAB",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "DAG",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "DAN",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DANK",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "DAR",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "DARK",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "DARN",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "DOB",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "DOC",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DOCK",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "DOG",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "DON",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DONG",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "DORK",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "DORN",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "DOUR",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "DRAB",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "DRAG",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "DRAGON",
-      "estimated_uncommonness": 2,
-      "combined_score": 674
-    },
-    {
-      "word": "DRANK",
-      "estimated_uncommonness": 2,
-      "combined_score": 440
-    },
-    {
-      "word": "DROUK",
-      "estimated_uncommonness": 5,
-      "combined_score": 726
-    },
-    {
-      "word": "DRUB",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "DRUG",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "DRUNK",
-      "estimated_uncommonness": 2,
-      "combined_score": 440
-    },
-    {
-      "word": "DUG",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DUNG",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "DUNK",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "DUO",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DUR",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "DURA",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "DURN",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "DURO",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "GAB",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "GAD",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "GAN",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "GAR",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "GNA",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "GNAR",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "GNU",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "GOA",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "GOB",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "GOD",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "GON",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "GOR",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "GRAB",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "GRAD",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "GRAN",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "GRAND",
-      "estimated_uncommonness": 1,
-      "combined_score": 341
-    },
-    {
-      "word": "GROAN",
-      "estimated_uncommonness": 2,
-      "combined_score": 440
-    },
-    {
-      "word": "GROG",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "GROK",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "GROUND",
-      "estimated_uncommonness": 1,
-      "combined_score": 505
-    },
-    {
-      "word": "GRUB",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "GUAN",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "GUANO",
-      "estimated_uncommonness": 4,
-      "combined_score": 627
-    },
-    {
-      "word": "GUAR",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "GUARD",
-      "estimated_uncommonness": 1,
-      "combined_score": 341
-    },
-    {
-      "word": "GUN",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "GUNK",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "GUR",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "KAB",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "KAN",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "KARN",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "KNAR",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "KNOB",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "KNUR",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "KOA",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "KOB",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "KOR",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "KORA",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "KRON",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "KUDO",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "NAB",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "NAG",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "NOR",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "NUB",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "NUR",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "OAK",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "OAR",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "OBA",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "OCA",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "ODA",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "OKA",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "OKRA",
-      "estimated_uncommonness": 3,
-      "combined_score": 363
-    },
-    {
-      "word": "OUD",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "OUR",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "RAG",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "RAKU",
-      "estimated_uncommonness": 5,
-      "combined_score": 561
-    },
-    {
-      "word": "RAN",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "RAND",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "RANG",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "RANK",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "ROAN",
-      "estimated_uncommonness": 4,
-      "combined_score": 462
-    },
-    {
-      "word": "ROB",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "ROCK",
-      "estimated_uncommonness": 1,
-      "combined_score": 175
-    },
-    {
-      "word": "ROD",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "RUG",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "RUN",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "RUNG",
-      "estimated_uncommonness": 2,
-      "combined_score": 274
-    },
-    {
-      "word": "URD",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
     }
   ]
 }
