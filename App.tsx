@@ -1,8 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { StyleSheet, Text, View, TextInput, TouchableOpacity, ScrollView, Alert } from 'react-native';
+import { StyleSheet, Text, View, TextInput, TouchableOpacity, ScrollView, Alert, Button } from 'react-native';
 import { getDeviceLanguage, t, SUPPORTED_LANGUAGES, LanguageCode } from './src/utils/language';
 import * as FileSystem from 'expo-file-system';
 import { Platform } from 'react-native';
+import Game from './src/Game'; // Assuming your main game component is here
+import DevToolsScreen from './src/screens/DevToolsScreen';
 
 // Game configuration
 const GAME_TIME = 300; // 5 minutes
@@ -115,6 +117,7 @@ export default function App() {
     const [seedWord, setSeedWord] = useState('');
     const [seedLetters, setSeedLetters] = useState<string[]>([]);
     const [loading, setLoading] = useState(true);
+    const [showDevTools, setShowDevTools] = useState(false);
 
     // Load level data
     useEffect(() => {
@@ -316,117 +319,26 @@ export default function App() {
         );
     };
 
+    if (showDevTools) {
+        return (
+            <View style={styles.container}>
+                <DevToolsScreen />
+                <Button title="Back to Game" onPress={() => setShowDevTools(false)} />
+            </View>
+        );
+    }
+
     return (
         <View style={styles.container}>
-            {loading ? (
-                <View style={styles.loadingContainer}>
-                    <Text style={styles.loadingText}>
-                        {t('game.loading', language)}
-                    </Text>
-                </View>
-            ) : (
-                <>
-                    <View style={styles.header}>
-                        <Text style={styles.title}>{t('game.title', language)}</Text>
-                        <View style={styles.headerRight}>
-                            <Text style={styles.levelText}>
-                                {t('game.level', language, { level: currentLevel })}
-                            </Text>
-                            <TouchableOpacity
-                                style={styles.languageButton}
-                                onPress={handleLanguageSwitch}
-                            >
-                                <Text style={styles.languageButtonText}>
-                                    {language.toUpperCase()}
-                                </Text>
-                            </TouchableOpacity>
-                        </View>
-                    </View>
-                    <Text style={styles.timeRemaining}>
-                        {t('game.timeRemaining', language, { time: timeLeft })}
-                    </Text>
-                    <Text style={styles.score}>
-                        {t('game.score', language, { score })}
-                    </Text>
-                    <Text style={styles.streak}>
-                        {t('game.streak', language, { streak })}
-                    </Text>
-                    <Text style={styles.seedWord}>
-                        {t('game.seedWord', language, { word: seedWord })}
-                    </Text>
-
-                    <TextInput
-                        style={styles.input}
-                        value={input}
-                        onChangeText={handleInputChange}
-                        placeholder={t('game.inputPlaceholder', language)}
-                        placeholderTextColor="#666"
-                        autoCapitalize="characters"
-                        editable={!gameOver}
+            <Game />
+            {__DEV__ && (
+                <View style={styles.devButton}>
+                    <Button
+                        title="Dev Tools"
+                        onPress={() => setShowDevTools(true)}
+                        color="#841584"
                     />
-
-                    {message && (
-                        <View style={[
-                            styles.messageContainer,
-                            message.type === 'error' && styles.errorMessage,
-                            message.type === 'success' && styles.successMessage
-                        ]}>
-                            <Text style={styles.messageText}>{message.text}</Text>
-                        </View>
-                    )}
-
-                    <TouchableOpacity
-                        style={styles.submitButton}
-                        onPress={handleSubmit}
-                        disabled={gameOver}
-                    >
-                        <Text style={styles.submitButtonText}>
-                            {t('game.submit', language)}
-                        </Text>
-                    </TouchableOpacity>
-
-                    {renderKeyboard()}
-
-                    <ScrollView style={styles.foundWordsContainer}>
-                        <Text style={styles.foundWordsTitle}>
-                            {t('game.foundWords', language)}
-                        </Text>
-                        {[...foundWords].reverse().map((word, index) => (
-                            <Text key={index} style={styles.foundWord}>
-                                {word} ({validWords[word].combinedScore} points)
-                            </Text>
-                        ))}
-                    </ScrollView>
-
-                    {gameOver && (
-                        <View style={styles.gameOverContainer}>
-                            <Text style={styles.gameOverText}>
-                                {t('game.gameOver', language)}
-                            </Text>
-                            <Text style={styles.finalScore}>
-                                {t('game.finalScore', language, { score })}
-                            </Text>
-                            <View style={styles.gameOverButtons}>
-                                <TouchableOpacity
-                                    style={styles.playAgainButton}
-                                    onPress={resetGame}
-                                >
-                                    <Text style={styles.playAgainButtonText}>
-                                        {t('game.playAgain', language)}
-                                    </Text>
-                                </TouchableOpacity>
-                                <TouchableOpacity
-                                    style={styles.nextLevelButton}
-                                    onPress={nextLevel}
-                                >
-                                    <Text style={styles.nextLevelButtonText}>
-                                        {t('game.nextLevel', language)}
-                                    </Text>
-                                </TouchableOpacity>
-                            </View>
-                        </View>
-                    )}
-                </>
+                </View>
             )}
         </View>
     );
@@ -435,9 +347,11 @@ export default function App() {
 const styles = StyleSheet.create({
     container: {
         flex: 1,
-        backgroundColor: '#1A1A1A',
-        padding: 20,
-        paddingTop: 60,
+    },
+    devButton: {
+        position: 'absolute',
+        bottom: 40,
+        right: 20,
     },
     header: {
         flexDirection: 'row',

@@ -89,17 +89,27 @@ The web server will be available at `http://localhost:3000` (or your custom port
 
 ## Generating Word Lists
 
-Use the word generation script to create new levels:
+Use the word generation script to create new levels.
+
+First install the depedencies:
 
 ```bash
+# Install dependency
+npm install
+```
+
+Here are some examples on how to generate the words list:
+
+```bash
+
 # English words
-node scripts/find-words.js "understanding"
+npm run find-words "understanding"
 
 # German words
-node scripts/find-words.js "verstehen" "de"
+npm run find-words "verstehen" "de"
 
 # With custom letter counts
-node scripts/find-words.js "understanding" "u:1,n:2,d:2,e:1,r:1,s:1,t:1,a:1,i:1,g:1"
+npm run find-words "understanding" "u:1,n:2,d:2,e:1,r:1,s:1,t:1,a:1,i:1,g:1"
 ```
 
 ### Level Management Features

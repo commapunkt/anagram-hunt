@@ -1,6 +1,7 @@
 import { NativeModules, Platform } from 'react-native';
 import enTranslations from '../translations/en.json';
 import deTranslations from '../translations/de.json';
+import { Language } from '../types';
 
 // Define supported languages
 export const SUPPORTED_LANGUAGES = {
@@ -50,40 +51,22 @@ const translations: Record<LanguageCode, TranslationStructure> = {
 };
 
 // Get device language
-export const getDeviceLanguage = (): LanguageCode => {
-    let deviceLanguage: string;
-    
-    try {
-        if (Platform.OS === 'web') {
-            // Web environment - use navigator.language
-            deviceLanguage = typeof navigator !== 'undefined' && navigator.language 
-                ? navigator.language 
-                : 'en-US';
-        } else if (Platform.OS === 'ios') {
-            deviceLanguage = 
-                NativeModules.SettingsManager?.settings?.AppleLocale ||
-                NativeModules.SettingsManager?.settings?.AppleLanguages?.[0] ||
-                'en-US';
-        } else if (Platform.OS === 'android') {
-            deviceLanguage = NativeModules.I18nManager?.localeIdentifier || 'en-US';
-        } else {
-            // Fallback for other platforms
-            deviceLanguage = 'en-US';
-        }
-    } catch (error) {
-        console.warn('Error detecting device language:', error);
-        deviceLanguage = 'en-US';
+export const getDeviceLanguage = (): Language => {
+    let locale: string;
+
+    if (Platform.OS === 'web') {
+        // On web, use the browser's language
+        locale = typeof navigator !== 'undefined' ? navigator.language : 'en';
+    } else {
+        // For native, you would typically use a library like `expo-localization`.
+        // We'll default to 'en' as a fallback.
+        // To implement: import * as Localization from 'expo-localization';
+        // locale = Localization.getLocales()[0].languageCode;
+        locale = 'en';
     }
 
-    deviceLanguage = deviceLanguage || 'en-US';
-
-    // Extract language code (e.g., 'en-US' -> 'en')
-    const languageCode = deviceLanguage.split('-')[0].toLowerCase();
-    
-    // Return the language code if supported, otherwise default to English
-    return Object.keys(SUPPORTED_LANGUAGES).includes(languageCode) 
-        ? languageCode as LanguageCode 
-        : 'en';
+    const lang = locale.split(/[-_]/)[0];
+    return lang === 'de' ? 'de' : 'en';
 };
 
 // Translation function

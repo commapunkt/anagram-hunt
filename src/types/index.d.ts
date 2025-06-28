@@ -3,14 +3,20 @@ declare module '*.json' {
     export default value;
 }
 
-interface WordData {
-    word: string;
-    length: number;
-    estimated_uncommonness: string;
-    combined_score: number;
+export type Language = 'en' | 'de';
+
+export interface Word {
+  word: string;
+  estimated_uncommonness: number;
+  combined_score: number;
 }
 
-interface LevelData {
-    seed_word: string;
-    words_list: WordData[];
+export interface LevelFile {
+  seed_word: string;
+  words_length_count?: { [key: string]: number };
+  words_list: Word[];
+}
+
+export interface LevelMapping {
+  [key: string]: string;
 } 
