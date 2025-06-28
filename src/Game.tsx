@@ -149,6 +149,31 @@ export default function Game({ language }: GameProps) {
     return () => clearInterval(timerId);
   }, [timeLeft, isGameOver, isLoading]);
 
+  // Physical keyboard support
+  useEffect(() => {
+    if (Platform.OS !== 'web' || isGameOver || isLoading) return;
+
+    const handleKeyDown = (event: KeyboardEvent) => {
+      // Prevent default behavior for game keys
+      if (event.key === 'Enter' || event.key === 'Backspace' || 
+          (event.key.length === 1 && /[a-zA-Z]/.test(event.key))) {
+        event.preventDefault();
+      }
+
+      if (event.key === 'Enter') {
+        handleSubmit();
+      } else if (event.key === 'Backspace') {
+        setCurrentInput(prev => prev.slice(0, -1));
+      } else if (event.key.length === 1 && /[a-zA-Z]/.test(event.key)) {
+        const letter = event.key.toLowerCase();
+        handleKeyPress(letter);
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isGameOver, isLoading, currentInput, foundWords, wordMap, lastWordLength, streakCount, straightCount]);
+
   const handleBonusInfoPress = (bonusType: 'streak' | 'straight') => {
     const rule = BONUS_RULES[bonusType];
     setBonusInfo({
