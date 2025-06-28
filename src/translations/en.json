@@ -20,7 +20,37 @@
         "tooShort": "Word too short!",
         "notInSeed": "Word not in seed word!",
         "correct": "Correct! +{points} points",
-        "streakBonus": "Streak Bonus! +{points} points"
+        "streakBonus": "Streak Bonus! +{points} points",
+        "timesUp": "Time's Up!",
+        "levelComplete": "Level Complete!",
+        "foundCount": "{found} / {total} Found",
+        "instruction": "Find all words made from the letters of \"{word}\"",
+        "delete": "DELETE",
+        "submit": "SUBMIT"
+    },
+    "splash": {
+        "title": "Anagram Hunt",
+        "welcome": "Welcome! Here's how to play:",
+        "rule1": "You'll get a seed word and 5 minutes on the clock.",
+        "rule2": "Find as many words as you can using only the letters from the seed word.",
+        "rule3": "Look for bonuses to get extra points!",
+        "startGame": "Start Game"
+    },
+    "bonus": {
+        "streakTitle": "Streak Bonus",
+        "streakDescription": "Get a 50pt bonus for each word of the same length found in a row. The bonus is multiplied by the streak length (e.g., a 3-word streak gives a 100pt bonus).",
+        "straightTitle": "Straight Bonus",
+        "straightDescription": "Get a 100pt bonus for finding words of sequentially increasing length. The bonus is multiplied by the straight length (e.g., a 3-word straight gives a 200pt bonus)."
+    },
+    "devTools": {
+        "title": "Word List Generator",
+        "description": "Enter a seed word to find all possible sub-words. The generated JSON will have the correct format for a level file.",
+        "findWords": "Find Words",
+        "generationComplete": "Generation Complete!",
+        "totalWords": "Total words found: {count}",
+        "wordCountByLength": "Word Count by Length:",
+        "sampleWords": "Sample of the 10 Highest-Scoring Words:",
+        "download": "Download {filename}.json"
     },
     "settings": {
         "title": "Settings",

@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, Switch, SafeAreaView } from 'react-native';
 import { Language } from '../types';
 import { getDeviceLanguage } from '../utils/language';
+import { t } from '../utils/translations';
 import StreakIcon from '../components/StreakIcon';
 import StraightIcon from '../components/StraightIcon';
 
@@ -19,20 +20,20 @@ const SplashScreen = ({ onStartGame }: SplashScreenProps) => {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.content}>
-        <Text style={styles.title}>Anagram Hunt</Text>
-        <Text style={styles.subtitle}>Welcome! Here's how to play:</Text>
+        <Text style={styles.title}>{t('splash.title', language)}</Text>
+        <Text style={styles.subtitle}>{t('splash.welcome', language)}</Text>
 
         <View style={styles.rule}>
           <Text style={styles.ruleNumber}>1.</Text>
-          <Text style={styles.ruleText}>You'll get a seed word and 5 minutes on the clock.</Text>
+          <Text style={styles.ruleText}>{t('splash.rule1', language)}</Text>
         </View>
         <View style={styles.rule}>
           <Text style={styles.ruleNumber}>2.</Text>
-          <Text style={styles.ruleText}>Find as many words as you can using only the letters from the seed word.</Text>
+          <Text style={styles.ruleText}>{t('splash.rule2', language)}</Text>
         </View>
         <View style={styles.rule}>
           <Text style={styles.ruleNumber}>3.</Text>
-          <Text style={styles.ruleText}>Look for bonuses <StreakIcon style={styles.inlineIcon} /> <StraightIcon style={styles.inlineIcon} /> to get extra points!</Text>
+          <Text style={styles.ruleText}>{t('splash.rule3', language)}</Text>
         </View>
 
         <View style={styles.languageSelector}>
@@ -47,7 +48,7 @@ const SplashScreen = ({ onStartGame }: SplashScreenProps) => {
         </View>
 
         <TouchableOpacity style={styles.startButton} onPress={() => onStartGame(language)}>
-          <Text style={styles.startButtonText}>Start Game</Text>
+          <Text style={styles.startButtonText}>{t('splash.startGame', language)}</Text>
         </TouchableOpacity>
       </View>
     </SafeAreaView>

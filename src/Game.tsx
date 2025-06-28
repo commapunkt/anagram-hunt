@@ -8,6 +8,8 @@ import CustomKeyboard from './components/CustomKeyboard';
 import StreakIcon from './components/StreakIcon';
 import StraightIcon from './components/StraightIcon';
 import BonusInfoModal from './components/BonusInfoModal';
+import AnimatedFoundWordRow from './components/AnimatedFoundWordRow';
+import { t } from './utils/translations';
 
 const shuffleArray = (array: string[]) => {
   return array.sort(() => Math.random() - 0.5);
@@ -39,12 +41,12 @@ interface FoundWordInfo {
 
 const BONUS_RULES = {
   streak: {
-    title: "Streak Bonus",
-    description: "Get a 50pt bonus for each word of the same length found in a row. The bonus is multiplied by the streak length (e.g., a 3-word streak gives a 100pt bonus)."
+    title: "streakTitle",
+    description: "streakDescription"
   },
   straight: {
-    title: "Straight Bonus",
-    description: "Get a 100pt bonus for finding words of sequentially increasing length. The bonus is multiplied by the straight length (e.g., a 3-word straight gives a 200pt bonus)."
+    title: "straightTitle", 
+    description: "straightDescription"
   }
 };
 
@@ -62,7 +64,6 @@ export default function Game({ language }: GameProps) {
   const [currentInput, setCurrentInput] = useState('');
   const [foundWords, setFoundWords] = useState<FoundWordInfo[]>([]);
   const [score, setScore] = useState(0);
-  const [message, setMessage] = useState('');
 
   const [isLoading, setIsLoading] = useState(true);
   const [isGameOver, setIsGameOver] = useState(false);
@@ -88,7 +89,7 @@ export default function Game({ language }: GameProps) {
       
       const levelFile = levelMapping[level.toString()]; 
       if (!levelFile) {
-        setMessage("You've completed all levels!");
+        alert(t('game.allLevelsComplete', language));
         setIsGameOver(true);
         setIsLoading(false);
         return;
@@ -124,11 +125,11 @@ export default function Game({ language }: GameProps) {
 
     } catch (error) {
       const errorMessage = error instanceof Error ? error.message : "An unknown error occurred.";
-      setMessage(`Error: ${errorMessage}`);
+      alert(`Error: ${errorMessage}`);
     } finally {
       setIsLoading(false);
     }
-  }, []);
+  }, [language]);
 
   useEffect(() => {
     loadData(currentLevel, language);
@@ -146,10 +147,12 @@ export default function Game({ language }: GameProps) {
     return () => clearInterval(timerId);
   }, [timeLeft, isGameOver, isLoading]);
 
-  const clearMessage = () => setTimeout(() => setMessage(''), 2000);
-
   const handleBonusInfoPress = (bonusType: 'streak' | 'straight') => {
-    setBonusInfo(BONUS_RULES[bonusType]);
+    const rule = BONUS_RULES[bonusType];
+    setBonusInfo({
+      title: t(`bonus.${rule.title}`, language),
+      description: t(`bonus.${rule.description}`, language)
+    });
   };
 
   const handleKeyPress = (letter: string) => {
@@ -176,13 +179,12 @@ export default function Game({ language }: GameProps) {
 
     const lowerInput = currentInput.toLowerCase();
     if (foundWords.some(fw => fw.word === lowerInput)) {
-      setMessage('Already found!');
+      // No message, just reset input
     } else if (wordMap.has(lowerInput)) {
       const wordData = wordMap.get(lowerInput)!;
       const newWordLength = wordData.word.length;
       
       let bonusScore = 0;
-      let bonusMessage = '';
       let currentStreak = streakCount;
       let currentStraight = straightCount;
       let bonusInfo: FoundWordInfo['bonus'] | null = null;
@@ -193,7 +195,6 @@ export default function Game({ language }: GameProps) {
         if (currentStreak >= 2) {
             const streakBonus = (currentStreak - 1) * 50;
             bonusScore += streakBonus;
-            bonusMessage = `Streak x${currentStreak}! +${streakBonus}`;
             bonusInfo = { type: 'streak', amount: streakBonus, count: currentStreak };
         }
       } else if (lastWordLength > 0 && newWordLength === lastWordLength + 1) { // Straight
@@ -202,7 +203,6 @@ export default function Game({ language }: GameProps) {
         if (currentStraight >= 2) {
             const straightBonus = (currentStraight - 1) * 100;
             bonusScore += straightBonus;
-            bonusMessage = `Straight x${currentStraight}! +${straightBonus}`;
             bonusInfo = { type: 'straight', amount: straightBonus, count: currentStraight };
         }
       } else {
@@ -224,15 +224,12 @@ export default function Game({ language }: GameProps) {
       };
       setFoundWords(prev => [newFoundWord, ...prev]);
       
-      setMessage(`+${wordData.combined_score} ${bonusMessage}`);
-
     } else {
-      setMessage('Not in word list.');
+      // No message for incorrect words either
       setStreakCount(0);
       setStraightCount(0);
     }
     setCurrentInput('');
-    clearMessage();
   };
 
   const handleNextLevel = () => {
@@ -243,7 +240,7 @@ export default function Game({ language }: GameProps) {
     return (
       <View style={[styles.container, { justifyContent: 'center' }]}>
         <ActivityIndicator size="large" color="#fff" />
-        <Text style={styles.loadingText}>Loading Level {currentLevel}...</Text>
+        <Text style={styles.loadingText}>{t('game.loading', language)} Level {currentLevel}...</Text>
       </View>
     );
   }
@@ -266,33 +263,34 @@ export default function Game({ language }: GameProps) {
       >
         <View style={styles.modalContainer}>
           <View style={styles.modalContent}>
-            <Text style={styles.modalTitle}>{timeLeft <= 0 ? "Time's Up!" : "Level Complete!"}</Text>
-            <Text style={styles.modalScore}>Final Score: {score}</Text>
-            <Text style={styles.modalMessage}>{message}</Text>
+            <Text style={styles.modalTitle}>
+              {timeLeft <= 0 ? t('game.timesUp', language) : t('game.levelComplete', language)}
+            </Text>
+            <Text style={styles.modalScore}>{t('game.finalScore', language, { score })}</Text>
             <TouchableOpacity style={styles.nextLevelButton} onPress={handleNextLevel}>
-              <Text style={styles.nextLevelButtonText}>Next Level</Text>
+              <Text style={styles.nextLevelButtonText}>{t('game.nextLevel', language)}</Text>
             </TouchableOpacity>
           </View>
         </View>
       </Modal>
 
       <View style={styles.header}>
-        <Text style={styles.score}>Score: {score}</Text>
-        <Text style={styles.foundCount}>{foundWords.length} / {levelWords?.length} Found</Text>
+        <Text style={styles.score}>{t('game.score', language, { score })}</Text>
+        <Text style={styles.foundCount}>
+          {t('game.foundCount', language, { found: foundWords.length, total: levelWords?.length || 0 })}
+        </Text>
         <Text style={styles.timerText}>{formatTime(timeLeft)}</Text>
       </View>
 
       <View style={styles.gameArea}>
         <Text style={styles.seedWordText}>{seedWord.toUpperCase()}</Text>
         <Text style={styles.instructionText}>
-          Find all words made from the letters of "{seedWord.toUpperCase()}"
+          {t('game.instruction', language, { word: seedWord.toUpperCase() })}
         </Text>
 
         <View style={styles.inputContainer}>
           <Text style={styles.inputText}>{currentInput.toUpperCase()}</Text>
         </View>
-
-        <Text style={styles.messageText}>{message}</Text>
 
         <CustomKeyboard
           scrambledLetters={scrambledLetters}
@@ -301,35 +299,23 @@ export default function Game({ language }: GameProps) {
           onKeyPress={handleKeyPress}
           onDelete={() => setCurrentInput(prev => prev.slice(0, -1))}
           onSubmit={handleSubmit}
+          language={language}
         />
       </View>
 
       <View style={styles.foundWordsContainer}>
-          <Text style={styles.foundWordsTitle}>Found Words</Text>
+          <Text style={styles.foundWordsTitle}>{t('game.foundWords', language)}</Text>
           <FlatList
             data={foundWords}
             keyExtractor={(item) => item.word}
-            renderItem={({ item }) => (
-              <View style={styles.foundWordRow}>
-                <Text style={styles.foundWordText}>{item.word.charAt(0).toUpperCase() + item.word.slice(1)}</Text>
-                <View style={styles.foundWordScores}>
-                  {item.bonus.type && (
-                    <TouchableOpacity
-                      onPress={() => handleBonusInfoPress(item.bonus.type as 'streak' | 'straight')}
-                      style={styles.bonusContainer}
-                    >
-                      {item.bonus.type === 'streak' && <StreakIcon style={styles.bonusIcon} />}
-                      {item.bonus.type === 'straight' && <StraightIcon style={styles.bonusIcon} />}
-                      {item.bonus.count >= 2 && (
-                        <Text style={styles.bonusMultiplier}>x{item.bonus.count}</Text>
-                      )}
-                      <Text style={styles.foundWordBonusText}>+{item.bonus.amount}</Text>
-                    </TouchableOpacity>
-                  )}
-                  <Text style={styles.foundWordScoreText}>+{item.score}</Text>
-                </View>
-              </View>
+            renderItem={({ item, index }) => (
+              <AnimatedFoundWordRow 
+                item={item} 
+                index={index} 
+                onBonusInfoPress={handleBonusInfoPress} 
+              />
             )}
+            style={styles.foundWordsList}
           />
       </View>
     </SafeAreaView>
@@ -412,12 +398,6 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     letterSpacing: 2,
   },
-  messageText: {
-    color: '#4CAF50',
-    fontSize: 18,
-    height: 30,
-    textAlign: 'center',
-  },
   foundWordsContainer: {
     height: '35%',
     width: '90%',
@@ -433,53 +413,8 @@ const styles = StyleSheet.create({
       marginBottom: 10,
       fontWeight: 'bold'
   },
-  foundWordRow: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    paddingVertical: 8,
-    paddingHorizontal: 10,
-    borderBottomWidth: 1,
-    borderBottomColor: '#2a2a2a',
-  },
-  foundWordText: {
-    color: '#ddd',
-    fontSize: 18,
-    textTransform: 'capitalize',
-  },
-  foundWordScores: {
-    flexDirection: 'row',
-    alignItems: 'center',
-  },
-  foundWordScoreText: {
-    color: '#fff',
-    fontSize: 16,
-    fontWeight: 'bold',
-  },
-  bonusContainer: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    backgroundColor: '#3a3a3a',
-    borderRadius: 10,
-    paddingHorizontal: 6,
-    paddingVertical: 2,
-    marginRight: 8,
-  },
-  bonusIcon: {
-    width: 16,
-    height: 16,
-    marginRight: 4,
-  },
-  bonusMultiplier: {
-    color: '#fff',
-    fontWeight: 'bold',
-    fontSize: 14,
-    marginRight: 4,
-  },
-  foundWordBonusText: {
-    color: '#FFD700',
-    fontSize: 14,
-    fontStyle: 'italic',
+  foundWordsList: {
+    flex: 1,
   },
   modalContainer: {
     flex: 1,
@@ -503,11 +438,6 @@ const styles = StyleSheet.create({
   modalScore: {
     fontSize: 20,
     color: '#FFD700',
-    marginBottom: 20,
-  },
-  modalMessage: {
-    fontSize: 16,
-    color: '#aaa',
     marginBottom: 20,
   },
   nextLevelButton: {

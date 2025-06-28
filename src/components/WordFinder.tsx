@@ -1,6 +1,7 @@
 import React, { useState, useMemo } from 'react';
 import { View, Text, TextInput, Button, StyleSheet, Switch, ActivityIndicator, Platform } from 'react-native';
 import { findAndScoreWords, WordResult } from '../utils/wordFinder';
+import { t } from '../utils/translations';
 
 const WordFinder = () => {
     const [seedWord, setSeedWord] = useState('');
@@ -64,9 +65,9 @@ const WordFinder = () => {
 
     return (
         <View style={styles.container}>
-            <Text style={styles.title}>Word List Generator</Text>
+            <Text style={styles.title}>{t('devTools.title', language)}</Text>
             <Text style={styles.label}>
-                Enter a seed word to find all possible sub-words. The generated JSON will have the correct format for a level file.
+                {t('devTools.description', language)}
             </Text>
             
             <TextInput
@@ -87,12 +88,12 @@ const WordFinder = () => {
                     trackColor={{ false: '#81b0ff', true: '#f5dd4b' }}
                     thumbColor={"#f4f3f4"}
                 />
-                <Text style={[styles.langText, language === 'de' && styles.activeLang]}>German</Text>
+                <Text style={[styles.langText, language === 'de' && styles.activeLang]}>Deutsch</Text>
             </View>
 
             <View style={styles.buttonContainer}>
                 <Button
-                    title="Find Words"
+                    title={t('devTools.findWords', language)}
                     onPress={handleFindWords}
                     disabled={!seedWord || isLoading}
                 />
@@ -102,12 +103,14 @@ const WordFinder = () => {
 
             {results.length > 0 && !isLoading && (
                 <View style={styles.resultsContainer}>
-                    <Text style={styles.resultsTitle}>Generation Complete!</Text>
-                    <Text style={styles.resultsText}>Total words found: {results.length}</Text>
+                    <Text style={styles.resultsTitle}>{t('devTools.generationComplete', language)}</Text>
+                    <Text style={styles.resultsText}>
+                        {t('devTools.totalWords', language, { count: results.length })}
+                    </Text>
                     
                     {wordLengthCounts && (
                         <>
-                            <Text style={styles.sampleTitle}>Word Count by Length:</Text>
+                            <Text style={styles.sampleTitle}>{t('devTools.wordCountByLength', language)}</Text>
                             <View style={styles.countsContainer}>
                                 {Object.entries(wordLengthCounts)
                                     .sort(([a], [b]) => parseInt(a) - parseInt(b))
@@ -121,7 +124,7 @@ const WordFinder = () => {
                         </>
                     )}
 
-                    <Text style={styles.sampleTitle}>Sample of the 10 Highest-Scoring Words:</Text>
+                    <Text style={styles.sampleTitle}>{t('devTools.sampleWords', language)}</Text>
                     <View style={styles.sampleWordsContainer}>
                         {results.slice(0, 10).map((wordResult) => (
                             <Text key={wordResult.word} style={styles.sampleWord}>
@@ -131,7 +134,7 @@ const WordFinder = () => {
                     </View>
 
                     <Button
-                        title={`Download ${generatedSeedWord.toLowerCase().replace(/[^a-z]/g, '')}.json`}
+                        title={t('devTools.download', language, { filename: generatedSeedWord.toLowerCase().replace(/[^a-z]/g, '') })}
                         onPress={handleDownload}
                         color="#4CAF50"
                         disabled={!generatedSeedWord}

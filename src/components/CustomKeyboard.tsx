@@ -1,5 +1,7 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
+import { Language } from '../types';
+import { t } from '../utils/translations';
 
 interface CustomKeyboardProps {
   scrambledLetters: string[];
@@ -8,6 +10,7 @@ interface CustomKeyboardProps {
   onKeyPress: (letter: string) => void;
   onDelete: () => void;
   onSubmit: () => void;
+  language: Language;
 }
 
 const CustomKeyboard = ({
@@ -17,6 +20,7 @@ const CustomKeyboard = ({
   onKeyPress,
   onDelete,
   onSubmit,
+  language,
 }: CustomKeyboardProps) => {
   return (
     <View style={styles.keyboard}>
@@ -47,13 +51,13 @@ const CustomKeyboard = ({
       </View>
       <View style={styles.keyRow}>
         <TouchableOpacity style={[styles.key, styles.specialKey]} onPress={onDelete}>
-          <Text style={styles.keyText}>DELETE</Text>
+          <Text style={styles.keyText}>{t('game.delete', language)}</Text>
         </TouchableOpacity>
         <TouchableOpacity
           style={[styles.key, styles.specialKey, styles.submitKey]}
           onPress={onSubmit}
         >
-          <Text style={styles.keyText}>SUBMIT</Text>
+          <Text style={styles.keyText}>{t('game.submit', language)}</Text>
         </TouchableOpacity>
       </View>
     </View>
