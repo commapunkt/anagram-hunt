@@ -1,0 +1,5190 @@
+{
+  "seed_word": "SUPERMARKET",
+  "words_length_count": {
+    "3": 122,
+    "4": 266,
+    "5": 304,
+    "6": 191,
+    "7": 104,
+    "8": 35,
+    "9": 11,
+    "10": 2
+  },
+  "words_list": [
+    {
+      "word": "Premarkets",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Premarket",
+      "estimated_uncommonness": 5,
+      "combined_score": 896
+    },
+    {
+      "word": "Upmarkets",
+      "estimated_uncommonness": 5,
+      "combined_score": 896
+    },
+    {
+      "word": "Prematures",
+      "estimated_uncommonness": 4,
+      "combined_score": 868
+    },
+    {
+      "word": "Marketers",
+      "estimated_uncommonness": 4,
+      "combined_score": 830
+    },
+    {
+      "word": "Remarkets",
+      "estimated_uncommonness": 4,
+      "combined_score": 830
+    },
+    {
+      "word": "Reuptakes",
+      "estimated_uncommonness": 4,
+      "combined_score": 830
+    },
+    {
+      "word": "Krumpers",
+      "estimated_uncommonness": 4,
+      "combined_score": 793
+    },
+    {
+      "word": "Upmakers",
+      "estimated_uncommonness": 4,
+      "combined_score": 793
+    },
+    {
+      "word": "Upmarket",
+      "estimated_uncommonness": 4,
+      "combined_score": 793
+    },
+    {
+      "word": "Premature",
+      "estimated_uncommonness": 4,
+      "combined_score": 764
+    },
+    {
+      "word": "Supermart",
+      "estimated_uncommonness": 4,
+      "combined_score": 764
+    },
+    {
+      "word": "Supertram",
+      "estimated_uncommonness": 4,
+      "combined_score": 764
+    },
+    {
+      "word": "Tamperers",
+      "estimated_uncommonness": 4,
+      "combined_score": 764
+    },
+    {
+      "word": "Marketer",
+      "estimated_uncommonness": 4,
+      "combined_score": 727
+    },
+    {
+      "word": "Meerkats",
+      "estimated_uncommonness": 4,
+      "combined_score": 727
+    },
+    {
+      "word": "Pertakes",
+      "estimated_uncommonness": 4,
+      "combined_score": 727
+    },
+    {
+      "word": "Remakers",
+      "estimated_uncommonness": 4,
+      "combined_score": 727
+    },
+    {
+      "word": "Remarket",
+      "estimated_uncommonness": 4,
+      "combined_score": 727
+    },
+    {
+      "word": "Reuptake",
+      "estimated_uncommonness": 4,
+      "combined_score": 727
+    },
+    {
+      "word": "Apertures",
+      "estimated_uncommonness": 3,
+      "combined_score": 698
+    },
+    {
+      "word": "Repasture",
+      "estimated_uncommonness": 3,
+      "combined_score": 698
+    },
+    {
+      "word": "Kempers",
+      "estimated_uncommonness": 4,
+      "combined_score": 689
+    },
+    {
+      "word": "Krumper",
+      "estimated_uncommonness": 4,
+      "combined_score": 689
+    },
+    {
+      "word": "Makeups",
+      "estimated_uncommonness": 4,
+      "combined_score": 689
+    },
+    {
+      "word": "Markups",
+      "estimated_uncommonness": 4,
+      "combined_score": 689
+    },
+    {
+      "word": "Upmaker",
+      "estimated_uncommonness": 4,
+      "combined_score": 689
+    },
+    {
+      "word": "Upmakes",
+      "estimated_uncommonness": 4,
+      "combined_score": 689
+    },
+    {
+      "word": "Amputees",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Permutes",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Presumer",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Preterms",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Retakers",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Streaker",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Supremer",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Tamperer",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Temperas",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Tempuras",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Trampers",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Upstream",
+      "estimated_uncommonness": 3,
+      "combined_score": 661
+    },
+    {
+      "word": "Kumeras",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Markers",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Markets",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Meerkat",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Murkest",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Muskrat",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Parkees",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Parkers",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Pertake",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Perukes",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Remaker",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Remakes",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Remarks",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Reparks",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Reperks",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Respeak",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Sparker",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Speaker",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Takeups",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Uptakes",
+      "estimated_uncommonness": 4,
+      "combined_score": 623
+    },
+    {
+      "word": "Aperture",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Epurates",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Maturers",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Measurer",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Musterer",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Partures",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Pasturer",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Raptures",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Remaster",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Streamer",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Superate",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Taperers",
+      "estimated_uncommonness": 3,
+      "combined_score": 595
+    },
+    {
+      "word": "Kemper",
+      "estimated_uncommonness": 4,
+      "combined_score": 585
+    },
+    {
+      "word": "Makeup",
+      "estimated_uncommonness": 4,
+      "combined_score": 585
+    },
+    {
+      "word": "Markup",
+      "estimated_uncommonness": 4,
+      "combined_score": 585
+    },
+    {
+      "word": "Skrump",
+      "estimated_uncommonness": 4,
+      "combined_score": 585
+    },
+    {
+      "word": "Upmake",
+      "estimated_uncommonness": 4,
+      "combined_score": 585
+    },
+    {
+      "word": "Amperes",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Amputee",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Empares",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Emparts",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Eurekas",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Karters",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Kererus",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Kraters",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Metepas",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Permute",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Prearms",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Presume",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Preterm",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Rampers",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Restamp",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Restump",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Retaker",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Retakes",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Sakeret",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Stamper",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Starker",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Stumper",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Sumpter",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Suprema",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Supreme",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Tampers",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Tempera",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Tempers",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Tempura",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Tramper",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Austerer",
+      "estimated_uncommonness": 2,
+      "combined_score": 529
+    },
+    {
+      "word": "Treasure",
+      "estimated_uncommonness": 2,
+      "combined_score": 529
+    },
+    {
+      "word": "Kamees",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Keemas",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Kermas",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Kermes",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Kreeps",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Kumera",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Makers",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Marker",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Market",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Masker",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Murker",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Musket",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Parkee",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Parker",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Peruke",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Pukers",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Remake",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Remark",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Repark",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Reperk",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Sparke",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Takeup",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Tupeks",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Uptake",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Uptaks",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Armrest",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Armures",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Epurate",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Erratum",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Maturer",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Matures",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Measure",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Murrees",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Parters",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Parture",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Parures",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Pasture",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Pearter",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Pertuse",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Peruser",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Praters",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Prester",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Rapture",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Rastrum",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Reamers",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Reapers",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Remates",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Repeats",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Repures",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Reputes",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Resumer",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Retapes",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Reteams",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Smarter",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Smearer",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Spearer",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Spurter",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Steamer",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Strumae",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Sturmer",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Taperer",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Teamers",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Termers",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Uprates",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Uprears",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Upstare",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Uptears",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Kemps",
+      "estimated_uncommonness": 4,
+      "combined_score": 481
+    },
+    {
+      "word": "Kempt",
+      "estimated_uncommonness": 4,
+      "combined_score": 481
+    },
+    {
+      "word": "Ampere",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Empare",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Empart",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Empusa",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Empuse",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Eureka",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Karter",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Kereru",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Krater",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Krauts",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Kurres",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Kurtas",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Metepa",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Mprets",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Prearm",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Rakees",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Rakers",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Ramper",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Remaps",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Reskue",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Retake",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Semper",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Sempre",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Septum",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Skater",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Strake",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Stramp",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Streak",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Streek",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Takers",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Tamper",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Tasker",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Temper",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Tereks",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Tramps",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Trumps",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Tuskar",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Tusker",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Austere",
+      "estimated_uncommonness": 2,
+      "combined_score": 425
+    },
+    {
+      "word": "Erasure",
+      "estimated_uncommonness": 2,
+      "combined_score": 425
+    },
+    {
+      "word": "Retears",
+      "estimated_uncommonness": 2,
+      "combined_score": 425
+    },
+    {
+      "word": "Serrate",
+      "estimated_uncommonness": 2,
+      "combined_score": 425
+    },
+    {
+      "word": "Tearers",
+      "estimated_uncommonness": 2,
+      "combined_score": 425
+    },
+    {
+      "word": "Ureters",
+      "estimated_uncommonness": 2,
+      "combined_score": 425
+    },
+    {
+      "word": "Apeek",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Kames",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Kaput",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Kasme",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Keema",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Keeps",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Kerma",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Kreep",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Maker",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Makes",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Marks",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Merks",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Murks",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Parks",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Peaks",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Peeks",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Pekes",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Perks",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Pukas",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Puker",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Pukes",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Samek",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Smeek",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Smeke",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Smerk",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Spake",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Spark",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Speak",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Tupek",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Uptak",
+      "estimated_uncommonness": 3,
+      "combined_score": 415
+    },
+    {
+      "word": "Ameers",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Amuser",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Armers",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Armets",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Armure",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Emures",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Erupts",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Estrum",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Etapes",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Master",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Maters",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Matres",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Mature",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Meares",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Meatus",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Merest",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Meseta",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Mester",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Meters",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Metres",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Murras",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Murree",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Murres",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Mustee",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Muster",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Mutase",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Parers",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Pareus",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Parser",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Parter",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Parure",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Paster",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Paters",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Pauser",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Peares",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Pearst",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Persue",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Perter",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Peruse",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Peseta",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Pester",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Petars",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Peters",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Petres",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Prater",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Prates",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Prease",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Preset",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Purees",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Purest",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Purser",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Ramees",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Ramets",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Rapers",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Rasper",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Reamer",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Reames",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Reaper",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Rearms",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Remate",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Repast",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Repeat",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Repure",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Repute",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Restem",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Resume",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Retape",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Reteam",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Retems",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Rupees",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Seamer",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Serape",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Sparer",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Sparre",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Sperre",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Stream",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Struma",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Stumer",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Tamers",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Tapers",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Taupes",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Teamer",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Termer",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Trapes",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Tremas",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Turmes",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Uprate",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Uprear",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Uprest",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Uptear",
+      "estimated_uncommonness": 2,
+      "combined_score": 387
+    },
+    {
+      "word": "Kemp",
+      "estimated_uncommonness": 3,
+      "combined_score": 378
+    },
+    {
+      "word": "Akees",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Asker",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Empts",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Eskar",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Esker",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Karst",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Karts",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Keets",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Kesar",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Ketas",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Ketes",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Kraut",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Kurre",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Kurta",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Kutas",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Mpret",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Perms",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Prams",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Prems",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Pumas",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Rakee",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Raker",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Rakes",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Rakus",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Ramps",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Rarks",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Reaks",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Reeks",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Rekes",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Remap",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Rumps",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Saker",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Skart",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Skate",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Skear",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Skeer",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Skeet",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Sperm",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Spume",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Stake",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Stamp",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Stark",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Steak",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Steek",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Strak",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Stump",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Taker",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Takes",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Tamps",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Teaks",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Temps",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Terek",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Tramp",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Treks",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Trump",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Tumps",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Turks",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Ukase",
+      "estimated_uncommonness": 3,
+      "combined_score": 349
+    },
+    {
+      "word": "Aretes",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Arrest",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Arrets",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Easter",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Eaters",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Eraser",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Rarest",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Raster",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Rasure",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Raters",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Reates",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Reseat",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Reseau",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Rester",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Retear",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Retuse",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Rustre",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Saeter",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Searer",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Seater",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Serrae",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Starer",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Steare",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Tarres",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Tearer",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Teaser",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Terrae",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Terras",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Terser",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Urares",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Urates",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Urease",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Ureter",
+      "estimated_uncommonness": 2,
+      "combined_score": 321
+    },
+    {
+      "word": "Kame",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Keep",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Keps",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Kept",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Make",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Maks",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Mark",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Mask",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Meek",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Merk",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Murk",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Musk",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Park",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Peak",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Peek",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Peke",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Perk",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Puka",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Puke",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Skep",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Spek",
+      "estimated_uncommonness": 3,
+      "combined_score": 312
+    },
+    {
+      "word": "Ameer",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Amuse",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Apers",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Apert",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Apres",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Apter",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Armer",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Armet",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Arums",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Asper",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Emeus",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Emure",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Erupt",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Etape",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Mares",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Marse",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Marts",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Maser",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Mater",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Mates",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Mauts",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Meare",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Mease",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Meats",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Meers",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Meets",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Merer",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Meres",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Merse",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Meter",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Metes",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Metre",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Meuse",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Muras",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Mures",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Murra",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Murre",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Murrs",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Musar",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Muser",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Muset",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Muter",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Mutes",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Parer",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Pares",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Pareu",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Parrs",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Parse",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Parts",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Paste",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Pater",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Pates",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Patus",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Pause",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Peare",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Pears",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Peart",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Pease",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Peats",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Peers",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Perea",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Peres",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Perse",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Perst",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Perts",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Petar",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Peter",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Petre",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Prase",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Prate",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Prats",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Praus",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Prees",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Presa",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Prese",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Prest",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Pruta",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Puers",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Puree",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Purer",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Pures",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Purrs",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Purse",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Ramee",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Ramet",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Ramus",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Raper",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Rapes",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Reame",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Reams",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Reaps",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Rearm",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Remet",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Retem",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Rumes",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Rupee",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Rurps",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Rusma",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Satem",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Seame",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Septa",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Serum",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Setup",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Smart",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Smear",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Spaer",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Spare",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Spart",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Spate",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Spear",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Speat",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Speer",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Sprat",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Spree",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Sprue",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Spuer",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Spurt",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Sputa",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Steam",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Steem",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Steep",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Steme",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Strap",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Strep",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Strum",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Stupa",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Stupe",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Super",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Supra",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Tamer",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Tames",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Taper",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Tapes",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Tapus",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Tarps",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Taupe",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Teams",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Teems",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Temes",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Temse",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Tepas",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Terms",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Trams",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Trape",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Traps",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Trema",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Turme",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Turms",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Turps",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Umras",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Upsee",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Upset",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Upter",
+      "estimated_uncommonness": 2,
+      "combined_score": 283
+    },
+    {
+      "word": "Akee",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Akes",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Amps",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Arks",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Auks",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Ekes",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Empt",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Erks",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Euks",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Kaes",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Kart",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Kats",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Keas",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Keet",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Kest",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Keta",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Kete",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Kets",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Ksar",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Kues",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Kuta",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Maps",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Pams",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Perm",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Pram",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Prem",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Puma",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Rake",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Raku",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Ramp",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Rark",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Reak",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Reek",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Reke",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Rump",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Rusk",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Sake",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Samp",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Sark",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Seek",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Sekt",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Serk",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Skat",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Skee",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Sker",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Sket",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Skua",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Spam",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Sump",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Take",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Taks",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Tamp",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Task",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Teak",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Teek",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Temp",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Trek",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Tump",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Turk",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Tusk",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Ukes",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Umps",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Arere",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Arete",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Arets",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Arret",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Aster",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Aures",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Earst",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Easer",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Eater",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Erase",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Ester",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Raree",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Rares",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Raser",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Rater",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Rates",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Ratus",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Rears",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Reast",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Reate",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Reest",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Resat",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Reset",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Reuse",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Ruers",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Saree",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Saute",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Seare",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Serer",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Serra",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Serre",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Setae",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Stare",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Starr",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Stear",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Steer",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Stere",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Strae",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Sture",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Surat",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Surer",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Surra",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Sutra",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Tares",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Tarre",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Taser",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Tears",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Tease",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Teers",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Teras",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Teres",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Terra",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Terse",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Trees",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Truer",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Trues",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Urare",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Urase",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Urate",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Ureas",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Ursae",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Kam",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "Kep",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "Mak",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
+    },
+    {
+      "word": "Ames",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Amus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Aper",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Apes",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Apse",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Apts",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Arms",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Arum",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Emes",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Emeu",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Emus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Maes",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mare",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mars",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mart",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mase",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mast",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Masu",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mate",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mats",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Maut",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Meat",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Meer",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mees",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Meet",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mere",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mesa",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mese",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Meta",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mete",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mets",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Meus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mura",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mure",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Murr",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Muse",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Must",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Mute",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Muts",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pare",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Parr",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pars",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Part",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pase",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Past",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pate",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pats",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Patu",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pear",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Peas",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Peat",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Peer",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pees",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pere",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pert",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pest",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pets",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Prat",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Prau",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pree",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Puer",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Pure",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Purr",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Purs",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Puts",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rams",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rape",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Raps",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rapt",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rasp",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Ream",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Reap",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rems",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Reps",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rume",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rums",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rurp",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Same",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Seam",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Seem",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Seep",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Seme",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Sept",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Smee",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Smur",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Smut",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Spae",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Spar",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Spat",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Spet",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Spue",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Spur",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Stap",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Stem",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Step",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Stum",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Supe",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tame",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tams",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tape",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Taps",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tapu",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tarp",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Team",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Teem",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Teme",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tems",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tepa",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Term",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tram",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Trap",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tums",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tups",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Turm",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Umra",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Upas",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Upta",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Urps",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Ake",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Amp",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Ark",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Ask",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Auk",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Eek",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Eke",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Erk",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Euk",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Kae",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Kas",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Kat",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Kea",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Ket",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Kue",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Map",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Pam",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Ska",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Suk",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Tak",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Tsk",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Uke",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Ump",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Ares",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Aret",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Arse",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Arts",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Ates",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Ears",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Ease",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "East",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Eats",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Eaus",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Eras",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Eres",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Errs",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Erst",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Etas",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rare",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rase",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rast",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rate",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rats",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Ratu",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rear",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rees",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rest",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rete",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rets",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Ruer",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rues",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rusa",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Ruse",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Rust",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Ruts",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Sate",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Saut",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Sear",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Seat",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Seer",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Sera",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Sere",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Serr",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Seta",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Star",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Suer",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Suet",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Sura",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Sure",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Taes",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Tare",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Tars",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Taus",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Tear",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Teas",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Teer",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Tees",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Tree",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Tres",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "True",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Tsar",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Urea",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Ures",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Ursa",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "User",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Utas",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Utes",
+      "estimated_uncommonness": 1,
+      "combined_score": 114
+    },
+    {
+      "word": "Ame",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Amu",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Ape",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Apt",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Arm",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Asp",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Eme",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Ems",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Emu",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Erm",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mae",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mar",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mas",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mat",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mee",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mes",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Met",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Meu",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mus",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mut",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Par",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pas",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pat",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pea",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pee",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Per",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pes",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pet",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pre",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pst",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pur",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pus",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Put",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Ram",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Rap",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Rem",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Rep",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Rum",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Sam",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Sap",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Sma",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Spa",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Sum",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Sup",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Tam",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Tap",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Tum",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Tup",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Ums",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Ups",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Urp",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Are",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ars",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Art",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ate",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ats",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ear",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eas",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Era",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ere",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Err",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ers",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Est",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ras",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ree",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Res",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ret",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rut",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sea",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "See",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ser",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Set",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sur",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tas",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tea",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tes",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ure",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Use",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Uta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ute",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Uts",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
