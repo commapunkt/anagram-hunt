@@ -1,412 +1,632 @@
 {
   "seed_word": "PINEAPPLE",
+  "words_length_count": {
+    "3": 39,
+    "4": 51,
+    "5": 22,
+    "6": 9,
+    "7": 3
+  },
   "words_list": [
     {
-      "word": "AIN",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "ALE",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "ALP",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "ANE",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "ANI",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "APE",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "APP",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "EEL",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "ELAN",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "LAP",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "LAPIN",
+      "word": "Panpipe",
       "estimated_uncommonness": 5,
-      "combined_score": 644
+      "combined_score": 1000
     },
     {
-      "word": "LEA",
+      "word": "Alepine",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 802
     },
     {
-      "word": "LEE",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "LEI",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "LEP",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "LIE",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "LIEN",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "LIN",
+      "word": "Elapine",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 802
     },
     {
-      "word": "LINA",
+      "word": "Lappie",
       "estimated_uncommonness": 4,
-      "combined_score": 421
+      "combined_score": 728
     },
     {
-      "word": "LINE",
-      "estimated_uncommonness": 1,
-      "combined_score": 134
-    },
-    {
-      "word": "LIPA",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
-    },
-    {
-      "word": "LIPE",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
-    },
-    {
-      "word": "NAE",
+      "word": "Lippen",
       "estimated_uncommonness": 4,
-      "combined_score": 307
+      "combined_score": 728
     },
     {
-      "word": "NAP",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
+      "word": "Nappie",
+      "estimated_uncommonness": 4,
+      "combined_score": 728
     },
     {
-      "word": "NAPE",
+      "word": "Nipple",
+      "estimated_uncommonness": 4,
+      "combined_score": 728
+    },
+    {
+      "word": "Pappi",
+      "estimated_uncommonness": 4,
+      "combined_score": 654
+    },
+    {
+      "word": "Alpeen",
       "estimated_uncommonness": 3,
-      "combined_score": 322
+      "combined_score": 629
     },
     {
-      "word": "NEAP",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "NEE",
+      "word": "Alpine",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 629
     },
     {
-      "word": "NEP",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "NIL",
+      "word": "Penial",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 629
     },
     {
-      "word": "NIP",
+      "word": "Penile",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 629
     },
     {
-      "word": "NIPA",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "PAIL",
+      "word": "Pineal",
       "estimated_uncommonness": 3,
-      "combined_score": 322
+      "combined_score": 629
     },
     {
-      "word": "PAIN",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
-    },
-    {
-      "word": "PAL",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "PALE",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
-    },
-    {
-      "word": "PAN",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "PANE",
+      "word": "Appel",
       "estimated_uncommonness": 3,
-      "combined_score": 322
+      "combined_score": 555
     },
     {
-      "word": "PAP",
+      "word": "Apple",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 555
     },
     {
-      "word": "PAPE",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "PEA",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "PEAL",
+      "word": "Nappe",
       "estimated_uncommonness": 3,
-      "combined_score": 322
+      "combined_score": 555
     },
     {
-      "word": "PEAN",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
+      "word": "Palpi",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
     },
     {
-      "word": "PEEL",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
+      "word": "Pepla",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
     },
     {
-      "word": "PEEN",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
+      "word": "Pipal",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
     },
     {
-      "word": "PEIN",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
-    },
-    {
-      "word": "PEL",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "PELA",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
-    },
-    {
-      "word": "PELE",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
-    },
-    {
-      "word": "PEN",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "PENA",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
-    },
-    {
-      "word": "PENAL",
+      "word": "Lapin",
       "estimated_uncommonness": 3,
       "combined_score": 456
     },
     {
-      "word": "PENE",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
+      "word": "Panel",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
     },
     {
-      "word": "PENI",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
+      "word": "Penal",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
     },
     {
-      "word": "PENILE",
-      "estimated_uncommonness": 4,
-      "combined_score": 644
+      "word": "Penie",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
     },
     {
-      "word": "PEP",
+      "word": "Pilea",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Plain",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Plane",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Plena",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Palp",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Pape",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Peep",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Pipa",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Pipe",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Plap",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Ainee",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Alien",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Aline",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Anele",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Anile",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Elain",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Liane",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Leap",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Leep",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Lipa",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Lipe",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Nape",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Neap",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Neep",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Nipa",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pail",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pain",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pale",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pane",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Peal",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pean",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Peel",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Peen",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pein",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pela",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pele",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pene",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Peni",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pial",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pian",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pila",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pile",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pina",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Pine",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Plan",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Plea",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Plie",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "App",
       "estimated_uncommonness": 3,
       "combined_score": 208
     },
     {
-      "word": "PIA",
+      "word": "Pap",
       "estimated_uncommonness": 3,
       "combined_score": 208
     },
     {
-      "word": "PIAL",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
+      "word": "Pep",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
     },
     {
-      "word": "PIAN",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
+      "word": "Pip",
+      "estimated_uncommonness": 3,
+      "combined_score": 208
     },
     {
-      "word": "PIE",
+      "word": "Aine",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Alee",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Anil",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Eale",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Eina",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Eine",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Elan",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Ilea",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Lain",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Lane",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Lean",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Lien",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Line",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Nail",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Neal",
+      "estimated_uncommonness": 1,
+      "combined_score": 183
+    },
+    {
+      "word": "Alp",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Ape",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Lap",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Lep",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Lip",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Nap",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Nep",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Nip",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Pal",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Pan",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Pea",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Pee",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Pel",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Pen",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Pia",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Pie",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Pin",
+      "estimated_uncommonness": 2,
+      "combined_score": 109
+    },
+    {
+      "word": "Ail",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "PIL",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "PILA",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
-    },
-    {
-      "word": "PILE",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
-    },
-    {
-      "word": "PILEA",
-      "estimated_uncommonness": 5,
-      "combined_score": 644
-    },
-    {
-      "word": "PIN",
+      "word": "Ain",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "PINA",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "PINE",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
-    },
-    {
-      "word": "PIP",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "PIPA",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "PIPE",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
-    },
-    {
-      "word": "PLAIN",
+      "word": "Ale",
       "estimated_uncommonness": 1,
-      "combined_score": 258
+      "combined_score": 10
     },
     {
-      "word": "PLAN",
+      "word": "Ane",
       "estimated_uncommonness": 1,
-      "combined_score": 134
+      "combined_score": 10
     },
     {
-      "word": "PLANE",
+      "word": "Ani",
       "estimated_uncommonness": 1,
-      "combined_score": 258
+      "combined_score": 10
     },
     {
-      "word": "PLEA",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
+      "word": "Ean",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "PLENA",
-      "estimated_uncommonness": 5,
-      "combined_score": 644
+      "word": "Eel",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "PLIE",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
+      "word": "Een",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "ALPINE",
-      "estimated_uncommonness": 2,
-      "combined_score": 521
+      "word": "Ene",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "APPEL",
-      "estimated_uncommonness": 5,
-      "combined_score": 644
+      "word": "Lea",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "NEPALI",
-      "estimated_uncommonness": 4,
-      "combined_score": 644
+      "word": "Lee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "PENIAL",
-      "estimated_uncommonness": 5,
-      "combined_score": 768
+      "word": "Lei",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "PEPLIN",
-      "estimated_uncommonness": 5,
-      "combined_score": 768
+      "word": "Lie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "PAPPEL",
-      "estimated_uncommonness": 6,
-      "combined_score": 876
+      "word": "Lin",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nil",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     }
   ]
 }
-
-
