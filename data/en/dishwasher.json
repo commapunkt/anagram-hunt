@@ -1,1052 +1,2539 @@
 {
   "seed_word": "DISHWASHER",
+  "words_length_count": {
+    "3": 80,
+    "4": 147,
+    "5": 146,
+    "6": 91,
+    "7": 33,
+    "8": 7,
+    "9": 1
+  },
   "words_list": [
     {
-      "word": "ADS",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "AHS",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "AHI",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "AID",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "AIDE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "AIDS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "AIR",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "AIRED",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "AIRS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "AIS",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "ARE",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "ARES",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "ARID",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "ARISE",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "ARS",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "ASH",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "ASHED",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "ASIDE",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "AWE",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "AWED",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "AWES",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "DAH",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "DAHS",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "DAIS",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "DARE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DARES",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "DASH",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DASHI",
+      "word": "Dishwares",
       "estimated_uncommonness": 5,
-      "combined_score": 594
+      "combined_score": 965
     },
     {
-      "word": "DEAR",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "DEARS",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "DEW",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "DEWAR",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "DEWS",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "DIE",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "DIES",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "DIRE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "DISH",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "DRAW",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "DRAWS",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "DREW",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "EAR",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "EARS",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "EDH",
+      "word": "Shrewish",
       "estimated_uncommonness": 5,
-      "combined_score": 406
+      "combined_score": 918
     },
     {
-      "word": "EDHS",
+      "word": "Dishware",
+      "estimated_uncommonness": 4,
+      "combined_score": 847
+    },
+    {
+      "word": "Rawhides",
+      "estimated_uncommonness": 4,
+      "combined_score": 847
+    },
+    {
+      "word": "Siwashed",
+      "estimated_uncommonness": 4,
+      "combined_score": 847
+    },
+    {
+      "word": "Whidahs",
       "estimated_uncommonness": 5,
-      "combined_score": 495
+      "combined_score": 835
     },
     {
-      "word": "ERA",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "ERAS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "ERS",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "HADE",
+      "word": "Whished",
       "estimated_uncommonness": 5,
-      "combined_score": 495
+      "combined_score": 835
     },
     {
-      "word": "HADES",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
+      "word": "Swashier",
+      "estimated_uncommonness": 4,
+      "combined_score": 811
     },
     {
-      "word": "HAED",
+      "word": "Whishes",
       "estimated_uncommonness": 5,
-      "combined_score": 495
+      "combined_score": 800
     },
     {
-      "word": "HAES",
+      "word": "Airsheds",
       "estimated_uncommonness": 4,
-      "combined_score": 396
+      "combined_score": 741
     },
     {
-      "word": "HARE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "HARES",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "HAW",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "HAWED",
+      "word": "Radishes",
       "estimated_uncommonness": 4,
-      "combined_score": 495
+      "combined_score": 741
     },
     {
-      "word": "HAWS",
+      "word": "Hardish",
       "estimated_uncommonness": 4,
-      "combined_score": 396
+      "combined_score": 729
     },
     {
-      "word": "HEAD",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "HEADS",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "HEAR",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "HEARD",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "HEARS",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "HEH",
+      "word": "Harshed",
       "estimated_uncommonness": 4,
-      "combined_score": 307
+      "combined_score": 729
     },
     {
-      "word": "HEHS",
+      "word": "Rawhide",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Shahids",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Shashed",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Swashed",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Swished",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Whissed",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Whidah",
       "estimated_uncommonness": 5,
-      "combined_score": 495
+      "combined_score": 717
     },
     {
-      "word": "HEIR",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "HEIRS",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "HER",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "HERD",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "HERDS",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "HERE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "HERES",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "HERS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "HEW",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "HEWS",
+      "word": "Harshes",
       "estimated_uncommonness": 4,
-      "combined_score": 396
+      "combined_score": 694
     },
     {
-      "word": "HID",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "HIDE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "HIDER",
+      "word": "Hashier",
       "estimated_uncommonness": 4,
-      "combined_score": 495
+      "combined_score": 694
     },
     {
-      "word": "HIDES",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "HIE",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "HIED",
+      "word": "Hawsers",
       "estimated_uncommonness": 4,
-      "combined_score": 396
+      "combined_score": 694
     },
     {
-      "word": "HIES",
+      "word": "Swasher",
       "estimated_uncommonness": 4,
-      "combined_score": 396
+      "combined_score": 694
     },
     {
-      "word": "HIRE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
+      "word": "Swisher",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
     },
     {
-      "word": "HIRED",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
+      "word": "Washers",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
     },
     {
-      "word": "HIRES",
+      "word": "Washier",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "Wearish",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "Wishers",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "Airshed",
       "estimated_uncommonness": 3,
-      "combined_score": 396
+      "combined_score": 623
     },
     {
-      "word": "HIS",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
+      "word": "Dashers",
+      "estimated_uncommonness": 3,
+      "combined_score": 623
     },
     {
-      "word": "HISS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
+      "word": "Dashier",
+      "estimated_uncommonness": 3,
+      "combined_score": 623
     },
     {
-      "word": "HSH",
-      "estimated_uncommonness": 6,
+      "word": "Hardies",
+      "estimated_uncommonness": 3,
+      "combined_score": 623
+    },
+    {
+      "word": "Sawders",
+      "estimated_uncommonness": 3,
+      "combined_score": 623
+    },
+    {
+      "word": "Shaders",
+      "estimated_uncommonness": 3,
+      "combined_score": 623
+    },
+    {
+      "word": "Shadier",
+      "estimated_uncommonness": 3,
+      "combined_score": 623
+    },
+    {
+      "word": "Shairds",
+      "estimated_uncommonness": 3,
+      "combined_score": 623
+    },
+    {
+      "word": "Sweards",
+      "estimated_uncommonness": 3,
+      "combined_score": 623
+    },
+    {
+      "word": "Wisards",
+      "estimated_uncommonness": 3,
+      "combined_score": 623
+    },
+    {
+      "word": "Dawish",
+      "estimated_uncommonness": 4,
+      "combined_score": 611
+    },
+    {
+      "word": "Hashed",
+      "estimated_uncommonness": 4,
+      "combined_score": 611
+    },
+    {
+      "word": "Hawsed",
+      "estimated_uncommonness": 4,
+      "combined_score": 611
+    },
+    {
+      "word": "Hished",
+      "estimated_uncommonness": 4,
+      "combined_score": 611
+    },
+    {
+      "word": "Shahid",
+      "estimated_uncommonness": 4,
+      "combined_score": 611
+    },
+    {
+      "word": "Shawed",
+      "estimated_uncommonness": 4,
+      "combined_score": 611
+    },
+    {
+      "word": "Shrewd",
+      "estimated_uncommonness": 4,
+      "combined_score": 611
+    },
+    {
+      "word": "Washed",
+      "estimated_uncommonness": 4,
+      "combined_score": 611
+    },
+    {
+      "word": "Wished",
+      "estimated_uncommonness": 4,
+      "combined_score": 611
+    },
+    {
+      "word": "Arishes",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Rashies",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Sherias",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Harish",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Hashes",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Hawser",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Hawses",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Hishes",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Rawish",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Rehash",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Rewash",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Shisha",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Shrews",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Siwash",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Wairsh",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Washer",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Washes",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Whares",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Wisher",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Wishes",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Whish",
+      "estimated_uncommonness": 4,
+      "combined_score": 564
+    },
+    {
+      "word": "Dasher",
+      "estimated_uncommonness": 3,
       "combined_score": 505
     },
     {
-      "word": "IRE",
+      "word": "Dashes",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 505
     },
     {
-      "word": "IRED",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "IRES",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "RAD",
+      "word": "Dashis",
       "estimated_uncommonness": 3,
-      "combined_score": 208
+      "combined_score": 505
     },
     {
-      "word": "RADS",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "RAID",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "RAIDS",
+      "word": "Dewars",
       "estimated_uncommonness": 3,
-      "combined_score": 396
+      "combined_score": 505
     },
     {
-      "word": "RAISE",
+      "word": "Dishes",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Eadish",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Haired",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Heards",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Hiders",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Hissed",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Radish",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Rashed",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Sadhes",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Sashed",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Sawder",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Shader",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Shades",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Shaird",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Shards",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Shared",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Sherds",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Shired",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Shreds",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Sidhas",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Swards",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Sweard",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Waders",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Wadies",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Waired",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Weirds",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Wisard",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Wissed",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Hawed",
+      "estimated_uncommonness": 4,
+      "combined_score": 493
+    },
+    {
+      "word": "Whids",
+      "estimated_uncommonness": 4,
+      "combined_score": 493
+    },
+    {
+      "word": "Ashier",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Hisser",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Rashes",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Rashie",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Resaws",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Sawers",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Sehris",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Sewars",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Shares",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Shears",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Sheria",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Shiers",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Shires",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Swears",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Sweirs",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Swires",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Wrasse",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Harsh",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Hawse",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Shahs",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Shash",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Shaws",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Shews",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Shish",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Shrew",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Shwas",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Swash",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Swish",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Wersh",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Whare",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Whear",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Whirs",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Whiss",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Wisha",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Aiders",
       "estimated_uncommonness": 2,
-      "combined_score": 297
+      "combined_score": 399
     },
     {
-      "word": "RAISED",
+      "word": "Asides",
       "estimated_uncommonness": 2,
-      "combined_score": 396
+      "combined_score": 399
     },
     {
-      "word": "RASH",
+      "word": "Daises",
       "estimated_uncommonness": 2,
-      "combined_score": 198
+      "combined_score": 399
     },
     {
-      "word": "RAW",
+      "word": "Dassie",
+      "estimated_uncommonness": 2,
+      "combined_score": 399
+    },
+    {
+      "word": "Deairs",
+      "estimated_uncommonness": 2,
+      "combined_score": 399
+    },
+    {
+      "word": "Irades",
+      "estimated_uncommonness": 2,
+      "combined_score": 399
+    },
+    {
+      "word": "Raised",
+      "estimated_uncommonness": 2,
+      "combined_score": 399
+    },
+    {
+      "word": "Redias",
+      "estimated_uncommonness": 2,
+      "combined_score": 399
+    },
+    {
+      "word": "Resaid",
+      "estimated_uncommonness": 2,
+      "combined_score": 399
+    },
+    {
+      "word": "Resids",
+      "estimated_uncommonness": 2,
+      "combined_score": 399
+    },
+    {
+      "word": "Saired",
+      "estimated_uncommonness": 2,
+      "combined_score": 399
+    },
+    {
+      "word": "Siders",
+      "estimated_uncommonness": 2,
+      "combined_score": 399
+    },
+    {
+      "word": "Ashed",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Dashi",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Deash",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Deaws",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Deshi",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Dewar",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Draws",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Hades",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Hards",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Hared",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Heads",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Heard",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Heids",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Herds",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Hider",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Hides",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Hired",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Rahed",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Sadhe",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Sawed",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Shade",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Shads",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Shard",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Sheds",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Sherd",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Shied",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Shred",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Sidha",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Sidhe",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Swads",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Sward",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Wader",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Wades",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Wadis",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Waide",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Wards",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Wared",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Weids",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Weird",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Wider",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Wides",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Wired",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Wised",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Wried",
+      "estimated_uncommonness": 3,
+      "combined_score": 387
+    },
+    {
+      "word": "Whid",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Arises",
+      "estimated_uncommonness": 2,
+      "combined_score": 364
+    },
+    {
+      "word": "Raises",
+      "estimated_uncommonness": 2,
+      "combined_score": 364
+    },
+    {
+      "word": "Serais",
+      "estimated_uncommonness": 2,
+      "combined_score": 364
+    },
+    {
+      "word": "Arish",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Ashes",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Hairs",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Hares",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Hears",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Heirs",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Hires",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Ishes",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Resaw",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Rheas",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Rhies",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Sawer",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Sehri",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Sewar",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Share",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Shear",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Sheas",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Shier",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Shies",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Shire",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Shirs",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Shris",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Sware",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Swear",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Sweir",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Swies",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Swire",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Wairs",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Wares",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Wases",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Wears",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Weirs",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Wires",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Wiser",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Wises",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Wries",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Hahs",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Hash",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Haws",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Hehs",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Hews",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Hish",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Shah",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Shaw",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Shew",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Shwa",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Wash",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Whae",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Whir",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Wish",
+      "estimated_uncommonness": 3,
+      "combined_score": 340
+    },
+    {
+      "word": "Aider",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Aides",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Aired",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Arsed",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Aside",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Dares",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Daris",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Deair",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Dears",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Disas",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Dress",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Dries",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Eards",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Ideas",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Irade",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Raids",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Rased",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Reads",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Redia",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Resid",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Riads",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Rides",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Sades",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Sadis",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Saids",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Sards",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Sared",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Sidas",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Sider",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Sides",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Sired",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Ahed",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Awed",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Dahs",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Dash",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Daws",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Deaw",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Dews",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Dish",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Draw",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Drew",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Edhs",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Hade",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Hads",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Haed",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Hard",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Head",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Heid",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Herd",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Hide",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Hied",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Shad",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Shed",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Sidh",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Swad",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Wade",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Wadi",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Wads",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Waid",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Ward",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Weds",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Weid",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Wide",
+      "estimated_uncommonness": 2,
+      "combined_score": 269
+    },
+    {
+      "word": "Aesir",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Arise",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Arses",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Arsis",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Raise",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Rases",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Rasse",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Rises",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Sairs",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Saris",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Saser",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Sears",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Seirs",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Serai",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Sires",
+      "estimated_uncommonness": 2,
+      "combined_score": 246
+    },
+    {
+      "word": "Ahis",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Arew",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Awes",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Eish",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Haes",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Hair",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Hare",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Hass",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Hear",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Heir",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Hers",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Hies",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Hire",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Hiss",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Rahs",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Rash",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Raws",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Rehs",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Resh",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Rews",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Rhea",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Sash",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Saws",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Sesh",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Sews",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Shea",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Shes",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Shir",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Shri",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Waes",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Wair",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Wais",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Ware",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Wars",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Wase",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Wear",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Weir",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Wire",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Wise",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Wiss",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Hah",
+      "estimated_uncommonness": 3,
+      "combined_score": 222
+    },
+    {
+      "word": "Haw",
+      "estimated_uncommonness": 3,
+      "combined_score": 222
+    },
+    {
+      "word": "Heh",
+      "estimated_uncommonness": 3,
+      "combined_score": 222
+    },
+    {
+      "word": "Hew",
+      "estimated_uncommonness": 3,
+      "combined_score": 222
+    },
+    {
+      "word": "Shh",
+      "estimated_uncommonness": 3,
+      "combined_score": 222
+    },
+    {
+      "word": "Wha",
+      "estimated_uncommonness": 3,
+      "combined_score": 222
+    },
+    {
+      "word": "Aide",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Aids",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Ards",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Ared",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Arid",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Daes",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Dais",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Dare",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Dari",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Dear",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Desi",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Dies",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Dire",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Disa",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Diss",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Eard",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Idea",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Ides",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Ired",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Rade",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Rads",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Raid",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Read",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Reds",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Riad",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Ride",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Rids",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Sade",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Sadi",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Sads",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Said",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Sard",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Sida",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Side",
+      "estimated_uncommonness": 2,
+      "combined_score": 163
+    },
+    {
+      "word": "Dah",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Daw",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Dew",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Edh",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Had",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Hid",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Wad",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Wed",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Airs",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Ares",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Aris",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Arse",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Ears",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Eras",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Ires",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Rais",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Rase",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Reis",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Rias",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Rise",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Sair",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Sais",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Sari",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Sars",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Sear",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Seas",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Seir",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Seis",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Sera",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Sers",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Sies",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Sire",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Sirs",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Sris",
+      "estimated_uncommonness": 1,
+      "combined_score": 128
+    },
+    {
+      "word": "Ahi",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Ahs",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Ash",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Awe",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Ehs",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Hae",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Has",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Her",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Hes",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Hie",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "His",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Ish",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Rah",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Raw",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Reh",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Rew",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Saw",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Sew",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Sha",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "She",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Wae",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Wai",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "War",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Was",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Wis",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Ads",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Aid",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Ard",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Dae",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Das",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Dei",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Die",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Dis",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Eds",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Ide",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Ids",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Rad",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Red",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Rid",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Sad",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Sed",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Air",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "RAWISH",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "RAWS",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "READ",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "READS",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "RED",
+      "word": "Ais",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "REDS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "REH",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "REI",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "REIS",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "RES",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "RESH",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "RESHOD",
-      "estimated_uncommonness": 5,
-      "combined_score": 693
-    },
-    {
-      "word": "REWASH",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "RHEA",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "RHEAS",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "RIA",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "RIAS",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "RID",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "RIDE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "RIDES",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "RIDS",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "RISE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SAD",
+      "word": "Are",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "SADE",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "SADHE",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "SADI",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "SAID",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SARD",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "SARI",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SAW",
+      "word": "Ars",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "SAWED",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SEA",
+      "word": "Ass",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "SEAR",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SED",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "SEI",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "SER",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "SERA",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "SERAI",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "SEW",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "SHAD",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SHADE",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "SHADES",
-      "estimated_uncommonness": 3,
-      "combined_score": 495
-    },
-    {
-      "word": "SHARE",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "SHARED",
-      "estimated_uncommonness": 1,
-      "combined_score": 298
-    },
-    {
-      "word": "SHAW",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SHAWED",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "SHE",
+      "word": "Ear",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "SHEA",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SHEAR",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "SHED",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "SHERD",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "SHEW",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "SHIED",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SHIER",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "SHIRE",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SHRED",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "SHREW",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SHRI",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "SIDE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "SIDES",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "SIDH",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "SIDHE",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "SIR",
+      "word": "Eas",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "SIRE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SIRED",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "SIRES",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "SRI",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "SWARD",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "SWEAR",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "WAD",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "WADE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "WADER",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "WADES",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "WADI",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "WADIS",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "WADS",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "WAE",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "WAES",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "WAR",
+      "word": "Era",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "WARD",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "WARDS",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "WARE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "WARES",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "WARS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "WASH",
+      "word": "Ers",
       "estimated_uncommonness": 1,
-      "combined_score": 99
+      "combined_score": 10
     },
     {
-      "word": "WASHED",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "WASHER",
-      "estimated_uncommonness": 2,
-      "combined_score": 495
-    },
-    {
-      "word": "WEAR",
+      "word": "Ess",
       "estimated_uncommonness": 1,
-      "combined_score": 99
+      "combined_score": 10
     },
     {
-      "word": "WEARS",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "WED",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "WEDS",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "WEIRD",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "WEIRDS",
-      "estimated_uncommonness": 3,
-      "combined_score": 495
-    },
-    {
-      "word": "WHA",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "WIDISH",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "WIRED",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "WIRES",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "WISH",
+      "word": "Ire",
       "estimated_uncommonness": 1,
-      "combined_score": 99
+      "combined_score": 10
     },
     {
-      "word": "WISHED",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
+      "word": "Rai",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "WISHER",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
+      "word": "Ras",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "WISHES",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
+      "word": "Rei",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "AIRSHED",
-      "estimated_uncommonness": 4,
-      "combined_score": 693
+      "word": "Res",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "HAWSER",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
+      "word": "Ria",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "HEARSE",
-      "estimated_uncommonness": 3,
-      "combined_score": 495
+      "word": "Sae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "RAISED",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
+      "word": "Sai",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SHARIA",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
+      "word": "Sar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SHERIA",
-      "estimated_uncommonness": 6,
-      "combined_score": 792
+      "word": "Sea",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SHREWD",
-      "estimated_uncommonness": 3,
-      "combined_score": 495
+      "word": "Sei",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SWASHIER",
-      "estimated_uncommonness": 5,
-      "combined_score": 891
+      "word": "Ser",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "WASHIER",
-      "estimated_uncommonness": 4,
-      "combined_score": 693
+      "word": "Sir",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "WEIRDISH",
-      "estimated_uncommonness": 5,
-      "combined_score": 891
+      "word": "Sis",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "DISHWARE",
-      "estimated_uncommonness": 4,
-      "combined_score": 792
+      "word": "Sri",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     }
   ]
 }
-
-
