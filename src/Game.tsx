@@ -75,6 +75,7 @@ export default function Game({ language }: GameProps) {
   const [straightCount, setStraightCount] = useState(0);
 
   const [bonusInfo, setBonusInfo] = useState<{ title: string; description: string } | null>(null);
+  const [isInvalidWord, setIsInvalidWord] = useState(false);
 
   const loadData = useCallback(async (level: number, lang: Language) => {
     try {
@@ -122,6 +123,7 @@ export default function Game({ language }: GameProps) {
       setLastWordLength(0);
       setStreakCount(0);
       setStraightCount(0);
+      setIsInvalidWord(false);
 
     } catch (error) {
       const errorMessage = error instanceof Error ? error.message : "An unknown error occurred.";
@@ -179,7 +181,9 @@ export default function Game({ language }: GameProps) {
 
     const lowerInput = currentInput.toLowerCase();
     if (foundWords.some(fw => fw.word === lowerInput)) {
-      // No message, just reset input
+      // Word already found - show invalid state
+      setIsInvalidWord(true);
+      setTimeout(() => setIsInvalidWord(false), 5000);
     } else if (wordMap.has(lowerInput)) {
       const wordData = wordMap.get(lowerInput)!;
       const newWordLength = wordData.word.length;
@@ -225,7 +229,9 @@ export default function Game({ language }: GameProps) {
       setFoundWords(prev => [newFoundWord, ...prev]);
       
     } else {
-      // No message for incorrect words either
+      // Invalid word - show invalid state
+      setIsInvalidWord(true);
+      setTimeout(() => setIsInvalidWord(false), 5000);
       setStreakCount(0);
       setStraightCount(0);
     }
@@ -300,6 +306,7 @@ export default function Game({ language }: GameProps) {
           onDelete={() => setCurrentInput(prev => prev.slice(0, -1))}
           onSubmit={handleSubmit}
           language={language}
+          isInvalidWord={isInvalidWord}
         />
       </View>
 

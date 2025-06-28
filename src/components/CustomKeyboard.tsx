@@ -1,5 +1,11 @@
 import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
+import Animated, {
+  useSharedValue,
+  useAnimatedStyle,
+  withSequence,
+  withTiming,
+} from 'react-native-reanimated';
 import { Language } from '../types';
 import { t } from '../utils/translations';
 
@@ -11,6 +17,7 @@ interface CustomKeyboardProps {
   onDelete: () => void;
   onSubmit: () => void;
   language: Language;
+  isInvalidWord: boolean;
 }
 
 const CustomKeyboard = ({
@@ -21,7 +28,29 @@ const CustomKeyboard = ({
   onDelete,
   onSubmit,
   language,
+  isInvalidWord,
 }: CustomKeyboardProps) => {
+  const shakeAnimation = useSharedValue(0);
+
+  React.useEffect(() => {
+    if (isInvalidWord) {
+      shakeAnimation.value = withSequence(
+        withTiming(10, { duration: 50 }),
+        withTiming(-10, { duration: 50 }),
+        withTiming(10, { duration: 50 }),
+        withTiming(-10, { duration: 50 }),
+        withTiming(10, { duration: 50 }),
+        withTiming(0, { duration: 50 }),
+      );
+    }
+  }, [isInvalidWord]);
+
+  const submitButtonStyle = useAnimatedStyle(() => {
+    return {
+      transform: [{ translateX: shakeAnimation.value }],
+    };
+  });
+
   return (
     <View style={styles.keyboard}>
       <View style={styles.keyRow}>
@@ -53,12 +82,19 @@ const CustomKeyboard = ({
         <TouchableOpacity style={[styles.key, styles.specialKey]} onPress={onDelete}>
           <Text style={styles.keyText}>{t('game.delete', language)}</Text>
         </TouchableOpacity>
-        <TouchableOpacity
-          style={[styles.key, styles.specialKey, styles.submitKey]}
-          onPress={onSubmit}
-        >
-          <Text style={styles.keyText}>{t('game.submit', language)}</Text>
-        </TouchableOpacity>
+        <Animated.View style={submitButtonStyle}>
+          <TouchableOpacity
+            style={[
+              styles.key, 
+              styles.specialKey, 
+              styles.submitKey,
+              isInvalidWord && styles.submitKeyInvalid
+            ]}
+            onPress={onSubmit}
+          >
+            <Text style={styles.keyText}>{t('game.submit', language)}</Text>
+          </TouchableOpacity>
+        </Animated.View>
       </View>
     </View>
   );
@@ -102,6 +138,9 @@ const styles = StyleSheet.create({
   },
   submitKey: {
     backgroundColor: '#4CAF50',
+  },
+  submitKeyInvalid: {
+    backgroundColor: '#f44336',
   },
   countMarker: {
     position: 'absolute',
