@@ -1,129 +1,34 @@
 import React, { useState, useEffect } from 'react';
-import { StyleSheet, Text, View, TextInput, TouchableOpacity, ScrollView, Alert, Button } from 'react-native';
-import { getDeviceLanguage, t, SUPPORTED_LANGUAGES, LanguageCode } from './src/utils/language';
-import * as FileSystem from 'expo-file-system';
+import { StyleSheet, Text, View, Button, TouchableOpacity } from 'react-native';
 import { Platform } from 'react-native';
-import Game from './src/Game'; // Assuming your main game component is here
+import Game from './src/Game';
 import DevToolsScreen from './src/screens/DevToolsScreen';
 import SplashScreen from './src/screens/SplashScreen';
 import { Language } from './src/types';
+import { loadCurrentGameState, clearCurrentGameState, clearGameProgress } from './src/utils/storage';
 
-// Game configuration
-const GAME_TIME = 300; // 5 minutes
-
-// Types for level data
-interface LevelMapping {
-    [key: string]: string;
-}
-
-interface WordData {
-    word: string;
-    estimated_uncommonness: number;
-    combined_score: number;
-    length: number;
-}
-
-interface LevelData {
-    seed_word: string;
-    words_list: WordData[];
-}
-
-// Static imports for level mappings
-import enLevelMapping from './public/data/en/_level-mapping.json';
-import deLevelMapping from './public/data/de/_level-mapping.json';
-
-// Level mapping lookup
-const getLevelMapping = (language: LanguageCode): LevelMapping => {
-    switch (language) {
-        case 'de':
-            return deLevelMapping;
-        case 'en':
-        default:
-            return enLevelMapping;
-    }
-};
-
-// Type assertion function to normalize data
-const normalizeLevelData = (data: any): LevelData => {
-    return {
-        seed_word: data.seed_word,
-        words_list: data.words_list.map((word: any) => ({
-            word: word.word,
-            estimated_uncommonness: typeof word.estimated_uncommonness === 'string' 
-                ? (parseInt(word.estimated_uncommonness) || 1)
-                : (word.estimated_uncommonness || 1),
-            combined_score: word.combined_score || word.combined_ROE || 0,
-            length: word.length || word.word.length
-        }))
-    };
-};
-
-// Dynamic file reading function
-const readLevelFile = async (language: LanguageCode, filename: string): Promise<LevelData> => {
-    try {
-        if (Platform.OS === 'web') {
-            // For web, use fetch to load the JSON file from the public directory
-            const response = await fetch(`./data/${language}/${filename}`);
-            if (!response.ok) {
-                throw new Error(`Failed to fetch ${filename}: ${response.statusText}`);
-            }
-            const data = await response.json();
-            return normalizeLevelData(data);
-        } else {
-            // On native platforms, use FileSystem
-            const fileUri = `${FileSystem.documentDirectory}src/data/${language}/${filename}`;
-            const fileContent = await FileSystem.readAsStringAsync(fileUri);
-            const data = JSON.parse(fileContent);
-            return normalizeLevelData(data);
-        }
-    } catch (error) {
-        console.error(`Error reading file ${filename}:`, error);
-        throw new Error(`Failed to read level file ${filename}: ${error}`);
-    }
-};
-
-// Load level data
-const loadLevelData = async (levelNumber: number, language: LanguageCode): Promise<LevelData> => {
-    try {
-        const mapping = getLevelMapping(language);
-        const fileName = mapping[levelNumber.toString()];
-        
-        if (!fileName) {
-            throw new Error(`No level ${levelNumber} found in mapping`);
-        }
-        
-        return await readLevelFile(language, fileName);
-    } catch (error) {
-        console.error('Error loading level data:', error);
-        throw new Error(`Failed to load level ${levelNumber}: ${error}`);
-    }
-};
-
-type GameState = 'splash' | 'playing' | 'devtools';
+type GameState = 'splash' | 'playing' | 'devtools' | 'paused';
 
 export default function App() {
     const [gameState, setGameState] = useState<GameState>('splash');
     const [language, setLanguage] = useState<Language>('en');
-    const [input, setInput] = useState('');
-    const [foundWords, setFoundWords] = useState<string[]>([]);
-    const [score, setScore] = useState(0);
-    const [timeLeft, setTimeLeft] = useState(GAME_TIME);
-    const [gameOver, setGameOver] = useState(false);
-    const [streak, setStreak] = useState(0);
-    const [lastWordLength, setLastWordLength] = useState(0);
-    const [letterFrequencies, setLetterFrequencies] = useState<{ [key: string]: number }>({});
-    const [usedLetters, setUsedLetters] = useState<{ [key: string]: number }>({});
-    const [message, setMessage] = useState<{ text: string; type: 'success' | 'error' | 'info' } | null>(null);
-    
-    // Level management
-    const [currentLevel, setCurrentLevel] = useState(1);
-    const [levelData, setLevelData] = useState<LevelData | null>(null);
-    const [validWords, setValidWords] = useState<{ [key: string]: { length: number; estimatedUncommonness: number; combinedScore: number } }>({});
-    const [seedWord, setSeedWord] = useState('');
-    const [seedLetters, setSeedLetters] = useState<string[]>([]);
-    const [loading, setLoading] = useState(true);
-    const [showDevTools, setShowDevTools] = useState(false);
+    const [hasSavedGame, setHasSavedGame] = useState(false);
 
+    // Check for saved game state on startup
+    useEffect(() => {
+        const checkSavedGame = () => {
+            const savedGame = loadCurrentGameState();
+            if (savedGame) {
+                setLanguage(savedGame.language);
+                setHasSavedGame(true);
+                setGameState('paused');
+            }
+        };
+
+        checkSavedGame();
+    }, []);
+
+    // Check for devtools query parameter on web
     useEffect(() => {
         if (Platform.OS === 'web') {
             const urlParams = new URLSearchParams(window.location.search);
@@ -133,215 +38,47 @@ export default function App() {
         }
     }, []);
 
-    // Load level data
-    useEffect(() => {
-        const loadCurrentLevel = async () => {
-            try {
-                setLoading(true);
-                const data = await loadLevelData(currentLevel, language);
-                setLevelData(data);
-                setSeedWord(data.seed_word.toUpperCase());
-                setSeedLetters(data.seed_word.toUpperCase().split(''));
-                
-                // Convert words list to the required format
-                const wordsMap = data.words_list.reduce((acc: { [key: string]: { length: number; estimatedUncommonness: number; combinedScore: number } }, word: WordData) => {
-                    acc[word.word] = {
-                        length: word.length,
-                        estimatedUncommonness: word.estimated_uncommonness,
-                        combinedScore: word.combined_score
-                    };
-                    return acc;
-                }, {});
-                setValidWords(wordsMap);
-                
-                console.log(`Level ${currentLevel} loaded successfully:`, {
-                    seedWord: data.seed_word,
-                    wordsListLength: data.words_list.length
-                });
-            } catch (error) {
-                console.error('Error loading level:', error);
-                setMessage({ text: `Failed to load level ${currentLevel}`, type: 'error' });
-            } finally {
-                setLoading(false);
-            }
-        };
-        
-        loadCurrentLevel();
-    }, [currentLevel, language]);
-
-    // Calculate letter frequencies in seed word
-    useEffect(() => {
-        if (seedLetters.length > 0) {
-            const frequencies: { [key: string]: number } = {};
-            seedLetters.forEach((letter: string) => {
-                frequencies[letter] = (frequencies[letter] || 0) + 1;
-            });
-            setLetterFrequencies(frequencies);
-            setUsedLetters(frequencies);
-        }
-    }, [seedLetters]);
-
-    // Update used letters when input changes
-    useEffect(() => {
-        const newUsedLetters = { ...letterFrequencies };
-        input.split('').forEach(letter => {
-            if (newUsedLetters[letter] > 0) {
-                newUsedLetters[letter]--;
-            }
-        });
-        setUsedLetters(newUsedLetters);
-    }, [input, letterFrequencies]);
-
-    // Timer effect
-    useEffect(() => {
-        if (timeLeft > 0 && !gameOver && !loading) {
-            const timer = setTimeout(() => setTimeLeft(timeLeft - 1), 1000);
-            return () => clearTimeout(timer);
-        } else if (timeLeft === 0 && !gameOver) {
-            setGameOver(true);
-        }
-    }, [timeLeft, gameOver, loading]);
-
-    const handleLetterPress = (letter: string) => {
-        if (usedLetters[letter] > 0) {
-            setInput(prev => prev + letter);
-        }
-    };
-
-    const handleBackspace = () => {
-        if (input.length > 0) {
-            setInput(prev => prev.slice(0, -1));
-        }
-    };
-
-    const handleInputChange = (text: string) => {
-        // Only allow letters that are available in the seed word
-        const newInput = text.toUpperCase().split('').filter(letter => {
-            const availableCount = letterFrequencies[letter] || 0;
-            const usedCount = text.split('').filter(l => l === letter).length;
-            return usedCount <= availableCount;
-        }).join('');
-        
-        setInput(newInput);
-    };
-
-    const handleSubmit = () => {
-        const word = input.toUpperCase();
-        if (word.length < 3) {
-            setMessage({ text: t('game.tooShort', language), type: 'error' });
-            return;
-        }
-        if (foundWords.includes(word)) {
-            setMessage({ text: t('game.alreadyFound', language), type: 'error' });
-            return;
-        }
-        if (!validWords[word]) {
-            setMessage({ text: t('game.invalidWord', language), type: 'error' });
-            return;
-        }
-
-        // Calculate score
-        const wordData = validWords[word];
-        let points = wordData.combinedScore;
-
-        // Apply streak bonus
-        if (streak > 0 && word.length === lastWordLength) {
-            points *= 2;
-            setMessage({ text: t('game.streakBonus', language, { points }), type: 'success' });
-        } else {
-            setMessage({ text: t('game.correct', language, { points }), type: 'success' });
-        }
-
-        setScore(prev => prev + points);
-        setFoundWords(prev => [...prev, word]);
-        setInput('');
-        setStreak(prev => prev + 1);
-        setLastWordLength(word.length);
-        setUsedLetters(letterFrequencies);
-    };
-
-    const nextLevel = async () => {
-        try {
-            const mapping = getLevelMapping(language);
-            const nextLevelNumber = currentLevel + 1;
-            
-            if (mapping[nextLevelNumber.toString()]) {
-                setCurrentLevel(nextLevelNumber);
-                resetGame();
-            } else {
-                // No more levels, show completion message
-                setMessage({ text: t('game.allLevelsComplete', language), type: 'success' });
-            }
-        } catch (error) {
-            console.error('Error loading next level:', error);
-            setMessage({ text: 'Failed to load next level', type: 'error' });
-        }
-    };
-
-    const resetGame = () => {
-        setInput('');
-        setFoundWords([]);
-        setScore(0);
-        setTimeLeft(GAME_TIME);
-        setGameOver(false);
-        setStreak(0);
-        setLastWordLength(0);
-        setUsedLetters(letterFrequencies);
-        setMessage(null);
-    };
-
-    const handleLanguageSwitch = () => {
-        const languages = Object.keys(SUPPORTED_LANGUAGES);
-        const currentIndex = languages.indexOf(language);
-        const nextIndex = (currentIndex + 1) % languages.length;
-        setLanguage(languages[nextIndex] as LanguageCode);
-    };
-
-    const renderKeyboard = () => {
-        const letters = Object.keys(letterFrequencies).sort();
-        return (
-            <View style={styles.keyboard}>
-                {letters.map(letter => (
-                    <TouchableOpacity
-                        key={letter}
-                        style={[
-                            styles.key,
-                            usedLetters[letter] === 0 && styles.keyDisabled
-                        ]}
-                        onPress={() => handleLetterPress(letter)}
-                        disabled={usedLetters[letter] === 0}
-                    >
-                        <View style={styles.keyContent}>
-                            <Text style={styles.keyText}>{letter}</Text>
-                            {letterFrequencies[letter] > 1 && (
-                                <View style={styles.frequencyBubble}>
-                                    <Text style={styles.frequencyText}>
-                                        {usedLetters[letter]}
-                                    </Text>
-                                </View>
-                            )}
-                        </View>
-                    </TouchableOpacity>
-                ))}
-                <TouchableOpacity
-                    style={[styles.key, styles.backspaceKey]}
-                    onPress={handleBackspace}
-                >
-                    <Text style={styles.keyText}>⌫</Text>
-                </TouchableOpacity>
-            </View>
-        );
-    };
-
     const handleStartGame = (selectedLanguage: Language) => {
         setLanguage(selectedLanguage);
         setGameState('playing');
+        setHasSavedGame(false);
+    };
+
+    const handleResumeGame = () => {
+        setGameState('playing');
+    };
+
+    const handleNewGame = () => {
+        // Clear all saved game data
+        clearCurrentGameState();
+        clearGameProgress();
+        
+        // Reset app state
+        setHasSavedGame(false);
+        
+        // Go back to splash screen
+        setGameState('splash');
     };
 
     const renderContent = () => {
         switch (gameState) {
             case 'playing':
-                return <Game language={language} />;
+                return <Game language={language} isResuming={hasSavedGame} />;
+            case 'paused':
+                return (
+                    <View style={styles.pausedContainer}>
+                        <Text style={styles.pausedTitle}>Game Paused</Text>
+                        <Text style={styles.pausedText}>You have a saved game in progress.</Text>
+                        <View style={styles.pausedButtons}>
+                            <TouchableOpacity style={styles.resumeButton} onPress={handleResumeGame}>
+                                <Text style={styles.buttonText}>Resume Game</Text>
+                            </TouchableOpacity>
+                            <TouchableOpacity style={styles.newGameButton} onPress={handleNewGame}>
+                                <Text style={styles.buttonText}>New Game</Text>
+                            </TouchableOpacity>
+                        </View>
+                    </View>
+                );
             case 'devtools':
                 return (
                     <>
@@ -608,5 +345,45 @@ const styles = StyleSheet.create({
         fontSize: 18,
         fontWeight: 'bold',
         color: '#FFFFFF',
+    },
+    pausedContainer: {
+        flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center',
+        backgroundColor: '#121212',
+        padding: 20,
+    },
+    pausedTitle: {
+        fontSize: 24,
+        fontWeight: 'bold',
+        color: '#fff',
+        marginBottom: 10,
+    },
+    pausedText: {
+        fontSize: 16,
+        color: '#aaa',
+        textAlign: 'center',
+        marginBottom: 30,
+    },
+    pausedButtons: {
+        flexDirection: 'row',
+        gap: 20,
+    },
+    resumeButton: {
+        backgroundColor: '#4CAF50',
+        paddingHorizontal: 20,
+        paddingVertical: 12,
+        borderRadius: 8,
+    },
+    newGameButton: {
+        backgroundColor: '#2196F3',
+        paddingHorizontal: 20,
+        paddingVertical: 12,
+        borderRadius: 8,
+    },
+    buttonText: {
+        color: '#fff',
+        fontSize: 16,
+        fontWeight: 'bold',
     },
 });
