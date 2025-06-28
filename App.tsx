@@ -5,6 +5,8 @@ import * as FileSystem from 'expo-file-system';
 import { Platform } from 'react-native';
 import Game from './src/Game'; // Assuming your main game component is here
 import DevToolsScreen from './src/screens/DevToolsScreen';
+import SplashScreen from './src/screens/SplashScreen';
+import { Language } from './src/types';
 
 // Game configuration
 const GAME_TIME = 300; // 5 minutes
@@ -97,7 +99,11 @@ const loadLevelData = async (levelNumber: number, language: LanguageCode): Promi
     }
 };
 
+type GameState = 'splash' | 'playing' | 'devtools';
+
 export default function App() {
+    const [gameState, setGameState] = useState<GameState>('splash');
+    const [language, setLanguage] = useState<Language>('en');
     const [input, setInput] = useState('');
     const [foundWords, setFoundWords] = useState<string[]>([]);
     const [score, setScore] = useState(0);
@@ -105,7 +111,6 @@ export default function App() {
     const [gameOver, setGameOver] = useState(false);
     const [streak, setStreak] = useState(0);
     const [lastWordLength, setLastWordLength] = useState(0);
-    const [language, setLanguage] = useState(getDeviceLanguage());
     const [letterFrequencies, setLetterFrequencies] = useState<{ [key: string]: number }>({});
     const [usedLetters, setUsedLetters] = useState<{ [key: string]: number }>({});
     const [message, setMessage] = useState<{ text: string; type: 'success' | 'error' | 'info' } | null>(null);
@@ -118,6 +123,15 @@ export default function App() {
     const [seedLetters, setSeedLetters] = useState<string[]>([]);
     const [loading, setLoading] = useState(true);
     const [showDevTools, setShowDevTools] = useState(false);
+
+    useEffect(() => {
+        if (Platform.OS === 'web') {
+            const urlParams = new URLSearchParams(window.location.search);
+            if (urlParams.get('devtools') === 'true') {
+                setGameState('devtools');
+            }
+        }
+    }, []);
 
     // Load level data
     useEffect(() => {
@@ -319,23 +333,38 @@ export default function App() {
         );
     };
 
-    if (showDevTools) {
-        return (
-            <View style={styles.container}>
-                <DevToolsScreen />
-                <Button title="Back to Game" onPress={() => setShowDevTools(false)} />
-            </View>
-        );
-    }
+    const handleStartGame = (selectedLanguage: Language) => {
+        setLanguage(selectedLanguage);
+        setGameState('playing');
+    };
+
+    const renderContent = () => {
+        switch (gameState) {
+            case 'playing':
+                return <Game language={language} />;
+            case 'devtools':
+                return (
+                    <>
+                        <DevToolsScreen />
+                        <View style={styles.backButton}>
+                            <Button title="Back to Splash" onPress={() => setGameState('splash')} />
+                        </View>
+                    </>
+                );
+            case 'splash':
+            default:
+                return <SplashScreen onStartGame={handleStartGame} />;
+        }
+    };
 
     return (
         <View style={styles.container}>
-            <Game />
-            {__DEV__ && (
+            {renderContent()}
+            {gameState !== 'devtools' && __DEV__ && (
                 <View style={styles.devButton}>
                     <Button
                         title="Dev Tools"
-                        onPress={() => setShowDevTools(true)}
+                        onPress={() => setGameState('devtools')}
                         color="#841584"
                     />
                 </View>
@@ -352,6 +381,13 @@ const styles = StyleSheet.create({
         position: 'absolute',
         bottom: 40,
         right: 20,
+        zIndex: 10,
+    },
+    backButton: {
+        position: 'absolute',
+        bottom: 40,
+        left: 20,
+        zIndex: 10,
     },
     header: {
         flexDirection: 'row',

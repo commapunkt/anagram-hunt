@@ -48,8 +48,11 @@ const BONUS_RULES = {
   }
 };
 
-export default function Game() {
-  const [language, setLanguage] = useState<Language>('en');
+interface GameProps {
+  language: Language;
+}
+
+export default function Game({ language }: GameProps) {
   const [levelWords, setLevelWords] = useState<Word[] | null>(null);
   const [seedWord, setSeedWord] = useState('');
   const [wordMap, setWordMap] = useState<Map<string, Word>>(new Map());
@@ -72,11 +75,9 @@ export default function Game() {
 
   const [bonusInfo, setBonusInfo] = useState<{ title: string; description: string } | null>(null);
 
-  const loadData = useCallback(async (level: number) => {
+  const loadData = useCallback(async (level: number, lang: Language) => {
     try {
       setIsLoading(true);
-      const lang = getDeviceLanguage();
-      setLanguage(lang);
 
       const basePath = Platform.OS === 'web' ? 'data' : 'asset:/data';
       const mappingUrl = `${basePath}/${lang}/_level-mapping.json`;
@@ -102,12 +103,13 @@ export default function Game() {
 
       const words = data.words_list;
       const seed = data.seed_word;
+      const seedLower = seed.toLowerCase();
       
       setLevelWords(words);
       setSeedWord(seed);
       setWordMap(new Map(words.map((w: Word) => [w.word.toLowerCase(), w])));
       
-      const newSeedMap = getCharMap(seed.toLowerCase());
+      const newSeedMap = getCharMap(seedLower);
       setSeedLetterMap(newSeedMap);
       setScrambledLetters(shuffleArray(Array.from(newSeedMap.keys())));
 
@@ -129,8 +131,8 @@ export default function Game() {
   }, []);
 
   useEffect(() => {
-    loadData(currentLevel);
-  }, [currentLevel, loadData]);
+    loadData(currentLevel, language);
+  }, [currentLevel, language, loadData]);
 
   useEffect(() => {
     if (isGameOver || isLoading) return;

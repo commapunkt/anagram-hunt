@@ -16,13 +16,17 @@ A React Native word game where players find sub-words from a seed word within a 
 - **Dark Theme**: Relaxing dark UI design
 - **Cross-platform**: Works on mobile and web
 
+## Dev tools
+
+There are a few dev tools, accessible via: [https://bright-words-studio.github.io/anagram-hunt?devtools=true](https://bright-words-studio.github.io/anagram-hunt?devtools=true)
+
 ## Automatic Deployment
 
 This app is automatically deployed to GitHub Pages on every push to the main branch. The deployment process:
 
 1. **Builds** the web version using Expo
 2. **Deploys** to GitHub Pages automatically
-3. **Updates** the live demo at [https://nivco.github.io/anagram-hunt](https://nivco.github.io/anagram-hunt)
+3. **Updates** the live demo at [https://bright-words-studio.github.io/anagram-hunt](https://bright-words-studio.github.io/anagram-hunt)
 
 ## Installation
 
