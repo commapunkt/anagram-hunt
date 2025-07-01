@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, Switch, SafeAreaView } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity, Switch, SafeAreaView, Image } from 'react-native';
 import { Language } from '../types';
 import { getDeviceLanguage } from '../utils/language';
 import { t } from '../utils/translations';
@@ -20,7 +20,7 @@ const SplashScreen = ({ onStartGame }: SplashScreenProps) => {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.content}>
-        <Text style={styles.title}>{t('splash.title', language)}</Text>
+        <Image source={require('../../assets/logo.png')} style={styles.logoImage} resizeMode="contain" />
         <Text style={styles.subtitle}>{t('splash.welcome', language)}</Text>
 
         <View style={styles.rule}>
@@ -131,6 +131,12 @@ const styles = StyleSheet.create({
     color: '#fff',
     fontSize: 20,
     fontWeight: 'bold',
+  },
+  logoImage: {
+    width: 250,
+    height: 250,
+    alignSelf: 'center',
+    marginBottom: 20,
   },
 });
 
