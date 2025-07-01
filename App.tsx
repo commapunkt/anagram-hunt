@@ -26,55 +26,11 @@ export default function App() {
             if (savedGame) {
                 setLanguage(savedGame.language);
                 setHasSavedGame(true);
-                
-                // Check if this was a replayed level
-                if (savedGame.isReplayedLevel) {
-                    console.log('App startup - detected replayed level, setting pause dialog');
-                    setStartLevel(savedGame.level);
-                    // For replayed levels, always show pause dialog first
-                    setGameState('paused');
-                    return;
-                }
-                
-                console.log('App startup - not a replayed level, checking completion');
-                // Check if this was a completed game by looking at the progress
-                const progress = loadGameProgress();
-                if (progress && progress.language === savedGame.language) {
-                    // Check if all levels are completed by trying to load the next level
-                    const checkIfCompleted = async () => {
-                        try {
-                            const basePath = Platform.OS === 'web' ? 'data' : 'asset:/data';
-                            const mappingUrl = `${basePath}/${savedGame.language}/_level-mapping.json`;
-                            const mappingResponse = await fetch(mappingUrl);
-                            if (mappingResponse.ok) {
-                                const levelMapping = await mappingResponse.json();
-                                const nextLevel = (progress.currentLevel || 1) + 1;
-                                const levelFile = levelMapping[nextLevel.toString()];
-                                
-                                // If no level file exists for the next level, the game is completed
-                                if (!levelFile) {
-                                    console.log('App startup - game completed, showing congratulations');
-                                    // Game is completed - show congratulations directly
-                                    setGameState('playing'); // This will trigger the congratulations modal
-                                    return;
-                                }
-                            }
-                        } catch (error) {
-                            console.error('Error checking game completion:', error);
-                        }
-                        
-                        console.log('App startup - game not completed, showing pause dialog');
-                        // Game is not completed - show pause dialog
-                        setGameState('paused');
-                    };
-                    
-                    checkIfCompleted();
-                } else {
-                    console.log('App startup - no progress or language mismatch, showing pause dialog');
-                    setGameState('paused');
-                }
+                // Always start with splash screen, even if there's a saved game
+                setGameState('splash');
             } else {
                 console.log('App startup - no saved game found');
+                setGameState('splash');
             }
         };
 
@@ -224,8 +180,9 @@ export default function App() {
                     </>
                 );
             case 'splash':
+                return <SplashScreen onStartGame={handleStartGame} hasSavedGame={hasSavedGame} onResumeGame={handleResumeGame} />;
             default:
-                return <SplashScreen onStartGame={handleStartGame} />;
+                return <SplashScreen onStartGame={handleStartGame} hasSavedGame={hasSavedGame} onResumeGame={handleResumeGame} />;
         }
     };
 

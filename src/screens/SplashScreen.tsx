@@ -8,9 +8,11 @@ import StraightIcon from '../components/StraightIcon';
 
 interface SplashScreenProps {
   onStartGame: (language: Language) => void;
+  onResumeGame?: () => void;
+  hasSavedGame?: boolean;
 }
 
-const SplashScreen = ({ onStartGame }: SplashScreenProps) => {
+const SplashScreen = ({ onStartGame, onResumeGame, hasSavedGame = false }: SplashScreenProps) => {
   const [language, setLanguage] = useState<Language>('en');
   const [showMain, setShowMain] = useState(false);
   const companyFade = useRef(new Animated.Value(1)).current;
@@ -97,6 +99,12 @@ const SplashScreen = ({ onStartGame }: SplashScreenProps) => {
           <TouchableOpacity style={styles.startButton} onPress={() => onStartGame(language)}>
             <Text style={styles.startButtonText}>{t('splash.startGame', language)}</Text>
           </TouchableOpacity>
+          
+          {hasSavedGame && onResumeGame && (
+            <TouchableOpacity style={styles.resumeButton} onPress={onResumeGame}>
+              <Text style={styles.resumeButtonText}>Resume Game</Text>
+            </TouchableOpacity>
+          )}
         </Animated.View>
       </View>
     </SafeAreaView>
@@ -201,6 +209,18 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+  },
+  resumeButton: {
+    backgroundColor: '#007bff',
+    paddingVertical: 15,
+    borderRadius: 10,
+    alignItems: 'center',
+    marginTop: 10,
+  },
+  resumeButtonText: {
+    color: '#fff',
+    fontSize: 20,
+    fontWeight: 'bold',
   },
 });
 
