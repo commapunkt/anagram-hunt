@@ -91,7 +91,7 @@ export const updateLevelProgress = (
   const existingLevelData = existing?.completedLevels?.[level];
   const existingScore = existingLevelData?.score || 0;
   
-  // Only update if the new score is better than the existing score
+  // Only update the score if the new score is better than the existing score
   const shouldUpdateScore = score > existingScore;
   
   // If we're updating the score, we need to adjust the total score
@@ -102,7 +102,7 @@ export const updateLevelProgress = (
   }
   
   const updatedProgress: GameProgress = {
-    currentLevel: level + 1,
+    currentLevel: existing?.currentLevel || 1, // Keep the existing currentLevel, don't auto-increment
     language,
     completedLevels: {
       ...existing?.completedLevels,

@@ -12,7 +12,7 @@ import AnimatedFoundWordRow from './components/AnimatedFoundWordRow';
 import ScoreHistoryModal from './components/ScoreHistoryModal';
 import CongratulationsModal from './components/CongratulationsModal';
 import { t } from './utils/translations';
-import { GameProgress, loadGameProgress, updateLevelProgress, saveCurrentGameState, loadCurrentGameState, clearCurrentGameState, FoundWordInfo } from './utils/storage';
+import { loadGameProgress, saveGameProgress, updateLevelProgress, loadCurrentGameState, saveCurrentGameState, clearCurrentGameState, GameProgress, FoundWordInfo } from './utils/storage';
 import { GAME_CONFIG } from './config';
 
 const shuffleArray = (array: string[]) => {
@@ -225,17 +225,24 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
         const progress = loadGameProgress();
         const completedLevels = progress?.completedLevels || {};
         
+        console.log('findNextUnplayedLevel - progress:', progress);
+        console.log('findNextUnplayedLevel - completedLevels:', completedLevels);
+        
         // Get all available level numbers from the mapping
         const availableLevels = Object.keys(levelMapping).map(Number).sort((a, b) => a - b);
+        console.log('findNextUnplayedLevel - availableLevels:', availableLevels);
         
         // Find the next level that hasn't been played
         for (const level of availableLevels) {
+          console.log(`findNextUnplayedLevel - checking level ${level}, completed: ${!!completedLevels[level]}`);
           if (!completedLevels[level]) {
+            console.log(`findNextUnplayedLevel - found next unplayed level: ${level}`);
             return level;
           }
         }
         
         // If all levels have been played, return null
+        console.log('findNextUnplayedLevel - all levels have been played');
         return null;
       }
     } catch (error) {
@@ -571,7 +578,9 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
   };
 
   const handleNextLevel = async () => {
+    console.log('handleNextLevel - starting, currentLevel:', currentLevel);
     if (levelWords) {
+      console.log('handleNextLevel - updating level progress for level:', currentLevel);
       updateLevelProgress(
         currentLevel, // Keep using currentLevel here since this is for normal progression
         score,
@@ -583,10 +592,13 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
     clearCurrentGameState();
 
     // Find the next unplayed level
+    console.log('handleNextLevel - finding next unplayed level...');
     const nextUnplayedLevel = await findNextUnplayedLevel();
+    console.log('handleNextLevel - nextUnplayedLevel:', nextUnplayedLevel);
     
     if (nextUnplayedLevel === null) {
       // All levels have been played - game is completed
+      console.log('handleNextLevel - all levels completed, showing congratulations');
       const progress = loadGameProgress();
       setGameProgress(progress);
       setShowCongratulationsModal(true);
@@ -595,7 +607,18 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
       return;
     }
     
+    // Update the progress to set the currentLevel to the next unplayed level
+    const progress = loadGameProgress();
+    if (progress) {
+      const updatedProgress = {
+        ...progress,
+        currentLevel: nextUnplayedLevel
+      };
+      saveGameProgress(updatedProgress);
+    }
+    
     // Go to the next unplayed level
+    console.log('handleNextLevel - going to next unplayed level:', nextUnplayedLevel);
     setFoundWords([]);
     setScore(0);
     setTimeLeft(GAME_CONFIG.TIME_LIMIT);
