@@ -15,11 +15,21 @@ export interface GameProgress {
   lastPlayed: string;
 }
 
+export interface FoundWordInfo {
+  word: string;
+  score: number;
+  bonus: {
+    type: 'streak' | 'straight' | null;
+    amount: number;
+    count: number;
+  };
+}
+
 export interface CurrentGameState {
   level: number;
   language: 'en' | 'de';
   seedWord: string;
-  foundWords: string[];
+  foundWords: FoundWordInfo[];
   score: number;
   timeRemaining: number;
   lastWordLength: number;

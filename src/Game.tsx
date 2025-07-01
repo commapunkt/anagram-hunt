@@ -10,7 +10,7 @@ import StraightIcon from './components/StraightIcon';
 import BonusInfoModal from './components/BonusInfoModal';
 import AnimatedFoundWordRow from './components/AnimatedFoundWordRow';
 import { t } from './utils/translations';
-import { GameProgress, loadGameProgress, updateLevelProgress, saveCurrentGameState, loadCurrentGameState, clearCurrentGameState } from './utils/storage';
+import { GameProgress, loadGameProgress, updateLevelProgress, saveCurrentGameState, loadCurrentGameState, clearCurrentGameState, FoundWordInfo } from './utils/storage';
 import { GAME_CONFIG } from './config';
 
 const shuffleArray = (array: string[]) => {
@@ -30,16 +30,6 @@ const formatTime = (seconds: number) => {
     const remainingSeconds = seconds % 60;
     return `${minutes}:${remainingSeconds < 10 ? '0' : ''}${remainingSeconds}`;
 };
-
-interface FoundWordInfo {
-  word: string;
-  score: number;
-  bonus: {
-    type: 'streak' | 'straight' | null;
-    amount: number;
-    count: number;
-  };
-}
 
 const BONUS_RULES = {
   streak: {
@@ -144,9 +134,10 @@ export default function Game({ language, isResuming }: GameProps) {
     if (isResumingGame && foundWords.length > 0 && levelWords && levelWords.length > 0) {
       const updatedFoundWords = foundWords.map(fw => {
         const wordData = levelWords.find(w => w.word.toLowerCase() === fw.word.toLowerCase());
+        // Only update score if it's missing or incorrect, preserve bonus information
         return {
           ...fw,
-          score: wordData ? wordData.combined_score : 0
+          score: wordData ? wordData.combined_score : fw.score
         };
       });
       setFoundWords(updatedFoundWords);
@@ -160,7 +151,7 @@ export default function Game({ language, isResuming }: GameProps) {
         level: currentLevel,
         language,
         seedWord,
-        foundWords: foundWords.map(fw => fw.word),
+        foundWords: foundWords,
         score,
         timeRemaining: timeLeft,
         lastWordLength,
@@ -191,13 +182,8 @@ export default function Game({ language, isResuming }: GameProps) {
       setStraightCount(currentGameState.straightCount);
       setIsResumingGame(true);
       
-      // Restore found words (we'll need to reconstruct the FoundWordInfo objects)
-      const restoredFoundWords = currentGameState.foundWords.map(word => ({
-        word,
-        score: 0, // We'll recalculate this when we load the level data
-        bonus: { type: null, amount: 0, count: 0 }
-      }));
-      setFoundWords(restoredFoundWords);
+      // Restore found words with their bonus information
+      setFoundWords(currentGameState.foundWords);
       
       // Clear the current game state since we're restoring it
       clearCurrentGameState();

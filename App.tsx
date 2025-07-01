@@ -39,6 +39,10 @@ export default function App() {
     }, []);
 
     const handleStartGame = (selectedLanguage: Language) => {
+        // Clear all saved game data when starting fresh
+        clearCurrentGameState();
+        clearGameProgress();
+        
         setLanguage(selectedLanguage);
         setGameState('playing');
         setHasSavedGame(false);
