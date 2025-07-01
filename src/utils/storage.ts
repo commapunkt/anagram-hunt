@@ -86,19 +86,33 @@ export const updateLevelProgress = (
   const existing = loadGameProgress();
   const now = new Date().toISOString();
   
+  // Check if we already have a score for this level
+  const existingLevelData = existing?.completedLevels?.[level];
+  const existingScore = existingLevelData?.score || 0;
+  
+  // Only update if the new score is better than the existing score
+  const shouldUpdateScore = score > existingScore;
+  
+  // If we're updating the score, we need to adjust the total score
+  let totalScoreAdjustment = 0;
+  if (shouldUpdateScore) {
+    // Remove the old score and add the new one
+    totalScoreAdjustment = score - existingScore;
+  }
+  
   const updatedProgress: GameProgress = {
     currentLevel: level + 1,
     language,
     completedLevels: {
       ...existing?.completedLevels,
       [level]: {
-        score,
-        wordsFound,
-        totalWords,
-        completedAt: now,
+        score: shouldUpdateScore ? score : existingScore,
+        wordsFound: shouldUpdateScore ? wordsFound : (existingLevelData?.wordsFound || 0),
+        totalWords: shouldUpdateScore ? totalWords : (existingLevelData?.totalWords || 0),
+        completedAt: shouldUpdateScore ? now : (existingLevelData?.completedAt || now),
       },
     },
-    totalScore: (existing?.totalScore || 0) + score,
+    totalScore: (existing?.totalScore || 0) + totalScoreAdjustment,
     lastPlayed: now,
   };
 

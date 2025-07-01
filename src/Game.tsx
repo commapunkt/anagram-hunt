@@ -49,9 +49,14 @@ interface GameProps {
   isResuming?: boolean;
   onPause?: () => void;
   onPlayAgain?: () => void;
+  startLevel?: number;
+  onPlayLevelAgain?: (level: number) => void;
+  onStartOver?: () => void;
+  onStartLevelUsed?: (level?: number) => void;
+  resetCongratulationsModal?: boolean;
 }
 
-export default function Game({ language, isResuming, onPause, onPlayAgain }: GameProps) {
+export default function Game({ language, isResuming, onPause, onPlayAgain, startLevel, onPlayLevelAgain, onStartOver, onStartLevelUsed, resetCongratulationsModal }: GameProps) {
   const [levelWords, setLevelWords] = useState<Word[] | null>(null);
   const [seedWord, setSeedWord] = useState('');
   const [wordMap, setWordMap] = useState<Map<string, Word>>(new Map());
@@ -77,6 +82,10 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
   const [showHistoryModal, setShowHistoryModal] = useState(false);
   const [gameProgress, setGameProgress] = useState<GameProgress | null>(null);
   const [showCongratulationsModal, setShowCongratulationsModal] = useState(false);
+  const [isNewBestScore, setIsNewBestScore] = useState(false);
+  const [isReplayingLevel, setIsReplayingLevel] = useState(false);
+  const [isAllLevelsCompleted, setIsAllLevelsCompleted] = useState(false);
+  const [levelCompletionButtonText, setLevelCompletionButtonText] = useState('');
   
   const gameStateRef = useRef<any>(null);
   useEffect(() => {
@@ -110,26 +119,64 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
       if (!mappingResponse.ok) throw new Error(`Failed to fetch level mapping`);
       const levelMapping: LevelMapping = await mappingResponse.json();
       
-      const levelFile = levelMapping[level.toString()]; 
+      // Use the level parameter directly, not currentLevel state
+      const levelFile = levelMapping[level.toString()];
+      
       if (!levelFile) {
-        // All levels completed - save current level progress first, then show congratulations modal
-        if (levelWords) {
-          updateLevelProgress(
-            currentLevel,
-            score,
-            foundWords.length,
-            levelWords.length,
-            language
-          );
-        }
+        // Level not found - this means we've reached the end of all available levels
+        // Check if we should show congratulations (game is actually finished)
         const progress = loadGameProgress();
-        setGameProgress(progress);
-        setShowCongratulationsModal(true);
-        setIsGameOver(true);
+        const isLastLevel = !levelMapping[(level + 1).toString()];
+        
+        if (isLastLevel && (timeLeft <= 0 || isGameOver)) {
+          // This is the last level and the game is finished - show congratulations
+          if (levelWords) {
+            updateLevelProgress(
+              level, // Use the level parameter directly
+              score,
+              foundWords.length,
+              levelWords.length,
+              language
+            );
+          }
+          setGameProgress(progress);
+          setShowCongratulationsModal(true);
+          setIsGameOver(true);
+          setIsLoading(false);
+          clearCurrentGameState(); // Clear current game state when game is completed
+          return;
+        } else if (isReplayingLevel) {
+          // We're replaying a level that doesn't exist - this shouldn't happen
+          setIsLoading(false);
+          return;
+        } else {
+          // We have time remaining and this isn't the last level - continue normally
+          setIsLoading(false);
+          return;
+        }
+      }
+      
+      // If we're replaying a level, load the level data without completion checks
+      if (isReplayingLevel) {
+        const levelUrl = `${basePath}/${language}/${levelFile}`;
+        const levelResponse = await fetch(levelUrl);
+        if (!levelResponse.ok) throw new Error(`Failed to fetch level data`);
+
+        const data: LevelFile = await levelResponse.json();
+        if (!data || !Array.isArray(data.words_list)) throw new TypeError(`Level data is not in the correct format.`);
+
+        setLevelWords(data.words_list);
+        setSeedWord(data.seed_word);
+        setWordMap(new Map(data.words_list.map((w: Word) => [w.word.toLowerCase(), w])));
+        const newSeedMap = getCharMap(data.seed_word.toLowerCase());
+        setSeedLetterMap(newSeedMap);
+        setScrambledLetters(shuffleArray(Array.from(newSeedMap.keys())));
+        setIsReplayingLevel(false); // Reset replay flag when level loads successfully
         setIsLoading(false);
         return;
       }
 
+      // Normal level loading (not replaying)
       const levelUrl = `${basePath}/${language}/${levelFile}`;
       const levelResponse = await fetch(levelUrl);
       if (!levelResponse.ok) throw new Error(`Failed to fetch level data`);
@@ -143,12 +190,64 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
       const newSeedMap = getCharMap(data.seed_word.toLowerCase());
       setSeedLetterMap(newSeedMap);
       setScrambledLetters(shuffleArray(Array.from(newSeedMap.keys())));
+      setIsReplayingLevel(false); // Ensure replay flag is reset
     } catch (error) {
       alert(`Error: Failed to load level data.`);
     } finally {
       setIsLoading(false);
     }
   }, [language]);
+
+  const checkIfAllLevelsCompleted = useCallback(async () => {
+    try {
+      const basePath = Platform.OS === 'web' ? 'data' : 'asset:/data';
+      const mappingUrl = `${basePath}/${language}/_level-mapping.json`;
+      const mappingResponse = await fetch(mappingUrl);
+      if (mappingResponse.ok) {
+        const levelMapping = await mappingResponse.json();
+        const nextLevel = currentLevel + 1;
+        const levelFile = levelMapping[nextLevel.toString()];
+        return !levelFile;
+      }
+    } catch (error) {
+      console.error('Error checking if all levels completed:', error);
+    }
+    return false;
+  }, [language, currentLevel]);
+
+  const findNextUnplayedLevel = useCallback(async () => {
+    try {
+      const basePath = Platform.OS === 'web' ? 'data' : 'asset:/data';
+      const mappingUrl = `${basePath}/${language}/_level-mapping.json`;
+      const mappingResponse = await fetch(mappingUrl);
+      if (mappingResponse.ok) {
+        const levelMapping = await mappingResponse.json();
+        const progress = loadGameProgress();
+        const completedLevels = progress?.completedLevels || {};
+        
+        // Get all available level numbers from the mapping
+        const availableLevels = Object.keys(levelMapping).map(Number).sort((a, b) => a - b);
+        
+        // Find the next level that hasn't been played
+        for (const level of availableLevels) {
+          if (!completedLevels[level]) {
+            return level;
+          }
+        }
+        
+        // If all levels have been played, return null
+        return null;
+      }
+    } catch (error) {
+      console.error('Error finding next unplayed level:', error);
+    }
+    return null;
+  }, [language]);
+
+  const checkIfAllLevelsPlayed = useCallback(async () => {
+    const nextUnplayedLevel = await findNextUnplayedLevel();
+    return nextUnplayedLevel === null;
+  }, [findNextUnplayedLevel]);
 
   // This effect runs once on mount to initialize the game state
   useEffect(() => {
@@ -182,12 +281,16 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
               
               // If no level file exists for the next level, the game is completed
               if (!levelFile) {
-                // Game is completed - show congratulations modal
-                setGameProgress(progress);
-                setShowCongratulationsModal(true);
-                setIsGameOver(true);
-                setIsLoading(false);
-                return;
+                // Only show congratulations if there's no time remaining
+                if (currentGameState.timeRemaining <= 0) {
+                  // Game is completed - show congratulations modal
+                  setGameProgress(progress);
+                  setShowCongratulationsModal(true);
+                  setIsGameOver(true);
+                  setIsLoading(false);
+                  clearCurrentGameState(); // Clear current game state when game is completed
+                  return;
+                }
               }
             }
           } catch (error) {
@@ -200,7 +303,20 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
     } else {
       // --- NEW GAME LOGIC ---
       const savedProgress = loadGameProgress();
-      const levelToLoad = (savedProgress && savedProgress.language === language) ? savedProgress.currentLevel : 1;
+      let levelToLoad = (savedProgress && savedProgress.language === language) ? savedProgress.currentLevel : 1;
+      
+      // If a specific start level is provided, use that instead
+      if (startLevel) {
+        levelToLoad = startLevel;
+        setIsReplayingLevel(true);
+        // Clear any existing game state when restarting a level
+        clearCurrentGameState();
+        // Immediately set currentLevel to ensure it's correct for level completion logic
+        setCurrentLevel(startLevel);
+      } else {
+        setCurrentLevel(levelToLoad);
+      }
+      
       setFoundWords([]);
       setScore(0);
       setTimeLeft(GAME_CONFIG.TIME_LIMIT);
@@ -209,14 +325,15 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
       setStreakCount(0);
       setStraightCount(0);
       setIsInvalidWord(false);
-      setCurrentLevel(levelToLoad);
     }
-  }, [isResuming, language]);
+  }, [isResuming, language, startLevel, onStartLevelUsed]);
 
   // This effect runs whenever the level changes to load the new data
   useEffect(() => {
     if (currentLevel > 0) {
-      loadData(currentLevel);
+      // When restarting a level, use startLevel directly to avoid race conditions
+      const levelToLoad = startLevel || currentLevel;
+      loadData(levelToLoad);
     }
   }, [currentLevel, loadData]);
 
@@ -227,9 +344,36 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
       setIsGameOver(true);
       return;
     }
+    
+    // Save game state immediately when timer starts (game begins)
+    if (seedWord && !isLoading) {
+      saveCurrentGameState({
+        level: currentLevel,
+        language,
+        seedWord,
+        foundWords,
+        score,
+        timeRemaining: timeLeft,
+        lastWordLength,
+        streakCount,
+        straightCount,
+        savedAt: new Date().toISOString()
+      });
+    }
+    
     const timerId = setInterval(() => setTimeLeft(prev => prev - 1), 1000);
     return () => clearInterval(timerId);
-  }, [isGameOver, isLoading, isResumingGame, timeLeft]);
+  }, [isGameOver, isLoading, isResumingGame, timeLeft, seedWord, currentLevel, language, foundWords, score, lastWordLength, streakCount, straightCount]);
+
+  const checkIfNewBestScore = useCallback(() => {
+    // Don't show "NEW BEST!" for zero scores
+    if (score === 0) return false;
+    
+    const progress = loadGameProgress();
+    const existingLevelData = progress?.completedLevels?.[currentLevel];
+    const existingScore = existingLevelData?.score || 0;
+    return score > existingScore;
+  }, [currentLevel, score]);
 
   // Finish "resuming" mode after data has loaded
   useEffect(() => {
@@ -238,6 +382,41 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
       return () => clearTimeout(timer);
     }
   }, [isResumingGame, isLoading]);
+
+  // Check for new best score
+  useEffect(() => {
+    if (score > 0 && !isLoading) {
+      const isNewBest = checkIfNewBestScore();
+      setIsNewBestScore(isNewBest);
+    }
+  }, [score, checkIfNewBestScore, isLoading]);
+
+  // Reset congratulations modal when restarting a level
+  useEffect(() => {
+    if (resetCongratulationsModal) {
+      setShowCongratulationsModal(false);
+    }
+  }, [resetCongratulationsModal]);
+
+  // Reset startLevel after it has been used
+  useEffect(() => {
+    if (startLevel && !isLoading && seedWord) {
+      // Only reset startLevel after the level has been loaded and the game has started
+      onStartLevelUsed?.(startLevel);
+    }
+  }, [startLevel, isLoading, seedWord, onStartLevelUsed]);
+
+  // Update level completion button text when current level changes
+  useEffect(() => {
+    const updateButtonText = async () => {
+      const allPlayed = await checkIfAllLevelsPlayed();
+      setLevelCompletionButtonText(allPlayed ? t('game.ok', language) : t('game.nextLevel', language));
+    };
+    
+    if (currentLevel > 0) {
+      updateButtonText();
+    }
+  }, [currentLevel, checkIfAllLevelsPlayed, language]);
 
   // Periodic save effect
   useEffect(() => {
@@ -383,10 +562,10 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
     setCurrentInput('');
   };
 
-  const handleNextLevel = () => {
+  const handleNextLevel = async () => {
     if (levelWords) {
       updateLevelProgress(
-        currentLevel,
+        currentLevel, // Keep using currentLevel here since this is for normal progression
         score,
         foundWords.length,
         levelWords.length,
@@ -395,7 +574,20 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
     }
     clearCurrentGameState();
 
-    // Reset all game state for the new level
+    // Find the next unplayed level
+    const nextUnplayedLevel = await findNextUnplayedLevel();
+    
+    if (nextUnplayedLevel === null) {
+      // All levels have been played - game is completed
+      const progress = loadGameProgress();
+      setGameProgress(progress);
+      setShowCongratulationsModal(true);
+      setIsGameOver(true);
+      clearCurrentGameState(); // Clear current game state when game is completed
+      return;
+    }
+    
+    // Go to the next unplayed level
     setFoundWords([]);
     setScore(0);
     setTimeLeft(GAME_CONFIG.TIME_LIMIT);
@@ -404,8 +596,17 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
     setStreakCount(0);
     setStraightCount(0);
     setIsResumingGame(false);
+    setIsReplayingLevel(false);
+    setIsInvalidWord(false);
+    setCurrentInput('');
 
-    setCurrentLevel(prev => prev + 1);
+    // Reset startLevel to ensure we're not in replay mode for the next level
+    if (startLevel) {
+      onStartLevelUsed?.(undefined);
+    }
+
+    // Set the new level - this will trigger the loadData effect
+    setCurrentLevel(nextUnplayedLevel);
   };
 
   const handleShowHistory = () => {
@@ -447,6 +648,8 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
         onPlayAgain={onPlayAgain || (() => {})}
         progress={gameProgress}
         language={language}
+        onPlayLevelAgain={onPlayLevelAgain}
+        onStartOver={onStartOver}
       />
 
       <Modal
@@ -460,15 +663,43 @@ export default function Game({ language, isResuming, onPause, onPlayAgain }: Gam
               {timeLeft <= 0 ? t('game.timesUp', language) : t('game.levelComplete', language)}
             </Text>
             <Text style={styles.modalScore}>{t('game.finalScore', language, { score })}</Text>
-            <TouchableOpacity style={styles.nextLevelButton} onPress={handleNextLevel}>
-              <Text style={styles.nextLevelButtonText}>{t('game.nextLevel', language)}</Text>
+            
+            {/* Show high score information */}
+            {isNewBestScore ? (
+              <Text style={styles.newHighScoreText}>{t('game.newHighScore', language)}</Text>
+            ) : (
+              <Text style={styles.previousScoreText}>
+                {t('game.previousScoreKept', language, { 
+                  score: (() => {
+                    const progress = loadGameProgress();
+                    const existingLevelData = progress?.completedLevels?.[currentLevel];
+                    return existingLevelData?.score || 0;
+                  })()
+                })}
+              </Text>
+            )}
+            
+            <TouchableOpacity 
+              style={styles.nextLevelButton} 
+              onPress={handleNextLevel}
+            >
+              <Text style={styles.nextLevelButtonText}>
+                {levelCompletionButtonText}
+              </Text>
             </TouchableOpacity>
           </View>
         </View>
       </Modal>
 
       <View style={styles.header}>
-        <Text style={styles.score}>{t('game.score', language, { score })}</Text>
+        <View style={styles.scoreContainer}>
+          <Text style={[styles.score, isNewBestScore && styles.newBestScore]}>
+            {t('game.score', language, { score })}
+          </Text>
+          {isNewBestScore && score > 0 && (
+            <Text style={styles.newBestScoreLabel}>🏆 NEW BEST!</Text>
+          )}
+        </View>
         <Text style={styles.timerText}>{formatTime(timeLeft)}</Text>
         <View style={styles.headerButtons}>
           <TouchableOpacity style={styles.historyButton} onPress={handleShowHistory}>
@@ -574,6 +805,19 @@ const styles = StyleSheet.create({
     color: '#fff',
     fontSize: 20,
   },
+  scoreContainer: {
+    alignItems: 'center',
+  },
+  newBestScore: {
+    color: '#FFD700',
+    fontWeight: 'bold',
+  },
+  newBestScoreLabel: {
+    color: '#FFD700',
+    fontSize: 12,
+    fontWeight: 'bold',
+    marginTop: 2,
+  },
   headerButtons: {
     flexDirection: 'row',
     alignItems: 'center',
@@ -663,6 +907,19 @@ const styles = StyleSheet.create({
     fontSize: 20,
     color: '#FFD700',
     marginBottom: 20,
+  },
+  newHighScoreText: {
+    fontSize: 18,
+    color: '#FFD700',
+    fontWeight: 'bold',
+    marginBottom: 15,
+    textAlign: 'center',
+  },
+  previousScoreText: {
+    fontSize: 16,
+    color: '#aaa',
+    marginBottom: 15,
+    textAlign: 'center',
   },
   nextLevelButton: {
     backgroundColor: '#4CAF50',

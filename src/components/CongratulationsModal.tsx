@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Modal, View, Text, TouchableOpacity, FlatList, StyleSheet } from 'react-native';
 import { GameProgress } from '../utils/storage';
 import { Language } from '../types';
@@ -10,6 +10,8 @@ interface CongratulationsModalProps {
   onPlayAgain: () => void;
   progress: GameProgress | null;
   language: Language;
+  onPlayLevelAgain?: (level: number) => void;
+  onStartOver?: () => void;
 }
 
 export default function CongratulationsModal({ 
@@ -17,32 +19,38 @@ export default function CongratulationsModal({
   onClose, 
   onPlayAgain,
   progress, 
-  language 
+  language,
+  onPlayLevelAgain,
+  onStartOver
 }: CongratulationsModalProps) {
+  const [showConfirmDialog, setShowConfirmDialog] = useState(false);
+  const [showRetryConfirmDialog, setShowRetryConfirmDialog] = useState(false);
+  const [selectedLevel, setSelectedLevel] = useState<number | null>(null);
   const completedLevels = progress?.completedLevels || {};
   const levelEntries = Object.entries(completedLevels)
     .sort(([a], [b]) => parseInt(a) - parseInt(b));
 
   const renderLevelItem = ({ item }: { item: [string, any] }) => {
     const [level, data] = item;
-    const completionDate = new Date(data.completedAt).toLocaleDateString();
     
     return (
       <View style={styles.levelItem}>
-        <View style={styles.levelHeader}>
+        <View style={styles.levelContent}>
           <Text style={styles.levelNumber}>{t('game.level', language, { level })}</Text>
-          <Text style={styles.completionDate}>{completionDate}</Text>
-        </View>
-        <View style={styles.levelStats}>
           <Text style={styles.scoreText}>
             {t('game.score', language, { score: data.score })}
           </Text>
-          <Text style={styles.wordsText}>
-            {t('game.wordsFound', language, { 
-              found: data.wordsFound, 
-              total: data.totalWords 
-            })}
-          </Text>
+          {onPlayLevelAgain && (
+            <TouchableOpacity 
+              style={styles.playLevelAgainButton} 
+              onPress={() => {
+                setSelectedLevel(parseInt(level));
+                setShowRetryConfirmDialog(true);
+              }}
+            >
+              <Text style={styles.playLevelAgainButtonText}>↻</Text>
+            </TouchableOpacity>
+          )}
         </View>
       </View>
     );
@@ -88,13 +96,84 @@ export default function CongratulationsModal({
             />
           </View>
           
-          <TouchableOpacity style={styles.playAgainButton} onPress={onPlayAgain}>
-            <Text style={styles.playAgainButtonText}>
-              {t('game.playAgain', language)}
+          <TouchableOpacity 
+            style={styles.startOverButton} 
+            onPress={() => setShowConfirmDialog(true)}
+          >
+            <Text style={styles.startOverButtonText}>
+              {t('game.startOver', language)}
             </Text>
           </TouchableOpacity>
         </View>
       </View>
+
+      {/* Confirmation Dialog */}
+      <Modal
+        visible={showConfirmDialog}
+        transparent={true}
+        animationType="fade"
+      >
+        <View style={styles.modalContainer}>
+          <View style={styles.confirmDialog}>
+            <Text style={styles.confirmTitle}>{t('game.startOver', language)}</Text>
+            <Text style={styles.confirmMessage}>
+              {t('game.startOverConfirm', language)}
+            </Text>
+            <View style={styles.confirmButtons}>
+              <TouchableOpacity 
+                style={styles.cancelButton} 
+                onPress={() => setShowConfirmDialog(false)}
+              >
+                <Text style={styles.buttonText}>Cancel</Text>
+              </TouchableOpacity>
+              <TouchableOpacity 
+                style={styles.confirmButton} 
+                onPress={() => {
+                  setShowConfirmDialog(false);
+                  onStartOver?.();
+                }}
+              >
+                <Text style={styles.buttonText}>{t('game.startOver', language)}</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+        </View>
+      </Modal>
+
+      {/* Retry Confirmation Dialog */}
+      <Modal
+        visible={showRetryConfirmDialog}
+        transparent={true}
+        animationType="fade"
+      >
+        <View style={styles.modalContainer}>
+          <View style={styles.confirmDialog}>
+            <Text style={styles.confirmTitle}>Play Level Again</Text>
+            <Text style={styles.confirmMessage}>
+              Start a new attempt for Level {selectedLevel}?
+            </Text>
+            <View style={styles.confirmButtons}>
+              <TouchableOpacity 
+                style={styles.cancelButton} 
+                onPress={() => setShowRetryConfirmDialog(false)}
+              >
+                <Text style={styles.buttonText}>Cancel</Text>
+              </TouchableOpacity>
+              <TouchableOpacity 
+                style={styles.confirmButton} 
+                onPress={() => {
+                  setShowRetryConfirmDialog(false);
+                  if (selectedLevel && onPlayLevelAgain) {
+                    onPlayLevelAgain(selectedLevel);
+                  }
+                }}
+              >
+                <Text style={styles.buttonText}>Play Again</Text>
+              </TouchableOpacity>
+            </View>
+          </View>
+        </View>
+      </Modal>
     </Modal>
   );
 }
@@ -176,34 +255,20 @@ const styles = StyleSheet.create({
     padding: 15,
     marginBottom: 10,
   },
-  levelHeader: {
+  levelContent: {
     flexDirection: 'row',
     justifyContent: 'space-between',
     alignItems: 'center',
-    marginBottom: 10,
   },
   levelNumber: {
     color: '#fff',
     fontSize: 18,
     fontWeight: 'bold',
   },
-  completionDate: {
-    color: '#aaa',
-    fontSize: 12,
-  },
-  levelStats: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-  },
   scoreText: {
     color: '#FFD700',
     fontSize: 16,
     fontWeight: 'bold',
-  },
-  wordsText: {
-    color: '#aaa',
-    fontSize: 14,
   },
   playAgainButton: {
     backgroundColor: '#2196F3',
@@ -215,6 +280,74 @@ const styles = StyleSheet.create({
   playAgainButtonText: {
     color: '#fff',
     fontSize: 18,
+    fontWeight: 'bold',
+  },
+  playLevelAgainButton: {
+    backgroundColor: '#2196F3',
+    width: 28,
+    height: 28,
+    borderRadius: 14,
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginLeft: 10,
+  },
+  playLevelAgainButtonText: {
+    color: '#fff',
+    fontSize: 14,
+    fontWeight: 'bold',
+  },
+  startOverButton: {
+    backgroundColor: '#FF6B35',
+    paddingVertical: 15,
+    paddingHorizontal: 30,
+    borderRadius: 10,
+    alignItems: 'center',
+  },
+  startOverButtonText: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: 'bold',
+  },
+  confirmDialog: {
+    backgroundColor: '#333',
+    borderRadius: 15,
+    padding: 25,
+    width: '80%',
+    alignItems: 'center',
+  },
+  confirmTitle: {
+    fontSize: 24,
+    fontWeight: 'bold',
+    color: '#FF6B35',
+    marginBottom: 15,
+    textAlign: 'center',
+  },
+  confirmMessage: {
+    color: '#fff',
+    fontSize: 16,
+    textAlign: 'center',
+    marginBottom: 25,
+    lineHeight: 22,
+  },
+  confirmButtons: {
+    flexDirection: 'row',
+    gap: 15,
+  },
+  cancelButton: {
+    backgroundColor: '#666',
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+  },
+  confirmButton: {
+    backgroundColor: '#FF6B35',
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderRadius: 8,
+  },
+  buttonText: {
+    color: '#fff',
+    fontSize: 16,
     fontWeight: 'bold',
   },
 }); 

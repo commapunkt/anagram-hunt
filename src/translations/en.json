@@ -34,7 +34,14 @@
         "noHistoryYet": "No completed levels yet. Start playing to see your history!",
         "congratulations": "Congratulations!",
         "finalTotalScore": "Final Total Score",
-        "levelBreakdown": "Level Breakdown"
+        "levelBreakdown": "Level Breakdown",
+        "playLevelAgain": "Play Again",
+        "startOver": "Start Over",
+        "startOverConfirm": "Are you sure? All progress will be lost.",
+        "seeScores": "See Scores",
+        "newHighScore": "🏆 New High Score!",
+        "previousScoreKept": "Previous high score kept: {score}",
+        "ok": "OK"
     },
     "splash": {
         "title": "Anagram Hunt",

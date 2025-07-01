@@ -83,6 +83,7 @@ export default function App() {
         setLanguage(selectedLanguage);
         setGameState('playing');
         setHasSavedGame(false);
+        setStartLevel(undefined);
     };
 
     const handleResumeGame = () => {
@@ -96,6 +97,7 @@ export default function App() {
         
         // Reset app state
         setHasSavedGame(false);
+        setStartLevel(undefined);
         
         // Go back to splash screen
         setGameState('splash');
@@ -150,10 +152,27 @@ export default function App() {
         setShowHistoryModal(true);
     };
 
+    const [startLevel, setStartLevel] = useState<number | undefined>(undefined);
+    const [resetCongratulationsModal, setResetCongratulationsModal] = useState(false);
+
+    const handlePlayLevelAgain = (level: number) => {
+        // Clear current game state but keep progress
+        clearCurrentGameState();
+        setHasSavedGame(false);
+        setStartLevel(level);
+        setResetCongratulationsModal(true);
+        setGameState('playing');
+    };
+
+    const handleStartLevelUsed = (level?: number) => {
+        setStartLevel(level);
+        setResetCongratulationsModal(false);
+    };
+
     const renderContent = () => {
         switch (gameState) {
             case 'playing':
-                return <Game language={language} isResuming={hasSavedGame} onPause={handlePauseGame} onPlayAgain={handleNewGame} />;
+                return <Game language={language} isResuming={hasSavedGame} onPause={handlePauseGame} onPlayAgain={handleNewGame} startLevel={startLevel} onPlayLevelAgain={handlePlayLevelAgain} onStartOver={handleNewGame} onStartLevelUsed={handleStartLevelUsed} resetCongratulationsModal={resetCongratulationsModal} />;
             case 'paused':
                 return (
                     <View style={styles.pausedContainer}>
@@ -208,6 +227,7 @@ export default function App() {
                 onClose={() => setShowHistoryModal(false)}
                 progress={gameProgress}
                 language={language}
+                onPlayLevelAgain={handlePlayLevelAgain}
             />
 
             <Modal

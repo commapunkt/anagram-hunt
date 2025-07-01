@@ -34,7 +34,14 @@
         "noHistoryYet": "Noch keine abgeschlossenen Level. Starte das Spiel, um deinen Verlauf zu sehen!",
         "congratulations": "Glückwunsch!",
         "finalTotalScore": "Endgesamtpunktzahl",
-        "levelBreakdown": "Level-Aufschlüsselung"
+        "levelBreakdown": "Level-Aufschlüsselung",
+        "playLevelAgain": "Noch einmal spielen",
+        "startOver": "Von vorne beginnen",
+        "startOverConfirm": "Bist du sicher? Der gesamte Fortschritt geht verloren.",
+        "seeScores": "Punktzahl anzeigen",
+        "newHighScore": "🏆 Neue Bestpunktzahl!",
+        "previousScoreKept": "Vorherige Bestpunktzahl beibehalten: {score}",
+        "ok": "OK"
     },
     "splash": {
         "title": "Anagramm Jagd",
