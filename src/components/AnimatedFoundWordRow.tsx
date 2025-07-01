@@ -9,7 +9,7 @@ import Animated, {
 } from 'react-native-reanimated';
 import StreakIcon from './StreakIcon';
 import StraightIcon from './StraightIcon';
-import { FoundWordInfo } from '../types';
+import { FoundWordInfo } from '../utils/storage';
 
 interface AnimatedFoundWordRowProps {
   item: FoundWordInfo;
@@ -94,6 +94,7 @@ const styles = StyleSheet.create({
   },
   foundWordText: {
     fontSize: 18,
+    color: '#ddd',
   },
   foundWordScores: {
     flexDirection: 'row',
@@ -102,6 +103,7 @@ const styles = StyleSheet.create({
   foundWordScoreText: {
     fontSize: 16,
     fontWeight: 'bold',
+    color: '#ddd',
   },
   bonusContainer: {
     flexDirection: 'row',
