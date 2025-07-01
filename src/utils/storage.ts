@@ -1,4 +1,5 @@
 import { Platform } from 'react-native';
+import { STAR_THRESHOLDS } from '../config';
 
 export interface GameProgress {
   currentLevel: number;
@@ -153,4 +154,12 @@ export const clearCurrentGameState = (): void => {
       console.error('Failed to clear current game state:', error);
     }
   }
+};
+
+// Calculate number of stars based on score
+export const getStarRating = (score: number): number => {
+  if (score >= STAR_THRESHOLDS.THREE_STARS) return 3;
+  if (score >= STAR_THRESHOLDS.TWO_STARS) return 2;
+  if (score >= STAR_THRESHOLDS.ONE_STAR) return 1;
+  return 0;
 }; 

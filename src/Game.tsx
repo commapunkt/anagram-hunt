@@ -11,6 +11,7 @@ import BonusInfoModal from './components/BonusInfoModal';
 import AnimatedFoundWordRow from './components/AnimatedFoundWordRow';
 import ScoreHistoryModal from './components/ScoreHistoryModal';
 import CongratulationsModal from './components/CongratulationsModal';
+import StarRating from './components/StarRating';
 import { t } from './utils/translations';
 import { loadGameProgress, saveGameProgress, updateLevelProgress, loadCurrentGameState, saveCurrentGameState, clearCurrentGameState, GameProgress, FoundWordInfo } from './utils/storage';
 import { GAME_CONFIG } from './config';
@@ -694,7 +695,11 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
             <Text style={styles.modalTitle}>
               {timeLeft <= 0 ? t('game.timesUp', language) : t('game.levelComplete', language)}
             </Text>
-            <Text style={styles.modalScore}>{t('game.finalScore', language, { score })}</Text>
+            
+            <View style={styles.modalScoreContainer}>
+              <StarRating score={score} size="large" showScore={false} />
+              <Text style={styles.modalScore}>{t('game.finalScore', language, { score })}</Text>
+            </View>
             
             {/* Show high score information */}
             {isNewBestScore ? (
@@ -938,6 +943,10 @@ const styles = StyleSheet.create({
   modalScore: {
     fontSize: 20,
     color: '#FFD700',
+    marginBottom: 20,
+  },
+  modalScoreContainer: {
+    alignItems: 'center',
     marginBottom: 20,
   },
   newHighScoreText: {

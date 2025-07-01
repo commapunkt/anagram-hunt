@@ -3,6 +3,7 @@ import { Modal, View, Text, TouchableOpacity, FlatList, StyleSheet } from 'react
 import { GameProgress } from '../utils/storage';
 import { Language } from '../types';
 import { t } from '../utils/translations';
+import StarRating from './StarRating';
 
 interface CongratulationsModalProps {
   visible: boolean;
@@ -37,9 +38,12 @@ export default function CongratulationsModal({
       <View style={styles.levelItem}>
         <View style={styles.levelContent}>
           <Text style={styles.levelNumber}>{t('game.level', language, { level })}</Text>
-          <Text style={styles.scoreText}>
-            {t('game.score', language, { score: data.score })}
-          </Text>
+          <View style={styles.levelScoreContainer}>
+            <StarRating score={data.score} size="small" showScore={false} />
+            <Text style={styles.levelScoreText}>
+              {t('game.score', language, { score: data.score })}
+            </Text>
+          </View>
           {onPlayLevelAgain && (
             <TouchableOpacity 
               style={styles.playLevelAgainButton} 
@@ -78,9 +82,12 @@ export default function CongratulationsModal({
             <Text style={styles.totalScoreLabel}>
               {t('game.finalTotalScore', language)}
             </Text>
-            <Text style={styles.totalScoreValue}>
-              {progress?.totalScore || 0}
-            </Text>
+            <View style={styles.totalScoreStarsContainer}>
+              <StarRating score={progress?.totalScore || 0} size="large" showScore={false} />
+              <Text style={styles.totalScoreValue}>
+                {progress?.totalScore || 0}
+              </Text>
+            </View>
           </View>
           
           <View style={styles.statsContainer}>
@@ -230,6 +237,11 @@ const styles = StyleSheet.create({
     marginBottom: 8,
     fontWeight: '500',
   },
+  totalScoreStarsContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
   totalScoreValue: {
     color: '#fff',
     fontSize: 36,
@@ -265,7 +277,12 @@ const styles = StyleSheet.create({
     fontSize: 18,
     fontWeight: 'bold',
   },
-  scoreText: {
+  levelScoreContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 4,
+  },
+  levelScoreText: {
     color: '#FFD700',
     fontSize: 16,
     fontWeight: 'bold',

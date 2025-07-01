@@ -3,6 +3,7 @@ import { Modal, View, Text, TouchableOpacity, FlatList, StyleSheet } from 'react
 import { GameProgress } from '../utils/storage';
 import { Language } from '../types';
 import { t } from '../utils/translations';
+import StarRating from './StarRating';
 
 interface ScoreHistoryModalProps {
   visible: boolean;
@@ -33,9 +34,12 @@ export default function ScoreHistoryModal({
       <View style={styles.levelItem}>
         <View style={styles.levelContent}>
           <Text style={styles.levelNumber}>{t('game.level', language, { level })}</Text>
-          <Text style={styles.scoreText}>
-            {t('game.score', language, { score: data.score })}
-          </Text>
+          <View style={styles.scoreContainer}>
+            <StarRating score={data.score} size="small" showScore={false} />
+            <Text style={styles.scoreText}>
+              {t('game.score', language, { score: data.score })}
+            </Text>
+          </View>
           {onPlayLevelAgain && (
             <TouchableOpacity 
               style={styles.playAgainButton} 
@@ -209,6 +213,10 @@ const styles = StyleSheet.create({
     color: '#fff',
     fontSize: 18,
     fontWeight: 'bold',
+  },
+  scoreContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
   },
   scoreText: {
     color: '#FFD700',
