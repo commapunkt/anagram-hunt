@@ -83,6 +83,6 @@ const styles = StyleSheet.create({
   scoreText: {
     color: '#FFD700',
     fontWeight: 'bold',
-    marginLeft: 4,
+    marginLeft: 8,
   },
 }); 

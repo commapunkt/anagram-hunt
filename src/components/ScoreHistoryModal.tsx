@@ -217,6 +217,7 @@ const styles = StyleSheet.create({
   scoreContainer: {
     flexDirection: 'row',
     alignItems: 'center',
+    gap: 8,
   },
   scoreText: {
     color: '#FFD700',
