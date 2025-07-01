@@ -1,447 +1,959 @@
 {
   "seed_word": "POSSESSION",
+  "words_length_count": {
+    "3": 41,
+    "4": 61,
+    "5": 42,
+    "6": 31,
+    "7": 9,
+    "8": 4,
+    "9": 1
+  },
   "words_list": [
     {
-      "word": "EON",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
+      "word": "Opsonises",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
     },
     {
-      "word": "EONS",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
+      "word": "Opsonise",
+      "estimated_uncommonness": 5,
+      "combined_score": 856
     },
     {
-      "word": "EPI",
+      "word": "Poissons",
+      "estimated_uncommonness": 5,
+      "combined_score": 856
+    },
+    {
+      "word": "Spoonies",
+      "estimated_uncommonness": 5,
+      "combined_score": 856
+    },
+    {
+      "word": "Sessions",
       "estimated_uncommonness": 4,
-      "combined_score": 307
+      "combined_score": 732
     },
     {
-      "word": "ION",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "IONS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "ISO",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "NESS",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "NIP",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "NIPS",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "NOES",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "NOISE",
-      "estimated_uncommonness": 1,
-      "combined_score": 199
-    },
-    {
-      "word": "NOISES",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "NOOSE",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "NOPE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "NOSE",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "NOSES",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "NOSINESS",
+      "word": "Poisons",
       "estimated_uncommonness": 4,
-      "combined_score": 792
+      "combined_score": 711
     },
     {
-      "word": "ONE",
+      "word": "Poisson",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Possess",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Possies",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Spinose",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Essoins",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Osseins",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Session",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Sissoos",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Opines",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Opsins",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Pisses",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Poises",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Poison",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Ponies",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Posies",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Posses",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Possie",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Psions",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Sepsis",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Snipes",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Snoops",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Speiss",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Spines",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Spoons",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Enosis",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Eosins",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Essoin",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Nisses",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Noesis",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Noises",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Nooses",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Nosies",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Ossein",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Sensis",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Sisses",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Sissoo",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Sonses",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Sonsie",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Sosses",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Noops",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Opens",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Opine",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Opsin",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Peins",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Penis",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Peons",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Pesos",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Pines",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Pions",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Pises",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Pisos",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Poise",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Pones",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Poons",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Poses",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Posse",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Psion",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Sipes",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Snipe",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Snips",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Snoep",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Snoop",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Soops",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Speos",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Spies",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Spine",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Spins",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Spoon",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Eosin",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Nisse",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Noise",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Noose",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Noses",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ooses",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Sensi",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Siens",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Sines",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Sises",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Snies",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Sones",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Sonse",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Epos",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Neps",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Nips",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Noop",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Nope",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Oops",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Open",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Opes",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Pein",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Peni",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Pens",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Peon",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Peso",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Pies",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Pine",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Pins",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Pion",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Pise",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Piso",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Piss",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Pois",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Pone",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Pons",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Poon",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Poos",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Pose",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Poss",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Psis",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Seps",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Sipe",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Sips",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Snip",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Soop",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Sops",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Spie",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Spin",
+      "estimated_uncommonness": 3,
+      "combined_score": 278
+    },
+    {
+      "word": "Eons",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Ions",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Isos",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Ness",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Nies",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Noes",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Nose",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Ones",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Onie",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Onos",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Oons",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Oose",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Oses",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Seis",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Sens",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Sess",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Sien",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Sies",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Sine",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Sins",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Siss",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Sone",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Sons",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Soon",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Soss",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Nep",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Nip",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Oop",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Ope",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Ops",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Pen",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Pes",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Pie",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Pin",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Pis",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Poi",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Poo",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Pos",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Psi",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Sip",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Sop",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Ens",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "ONES",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "ONS",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "OON",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "OONS",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "OOP",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "OOPS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "OOS",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "OPEN",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "OPENS",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "OPINE",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "OPINES",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "OPS",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "PEN",
+      "word": "Eon",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "PENS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "PEON",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "PEONS",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "PESO",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "PIE",
+      "word": "Ess",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "PIES",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "PIN",
+      "word": "Ins",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "PINE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "PINES",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "PINS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "PION",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "PIONS",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "PISO",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "POI",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "POISE",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "POISON",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "POISONS",
-      "estimated_uncommonness": 2,
-      "combined_score": 505
-    },
-    {
-      "word": "PONE",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "PONES",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "PONS",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "POO",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "POON",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "POONS",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "POOS",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "POSE",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "POSES",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "POSIES",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "POSS",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "POSSE",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "POSSES",
-      "estimated_uncommonness": 4,
-      "combined_score": 594
-    },
-    {
-      "word": "POSSESS",
-      "estimated_uncommonness": 3,
-      "combined_score": 594
-    },
-    {
-      "word": "SEN",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "SESSION",
-      "estimated_uncommonness": 2,
-      "combined_score": 505
-    },
-    {
-      "word": "SESSIONS",
-      "estimated_uncommonness": 2,
-      "combined_score": 604
-    },
-    {
-      "word": "SIN",
+      "word": "Ion",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "SINE",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SINS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "SIP",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "SIPE",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "SIPS",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "SIS",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "SNIP",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "SNIPE",
-      "estimated_uncommonness": 4,
-      "combined_score": 495
-    },
-    {
-      "word": "SNOOP",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "SNOOPS",
-      "estimated_uncommonness": 3,
-      "combined_score": 495
-    },
-    {
-      "word": "SON",
+      "word": "Ios",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "SONS",
+      "word": "Iso",
       "estimated_uncommonness": 1,
-      "combined_score": 99
+      "combined_score": 10
     },
     {
-      "word": "SOON",
+      "word": "Nie",
       "estimated_uncommonness": 1,
-      "combined_score": 99
+      "combined_score": 10
     },
     {
-      "word": "SOP",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
+      "word": "Nis",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SOPS",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
+      "word": "Noo",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SOS",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
+      "word": "Nos",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SPIN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
+      "word": "Oes",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SPINE",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
+      "word": "Ois",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SPINES",
-      "estimated_uncommonness": 3,
-      "combined_score": 495
+      "word": "One",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SPINOSE",
-      "estimated_uncommonness": 5,
-      "combined_score": 792
+      "word": "Ono",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SPOON",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
+      "word": "Ons",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "SPOONS",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
+      "word": "Oon",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Oos",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ose",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sei",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sen",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sin",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sis",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Son",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sos",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     }
   ]
 }
-
-

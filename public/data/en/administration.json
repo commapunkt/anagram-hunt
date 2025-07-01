@@ -1,0 +1,6597 @@
+{
+  "seed_word": "ADMINISTRATION",
+  "words_length_count": {
+    "3": 135,
+    "4": 297,
+    "5": 327,
+    "6": 239,
+    "7": 159,
+    "8": 84,
+    "9": 48,
+    "10": 20,
+    "11": 4,
+    "12": 3
+  },
+  "words_list": [
+    {
+      "word": "Administrant",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Intimidators",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Ministration",
+      "estimated_uncommonness": 5,
+      "combined_score": 959
+    },
+    {
+      "word": "Admirations",
+      "estimated_uncommonness": 5,
+      "combined_score": 904
+    },
+    {
+      "word": "Intimidator",
+      "estimated_uncommonness": 5,
+      "combined_score": 904
+    },
+    {
+      "word": "Intimations",
+      "estimated_uncommonness": 4,
+      "combined_score": 863
+    },
+    {
+      "word": "Marinations",
+      "estimated_uncommonness": 4,
+      "combined_score": 863
+    },
+    {
+      "word": "Admiration",
+      "estimated_uncommonness": 4,
+      "combined_score": 808
+    },
+    {
+      "word": "Damnations",
+      "estimated_uncommonness": 4,
+      "combined_score": 808
+    },
+    {
+      "word": "Dinomanias",
+      "estimated_uncommonness": 4,
+      "combined_score": 808
+    },
+    {
+      "word": "Staminodia",
+      "estimated_uncommonness": 4,
+      "combined_score": 808
+    },
+    {
+      "word": "Tridominia",
+      "estimated_uncommonness": 4,
+      "combined_score": 808
+    },
+    {
+      "word": "Animations",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "Imitations",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "Intimation",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "Marination",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "Miniations",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "Ministrant",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "Antiaditis",
+      "estimated_uncommonness": 4,
+      "combined_score": 725
+    },
+    {
+      "word": "Darnations",
+      "estimated_uncommonness": 4,
+      "combined_score": 725
+    },
+    {
+      "word": "Radiations",
+      "estimated_uncommonness": 4,
+      "combined_score": 725
+    },
+    {
+      "word": "Traditions",
+      "estimated_uncommonness": 4,
+      "combined_score": 725
+    },
+    {
+      "word": "Damnation",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Diatomist",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Dinomania",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Dominants",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Dramatist",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Mandarins",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Mandators",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Staminoid",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Tamarinds",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Initiators",
+      "estimated_uncommonness": 3,
+      "combined_score": 684
+    },
+    {
+      "word": "Nitrations",
+      "estimated_uncommonness": 3,
+      "combined_score": 684
+    },
+    {
+      "word": "Sanitation",
+      "estimated_uncommonness": 3,
+      "combined_score": 684
+    },
+    {
+      "word": "Tarnations",
+      "estimated_uncommonness": 3,
+      "combined_score": 684
+    },
+    {
+      "word": "Transition",
+      "estimated_uncommonness": 3,
+      "combined_score": 684
+    },
+    {
+      "word": "Amanitins",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Anatomist",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Animation",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Animatist",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Animators",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Antiatoms",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Imitation",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Imitators",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Intromits",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Maintains",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Miniation",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Montarias",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Niramiais",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Tamanoirs",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Tarantism",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Timariots",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Adnations",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Aniridias",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Darnation",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Disanoint",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Distraint",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Nidations",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Ordinants",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Radiation",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Sardonian",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Tradition",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Dinmonts",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Dioramas",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Dominant",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Donatism",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Dormants",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Idiotism",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Indamins",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Madonnas",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Madronas",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Manatoid",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Mandarin",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Mandator",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Mandiras",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Mandoras",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Matadors",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Mattoids",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Midirons",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Monardas",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Mondains",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Mordants",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Radioman",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Roadsman",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Saintdom",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Tamarind",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Triadism",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Antiarins",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Initiator",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Irisation",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Natations",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Nitration",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Nonartist",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Sanitoria",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Satiation",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Stannator",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Striation",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Strontian",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Tarnation",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Tritonias",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Amanitin",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Amations",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Animator",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Antiatom",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Imitants",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Imitator",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Insomnia",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Intimist",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Intromit",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Maintain",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Martians",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Martinis",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Mistrain",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Montants",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Montaria",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Niramiai",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Sonarman",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Stromata",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Tamanoir",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Tamarins",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Tantrism",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Timariot",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Titanism",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Trainman",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Transmit",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Tritomas",
+      "estimated_uncommonness": 3,
+      "combined_score": 574
+    },
+    {
+      "word": "Adnation",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Andirons",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Aniridia",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Antidora",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Dartitis",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Dianoias",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Diatrons",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Distrain",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Distrait",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Intradas",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Intrados",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Nidation",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Ondatras",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Ordinant",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Radiants",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Stradiot",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Tarsioid",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Triadist",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Amidins",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Aramids",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Daimios",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Daimons",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Diamins",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Diatoms",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Dinmont",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Diorama",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Diorism",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Domains",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Domatia",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Donnism",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Dormant",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Dormins",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Indamin",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Madison",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Madonna",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Madrona",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Maidans",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Mandira",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Mandirs",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Mandora",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Mansard",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Mantids",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Mastoid",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Matador",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Mattoid",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Midairs",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Midiron",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Monarda",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Mondain",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Mordant",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Nimrods",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Randoms",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Roadman",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Rodsman",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Sandman",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Simioid",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Stardom",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Tsardom",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Annattos",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Antiarin",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Antiriot",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Aortitis",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Arnattos",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Intarsia",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Intrants",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Introits",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Natation",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Notitias",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Ostinati",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Sonatina",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Strontia",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Titanias",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Tritonia",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Amation",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Amnions",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Amorant",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Amorini",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Amorist",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Amritas",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Animato",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Animist",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Anosmia",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Antiman",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Artsman",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Atomist",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Imitant",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Intimas",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Ironman",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Mainors",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Manatis",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Manitos",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Mansion",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Mantras",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Marinas",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Martian",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Martini",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Martins",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Matrons",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Mattins",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Minions",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Miritis",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Montant",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Normans",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Oarsman",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Omniana",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Onanism",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Ramonas",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Saimiri",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Santimi",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Simitar",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Stamina",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Stamnoi",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Stomata",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Tamarin",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Tamaris",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Tatamis",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Tormina",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Transom",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Tritoma",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Andiron",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Astrand",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Astroid",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Dantons",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Dianoia",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Diarian",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Diarist",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Diatron",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Dinitro",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Distain",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Distant",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Distort",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Donnart",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Donnats",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Dotants",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Indarts",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Innards",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Inroads",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Intrada",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Iridian",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Nitrids",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Notanda",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Ondatra",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Ordains",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Radians",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Radiant",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Randans",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Randons",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Sadiron",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Sordini",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Tarands",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Tondini",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Tostada",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Admins",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Admits",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Aidman",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Amidin",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Amidst",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Aramid",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Daimio",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Daimon",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Damans",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Damars",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Damson",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Diamin",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Diatom",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Dirams",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Disarm",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Disman",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Domain",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Dormin",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Dramas",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Idioms",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Iodism",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Madras",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Maidan",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Mandir",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Mandis",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Mantid",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Marids",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Midair",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Modist",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Monads",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Nimrod",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Nomads",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Random",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Rodman",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Anattos",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Annatto",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Anoints",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Antiair",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Antiars",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Arnatto",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Aroints",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Artisan",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Atonias",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Attains",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Attorns",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Instant",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Intorts",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Intrant",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Introit",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Introns",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Ironist",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Nations",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Natrons",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Nonarts",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Notitia",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Onanist",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Rations",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Rattans",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Rattons",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Rottans",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Station",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Straint",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Striata",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Tantras",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Tartans",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Tiritis",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Titania",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Titanis",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Titians",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Toranas",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Totaras",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Transit",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Tritons",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Tsarina",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Airman",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Amnion",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Amnios",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Amrita",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Amrits",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Animas",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Animis",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Aromas",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Atmans",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Imaris",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Inarms",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Inmost",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Intima",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Mainor",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Manati",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Manats",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Manias",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Manito",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Mannas",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Manors",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Mantas",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Mantis",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Mantos",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Mantra",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Marina",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Marons",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Martin",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Matais",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Matins",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Matron",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Mattin",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Minars",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Minion",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Minors",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Mirins",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Miriti",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Moirai",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Monist",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Montan",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Morats",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Morias",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Nanism",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Nomina",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Norman",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Normas",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Ramins",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Ramona",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Ramson",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Ransom",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Romans",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Saimin",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Samiti",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Simian",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Smriti",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Somata",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Statim",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Stomia",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Stroam",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Stroma",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Tamari",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Tamins",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Tatami",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Timist",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Timons",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Tinman",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Titman",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Tomans",
+      "estimated_uncommonness": 3,
+      "combined_score": 381
+    },
+    {
+      "word": "Adonis",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Adorns",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Adroit",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Aidant",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Andros",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Aroids",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Danios",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Danton",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Dattos",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Dinars",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Diotas",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Dittos",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Doitit",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Donnas",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Donnat",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Dotant",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Drains",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Drants",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Droits",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Idants",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Idiots",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Indart",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Indias",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Indris",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Inroad",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Iodins",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Nadirs",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Nadors",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Naiads",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Nasard",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Nidors",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Nitrid",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Ordain",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Radian",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Radios",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Radons",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Randan",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Randon",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Ranids",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Sindon",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Sodain",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Stadia",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Strand",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Strond",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tarand",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Triads",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Troads",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Adman",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Admin",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Admit",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Amido",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Amids",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Daman",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Damar",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Damns",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Diram",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Dorms",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Drama",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Drams",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Idiom",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Imido",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Imids",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Maids",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Mandi",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Marid",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Midis",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Midst",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Minds",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Misdo",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Modii",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Monad",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Nomad",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Odism",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Timid",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Aartis",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Anatto",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Anions",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Annats",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Anoint",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Antars",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Antiar",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Aorist",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Aortas",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ariosi",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Arista",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Aristo",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Aroint",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Arsino",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Artist",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Astart",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Atonia",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Attain",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Attars",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Attorn",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Inions",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Instar",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Intort",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Intron",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Intros",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Iritis",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Isatin",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Istana",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Naiant",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Nairas",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Nasion",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Natant",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Nation",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Natron",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Nitons",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Nitros",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Noints",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Nonart",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Norias",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Orants",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Otitis",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ottars",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Raisin",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Raitas",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ratans",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ration",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ratios",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Rattan",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ratton",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Riatas",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ronins",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Rotans",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Rottan",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Santir",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Santon",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Satori",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Sittar",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Sonant",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Sonata",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Statin",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Stator",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Stotin",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Strain",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Strait",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Strata",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Strati",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Taints",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tairas",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tanist",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tannas",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tantra",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tarots",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tarsia",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tartan",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tatars",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tatsoi",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tiaras",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tiriti",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Titans",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Titian",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tonant",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Torana",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Torans",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tortas",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Totara",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Trains",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Traits",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Trants",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Triton",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Troats",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Tronas",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Amain",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Amias",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Amino",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Amins",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Amirs",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Amnia",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Amnio",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Amort",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Amrit",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Anima",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Animi",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Aroma",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Atman",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Atmas",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Atoms",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Imari",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Imino",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Inarm",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Maars",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Mains",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Mairs",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Maist",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Manas",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Manat",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Mania",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Manis",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Manna",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Manor",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Manos",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Manta",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Manto",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Maras",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Maria",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Maron",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Marts",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Mason",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Matai",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Matin",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Matts",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Minar",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Minas",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Minis",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Minor",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Minos",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Mints",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Mirin",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Miros",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Mitis",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Mitts",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Moans",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Moats",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Moira",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Moist",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Moits",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Monas",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Moras",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Morat",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Moria",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Morns",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Morts",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Motis",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Motts",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Naams",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Nomas",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Norma",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Norms",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Omasa",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Omits",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Ramin",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Ramis",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Roams",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Roman",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Saman",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Simar",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Smart",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Soman",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Stoma",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Storm",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Strim",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Tamin",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Tamis",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Timon",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Toman",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Tomia",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Trams",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Trims",
+      "estimated_uncommonness": 2,
+      "combined_score": 285
+    },
+    {
+      "word": "Adios",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Adits",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Adorn",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Aidas",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Aidoi",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Aidos",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Andro",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Aroid",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Daint",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Danio",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Dants",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Daris",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Darns",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Darts",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Datos",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Datto",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Dinar",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Dinna",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Dinos",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Dints",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Diota",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Dirts",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Ditas",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Ditto",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Ditts",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Doats",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Doits",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Donas",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Donna",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Doris",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Dorsa",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Dorts",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Drain",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Drant",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Drats",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Droit",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Idant",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Idiot",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "India",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Indri",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Iodin",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Irids",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Nadas",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Nadir",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Naiad",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Nards",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Nidor",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Nitid",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Odist",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Oidia",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Radii",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Radio",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Radon",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Raids",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Rands",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Ranid",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Riads",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Rinds",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Roads",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Sarod",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Sorda",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Staid",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Stand",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Stond",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Strad",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Tardo",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Tinds",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Toads",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Tondi",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Trads",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Triad",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Troad",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Trods",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Tsadi",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Amid",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Damn",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Dams",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Dims",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Doms",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Dorm",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Dram",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Imid",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Mads",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Maid",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Mand",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Mard",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Midi",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Mids",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Mind",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Modi",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Mods",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Aarti",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Airns",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Airts",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Anion",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Annas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Annat",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Anoas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Antar",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Antas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Antis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Antra",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Aorta",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Arias",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ariot",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Arnas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Arson",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Artis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Astir",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Atria",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Attar",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Inion",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Innit",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Intis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Intra",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Intro",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Iotas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Irons",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Naans",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Naira",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Nanas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Naras",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Naris",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Natis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Niton",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Nitro",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Noint",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Noirs",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Nonas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Nonis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Noria",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Noris",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Oints",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Orant",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ornis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ostia",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ottar",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Raias",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Rains",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Raita",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Raits",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ranas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ranis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Rants",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Rasta",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ratan",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ratas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ratio",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ratos",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Riant",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Riata",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Riots",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ritts",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Roans",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Roast",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Roins",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Roist",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ronin",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ronts",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Rosin",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Rosit",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Rosti",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Rotan",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Rotas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Rotis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Saint",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Santo",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Saran",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Sarin",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Satai",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Satin",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Sitar",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Snirt",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Snort",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Sonar",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Sorta",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Stain",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Stair",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Starn",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Start",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Stint",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Stoai",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Stoat",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Stoit",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Stonn",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Stria",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tains",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Taint",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Taira",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Taits",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tanas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tanna",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tanti",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tanto",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Taras",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tarns",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Taros",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tarot",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tarsi",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tarts",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tasar",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tatar",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tians",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tiara",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tiars",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tinas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tints",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tiros",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Titan",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Titis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Toast",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Toits",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Toran",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Toras",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Torii",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Torsi",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Torta",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Torts",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Train",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Trait",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Trans",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Trant",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Trats",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Trins",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Trios",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Trist",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Troat",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Trois",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Trona",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Trons",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Trots",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Aims",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Amas",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Amia",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Amin",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Amir",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Amis",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Arms",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Atma",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Atom",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Maar",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Maas",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Main",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mair",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mana",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mani",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mano",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mans",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mara",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mars",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mart",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Masa",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mast",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mats",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Matt",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mina",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mini",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mino",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mint",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Miri",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Miro",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mirs",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Miso",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mist",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mitt",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mnas",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Moai",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Moan",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Moas",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Moat",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Moit",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mona",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mons",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mora",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Morn",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mors",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mort",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Most",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Moti",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mots",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Mott",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Naam",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Nams",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Nims",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Noma",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Noms",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Norm",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Omit",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Rami",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Rams",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Rima",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Rims",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Roam",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Roma",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Roms",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Saim",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Sama",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Sima",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Simi",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Smir",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Smit",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Soma",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Stim",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Tams",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Toms",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Tram",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Trim",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Adit",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Ados",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Aida",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Aids",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Ands",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Ards",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Arid",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dais",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dans",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dant",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dari",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Darn",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dart",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Data",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dato",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dino",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dins",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dint",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dirt",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Disa",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dita",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dits",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Ditt",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Doat",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Doit",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dona",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dons",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dors",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dort",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dost",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dots",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Drat",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Irid",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Nada",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Nads",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Nard",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Nidi",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Nids",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Nodi",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Nods",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Odas",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Orad",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Ords",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Rads",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Raid",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Rand",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Riad",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Rids",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Rind",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Road",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Rods",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Sadi",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Sado",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Said",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Sand",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Sard",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Sida",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Sind",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Snod",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Soda",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Sord",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Tads",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Tids",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Tind",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Toad",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Tods",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Trad",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Trod",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Dam",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Dim",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Dom",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Mad",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Mid",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Mod",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Aias",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Ains",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Airn",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Airs",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Airt",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Aits",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Anan",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Anas",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Anis",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Anna",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Anno",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Anns",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Anoa",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Anon",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Ansa",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Anta",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Anti",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Ants",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Aria",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Aris",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Arna",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Arti",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Arts",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Asar",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Inia",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Inns",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Inro",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Inti",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Into",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Ions",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Iota",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Iris",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Iron",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Isit",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Isna",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Itas",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Naan",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Nain",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Nana",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Nans",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Naoi",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Naos",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Nats",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Nisi",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Nits",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Noir",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Nona",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Noni",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Nori",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Nota",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Nott",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Oars",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Oast",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Oats",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Oint",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Onst",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Orts",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Osar",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Raia",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rain",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rais",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rait",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rana",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rani",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rant",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rast",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rata",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rato",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rats",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rias",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rins",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Riot",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rits",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Ritt",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Roan",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Roin",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Ront",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rost",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rota",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Roti",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Rots",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Sain",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Sair",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Sant",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Sari",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Sati",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Siri",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Snar",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Snit",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Snot",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Soar",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Sora",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Sori",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Sorn",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Sort",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Star",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Stat",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Stir",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Stoa",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Stot",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tain",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tais",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tait",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tana",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tans",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Taos",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tara",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tarn",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Taro",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tars",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tart",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tats",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tian",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tiar",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tina",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tins",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tint",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tiro",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Titi",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tits",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Toit",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tons",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tora",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tori",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Torn",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tors",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tort",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tosa",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tost",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tots",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Trat",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Trin",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Trio",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tron",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Trot",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Tsar",
+      "estimated_uncommonness": 1,
+      "combined_score": 106
+    },
+    {
+      "word": "Aim",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Ama",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Ami",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Arm",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Ism",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Maa",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Man",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mar",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mas",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mat",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mir",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mis",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mna",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Moa",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Moi",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mon",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mor",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mos",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mot",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Nam",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Nim",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Nom",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Oms",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Ram",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Rim",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Rom",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Sam",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Sim",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Sma",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Som",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Tam",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Tom",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Ado",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Ads",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Aid",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "And",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Ard",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Dan",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Das",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Din",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Dis",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Dit",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Don",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Dor",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Dos",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Dot",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Dso",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Ids",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Nid",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Nod",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Oda",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Ods",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Ord",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Rad",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Rid",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Rod",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Sad",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Sod",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Tad",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Tid",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Tod",
+      "estimated_uncommonness": 1,
+      "combined_score": 51
+    },
+    {
+      "word": "Aas",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aia",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ain",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Air",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ais",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ait",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ana",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ani",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ann",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ans",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ant",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ars",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Art",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ats",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Att",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Inn",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ins",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ion",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ios",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Iso",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ita",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Its",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nan",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nas",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nis",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Non",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nor",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nos",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Not",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Oar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Oat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ois",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ons",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ora",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ors",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ort",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rai",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ran",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ras",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ria",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rin",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rot",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sai",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "San",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sin",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sir",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Son",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sot",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sri",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tai",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tan",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tao",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tas",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tin",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tis",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ton",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tor",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tot",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}

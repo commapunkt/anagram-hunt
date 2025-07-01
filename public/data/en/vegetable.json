@@ -1,392 +1,738 @@
 {
   "seed_word": "VEGETABLE",
+  "words_length_count": {
+    "3": 48,
+    "4": 48,
+    "5": 29,
+    "6": 15,
+    "7": 4,
+    "8": 1
+  },
   "words_list": [
     {
-      "word": "ABE",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "ABLE",
-      "estimated_uncommonness": 1,
-      "combined_score": 134
-    },
-    {
-      "word": "AGE",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "ALE",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "ALT",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "ATE",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "BAG",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "BALE",
-      "estimated_uncommonness": 3,
-      "combined_score": 322
-    },
-    {
-      "word": "BAT",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "BATE",
-      "estimated_uncommonness": 3,
-      "combined_score": 322
-    },
-    {
-      "word": "BEAT",
-      "estimated_uncommonness": 1,
-      "combined_score": 134
-    },
-    {
-      "word": "BEET",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
-    },
-    {
-      "word": "BEG",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "BEGET",
-      "estimated_uncommonness": 4,
-      "combined_score": 545
-    },
-    {
-      "word": "BEL",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "BELT",
-      "estimated_uncommonness": 1,
-      "combined_score": 134
-    },
-    {
-      "word": "BET",
-      "estimated_uncommonness": 1,
-      "combined_score": 10
-    },
-    {
-      "word": "BETA",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
-    },
-    {
-      "word": "BLAE",
+      "word": "Vegelate",
       "estimated_uncommonness": 5,
-      "combined_score": 520
+      "combined_score": 1000
     },
     {
-      "word": "BLAT",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "BLEAT",
-      "estimated_uncommonness": 3,
-      "combined_score": 456
-    },
-    {
-      "word": "BLEB",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "BLET",
+      "word": "Vegetal",
       "estimated_uncommonness": 5,
-      "combined_score": 520
+      "combined_score": 846
     },
     {
-      "word": "EAT",
+      "word": "Elevate",
+      "estimated_uncommonness": 4,
+      "combined_score": 791
+    },
+    {
+      "word": "Getable",
+      "estimated_uncommonness": 4,
+      "combined_score": 791
+    },
+    {
+      "word": "Gleave",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Vegete",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Legatee",
+      "estimated_uncommonness": 3,
+      "combined_score": 681
+    },
+    {
+      "word": "Beagle",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Gablet",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Glebae",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Valete",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Velate",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Veleta",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Bevel",
+      "estimated_uncommonness": 4,
+      "combined_score": 593
+    },
+    {
+      "word": "Beetle",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Belate",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Gavel",
+      "estimated_uncommonness": 4,
+      "combined_score": 538
+    },
+    {
+      "word": "Eaglet",
+      "estimated_uncommonness": 3,
+      "combined_score": 527
+    },
+    {
+      "word": "Gelate",
+      "estimated_uncommonness": 3,
+      "combined_score": 527
+    },
+    {
+      "word": "Legate",
+      "estimated_uncommonness": 3,
+      "combined_score": 527
+    },
+    {
+      "word": "Teagle",
+      "estimated_uncommonness": 3,
+      "combined_score": 527
+    },
+    {
+      "word": "Telega",
+      "estimated_uncommonness": 3,
+      "combined_score": 527
+    },
+    {
+      "word": "Bagel",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Begat",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Beget",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Belga",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Gable",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Gleba",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Glebe",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Leave",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Levee",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Valet",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Veale",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Abele",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Ablet",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Albee",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Belee",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Betel",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Blate",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Bleat",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Table",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Gave",
+      "estimated_uncommonness": 3,
+      "combined_score": 384
+    },
+    {
+      "word": "Vega",
+      "estimated_uncommonness": 3,
+      "combined_score": 384
+    },
+    {
+      "word": "Aglee",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Aglet",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Eagle",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Etage",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Gelee",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Gleet",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Avel",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Blag",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Eave",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Evet",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Lave",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Leva",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Leve",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Vale",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Veal",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Vela",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Vele",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Elate",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "Telae",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "Abet",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Able",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Albe",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Bael",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Bale",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Bate",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Beat",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Beet",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Belt",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Beta",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Bete",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Blae",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Blat",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Blee",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Blet",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Vag",
+      "estimated_uncommonness": 3,
+      "combined_score": 230
+    },
+    {
+      "word": "Veg",
+      "estimated_uncommonness": 3,
+      "combined_score": 230
+    },
+    {
+      "word": "Agee",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Egal",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Gale",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Gate",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Geal",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Geat",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Gelt",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Geta",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Glee",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Ave",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Bag",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Beg",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Eve",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Gab",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Lav",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Lev",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Tav",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Vae",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Vat",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Vee",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Vet",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Alee",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Eale",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Late",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Leat",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Leet",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Tael",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Tale",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Teal",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Teel",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Tela",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Tele",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Alb",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Bal",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Bat",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Bee",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Bel",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Bet",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Lab",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Tab",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Age",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Gae",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Gal",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Gat",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Gee",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Gel",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Get",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Lag",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Leg",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Tag",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Teg",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Ale",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "EEL",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "EGAL",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "GAB",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "GABLE",
-      "estimated_uncommonness": 3,
-      "combined_score": 456
-    },
-    {
-      "word": "GAE",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "GALE",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
-    },
-    {
-      "word": "GAT",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "GATE",
-      "estimated_uncommonness": 1,
-      "combined_score": 134
-    },
-    {
-      "word": "GAVE",
-      "estimated_uncommonness": 1,
-      "combined_score": 134
-    },
-    {
-      "word": "GAVEL",
-      "estimated_uncommonness": 3,
-      "combined_score": 456
-    },
-    {
-      "word": "GEL",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "GELATE",
-      "estimated_uncommonness": 5,
-      "combined_score": 768
-    },
-    {
-      "word": "GELT",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "GET",
+      "word": "Alt",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "GETA",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
-    },
-    {
-      "word": "GLEBA",
-      "estimated_uncommonness": 5,
-      "combined_score": 644
-    },
-    {
-      "word": "GLEBE",
-      "estimated_uncommonness": 4,
-      "combined_score": 545
-    },
-    {
-      "word": "GLEE",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
-    },
-    {
-      "word": "GLEET",
-      "estimated_uncommonness": 5,
-      "combined_score": 644
-    },
-    {
-      "word": "LAB",
+      "word": "Ate",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "LAG",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "LAT",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "LATE",
-      "estimated_uncommonness": 1,
-      "combined_score": 134
-    },
-    {
-      "word": "LAV",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "LAVE",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "LEA",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "LEE",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "LEET",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "LEG",
+      "word": "Eat",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "LET",
+      "word": "Eel",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "LEVA",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "LEVEE",
-      "estimated_uncommonness": 3,
-      "combined_score": 456
-    },
-    {
-      "word": "TAB",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "TABLE",
-      "estimated_uncommonness": 1,
-      "combined_score": 258
-    },
-    {
-      "word": "TAG",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "TALE",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
-    },
-    {
-      "word": "TEA",
+      "word": "Elt",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "TEAL",
-      "estimated_uncommonness": 3,
-      "combined_score": 322
+      "word": "Eta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "TEE",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
+      "word": "Lat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "TEEL",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
+      "word": "Lea",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "TEG",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
+      "word": "Lee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "TELA",
-      "estimated_uncommonness": 5,
-      "combined_score": 520
+      "word": "Let",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "TELE",
-      "estimated_uncommonness": 3,
-      "combined_score": 322
+      "word": "Tae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "VAE",
-      "estimated_uncommonness": 6,
-      "combined_score": 505
+      "word": "Tea",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "VAT",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
+      "word": "Tee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "VEAL",
-      "estimated_uncommonness": 2,
-      "combined_score": 233
-    },
-    {
-      "word": "VEE",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "VEG",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "VEGA",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "VELA",
-      "estimated_uncommonness": 4,
-      "combined_score": 421
-    },
-    {
-      "word": "VELETA",
-      "estimated_uncommonness": 6,
-      "combined_score": 876
-    },
-    {
-      "word": "VET",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "VEGETAL",
-      "estimated_uncommonness": 4,
-      "combined_score": 802
+      "word": "Tel",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     }
   ]
 }
-
-

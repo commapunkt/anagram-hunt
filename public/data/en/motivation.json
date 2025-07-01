@@ -1,368 +1,718 @@
 {
   "seed_word": "MOTIVATION",
+  "words_length_count": {
+    "3": 48,
+    "4": 55,
+    "5": 21,
+    "6": 10,
+    "7": 6,
+    "8": 1
+  },
   "words_list": [
     {
-      "word": "AIM",
+      "word": "Ottavino",
+      "estimated_uncommonness": 5,
+      "combined_score": 945
+    },
+    {
+      "word": "Vitamin",
+      "estimated_uncommonness": 5,
+      "combined_score": 901
+    },
+    {
+      "word": "Ovation",
+      "estimated_uncommonness": 4,
+      "combined_score": 791
+    },
+    {
+      "word": "Vimina",
+      "estimated_uncommonness": 5,
+      "combined_score": 747
+    },
+    {
+      "word": "Vomito",
+      "estimated_uncommonness": 5,
+      "combined_score": 747
+    },
+    {
+      "word": "Amotion",
+      "estimated_uncommonness": 4,
+      "combined_score": 736
+    },
+    {
+      "word": "Imitant",
+      "estimated_uncommonness": 4,
+      "combined_score": 736
+    },
+    {
+      "word": "Ottoman",
+      "estimated_uncommonness": 4,
+      "combined_score": 736
+    },
+    {
+      "word": "Notitia",
+      "estimated_uncommonness": 3,
+      "combined_score": 626
+    },
+    {
+      "word": "Mavin",
+      "estimated_uncommonness": 4,
+      "combined_score": 593
+    },
+    {
+      "word": "Vomit",
+      "estimated_uncommonness": 4,
+      "combined_score": 593
+    },
+    {
+      "word": "Intima",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Manito",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Mattin",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Motion",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Titman",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Tomato",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Avion",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Vitta",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Titian",
+      "estimated_uncommonness": 2,
+      "combined_score": 472
+    },
+    {
+      "word": "Toitoi",
+      "estimated_uncommonness": 2,
+      "combined_score": 472
+    },
+    {
+      "word": "Omov",
+      "estimated_uncommonness": 4,
+      "combined_score": 439
+    },
+    {
+      "word": "Amino",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Amnio",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Animi",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Imino",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Manto",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Matin",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Motto",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Nomoi",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Tamin",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Timon",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Toman",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Tomia",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Nova",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Vain",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Vant",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Vina",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Vino",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Vint",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Vita",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Nooit",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "Taint",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "Tanti",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "Tanto",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "Titan",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "Vim",
+      "estimated_uncommonness": 3,
+      "combined_score": 285
+    },
+    {
+      "word": "Amin",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Atom",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Main",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Mani",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Mano",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Matt",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Mina",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Mini",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Mino",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Mint",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Mitt",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Moai",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Moan",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Moat",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Moit",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Mona",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Mono",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Mooi",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Moon",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Moot",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Moti",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Mott",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Noma",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Omit",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Tomo",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Toom",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Avo",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Ova",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Tav",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Van",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Vat",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Via",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Vin",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Anti",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Inia",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Inti",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Into",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Iota",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Naoi",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Nota",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Nott",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Oint",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Onto",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Oont",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Otto",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Tain",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Tait",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Tian",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Tina",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Tint",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Titi",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Toit",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Toon",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Toot",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Aim",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Ami",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Man",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Mat",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Mna",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Moa",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Moi",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Mon",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Moo",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Mot",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Nam",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Nim",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Nom",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Oom",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Tam",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Tom",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Ain",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "AIN",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "AIT",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "AMI",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "AMINO",
-      "estimated_uncommonness": 3,
-      "combined_score": 396
-    },
-    {
-      "word": "AMNIO",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "AMNION",
-      "estimated_uncommonness": 5,
-      "combined_score": 693
-    },
-    {
-      "word": "ANT",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "ANTI",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "ATOM",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "ION",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "IOTA",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "MAIN",
-      "estimated_uncommonness": 1,
-      "combined_score": 99
-    },
-    {
-      "word": "MAN",
+      "word": "Ait",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "MANITO",
-      "estimated_uncommonness": 5,
-      "combined_score": 693
-    },
-    {
-      "word": "MANO",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "MAT",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "MATIN",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
-    },
-    {
-      "word": "MINT",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "MNA",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "MOA",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "MOAN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "MOAT",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "MON",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "MONO",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "MOT",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "MOTION",
-      "estimated_uncommonness": 1,
-      "combined_score": 298
-    },
-    {
-      "word": "NATO",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "NAVI",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "NIT",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "NOM",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "NOMA",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "NOTA",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "NOTION",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
-    },
-    {
-      "word": "NOV",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "NOVA",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "OAT",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "OMIT",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "OVA",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "OVATION",
-      "estimated_uncommonness": 3,
-      "combined_score": 594
-    },
-    {
-      "word": "TAIN",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "TAM",
-      "estimated_uncommonness": 3,
-      "combined_score": 208
-    },
-    {
-      "word": "TAN",
+      "word": "Ani",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "TAO",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "TAV",
-      "estimated_uncommonness": 5,
-      "combined_score": 406
-    },
-    {
-      "word": "TIN",
+      "word": "Ant",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "TINA",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "TOM",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "TON",
+      "word": "Att",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "TOO",
+      "word": "Ion",
       "estimated_uncommonness": 1,
       "combined_score": 10
     },
     {
-      "word": "TOOM",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "TOON",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "TOT",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "VAIN",
-      "estimated_uncommonness": 2,
-      "combined_score": 198
-    },
-    {
-      "word": "VAN",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "VAT",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "VIA",
-      "estimated_uncommonness": 2,
-      "combined_score": 109
-    },
-    {
-      "word": "VIM",
-      "estimated_uncommonness": 4,
-      "combined_score": 307
-    },
-    {
-      "word": "VINA",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "VINO",
-      "estimated_uncommonness": 4,
-      "combined_score": 396
-    },
-    {
-      "word": "VINT",
-      "estimated_uncommonness": 5,
-      "combined_score": 495
-    },
-    {
-      "word": "VITA",
-      "estimated_uncommonness": 3,
-      "combined_score": 297
-    },
-    {
-      "word": "VOMIT",
-      "estimated_uncommonness": 2,
-      "combined_score": 297
-    },
-    {
-      "word": "NATION",
+      "word": "Ita",
       "estimated_uncommonness": 1,
-      "combined_score": 298
+      "combined_score": 10
     },
     {
-      "word": "NOTION",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
+      "word": "Nat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "OVATION",
-      "estimated_uncommonness": 3,
-      "combined_score": 594
+      "word": "Nit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "TANTIVY",
-      "estimated_uncommonness": 5,
-      "combined_score": 792
+      "word": "Noo",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "TITANO",
-      "estimated_uncommonness": 5,
-      "combined_score": 693
+      "word": "Not",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "TOMATO",
-      "estimated_uncommonness": 2,
-      "combined_score": 396
+      "word": "Oat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "VINTA",
-      "estimated_uncommonness": 5,
-      "combined_score": 594
+      "word": "Ono",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "VITAMIN",
-      "estimated_uncommonness": 2,
-      "combined_score": 505
+      "word": "Oon",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     },
     {
-      "word": "VOMITO",
-      "estimated_uncommonness": 5,
-      "combined_score": 693
+      "word": "Oot",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tai",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tan",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tao",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tin",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ton",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Too",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tot",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
     }
   ]
 }
-
-
-
