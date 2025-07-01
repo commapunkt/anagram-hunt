@@ -14,7 +14,7 @@
         "nextLevel": "Nächstes Level",
         "level": "Level {level}",
         "loading": "Lädt...",
-        "allLevelsComplete": "Glückwunsch! Sie haben alle Level abgeschlossen!",
+        "allLevelsComplete": "Sie haben alle Level abgeschlossen!",
         "invalidWord": "Ungültiges Wort!",
         "alreadyFound": "Wort bereits gefunden!",
         "tooShort": "Wort zu kurz!",
@@ -31,7 +31,10 @@
         "scoreHistory": "Punktzahl-Verlauf",
         "totalScore": "Gesamtpunktzahl",
         "wordsFound": "{found}/{total} Wörter gefunden",
-        "noHistoryYet": "Noch keine abgeschlossenen Level. Starte das Spiel, um deinen Verlauf zu sehen!"
+        "noHistoryYet": "Noch keine abgeschlossenen Level. Starte das Spiel, um deinen Verlauf zu sehen!",
+        "congratulations": "Glückwunsch!",
+        "finalTotalScore": "Endgesamtpunktzahl",
+        "levelBreakdown": "Level-Aufschlüsselung"
     },
     "splash": {
         "title": "Anagramm Jagd",

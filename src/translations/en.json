@@ -14,7 +14,7 @@
         "nextLevel": "Next Level",
         "level": "Level {level}",
         "loading": "Loading...",
-        "allLevelsComplete": "Congratulations! You've completed all levels!",
+        "allLevelsComplete": "You've completed all levels!",
         "invalidWord": "Invalid word!",
         "alreadyFound": "Word already found!",
         "tooShort": "Word too short!",
@@ -31,7 +31,10 @@
         "scoreHistory": "Score History",
         "totalScore": "Total Score",
         "wordsFound": "{found}/{total} words found",
-        "noHistoryYet": "No completed levels yet. Start playing to see your history!"
+        "noHistoryYet": "No completed levels yet. Start playing to see your history!",
+        "congratulations": "Congratulations!",
+        "finalTotalScore": "Final Total Score",
+        "levelBreakdown": "Level Breakdown"
     },
     "splash": {
         "title": "Anagram Hunt",

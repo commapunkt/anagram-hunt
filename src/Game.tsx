@@ -10,6 +10,7 @@ import StraightIcon from './components/StraightIcon';
 import BonusInfoModal from './components/BonusInfoModal';
 import AnimatedFoundWordRow from './components/AnimatedFoundWordRow';
 import ScoreHistoryModal from './components/ScoreHistoryModal';
+import CongratulationsModal from './components/CongratulationsModal';
 import { t } from './utils/translations';
 import { GameProgress, loadGameProgress, updateLevelProgress, saveCurrentGameState, loadCurrentGameState, clearCurrentGameState, FoundWordInfo } from './utils/storage';
 import { GAME_CONFIG } from './config';
@@ -47,9 +48,10 @@ interface GameProps {
   language: Language;
   isResuming?: boolean;
   onPause?: () => void;
+  onPlayAgain?: () => void;
 }
 
-export default function Game({ language, isResuming, onPause }: GameProps) {
+export default function Game({ language, isResuming, onPause, onPlayAgain }: GameProps) {
   const [levelWords, setLevelWords] = useState<Word[] | null>(null);
   const [seedWord, setSeedWord] = useState('');
   const [wordMap, setWordMap] = useState<Map<string, Word>>(new Map());
@@ -74,6 +76,7 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
   const [isResumingGame, setIsResumingGame] = useState(false);
   const [showHistoryModal, setShowHistoryModal] = useState(false);
   const [gameProgress, setGameProgress] = useState<GameProgress | null>(null);
+  const [showCongratulationsModal, setShowCongratulationsModal] = useState(false);
   
   const gameStateRef = useRef<any>(null);
   useEffect(() => {
@@ -109,7 +112,19 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
       
       const levelFile = levelMapping[level.toString()]; 
       if (!levelFile) {
-        alert(t('game.allLevelsComplete', language));
+        // All levels completed - save current level progress first, then show congratulations modal
+        if (levelWords) {
+          updateLevelProgress(
+            currentLevel,
+            score,
+            foundWords.length,
+            levelWords.length,
+            language
+          );
+        }
+        const progress = loadGameProgress();
+        setGameProgress(progress);
+        setShowCongratulationsModal(true);
         setIsGameOver(true);
         setIsLoading(false);
         return;
@@ -150,6 +165,38 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
       setIsResumingGame(true); 
       setCurrentLevel(currentGameState.level);
       clearCurrentGameState();
+      
+      // Check if this was a completed game
+      const progress = loadGameProgress();
+      if (progress && progress.language === language) {
+        // Check if all levels are completed by trying to load the next level
+        const checkIfCompleted = async () => {
+          try {
+            const basePath = Platform.OS === 'web' ? 'data' : 'asset:/data';
+            const mappingUrl = `${basePath}/${language}/_level-mapping.json`;
+            const mappingResponse = await fetch(mappingUrl);
+            if (mappingResponse.ok) {
+              const levelMapping = await mappingResponse.json();
+              const nextLevel = (progress.currentLevel || 1) + 1;
+              const levelFile = levelMapping[nextLevel.toString()];
+              
+              // If no level file exists for the next level, the game is completed
+              if (!levelFile) {
+                // Game is completed - show congratulations modal
+                setGameProgress(progress);
+                setShowCongratulationsModal(true);
+                setIsGameOver(true);
+                setIsLoading(false);
+                return;
+              }
+            }
+          } catch (error) {
+            console.error('Error checking game completion:', error);
+          }
+        };
+        
+        checkIfCompleted();
+      }
     } else {
       // --- NEW GAME LOGIC ---
       const savedProgress = loadGameProgress();
@@ -213,6 +260,39 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
     const interval = setInterval(saveCurrentState, 1000);
     return () => clearInterval(interval);
   }, [currentLevel, language, seedWord, foundWords, score, timeLeft, lastWordLength, streakCount, straightCount, isLoading]);
+
+  // Physical keyboard handling
+  useEffect(() => {
+    if (Platform.OS !== 'web' || isLoading || isGameOver) return;
+
+    const handleKeyDown = (event: KeyboardEvent) => {
+      const key = event.key.toLowerCase();
+      
+      // Handle letter keys
+      if (/^[a-z]$/.test(key)) {
+        const usedCounts = getCharMap(currentInput);
+        const availableCount = seedLetterMap.get(key) || 0;
+        const usedCount = usedCounts.get(key) || 0;
+
+        if (usedCount < availableCount) {
+          setCurrentInput(prev => prev + key);
+        }
+      }
+      
+      // Handle backspace
+      if (key === 'backspace') {
+        setCurrentInput(prev => prev.slice(0, -1));
+      }
+      
+      // Handle enter
+      if (key === 'enter') {
+        handleSubmit();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [currentInput, seedLetterMap, isLoading, isGameOver]);
 
   const handleBonusInfoPress = (bonusType: 'streak' | 'straight') => {
     const rule = BONUS_RULES[bonusType];
@@ -361,8 +441,16 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
         language={language}
       />
 
+      <CongratulationsModal
+        visible={showCongratulationsModal}
+        onClose={() => setShowCongratulationsModal(false)}
+        onPlayAgain={onPlayAgain || (() => {})}
+        progress={gameProgress}
+        language={language}
+      />
+
       <Modal
-        visible={isGameOver}
+        visible={isGameOver && !showCongratulationsModal}
         transparent={true}
         animationType="fade"
       >

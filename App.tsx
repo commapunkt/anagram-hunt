@@ -25,7 +25,40 @@ export default function App() {
             if (savedGame) {
                 setLanguage(savedGame.language);
                 setHasSavedGame(true);
-                setGameState('paused');
+                
+                // Check if this was a completed game by looking at the progress
+                const progress = loadGameProgress();
+                if (progress && progress.language === savedGame.language) {
+                    // Check if all levels are completed by trying to load the next level
+                    const checkIfCompleted = async () => {
+                        try {
+                            const basePath = Platform.OS === 'web' ? 'data' : 'asset:/data';
+                            const mappingUrl = `${basePath}/${savedGame.language}/_level-mapping.json`;
+                            const mappingResponse = await fetch(mappingUrl);
+                            if (mappingResponse.ok) {
+                                const levelMapping = await mappingResponse.json();
+                                const nextLevel = (progress.currentLevel || 1) + 1;
+                                const levelFile = levelMapping[nextLevel.toString()];
+                                
+                                // If no level file exists for the next level, the game is completed
+                                if (!levelFile) {
+                                    // Game is completed - show congratulations directly
+                                    setGameState('playing'); // This will trigger the congratulations modal
+                                    return;
+                                }
+                            }
+                        } catch (error) {
+                            console.error('Error checking game completion:', error);
+                        }
+                        
+                        // Game is not completed - show pause dialog
+                        setGameState('paused');
+                    };
+                    
+                    checkIfCompleted();
+                } else {
+                    setGameState('paused');
+                }
             }
         };
 
@@ -120,7 +153,7 @@ export default function App() {
     const renderContent = () => {
         switch (gameState) {
             case 'playing':
-                return <Game language={language} isResuming={hasSavedGame} onPause={handlePauseGame} />;
+                return <Game language={language} isResuming={hasSavedGame} onPause={handlePauseGame} onPlayAgain={handleNewGame} />;
             case 'paused':
                 return (
                     <View style={styles.pausedContainer}>
