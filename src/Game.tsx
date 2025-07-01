@@ -9,6 +9,7 @@ import StreakIcon from './components/StreakIcon';
 import StraightIcon from './components/StraightIcon';
 import BonusInfoModal from './components/BonusInfoModal';
 import AnimatedFoundWordRow from './components/AnimatedFoundWordRow';
+import ScoreHistoryModal from './components/ScoreHistoryModal';
 import { t } from './utils/translations';
 import { GameProgress, loadGameProgress, updateLevelProgress, saveCurrentGameState, loadCurrentGameState, clearCurrentGameState, FoundWordInfo } from './utils/storage';
 import { GAME_CONFIG } from './config';
@@ -71,8 +72,10 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
   const [bonusInfo, setBonusInfo] = useState<{ title: string; description: string } | null>(null);
   const [isInvalidWord, setIsInvalidWord] = useState(false);
   const [isResumingGame, setIsResumingGame] = useState(false);
+  const [showHistoryModal, setShowHistoryModal] = useState(false);
+  const [gameProgress, setGameProgress] = useState<GameProgress | null>(null);
   
-  const gameStateRef = useRef<any>();
+  const gameStateRef = useRef<any>(null);
   useEffect(() => {
     gameStateRef.current = {
       level: currentLevel,
@@ -325,6 +328,12 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
     setCurrentLevel(prev => prev + 1);
   };
 
+  const handleShowHistory = () => {
+    const progress = loadGameProgress();
+    setGameProgress(progress);
+    setShowHistoryModal(true);
+  };
+
   if (isLoading && !isGameOver) {
     return (
       <View style={[styles.container, { justifyContent: 'center' }]}>
@@ -343,6 +352,13 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
         onClose={() => setBonusInfo(null)}
         title={bonusInfo?.title || ''}
         description={bonusInfo?.description || ''}
+      />
+
+      <ScoreHistoryModal
+        visible={showHistoryModal}
+        onClose={() => setShowHistoryModal(false)}
+        progress={gameProgress}
+        language={language}
       />
 
       <Modal
@@ -366,11 +382,16 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
       <View style={styles.header}>
         <Text style={styles.score}>{t('game.score', language, { score })}</Text>
         <Text style={styles.timerText}>{formatTime(timeLeft)}</Text>
-        {onPause && (
-          <TouchableOpacity style={styles.pauseButton} onPress={onPause}>
-            <Text style={styles.pauseButtonText}>⏸</Text>
+        <View style={styles.headerButtons}>
+          <TouchableOpacity style={styles.historyButton} onPress={handleShowHistory}>
+            <Text style={styles.historyButtonText}>📈</Text>
           </TouchableOpacity>
-        )}
+          {onPause && (
+            <TouchableOpacity style={styles.pauseButton} onPress={onPause}>
+              <Text style={styles.pauseButtonText}>⏸</Text>
+            </TouchableOpacity>
+          )}
+        </View>
       </View>
 
       <View style={styles.gameArea}>
@@ -464,6 +485,22 @@ const styles = StyleSheet.create({
   score: {
     color: '#fff',
     fontSize: 20,
+  },
+  headerButtons: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
+  historyButton: {
+    backgroundColor: '#4CAF50',
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    borderRadius: 6,
+  },
+  historyButtonText: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: 'bold',
   },
   pauseButton: {
     backgroundColor: '#FF6B35',

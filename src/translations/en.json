@@ -27,7 +27,11 @@
         "instruction": "Find all words made from the letters of \"{word}\"",
         "delete": "DELETE",
         "submit": "SUBMIT",
-        "pause": "PAUSE"
+        "pause": "PAUSE",
+        "scoreHistory": "Score History",
+        "totalScore": "Total Score",
+        "wordsFound": "{found}/{total} words found",
+        "noHistoryYet": "No completed levels yet. Start playing to see your history!"
     },
     "splash": {
         "title": "Anagram Hunt",

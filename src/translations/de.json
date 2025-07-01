@@ -27,7 +27,11 @@
         "instruction": "Finde alle Wörter aus den Buchstaben von \"{word}\"",
         "delete": "LÖSCHEN",
         "submit": "ABSENDEN",
-        "pause": "PAUSE"
+        "pause": "PAUSE",
+        "scoreHistory": "Punktzahl-Verlauf",
+        "totalScore": "Gesamtpunktzahl",
+        "wordsFound": "{found}/{total} Wörter gefunden",
+        "noHistoryYet": "Noch keine abgeschlossenen Level. Starte das Spiel, um deinen Verlauf zu sehen!"
     },
     "splash": {
         "title": "Anagramm Jagd",

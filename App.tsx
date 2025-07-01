@@ -4,8 +4,9 @@ import { Platform } from 'react-native';
 import Game from './src/Game';
 import DevToolsScreen from './src/screens/DevToolsScreen';
 import SplashScreen from './src/screens/SplashScreen';
+import ScoreHistoryModal from './src/components/ScoreHistoryModal';
 import { Language } from './src/types';
-import { loadCurrentGameState, clearCurrentGameState, clearGameProgress } from './src/utils/storage';
+import { loadCurrentGameState, clearCurrentGameState, clearGameProgress, loadGameProgress, GameProgress } from './src/utils/storage';
 
 type GameState = 'splash' | 'playing' | 'devtools' | 'paused';
 
@@ -14,6 +15,8 @@ export default function App() {
     const [language, setLanguage] = useState<Language>('en');
     const [hasSavedGame, setHasSavedGame] = useState(false);
     const [showConfirmDialog, setShowConfirmDialog] = useState(false);
+    const [showHistoryModal, setShowHistoryModal] = useState(false);
+    const [gameProgress, setGameProgress] = useState<GameProgress | null>(null);
 
     // Check for saved game state on startup
     useEffect(() => {
@@ -108,6 +111,12 @@ export default function App() {
         setGameState('playing');
     };
 
+    const handleShowHistory = () => {
+        const progress = loadGameProgress();
+        setGameProgress(progress);
+        setShowHistoryModal(true);
+    };
+
     const renderContent = () => {
         switch (gameState) {
             case 'playing':
@@ -120,6 +129,9 @@ export default function App() {
                         <View style={styles.pausedButtons}>
                             <TouchableOpacity style={styles.resumeButton} onPress={handleResumeGame}>
                                 <Text style={styles.buttonText}>Resume Game</Text>
+                            </TouchableOpacity>
+                            <TouchableOpacity style={styles.historyButton} onPress={handleShowHistory}>
+                                <Text style={styles.buttonText}>📈 History</Text>
                             </TouchableOpacity>
                             <TouchableOpacity style={styles.restartLevelButton} onPress={handleRestartLevel}>
                                 <Text style={styles.buttonText}>Restart Level</Text>
@@ -157,6 +169,13 @@ export default function App() {
                     />
                 </View>
             )}
+
+            <ScoreHistoryModal
+                visible={showHistoryModal}
+                onClose={() => setShowHistoryModal(false)}
+                progress={gameProgress}
+                language={language}
+            />
 
             <Modal
                 visible={showConfirmDialog}
@@ -469,6 +488,14 @@ const styles = StyleSheet.create({
     },
     restartLevelButton: {
         backgroundColor: '#2196F3',
+        paddingHorizontal: 20,
+        paddingVertical: 12,
+        borderRadius: 8,
+        minWidth: 120,
+        alignItems: 'center',
+    },
+    historyButton: {
+        backgroundColor: '#4CAF50',
         paddingHorizontal: 20,
         paddingVertical: 12,
         borderRadius: 8,
