@@ -49,7 +49,7 @@ const SplashScreen = ({ onStartGame }: SplashScreenProps) => {
     <SafeAreaView style={styles.container}>
       {/* Company logo and Presents text */}
       {!showMain && (
-        <Animated.View style={[styles.centered, { opacity: companyFade, position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, zIndex: 10, justifyContent: 'center', alignItems: 'center' }]}> 
+        <Animated.View style={[styles.centered, { opacity: companyFade, position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, zIndex: 10, justifyContent: 'center', alignItems: 'center' }]} pointerEvents="none"> 
           <Image source={require('../../assets/company-logo.png')} style={styles.companyLogoSplash} resizeMode="contain" />
           <Text style={styles.presentsText}>Presents</Text>
         </Animated.View>
