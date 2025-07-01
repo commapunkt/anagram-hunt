@@ -26,7 +26,8 @@
         "foundCount": "{found} / {total} Gefunden",
         "instruction": "Finde alle Wörter aus den Buchstaben von \"{word}\"",
         "delete": "LÖSCHEN",
-        "submit": "ABSENDEN"
+        "submit": "ABSENDEN",
+        "pause": "PAUSE"
     },
     "splash": {
         "title": "Anagramm Jagd",

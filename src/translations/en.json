@@ -26,7 +26,8 @@
         "foundCount": "{found} / {total} Found",
         "instruction": "Find all words made from the letters of \"{word}\"",
         "delete": "DELETE",
-        "submit": "SUBMIT"
+        "submit": "SUBMIT",
+        "pause": "PAUSE"
     },
     "splash": {
         "title": "Anagram Hunt",

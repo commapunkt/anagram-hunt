@@ -45,9 +45,10 @@ const BONUS_RULES = {
 interface GameProps {
   language: Language;
   isResuming?: boolean;
+  onPause?: () => void;
 }
 
-export default function Game({ language, isResuming }: GameProps) {
+export default function Game({ language, isResuming, onPause }: GameProps) {
   const [levelWords, setLevelWords] = useState<Word[] | null>(null);
   const [seedWord, setSeedWord] = useState('');
   const [wordMap, setWordMap] = useState<Map<string, Word>>(new Map());
@@ -447,6 +448,11 @@ export default function Game({ language, isResuming }: GameProps) {
       <View style={styles.header}>
         <Text style={styles.score}>{t('game.score', language, { score })}</Text>
         <Text style={styles.timerText}>{formatTime(timeLeft)}</Text>
+        {onPause && (
+          <TouchableOpacity style={styles.pauseButton} onPress={onPause}>
+            <Text style={styles.pauseButtonText}>⏸</Text>
+          </TouchableOpacity>
+        )}
       </View>
 
       <View style={styles.gameArea}>
@@ -540,6 +546,17 @@ const styles = StyleSheet.create({
   score: {
     color: '#fff',
     fontSize: 20,
+  },
+  pauseButton: {
+    backgroundColor: '#FF6B35',
+    paddingHorizontal: 12,
+    paddingVertical: 8,
+    borderRadius: 6,
+  },
+  pauseButtonText: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: 'bold',
   },
   gameArea: {
     flex: 1,

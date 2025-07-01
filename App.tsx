@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { StyleSheet, Text, View, Button, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View, Button, TouchableOpacity, Alert, Modal } from 'react-native';
 import { Platform } from 'react-native';
 import Game from './src/Game';
 import DevToolsScreen from './src/screens/DevToolsScreen';
@@ -13,6 +13,7 @@ export default function App() {
     const [gameState, setGameState] = useState<GameState>('splash');
     const [language, setLanguage] = useState<Language>('en');
     const [hasSavedGame, setHasSavedGame] = useState(false);
+    const [showConfirmDialog, setShowConfirmDialog] = useState(false);
 
     // Check for saved game state on startup
     useEffect(() => {
@@ -64,10 +65,52 @@ export default function App() {
         setGameState('splash');
     };
 
+    const handlePauseGame = () => {
+        setGameState('paused');
+    };
+
+    const handleStartOver = () => {
+        if (Platform.OS === 'web') {
+            setShowConfirmDialog(true);
+        } else {
+            Alert.alert(
+                'Start Over',
+                'Are you sure? All previously played levels will be lost',
+                [
+                    {
+                        text: 'Cancel',
+                        style: 'cancel',
+                    },
+                    {
+                        text: 'Start Over',
+                        style: 'destructive',
+                        onPress: handleNewGame,
+                    },
+                ]
+            );
+        }
+    };
+
+    const handleConfirmStartOver = () => {
+        setShowConfirmDialog(false);
+        handleNewGame();
+    };
+
+    const handleCancelStartOver = () => {
+        setShowConfirmDialog(false);
+    };
+
+    const handleRestartLevel = () => {
+        // Clear current game state but keep progress
+        clearCurrentGameState();
+        setHasSavedGame(false);
+        setGameState('playing');
+    };
+
     const renderContent = () => {
         switch (gameState) {
             case 'playing':
-                return <Game language={language} isResuming={hasSavedGame} />;
+                return <Game language={language} isResuming={hasSavedGame} onPause={handlePauseGame} />;
             case 'paused':
                 return (
                     <View style={styles.pausedContainer}>
@@ -77,8 +120,11 @@ export default function App() {
                             <TouchableOpacity style={styles.resumeButton} onPress={handleResumeGame}>
                                 <Text style={styles.buttonText}>Resume Game</Text>
                             </TouchableOpacity>
-                            <TouchableOpacity style={styles.newGameButton} onPress={handleNewGame}>
-                                <Text style={styles.buttonText}>New Game</Text>
+                            <TouchableOpacity style={styles.restartLevelButton} onPress={handleRestartLevel}>
+                                <Text style={styles.buttonText}>Restart Level</Text>
+                            </TouchableOpacity>
+                            <TouchableOpacity style={styles.startOverButton} onPress={handleStartOver}>
+                                <Text style={styles.buttonText}>Start Over</Text>
                             </TouchableOpacity>
                         </View>
                     </View>
@@ -110,6 +156,27 @@ export default function App() {
                     />
                 </View>
             )}
+
+            <Modal
+                visible={showConfirmDialog}
+                transparent={true}
+                animationType="fade"
+            >
+                <View style={styles.modalOverlay}>
+                    <View style={styles.confirmDialog}>
+                        <Text style={styles.confirmTitle}>Start Over</Text>
+                        <Text style={styles.confirmMessage}>Are you sure? All previously played levels will be lost</Text>
+                        <View style={styles.confirmButtons}>
+                            <TouchableOpacity style={styles.cancelButton} onPress={handleCancelStartOver}>
+                                <Text style={styles.buttonText}>Cancel</Text>
+                            </TouchableOpacity>
+                            <TouchableOpacity style={styles.confirmButton} onPress={handleConfirmStartOver}>
+                                <Text style={styles.buttonText}>Start Over</Text>
+                            </TouchableOpacity>
+                        </View>
+                    </View>
+                </View>
+            </Modal>
         </View>
     );
 }
@@ -356,6 +423,7 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         backgroundColor: '#121212',
         padding: 20,
+        width: '100%',
     },
     pausedTitle: {
         fontSize: 24,
@@ -371,16 +439,80 @@ const styles = StyleSheet.create({
     },
     pausedButtons: {
         flexDirection: 'row',
-        gap: 20,
+        flexWrap: 'wrap',
+        gap: 15,
+        justifyContent: 'center',
+        width: '100%',
     },
     resumeButton: {
         backgroundColor: '#4CAF50',
         paddingHorizontal: 20,
         paddingVertical: 12,
         borderRadius: 8,
+        minWidth: 120,
+        alignItems: 'center',
     },
     newGameButton: {
         backgroundColor: '#2196F3',
+        paddingHorizontal: 20,
+        paddingVertical: 12,
+        borderRadius: 8,
+    },
+    startOverButton: {
+        backgroundColor: '#D32F2F',
+        paddingHorizontal: 20,
+        paddingVertical: 12,
+        borderRadius: 8,
+        minWidth: 120,
+        alignItems: 'center',
+    },
+    restartLevelButton: {
+        backgroundColor: '#2196F3',
+        paddingHorizontal: 20,
+        paddingVertical: 12,
+        borderRadius: 8,
+        minWidth: 120,
+        alignItems: 'center',
+    },
+    modalOverlay: {
+        flex: 1,
+        backgroundColor: 'rgba(0, 0, 0, 0.7)',
+        justifyContent: 'center',
+        alignItems: 'center',
+    },
+    confirmDialog: {
+        backgroundColor: '#333',
+        borderRadius: 10,
+        padding: 20,
+        width: '80%',
+        maxWidth: 400,
+        alignItems: 'center',
+    },
+    confirmTitle: {
+        fontSize: 20,
+        fontWeight: 'bold',
+        color: '#fff',
+        marginBottom: 10,
+    },
+    confirmMessage: {
+        fontSize: 16,
+        color: '#aaa',
+        textAlign: 'center',
+        marginBottom: 20,
+        lineHeight: 22,
+    },
+    confirmButtons: {
+        flexDirection: 'row',
+        gap: 15,
+    },
+    cancelButton: {
+        backgroundColor: '#666',
+        paddingHorizontal: 20,
+        paddingVertical: 12,
+        borderRadius: 8,
+    },
+    confirmButton: {
+        backgroundColor: '#D32F2F',
         paddingHorizontal: 20,
         paddingVertical: 12,
         borderRadius: 8,
