@@ -26,6 +26,11 @@ export default function App() {
                 setLanguage(savedGame.language);
                 setHasSavedGame(true);
                 
+                // Check if this was a replayed level
+                if (savedGame.isReplayedLevel) {
+                    setStartLevel(savedGame.level);
+                }
+                
                 // Check if this was a completed game by looking at the progress
                 const progress = loadGameProgress();
                 if (progress && progress.language === savedGame.language) {

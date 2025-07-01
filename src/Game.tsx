@@ -263,6 +263,12 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
       setIsGameOver(false);
       setIsResumingGame(true); 
       setCurrentLevel(currentGameState.level);
+      
+      // Check if this was a replayed level
+      if (currentGameState.isReplayedLevel) {
+        setIsReplayingLevel(true);
+      }
+      
       clearCurrentGameState();
       
       // Check if this was a completed game
@@ -357,7 +363,8 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
         lastWordLength,
         streakCount,
         straightCount,
-        savedAt: new Date().toISOString()
+        savedAt: new Date().toISOString(),
+        isReplayedLevel: !!startLevel
       });
     }
     
@@ -432,13 +439,14 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
           lastWordLength,
           streakCount,
           straightCount,
-          savedAt: new Date().toISOString()
+          savedAt: new Date().toISOString(),
+          isReplayedLevel: !!startLevel
         });
       }
     };
     const interval = setInterval(saveCurrentState, 1000);
     return () => clearInterval(interval);
-  }, [currentLevel, language, seedWord, foundWords, score, timeLeft, lastWordLength, streakCount, straightCount, isLoading]);
+  }, [currentLevel, language, seedWord, foundWords, score, timeLeft, lastWordLength, streakCount, straightCount, isLoading, startLevel]);
 
   // Physical keyboard handling
   useEffect(() => {
@@ -640,6 +648,7 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
         onClose={() => setShowHistoryModal(false)}
         progress={gameProgress}
         language={language}
+        onPlayLevelAgain={onPlayLevelAgain}
       />
 
       <CongratulationsModal

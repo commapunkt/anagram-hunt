@@ -36,6 +36,7 @@ export interface CurrentGameState {
   streakCount: number;
   straightCount: number;
   savedAt: string;
+  isReplayedLevel?: boolean;
 }
 
 const STORAGE_KEY = 'anagram_hunt_progress';

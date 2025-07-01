@@ -123,6 +123,7 @@ export default function ScoreHistoryModal({
                   if (selectedLevel && onPlayLevelAgain) {
                     onPlayLevelAgain(selectedLevel);
                   }
+                  onClose();
                 }}
               >
                 <Text style={styles.buttonText}>Play Again</Text>
