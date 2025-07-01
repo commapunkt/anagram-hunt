@@ -22,15 +22,21 @@ export default function App() {
     useEffect(() => {
         const checkSavedGame = () => {
             const savedGame = loadCurrentGameState();
+            console.log('App startup - savedGame:', savedGame);
             if (savedGame) {
                 setLanguage(savedGame.language);
                 setHasSavedGame(true);
                 
                 // Check if this was a replayed level
                 if (savedGame.isReplayedLevel) {
+                    console.log('App startup - detected replayed level, setting pause dialog');
                     setStartLevel(savedGame.level);
+                    // For replayed levels, always show pause dialog first
+                    setGameState('paused');
+                    return;
                 }
                 
+                console.log('App startup - not a replayed level, checking completion');
                 // Check if this was a completed game by looking at the progress
                 const progress = loadGameProgress();
                 if (progress && progress.language === savedGame.language) {
@@ -47,6 +53,7 @@ export default function App() {
                                 
                                 // If no level file exists for the next level, the game is completed
                                 if (!levelFile) {
+                                    console.log('App startup - game completed, showing congratulations');
                                     // Game is completed - show congratulations directly
                                     setGameState('playing'); // This will trigger the congratulations modal
                                     return;
@@ -56,14 +63,18 @@ export default function App() {
                             console.error('Error checking game completion:', error);
                         }
                         
+                        console.log('App startup - game not completed, showing pause dialog');
                         // Game is not completed - show pause dialog
                         setGameState('paused');
                     };
                     
                     checkIfCompleted();
                 } else {
+                    console.log('App startup - no progress or language mismatch, showing pause dialog');
                     setGameState('paused');
                 }
+            } else {
+                console.log('App startup - no saved game found');
             }
         };
 
@@ -73,9 +84,13 @@ export default function App() {
     // Check for devtools query parameter on web
     useEffect(() => {
         if (Platform.OS === 'web') {
-            const urlParams = new URLSearchParams(window.location.search);
-            if (urlParams.get('devtools') === 'true') {
-                setGameState('devtools');
+            // Only check for devtools if there's no saved game
+            const savedGame = loadCurrentGameState();
+            if (!savedGame) {
+                const urlParams = new URLSearchParams(window.location.search);
+                if (urlParams.get('devtools') === 'true') {
+                    setGameState('devtools');
+                }
             }
         }
     }, []);
