@@ -11,6 +11,7 @@ import BonusInfoModal from './components/BonusInfoModal';
 import AnimatedFoundWordRow from './components/AnimatedFoundWordRow';
 import { t } from './utils/translations';
 import { GameProgress, loadGameProgress, updateLevelProgress, saveCurrentGameState, loadCurrentGameState, clearCurrentGameState } from './utils/storage';
+import { GAME_CONFIG } from './config';
 
 const shuffleArray = (array: string[]) => {
   return array.sort(() => Math.random() - 0.5);
@@ -70,7 +71,7 @@ export default function Game({ language, isResuming }: GameProps) {
   const [isLoading, setIsLoading] = useState(true);
   const [isGameOver, setIsGameOver] = useState(false);
   const [currentLevel, setCurrentLevel] = useState(1);
-  const [timeLeft, setTimeLeft] = useState(300);
+  const [timeLeft, setTimeLeft] = useState<number>(GAME_CONFIG.TIME_LIMIT);
 
   const [lastWordLength, setLastWordLength] = useState(0);
   const [streakCount, setStreakCount] = useState(0);
@@ -122,7 +123,7 @@ export default function Game({ language, isResuming }: GameProps) {
       if (!isResumingGame) {
         setFoundWords([]);
         setScore(0);
-        setTimeLeft(300);
+        setTimeLeft(GAME_CONFIG.TIME_LIMIT);
         setIsGameOver(false);
         setLastWordLength(0);
         setStreakCount(0);
@@ -414,6 +415,8 @@ export default function Game({ language, isResuming }: GameProps) {
     }
     // Clear current game state when moving to next level
     clearCurrentGameState();
+    // Reset game state for next level
+    setIsGameOver(false);
     setCurrentLevel(prev => prev + 1);
   };
 
