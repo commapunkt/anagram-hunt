@@ -67,6 +67,7 @@ export default function App() {
 
     const handlePauseGame = () => {
         setGameState('paused');
+        setHasSavedGame(true);
     };
 
     const handleStartOver = () => {

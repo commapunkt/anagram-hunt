@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo, useCallback } from 'react';
+import React, { useState, useEffect, useMemo, useCallback, useRef } from 'react';
 import { View, Text, StyleSheet, SafeAreaView, Platform, ActivityIndicator, Modal, TouchableOpacity, FlatList } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 
@@ -70,16 +70,37 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
 
   const [bonusInfo, setBonusInfo] = useState<{ title: string; description: string } | null>(null);
   const [isInvalidWord, setIsInvalidWord] = useState(false);
-  const [isResumingGame, setIsResumingGame] = useState(isResuming || false);
+  const [isResumingGame, setIsResumingGame] = useState(false);
+  
+  const gameStateRef = useRef<any>();
+  useEffect(() => {
+    gameStateRef.current = {
+      level: currentLevel,
+      language,
+      seedWord,
+      foundWords,
+      score,
+      timeRemaining: timeLeft,
+      lastWordLength,
+      streakCount,
+      straightCount,
+      isLoading,
+    };
+  });
 
-  const loadData = useCallback(async (level: number, lang: Language) => {
+  const saveCurrentState = useCallback(() => {
+    const { isLoading, seedWord, ...stateToSave } = gameStateRef.current;
+    if (!isLoading && seedWord) {
+      saveCurrentGameState({ ...stateToSave, savedAt: new Date().toISOString() });
+    }
+  }, []);
+
+  const loadData = useCallback(async (level: number) => {
+    setIsLoading(true);
     try {
-      setIsLoading(true);
-
       const basePath = Platform.OS === 'web' ? 'data' : 'asset:/data';
-      const mappingUrl = `${basePath}/${lang}/_level-mapping.json`;
+      const mappingUrl = `${basePath}/${language}/_level-mapping.json`;
       const mappingResponse = await fetch(mappingUrl);
-
       if (!mappingResponse.ok) throw new Error(`Failed to fetch level mapping`);
       const levelMapping: LevelMapping = await mappingResponse.json();
       
@@ -91,214 +112,104 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
         return;
       }
 
-      const levelUrl = `${basePath}/${lang}/${levelFile}`;
+      const levelUrl = `${basePath}/${language}/${levelFile}`;
       const levelResponse = await fetch(levelUrl);
       if (!levelResponse.ok) throw new Error(`Failed to fetch level data`);
 
       const data: LevelFile = await levelResponse.json();
       if (!data || !Array.isArray(data.words_list)) throw new TypeError(`Level data is not in the correct format.`);
 
-      const words = data.words_list;
-      const seed = data.seed_word;
-      const seedLower = seed.toLowerCase();
-      
-      setLevelWords(words);
-      setSeedWord(seed);
-      setWordMap(new Map(words.map((w: Word) => [w.word.toLowerCase(), w])));
-      
-      const newSeedMap = getCharMap(seedLower);
+      setLevelWords(data.words_list);
+      setSeedWord(data.seed_word);
+      setWordMap(new Map(data.words_list.map((w: Word) => [w.word.toLowerCase(), w])));
+      const newSeedMap = getCharMap(data.seed_word.toLowerCase());
       setSeedLetterMap(newSeedMap);
       setScrambledLetters(shuffleArray(Array.from(newSeedMap.keys())));
-
-      // Reset game state for the new level (only if not restoring)
-      if (!isResumingGame) {
-        setFoundWords([]);
-        setScore(0);
-        setTimeLeft(GAME_CONFIG.TIME_LIMIT);
-        setIsGameOver(false);
-        setLastWordLength(0);
-        setStreakCount(0);
-        setStraightCount(0);
-        setIsInvalidWord(false);
-      }
-
     } catch (error) {
-      const errorMessage = error instanceof Error ? error.message : "An unknown error occurred.";
-      alert(`Error: ${errorMessage}`);
+      alert(`Error: Failed to load level data.`);
     } finally {
       setIsLoading(false);
     }
   }, [language]);
 
-  // Recalculate scores for resumed games after level data is loaded
+  // This effect runs once on mount to initialize the game state
   useEffect(() => {
-    if (isResumingGame && foundWords.length > 0 && levelWords && levelWords.length > 0) {
-      const updatedFoundWords = foundWords.map(fw => {
-        const wordData = levelWords.find(w => w.word.toLowerCase() === fw.word.toLowerCase());
-        // Only update score if it's missing or incorrect, preserve bonus information
-        return {
-          ...fw,
-          score: wordData ? wordData.combined_score : fw.score
-        };
-      });
-      setFoundWords(updatedFoundWords);
-    }
-  }, [isResumingGame, foundWords, levelWords]);
-
-  // Function to save current game state
-  const saveCurrentState = useCallback(() => {
-    if (seedWord && !isLoading) {
-      saveCurrentGameState({
-        level: currentLevel,
-        language,
-        seedWord,
-        foundWords: foundWords,
-        score,
-        timeRemaining: timeLeft,
-        lastWordLength,
-        streakCount,
-        straightCount,
-        savedAt: new Date().toISOString()
-      });
-    }
-  }, [currentLevel, language, seedWord, foundWords, score, timeLeft, lastWordLength, streakCount, straightCount, isLoading]);
-
-  useEffect(() => {
-    loadData(currentLevel, language);
-  }, [currentLevel, language, loadData]);
-
-  // Load saved progress on component mount
-  useEffect(() => {
-    const savedProgress = loadGameProgress();
     const currentGameState = loadCurrentGameState();
-    
-    if (currentGameState && currentGameState.language === language) {
-      // Restore current game state
-      setCurrentLevel(currentGameState.level);
-      setSeedWord(currentGameState.seedWord);
+    if (isResuming && currentGameState && currentGameState.language === language) {
+      // --- RESUME LOGIC ---
       setScore(currentGameState.score);
       setTimeLeft(currentGameState.timeRemaining);
       setLastWordLength(currentGameState.lastWordLength);
       setStreakCount(currentGameState.streakCount);
       setStraightCount(currentGameState.straightCount);
-      setIsResumingGame(true);
-      
-      // Restore found words with their bonus information
       setFoundWords(currentGameState.foundWords);
-      
-      // Clear the current game state since we're restoring it
+      setIsGameOver(false);
+      setIsResumingGame(true); 
+      setCurrentLevel(currentGameState.level);
       clearCurrentGameState();
-    } else if (savedProgress && savedProgress.language === language) {
-      setCurrentLevel(savedProgress.currentLevel);
+    } else {
+      // --- NEW GAME LOGIC ---
+      const savedProgress = loadGameProgress();
+      const levelToLoad = (savedProgress && savedProgress.language === language) ? savedProgress.currentLevel : 1;
+      setFoundWords([]);
+      setScore(0);
+      setTimeLeft(GAME_CONFIG.TIME_LIMIT);
+      setIsGameOver(false);
+      setLastWordLength(0);
+      setStreakCount(0);
+      setStraightCount(0);
+      setIsInvalidWord(false);
+      setCurrentLevel(levelToLoad);
     }
-  }, [language]);
+  }, [isResuming, language]);
 
-  // Timer effect - handles both new games and resumed games
+  // This effect runs whenever the level changes to load the new data
   useEffect(() => {
-    if (isGameOver || isLoading) return;
+    if (currentLevel > 0) {
+      loadData(currentLevel);
+    }
+  }, [currentLevel, loadData]);
 
-    // Don't start timer if we're still resuming
-    if (isResumingGame) return;
-
-    // Check if game should end
+  // Timer effect
+  useEffect(() => {
+    if (isGameOver || isLoading || isResumingGame) return;
     if (timeLeft <= 0) {
       setIsGameOver(true);
       return;
     }
-
-    // Start the timer
-    const timerId = setInterval(() => {
-      setTimeLeft(prevTime => {
-        if (prevTime <= 1) {
-          setIsGameOver(true);
-          return 0;
-        }
-        return prevTime - 1;
-      });
-    }, 1000);
-
+    const timerId = setInterval(() => setTimeLeft(prev => prev - 1), 1000);
     return () => clearInterval(timerId);
   }, [isGameOver, isLoading, isResumingGame, timeLeft]);
 
-  // Handle resuming game completion
+  // Finish "resuming" mode after data has loaded
   useEffect(() => {
-    if (isResumingGame && !isLoading && seedWord) {
-      // Small delay to ensure everything is loaded, then stop resuming
-      const timer = setTimeout(() => {
-        setIsResumingGame(false);
-      }, 200);
+    if (isResumingGame && !isLoading) {
+      const timer = setTimeout(() => setIsResumingGame(false), 300);
       return () => clearTimeout(timer);
     }
-  }, [isResumingGame, isLoading, seedWord]);
+  }, [isResumingGame, isLoading]);
 
-  // Save progress when game ends or component unmounts
+  // Periodic save effect
   useEffect(() => {
-    return () => {
-      // Save progress when component unmounts
-      if (levelWords && !isLoading) {
-        updateLevelProgress(
-          currentLevel,
+    const saveCurrentState = () => {
+      if (!isLoading && seedWord) {
+        saveCurrentGameState({
+          level: currentLevel,
+          language,
+          seedWord,
+          foundWords,
           score,
-          foundWords.length,
-          levelWords.length,
-          language
-        );
+          timeRemaining: timeLeft,
+          lastWordLength,
+          streakCount,
+          straightCount,
+          savedAt: new Date().toISOString()
+        });
       }
-      // Save current game state when component unmounts
-      saveCurrentState();
     };
-  }, [currentLevel, score, foundWords.length, levelWords, language, isLoading, saveCurrentState]);
-
-  // Save progress when game ends
-  useEffect(() => {
-    if (isGameOver && levelWords) {
-      updateLevelProgress(
-        currentLevel,
-        score,
-        foundWords.length,
-        levelWords.length,
-        language
-      );
-      // Clear current game state when game ends
-      clearCurrentGameState();
-    }
-  }, [isGameOver, currentLevel, score, foundWords.length, levelWords, language]);
-
-  // Save current game state periodically (every second)
-  useEffect(() => {
-    if (isLoading || isGameOver) return;
-
-    const interval = setInterval(() => {
-      saveCurrentState();
-    }, 1000); // Save every second
-
+    const interval = setInterval(saveCurrentState, 1000);
     return () => clearInterval(interval);
-  }, [saveCurrentState, isLoading, isGameOver]);
-
-  // Physical keyboard support
-  useEffect(() => {
-    if (Platform.OS !== 'web' || isGameOver || isLoading) return;
-
-    const handleKeyDown = (event: KeyboardEvent) => {
-      // Prevent default behavior for game keys
-      if (event.key === 'Enter' || event.key === 'Backspace' || 
-          (event.key.length === 1 && /[a-zA-Z]/.test(event.key))) {
-        event.preventDefault();
-      }
-
-      if (event.key === 'Enter') {
-        handleSubmit();
-      } else if (event.key === 'Backspace') {
-        setCurrentInput(prev => prev.slice(0, -1));
-      } else if (event.key.length === 1 && /[a-zA-Z]/.test(event.key)) {
-        const letter = event.key.toLowerCase();
-        handleKeyPress(letter);
-      }
-    };
-
-    window.addEventListener('keydown', handleKeyDown);
-    return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [isGameOver, isLoading, currentInput, foundWords, wordMap, lastWordLength, streakCount, straightCount]);
+  }, [currentLevel, language, seedWord, foundWords, score, timeLeft, lastWordLength, streakCount, straightCount, isLoading]);
 
   const handleBonusInfoPress = (bonusType: 'streak' | 'straight') => {
     const rule = BONUS_RULES[bonusType];
@@ -390,7 +301,6 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
   };
 
   const handleNextLevel = () => {
-    // Save progress for current level when moving to next level
     if (levelWords) {
       updateLevelProgress(
         currentLevel,
@@ -400,10 +310,18 @@ export default function Game({ language, isResuming, onPause }: GameProps) {
         language
       );
     }
-    // Clear current game state when moving to next level
     clearCurrentGameState();
-    // Reset game state for next level
+
+    // Reset all game state for the new level
+    setFoundWords([]);
+    setScore(0);
+    setTimeLeft(GAME_CONFIG.TIME_LIMIT);
     setIsGameOver(false);
+    setLastWordLength(0);
+    setStreakCount(0);
+    setStraightCount(0);
+    setIsResumingGame(false);
+
     setCurrentLevel(prev => prev + 1);
   };
 
