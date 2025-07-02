@@ -15,6 +15,7 @@ interface SplashScreenProps {
 const SplashScreen = ({ onStartGame, onResumeGame, hasSavedGame = false }: SplashScreenProps) => {
   const [language, setLanguage] = useState<Language>('en');
   const [showMain, setShowMain] = useState(false);
+  const [animationCompleted, setAnimationCompleted] = useState(false);
   const companyFade = useRef(new Animated.Value(1)).current;
   const logoFade = useRef(new Animated.Value(0)).current;
   const logoTranslate = useRef(new Animated.Value(0)).current;
@@ -31,8 +32,10 @@ const SplashScreen = ({ onStartGame, onResumeGame, hasSavedGame = false }: Splas
   const initialLogoPosition = (contentHeight / 2);
   const finalLogoPosition = 0;
   
-  // Set initial position
-  logoTranslate.setValue(initialLogoPosition);
+  // Set initial position only once
+  if (!animationCompleted) {
+    logoTranslate.setValue(initialLogoPosition);
+  }
 
   useEffect(() => {
     setLanguage(getDeviceLanguage());
@@ -48,6 +51,7 @@ const SplashScreen = ({ onStartGame, onResumeGame, hasSavedGame = false }: Splas
         Animated.timing(logoMarginBottom, { toValue: finalLogoMargin, duration: 600, useNativeDriver: false }),
       ]),
     ]).start(() => {
+      setAnimationCompleted(true);
       Animated.timing(contentFade, { toValue: 1, duration: 600, useNativeDriver: true }).start();
     });
   }, []);
@@ -128,7 +132,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   content: {
-    width: '90%',
+    width: '92%',
     padding: 20,
     backgroundColor: '#1e1e1e',
     borderRadius: 15,
