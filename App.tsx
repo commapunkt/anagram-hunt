@@ -40,13 +40,9 @@ export default function App() {
     // Check for devtools query parameter on web
     useEffect(() => {
         if (Platform.OS === 'web') {
-            // Only check for devtools if there's no saved game
-            const savedGame = loadCurrentGameState();
-            if (!savedGame) {
-                const urlParams = new URLSearchParams(window.location.search);
-                if (urlParams.get('devtools') === 'true') {
-                    setGameState('devtools');
-                }
+            const urlParams = new URLSearchParams(window.location.search);
+            if (urlParams.get('devtools') === 'true') {
+                setGameState('devtools');
             }
         }
     }, []);
