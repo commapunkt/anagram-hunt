@@ -18,13 +18,14 @@ const SplashScreen = ({ onStartGame, onResumeGame, hasSavedGame = false }: Splas
   const companyFade = useRef(new Animated.Value(1)).current;
   const logoFade = useRef(new Animated.Value(0)).current;
   const logoTranslate = useRef(new Animated.Value(0)).current;
+  const logoHeight = useRef(new Animated.Value(250)).current;
+  const logoMarginBottom = useRef(new Animated.Value(-60)).current;
   const [showContent, setShowContent] = useState(false);
   const contentFade = useRef(new Animated.Value(0)).current;
 
-  const logoHeight = 250; // same as styles.logoImage.height
+  const finalLogoMargin = 20; // same as styles.logoImage.height
+  const finalLogoHeight = 170; // same as styles.logoImage.height
   const contentHeight = 340; // estimated height of the splash content box
-  const screenHeight = Dimensions.get('window').height;
-  const padding = 32;
   
   // Calculate initial position to center the logo on screen
   const initialLogoPosition = (contentHeight / 2);
@@ -35,13 +36,17 @@ const SplashScreen = ({ onStartGame, onResumeGame, hasSavedGame = false }: Splas
 
   useEffect(() => {
     setLanguage(getDeviceLanguage());
-    // Sequence: company logo fade out, game logo fade in, then move up and show content
+    // Sequence: company logo fade out, game logo fade in, then move up and resize, then show content
     Animated.sequence([
       Animated.delay(1200),
       Animated.timing(companyFade, { toValue: 0, duration: 600, useNativeDriver: true }),
       Animated.timing(logoFade, { toValue: 1, duration: 600, useNativeDriver: true }),
       Animated.delay(400),
-      Animated.timing(logoTranslate, { toValue: finalLogoPosition, duration: 600, useNativeDriver: true }),
+      Animated.parallel([
+        Animated.timing(logoTranslate, { toValue: finalLogoPosition, duration: 600, useNativeDriver: true }),
+        Animated.timing(logoHeight, { toValue: finalLogoHeight, duration: 600, useNativeDriver: false }),
+        Animated.timing(logoMarginBottom, { toValue: finalLogoMargin, duration: 600, useNativeDriver: false }),
+      ]),
     ]).start(() => {
       Animated.timing(contentFade, { toValue: 1, duration: 600, useNativeDriver: true }).start();
     });
@@ -64,7 +69,11 @@ const SplashScreen = ({ onStartGame, onResumeGame, hasSavedGame = false }: Splas
             styles.logoImage,
             {
               opacity: logoFade,
-              transform: [{ translateY: logoTranslate }],
+              height: logoHeight,
+              marginBottom: logoMarginBottom,
+              transform: [
+                { translateY: logoTranslate }
+              ],
             },
           ]}
           resizeMode="contain"
