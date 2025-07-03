@@ -1,0 +1,6772 @@
+{
+  "seed_word": "CONTEMPLATION",
+  "words_length_count": {
+    "3": 157,
+    "4": 350,
+    "5": 282,
+    "6": 281,
+    "7": 166,
+    "8": 74,
+    "9": 29,
+    "10": 9,
+    "11": 2,
+    "12": 1
+  },
+  "words_list": [
+    {
+      "word": "Componential",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Componental",
+      "estimated_uncommonness": 5,
+      "combined_score": 912
+    },
+    {
+      "word": "Contemplant",
+      "estimated_uncommonness": 5,
+      "combined_score": 912
+    },
+    {
+      "word": "Completion",
+      "estimated_uncommonness": 4,
+      "combined_score": 824
+    },
+    {
+      "word": "Pentatomic",
+      "estimated_uncommonness": 4,
+      "combined_score": 824
+    },
+    {
+      "word": "Malcontent",
+      "estimated_uncommonness": 4,
+      "combined_score": 758
+    },
+    {
+      "word": "Melicotton",
+      "estimated_uncommonness": 4,
+      "combined_score": 758
+    },
+    {
+      "word": "Nonoptimal",
+      "estimated_uncommonness": 4,
+      "combined_score": 758
+    },
+    {
+      "word": "Omnipotent",
+      "estimated_uncommonness": 4,
+      "combined_score": 758
+    },
+    {
+      "word": "Pentatonic",
+      "estimated_uncommonness": 4,
+      "combined_score": 758
+    },
+    {
+      "word": "Coemption",
+      "estimated_uncommonness": 4,
+      "combined_score": 736
+    },
+    {
+      "word": "Companion",
+      "estimated_uncommonness": 4,
+      "combined_score": 736
+    },
+    {
+      "word": "Complaint",
+      "estimated_uncommonness": 4,
+      "combined_score": 736
+    },
+    {
+      "word": "Compliant",
+      "estimated_uncommonness": 4,
+      "combined_score": 736
+    },
+    {
+      "word": "Component",
+      "estimated_uncommonness": 4,
+      "combined_score": 736
+    },
+    {
+      "word": "Nonimpact",
+      "estimated_uncommonness": 4,
+      "combined_score": 736
+    },
+    {
+      "word": "Policeman",
+      "estimated_uncommonness": 4,
+      "combined_score": 736
+    },
+    {
+      "word": "Antilepton",
+      "estimated_uncommonness": 3,
+      "combined_score": 692
+    },
+    {
+      "word": "Notonectal",
+      "estimated_uncommonness": 3,
+      "combined_score": 692
+    },
+    {
+      "word": "Emptional",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Encolpion",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Melanotic",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Monactine",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Monocline",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Monoplane",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Nonatomic",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Nonpoetic",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Nonpolice",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Omittance",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Pentanoic",
+      "estimated_uncommonness": 4,
+      "combined_score": 670
+    },
+    {
+      "word": "Compital",
+      "estimated_uncommonness": 4,
+      "combined_score": 648
+    },
+    {
+      "word": "Complain",
+      "estimated_uncommonness": 4,
+      "combined_score": 648
+    },
+    {
+      "word": "Compleat",
+      "estimated_uncommonness": 4,
+      "combined_score": 648
+    },
+    {
+      "word": "Compline",
+      "estimated_uncommonness": 4,
+      "combined_score": 648
+    },
+    {
+      "word": "Contempo",
+      "estimated_uncommonness": 4,
+      "combined_score": 648
+    },
+    {
+      "word": "Contempt",
+      "estimated_uncommonness": 4,
+      "combined_score": 648
+    },
+    {
+      "word": "Manciple",
+      "estimated_uncommonness": 4,
+      "combined_score": 648
+    },
+    {
+      "word": "Pelmatic",
+      "estimated_uncommonness": 4,
+      "combined_score": 648
+    },
+    {
+      "word": "Pentomic",
+      "estimated_uncommonness": 4,
+      "combined_score": 648
+    },
+    {
+      "word": "Picomole",
+      "estimated_uncommonness": 4,
+      "combined_score": 648
+    },
+    {
+      "word": "Poematic",
+      "estimated_uncommonness": 4,
+      "combined_score": 648
+    },
+    {
+      "word": "Connotate",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Emotional",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Melatonin",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Mentation",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Nilpotent",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Noncoital",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Nonmotile",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Octennial",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Panettoni",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Peltation",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Potential",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Clinamen",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Coalmine",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Coinmate",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Conepatl",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Emoticon",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Encomion",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Entoptic",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Impannel",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Imponent",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Impotent",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Leptonic",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Metaplot",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Monecian",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Monticle",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Omoplate",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Optimate",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Palmetto",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Palomino",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Pannicle",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Pectinal",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Pilotman",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Pilotmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Pimenton",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Pinnacle",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Pittance",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Planetic",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Platonic",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Poetical",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Pointman",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Pointmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Ptomaine",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Apomict",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Campion",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Compile",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Complin",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Complot",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Compone",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Compote",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Metopic",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Oilcamp",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Pemican",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Polemic",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Potamic",
+      "estimated_uncommonness": 4,
+      "combined_score": 560
+    },
+    {
+      "word": "Antinome",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Antipole",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Conation",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Contline",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Cotenant",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Ecotonal",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Enaction",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Intonaco",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Location",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Mannitol",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Minneola",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Monoline",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Monotint",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Montanto",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Motional",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Napoleon",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Nominate",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Nonmetal",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Noontime",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Nopalito",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Ointment",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Optional",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Patootie",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Pentanol",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Potation",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Taconite",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Tinplate",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Apnoeic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Aptotic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Camelot",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Capelin",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Capitol",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Caption",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Catmint",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Centimo",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Clapnet",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Climate",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Cnemial",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Coalmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Coalpit",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Comital",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Contemn",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Copilot",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Ectopia",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Emicant",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Emption",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Encomia",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Entomic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Entopic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Impanel",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Implant",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Implate",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Ipomoea",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Lampion",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Lampoon",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Limacon",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Locoman",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Locomen",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Maintop",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Malonic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Maniple",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Meconin",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Melanic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Metical",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Metopon",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Monocle",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Nematic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Nepotic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Noplace",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Optical",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Optimal",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Paction",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Paeonic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Palmiet",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Panicle",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Patonce",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Pelican",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Pentact",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Picante",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Pimento",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Pinnace",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Pinocle",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Pleonic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Plicate",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Polecat",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Ptomain",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Tampion",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Telomic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Timpano",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Toeclip",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Tompion",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Tonemic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Topcoat",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Topical",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Totemic",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Cample",
+      "estimated_uncommonness": 3,
+      "combined_score": 472
+    },
+    {
+      "word": "Coempt",
+      "estimated_uncommonness": 3,
+      "combined_score": 472
+    },
+    {
+      "word": "Compel",
+      "estimated_uncommonness": 3,
+      "combined_score": 472
+    },
+    {
+      "word": "Compot",
+      "estimated_uncommonness": 3,
+      "combined_score": 472
+    },
+    {
+      "word": "Copalm",
+      "estimated_uncommonness": 3,
+      "combined_score": 472
+    },
+    {
+      "word": "Ecomap",
+      "estimated_uncommonness": 3,
+      "combined_score": 472
+    },
+    {
+      "word": "Encamp",
+      "estimated_uncommonness": 3,
+      "combined_score": 472
+    },
+    {
+      "word": "Impact",
+      "estimated_uncommonness": 3,
+      "combined_score": 472
+    },
+    {
+      "word": "Pomace",
+      "estimated_uncommonness": 3,
+      "combined_score": 472
+    },
+    {
+      "word": "Intonate",
+      "estimated_uncommonness": 2,
+      "combined_score": 450
+    },
+    {
+      "word": "Nontitle",
+      "estimated_uncommonness": 2,
+      "combined_score": 450
+    },
+    {
+      "word": "Notation",
+      "estimated_uncommonness": 2,
+      "combined_score": 450
+    },
+    {
+      "word": "Notional",
+      "estimated_uncommonness": 2,
+      "combined_score": 450
+    },
+    {
+      "word": "Tonalite",
+      "estimated_uncommonness": 2,
+      "combined_score": 450
+    },
+    {
+      "word": "Aconite",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Actinon",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Ailment",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Alencon",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Aliment",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Aloetic",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Amniote",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Amotion",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Ancient",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Anoetic",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Antipot",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Attonce",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Calotte",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Cannoli",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Cantion",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Cantlet",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Clootie",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Coletit",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Connate",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Connote",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Contain",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Content",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Coolant",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Coontie",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Emotion",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Encinal",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Entotic",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Lactone",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Lattice",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Lection",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Lineman",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Lomenta",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Mannite",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Mantlet",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Matelot",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Melanin",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Mention",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Mineola",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Molinet",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Montane",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Montant",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Moonlet",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Moonlit",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Nictate",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Nominal",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Noncola",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Nonmeat",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Octanol",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Oinomel",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Omental",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Opaline",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Ottoman",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Paletot",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Pantile",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Pantine",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Patient",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Peloton",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Pentito",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Pinnate",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Pintano",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Platoon",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Plottie",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Pointel",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Polenta",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Polonie",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Pontile",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Pontine",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Potline",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Tactile",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Taction",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Talipot",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Telamon",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Tetanic",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Tomenta",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Tonetic",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Toolman",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Toolmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Topline",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Acmite",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Ancome",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Anemic",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Anomic",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Apneic",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Atomic",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Atopic",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Camion",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Camlet",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Camote",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Caplet",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Caplin",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Capote",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Catnep",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Catnip",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Cinema",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Coelom",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Coinop",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Comate",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Conima",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Copita",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Coplot",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Encalm",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Epical",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Iceman",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Impale",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Impone",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Incept",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Income",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Limpet",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Lipoma",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Maleic",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Malice",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Manioc",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Mantic",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Matico",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Matipo",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Micate",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Monact",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Mopane",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Mopani",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Nincom",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Noncom",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Octopi",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Oncome",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Oomiac",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Optima",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Optime",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Palmie",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Pectin",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Peinct",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Pencil",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Penman",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Picote",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Pieman",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Piment",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Pitman",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Pitmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Placet",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Placit",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Plaice",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Plicae",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Poetic",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Police",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Pomato",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Pomelo",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Pontic",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Poonac",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Poonce",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Potman",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Potmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Ptotic",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Tampon",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Tipcat",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Toecap",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Tomcat",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Tompon",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Topman",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Topmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Campi",
+      "estimated_uncommonness": 3,
+      "combined_score": 384
+    },
+    {
+      "word": "Campo",
+      "estimated_uncommonness": 3,
+      "combined_score": 384
+    },
+    {
+      "word": "Clamp",
+      "estimated_uncommonness": 3,
+      "combined_score": 384
+    },
+    {
+      "word": "Clomp",
+      "estimated_uncommonness": 3,
+      "combined_score": 384
+    },
+    {
+      "word": "Compo",
+      "estimated_uncommonness": 3,
+      "combined_score": 384
+    },
+    {
+      "word": "Compt",
+      "estimated_uncommonness": 3,
+      "combined_score": 384
+    },
+    {
+      "word": "Antient",
+      "estimated_uncommonness": 2,
+      "combined_score": 362
+    },
+    {
+      "word": "Antlion",
+      "estimated_uncommonness": 2,
+      "combined_score": 362
+    },
+    {
+      "word": "Elation",
+      "estimated_uncommonness": 2,
+      "combined_score": 362
+    },
+    {
+      "word": "Enation",
+      "estimated_uncommonness": 2,
+      "combined_score": 362
+    },
+    {
+      "word": "Nonetti",
+      "estimated_uncommonness": 2,
+      "combined_score": 362
+    },
+    {
+      "word": "Nonetto",
+      "estimated_uncommonness": 2,
+      "combined_score": 362
+    },
+    {
+      "word": "Toenail",
+      "estimated_uncommonness": 2,
+      "combined_score": 362
+    },
+    {
+      "word": "Tontine",
+      "estimated_uncommonness": 2,
+      "combined_score": 362
+    },
+    {
+      "word": "Acetin",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Action",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Aeonic",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Alnico",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Alpine",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Amnion",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Ancile",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Ancone",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Anetic",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Anomie",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Aplite",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Aptote",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Atelic",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Atonic",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Canine",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cannel",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cannie",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cannot",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cantle",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Canton",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cation",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Catlin",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cattie",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cattle",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Centai",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cental",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cineol",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Citola",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Citole",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Client",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Coital",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Colone",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Coloni",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Coltan",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Conine",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Connie",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Coolie",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cootie",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cottae",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Cotton",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Enatic",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Encina",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Enolic",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Etamin",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Incant",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Incent",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Inlace",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Inmate",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Intact",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Lament",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Lancet",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Lectin",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Leipoa",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Lentic",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Leptin",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Lepton",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Locate",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Loipen",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Lomein",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Loment",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Maline",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Maloti",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Manent",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Manito",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Mantel",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Mantle",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Mattie",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Mattin",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Melano",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Melton",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Menial",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Mental",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Mitten",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Moline",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Molten",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Monial",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Montan",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Motile",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Motion",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Mottle",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Neanic",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Neocon",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Nocent",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Noetic",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Nomina",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Notice",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Ocelot",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Octane",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Octant",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Oilcan",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Oilman",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Oilmen",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Omenta",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Opiate",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Optant",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Option",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Panino",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pantie",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Panton",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Patent",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Patine",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Patten",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pattie",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pattle",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pelota",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Penial",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pennal",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pennia",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pineal",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pineta",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pinnae",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pinnal",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pinnet",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pinole",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pintle",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Piolet",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pitten",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Plaint",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Planet",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Platen",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pliant",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pointe",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Polite",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Ponent",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pontal",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pontie",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pontil",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Ponton",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pootle",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Potale",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Potato",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Potent",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Potion",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Pottle",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tamein",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tamine",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tannic",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tapeti",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Teapot",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tectal",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tenpin",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Teopan",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tietac",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tincal",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tinman",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tinmen",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tinpot",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tiptoe",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Titman",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Titmen",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tomato",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Tomial",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Amice",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Amnic",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Ample",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Camel",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Cameo",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Caple",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Capon",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Capot",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Celom",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Claim",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Clame",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Clapt",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Clept",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Clime",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Clipe",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Clipt",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Cloam",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Cloop",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Coapt",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Comae",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Comal",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Comet",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Comte",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Coopt",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Copal",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Copen",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Epact",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Impel",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Impot",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Limpa",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Macle",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Macon",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Malic",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Manic",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Maple",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Melic",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Metic",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Milpa",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Mince",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Nempt",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Nomic",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Optic",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Pance",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Panic",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Panim",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Pecan",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Pelma",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Pical",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Picot",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Place",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Plica",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Ponce",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Tempi",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Tempo",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Tempt",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Topic",
+      "estimated_uncommonness": 3,
+      "combined_score": 318
+    },
+    {
+      "word": "Camp",
+      "estimated_uncommonness": 3,
+      "combined_score": 296
+    },
+    {
+      "word": "Comp",
+      "estimated_uncommonness": 3,
+      "combined_score": 296
+    },
+    {
+      "word": "Anoint",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Attone",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Entail",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Entoil",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Eolian",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Eonian",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Etalon",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Innate",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Intent",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Intone",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Ionone",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Latent",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Latino",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Latten",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Lattin",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Linnet",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Lionet",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Litten",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Loonie",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Looten",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Lotion",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Nanite",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Nation",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Notate",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Notion",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Online",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Oolite",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Talent",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Talion",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Tannie",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Tenail",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Tenant",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Tineal",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Toilet",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Tolane",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Tonant",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Tonite",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Tonlet",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Toolie",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Toonie",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Tootle",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Actin",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Acton",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Ament",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Amine",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Amino",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Amnio",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Amole",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Ancle",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Ancon",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Anime",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Antic",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Apiol",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Attic",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Canoe",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Canon",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Canto",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Cento",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Cital",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Clean",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Cleat",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Cline",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Clint",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Clone",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Cloot",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Clote",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Coate",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Coati",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Colin",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Colon",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Conia",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Conin",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Conne",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Conte",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Conto",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Cotan",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Cotta",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Eclat",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Email",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Enact",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Eniac",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Ictal",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Ileac",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Inapt",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Incle",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Inept",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Lacet",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Lance",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Lapin",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Leapt",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Leman",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Lemon",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Lepta",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Liman",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Limen",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Linac",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Loipe",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Lotic",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Maile",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Manet",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Manto",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Matin",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Matlo",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Matte",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Meant",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Meint",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Melon",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Menta",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Mento",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Metal",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Metol",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Minae",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Molto",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Monal",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Monie",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Monte",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Moola",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Mooli",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Motel",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Moten",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Motet",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Motte",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Motto",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Nance",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Napoo",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Nepit",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Netop",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Nicol",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Nomen",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Nomoi",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Nonce",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Nopal",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Ocean",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Octal",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Octan",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Octet",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Oleic",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Olpae",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Oncet",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Ontic",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Opine",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Paeon",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Paint",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Palet",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Panel",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Panne",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Panto",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Paoli",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Paolo",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Paten",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Patin",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Patio",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Patte",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pelon",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pelta",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Penal",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Penna",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Penni",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Petal",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Petit",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Petti",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Petto",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Piano",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pieta",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pilao",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pilea",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pilot",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pinna",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pinon",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pinot",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pinta",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pinto",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Piton",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pitta",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Plain",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Plait",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Plane",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Plant",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Plate",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pleat",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Plena",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Pleon",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Ploat",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Point",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Polio",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Potae",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Potin",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Potto",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Tacet",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Tacit",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Tamin",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Tapen",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Tapet",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Tecta",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Telco",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Telic",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Tepal",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Tical",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Timon",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Tinct",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Toman",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Tomia",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Tonic",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Topoi",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Totem",
+      "estimated_uncommonness": 2,
+      "combined_score": 252
+    },
+    {
+      "word": "Acme",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Calm",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Calp",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Came",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Camo",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Cape",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Capi",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Capo",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Clam",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Clap",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Clem",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Clip",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Clop",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Coma",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Come",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Coom",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Coop",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Cope",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Emic",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Empt",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Epic",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Lamp",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Limp",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Mace",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Mica",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Mice",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Mico",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Moop",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Mope",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Pace",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Paco",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Pact",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Palm",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Pica",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Pice",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Pima",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Plim",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Poco",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Poem",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Pome",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Pomo",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Tamp",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Temp",
+      "estimated_uncommonness": 2,
+      "combined_score": 230
+    },
+    {
+      "word": "Alien",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Aline",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Aloin",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Alone",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Anent",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Anile",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Anion",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Anole",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Atilt",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Atone",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Elain",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Elint",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Eloin",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Enlit",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Entia",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Ettin",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Inane",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Inlet",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Intel",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Laten",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Latte",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Leant",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Lenti",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Lento",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Liane",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Linen",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Looie",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Lotte",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Lotto",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Niton",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Noint",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Nonet",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Nooit",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Notal",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Oaten",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Olein",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Olent",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Onion",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Taint",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Talon",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Tanti",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Tanto",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Tatie",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Telia",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Teloi",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Tenia",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Tenno",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Tenon",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Tinea",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Titan",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Title",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Toile",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Tolan",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Tonal",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Tonne",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Total",
+      "estimated_uncommonness": 2,
+      "combined_score": 186
+    },
+    {
+      "word": "Acne",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Alco",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Alec",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Alme",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Amen",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Amie",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Amin",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Ance",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Atoc",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Atom",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Atop",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cain",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Calo",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cane",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cann",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cant",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cate",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Ceil",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Celt",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cent",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Ciao",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Ciel",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cine",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cion",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cite",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cito",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Clan",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Clat",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Clit",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Clon",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Clot",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Coal",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Coat",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Coil",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Coin",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Coit",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cola",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cole",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Colt",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cone",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Coni",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Conn",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cool",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Coon",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Coot",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cote",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Cott",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Emit",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Etic",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Icon",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Item",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Lace",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Laic",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Lame",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Leam",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Leap",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Lept",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Lice",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Lima",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Lime",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Limn",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Limo",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Lipa",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Lipe",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Lipo",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Loam",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Loca",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Loci",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Loco",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Loma",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Lome",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Loom",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Loop",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Lope",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mail",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Main",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Male",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mali",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Malt",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mane",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mani",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mano",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mate",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Matt",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Meal",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mean",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Meat",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mein",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mela",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Melt",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Meno",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Ment",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Meta",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mien",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mile",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Milo",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Milt",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mina",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mine",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mino",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mint",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mite",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mitt",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Moai",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Moan",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Moat",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Moil",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Moit",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mola",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mole",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Molt",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mona",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mono",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mooi",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mool",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Moon",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Moot",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mote",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Moti",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Mott",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Name",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Nape",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Neap",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Nema",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Nemn",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Nice",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Nipa",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Noma",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Nome",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Noop",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Nope",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Octa",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Olpe",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Omen",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Omit",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Once",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Opal",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Open",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Otic",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pail",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pain",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pale",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pane",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pant",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pate",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Peal",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pean",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Peat",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pein",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pela",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pelt",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Peni",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pent",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Peon",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pial",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pian",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Piet",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pila",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pile",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pina",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pine",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pint",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pion",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pita",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Plan",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Plat",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Plea",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Plie",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Plot",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Poet",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pole",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Polo",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Polt",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pone",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pont",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pool",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Poon",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Poot",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pote",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Pott",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Tace",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Taco",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Tact",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Talc",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Tame",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Tape",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Team",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Tepa",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Tice",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Time",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Tipt",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Toco",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Tome",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Tomo",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Toom",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Tope",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Topi",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Topo",
+      "estimated_uncommonness": 2,
+      "combined_score": 164
+    },
+    {
+      "word": "Amp",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Cam",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Cap",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Cep",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Cop",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Imp",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Mac",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Map",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Mic",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Moc",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Mop",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Pac",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Pam",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Pec",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Pic",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Pom",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Aeon",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Aine",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Alit",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Aloe",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Aloo",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Alto",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Anil",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Anno",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Anon",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Ante",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Anti",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Eina",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Elan",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Enol",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Eoan",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Etat",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Etna",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Ilea",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Into",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Iota",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lain",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lane",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lant",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Late",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lati",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lean",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Leat",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Leno",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lent",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lien",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Line",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Linn",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lino",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lint",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lion",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lite",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Loan",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Loin",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lone",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Loon",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Loot",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lota",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Lote",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Loti",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Loto",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Nail",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Nain",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Nane",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Naoi",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Neal",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Neat",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Neon",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Nett",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Nine",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Nite",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Noel",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Noil",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Nole",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Nolo",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Nona",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "None",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Noni",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Noon",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Nota",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Note",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Nott",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Oint",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Olea",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Oleo",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Olio",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Onie",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Onto",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Oont",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Otto",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tael",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tail",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tain",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tait",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tale",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tali",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tane",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tate",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Teal",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Teat",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Teil",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tein",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tela",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Telt",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tent",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tian",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tile",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tilt",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tina",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tine",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tint",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tite",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Toea",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Toil",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Toit",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tola",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tole",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tolt",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tone",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tool",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Toon",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Toot",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Tote",
+      "estimated_uncommonness": 1,
+      "combined_score": 98
+    },
+    {
+      "word": "Ace",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Act",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Aim",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Alp",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Ame",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Ami",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Ape",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Apo",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Apt",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Can",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Cat",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Cel",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Cit",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Col",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Con",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Coo",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Cot",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Eco",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Elm",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Emo",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Ice",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Lac",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Lam",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Lap",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Lep",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Lip",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Lop",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mae",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mal",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Man",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mat",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mel",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Men",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Met",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mil",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mna",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Moa",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Moe",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Moi",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mol",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mon",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Moo",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Mot",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Nam",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Nap",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Nep",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Nim",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Nip",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Nom",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Oca",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Olm",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Oom",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Oop",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Ope",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Opt",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pal",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pan",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pat",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pea",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pel",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pen",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pet",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pia",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pie",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pin",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pit",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Poa",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Poi",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pol",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Poo",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Pot",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Tam",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Tap",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Tec",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Tic",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Tip",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Toc",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Tom",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Top",
+      "estimated_uncommonness": 2,
+      "combined_score": 76
+    },
+    {
+      "word": "Ail",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ain",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ait",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ale",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Alt",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ane",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ani",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ann",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ant",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ate",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Att",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ean",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Elt",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eon",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Inn",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ion",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ita",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Lat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Lea",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Lei",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Let",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Lie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Lin",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Lit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Loo",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Lot",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nan",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Net",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nil",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Non",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Noo",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Not",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Oat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Oil",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ole",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "One",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ono",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Oon",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Oot",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tai",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tan",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tao",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tea",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tel",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ten",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tet",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Til",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tin",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Toe",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ton",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Too",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tot",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
