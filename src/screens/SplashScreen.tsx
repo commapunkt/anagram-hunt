@@ -25,7 +25,8 @@ const SplashScreen = ({ onStartGame, onResumeGame, hasSavedGame = false }: Splas
   const contentFade = useRef(new Animated.Value(0)).current;
 
   const finalLogoMargin = 20; // same as styles.logoImage.height
-  const finalLogoHeight = 170; // same as styles.logoImage.height
+  const viewportHeight = window.innerHeight; 
+  const finalLogoHeight = Math.min(250, (viewportHeight - 500)); // same as styles.logoImage.height
   const contentHeight = 340; // estimated height of the splash content box
   
   // Calculate initial position to center the logo on screen
@@ -49,10 +50,10 @@ const SplashScreen = ({ onStartGame, onResumeGame, hasSavedGame = false }: Splas
         Animated.timing(logoTranslate, { toValue: finalLogoPosition, duration: 600, useNativeDriver: true }),
         Animated.timing(logoHeight, { toValue: finalLogoHeight, duration: 600, useNativeDriver: false }),
         Animated.timing(logoMarginBottom, { toValue: finalLogoMargin, duration: 600, useNativeDriver: false }),
+        Animated.timing(contentFade, { toValue: 1, duration: 800, useNativeDriver: true }),
       ]),
     ]).start(() => {
       setAnimationCompleted(true);
-      Animated.timing(contentFade, { toValue: 1, duration: 600, useNativeDriver: true }).start();
     });
   }, []);
 
@@ -133,6 +134,7 @@ const styles = StyleSheet.create({
   },
   content: {
     width: '92%',
+    maxHeight: '96.3%',
     padding: 20,
     backgroundColor: '#1e1e1e',
     borderRadius: 15,
