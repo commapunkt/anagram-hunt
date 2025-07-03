@@ -193,8 +193,11 @@ const styles = StyleSheet.create({
   startButton: {
     backgroundColor: '#4CAF50',
     paddingVertical: 15,
+    paddingHorizontal: 20,
     borderRadius: 10,
     alignItems: 'center',
+    minWidth: 250,
+    alignSelf: 'center',
   },
   startButtonText: {
     color: '#fff',
@@ -226,9 +229,12 @@ const styles = StyleSheet.create({
   resumeButton: {
     backgroundColor: '#007bff',
     paddingVertical: 15,
+    paddingHorizontal: 20,
     borderRadius: 10,
     alignItems: 'center',
     marginTop: 10,
+    minWidth: 250,
+    alignSelf: 'center',
   },
   resumeButtonText: {
     color: '#fff',

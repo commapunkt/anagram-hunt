@@ -883,10 +883,11 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   gameArea: {
-    flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
     width: '90%',
+    paddingTop: 20,
+    paddingBottom: 20,
   },
   inputContainer: {
     backgroundColor: '#333',
@@ -895,7 +896,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     borderRadius: 10,
-    marginBottom: 15,
   },
   inputText: {
     color: '#fff',
@@ -904,12 +904,13 @@ const styles = StyleSheet.create({
     letterSpacing: 2,
   },
   foundWordsContainer: {
-    height: '35%',
+    height: '30%',
     width: '90%',
     backgroundColor: '#222',
     borderRadius: 10,
     padding: 10,
     marginBottom: 10,
+    flex: 1,
   },
   foundWordsTitle: {
       color: '#fff',
@@ -923,6 +924,7 @@ const styles = StyleSheet.create({
   },
   modalContainer: {
     flex: 1,
+    height: '100%',
     justifyContent: 'center',
     alignItems: 'center',
     backgroundColor: 'rgba(0, 0, 0, 0.7)',
