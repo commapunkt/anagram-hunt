@@ -1,0 +1,1174 @@
+{
+  "seed_word": "BAHNHOFSUHR",
+  "words_length_count": {
+    "3": 89,
+    "4": 64,
+    "5": 42,
+    "6": 25,
+    "7": 8,
+    "8": 3,
+    "11": 1
+  },
+  "words_list": [
+    {
+      "word": "Bahnhofsuhr",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Bahnhofs",
+      "estimated_uncommonness": 4,
+      "combined_score": 698
+    },
+    {
+      "word": "Braunhof",
+      "estimated_uncommonness": 4,
+      "combined_score": 669
+    },
+    {
+      "word": "Bohrhaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 611
+    },
+    {
+      "word": "Bahnhof",
+      "estimated_uncommonness": 4,
+      "combined_score": 607
+    },
+    {
+      "word": "Bauhofs",
+      "estimated_uncommonness": 4,
+      "combined_score": 578
+    },
+    {
+      "word": "Brauhof",
+      "estimated_uncommonness": 4,
+      "combined_score": 578
+    },
+    {
+      "word": "Haushof",
+      "estimated_uncommonness": 3,
+      "combined_score": 549
+    },
+    {
+      "word": "Hofhaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 549
+    },
+    {
+      "word": "Hohnruf",
+      "estimated_uncommonness": 3,
+      "combined_score": 549
+    },
+    {
+      "word": "Hufhorn",
+      "estimated_uncommonness": 3,
+      "combined_score": 549
+    },
+    {
+      "word": "Rohbaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 490
+    },
+    {
+      "word": "Bauhof",
+      "estimated_uncommonness": 3,
+      "combined_score": 487
+    },
+    {
+      "word": "Bushof",
+      "estimated_uncommonness": 3,
+      "combined_score": 487
+    },
+    {
+      "word": "Hofbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 487
+    },
+    {
+      "word": "aufhob",
+      "estimated_uncommonness": 3,
+      "combined_score": 487
+    },
+    {
+      "word": "Abfuhr",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Barhuf",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Obfrau",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "abfuhr",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Abrufs",
+      "estimated_uncommonness": 3,
+      "combined_score": 429
+    },
+    {
+      "word": "Busfan",
+      "estimated_uncommonness": 3,
+      "combined_score": 429
+    },
+    {
+      "word": "unfroh",
+      "estimated_uncommonness": 3,
+      "combined_score": 429
+    },
+    {
+      "word": "Rohbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 399
+    },
+    {
+      "word": "anfuhr",
+      "estimated_uncommonness": 3,
+      "combined_score": 399
+    },
+    {
+      "word": "aushob",
+      "estimated_uncommonness": 3,
+      "combined_score": 399
+    },
+    {
+      "word": "Anrufs",
+      "estimated_uncommonness": 2,
+      "combined_score": 370
+    },
+    {
+      "word": "Barons",
+      "estimated_uncommonness": 2,
+      "combined_score": 370
+    },
+    {
+      "word": "Bornas",
+      "estimated_uncommonness": 2,
+      "combined_score": 370
+    },
+    {
+      "word": "Brunos",
+      "estimated_uncommonness": 2,
+      "combined_score": 370
+    },
+    {
+      "word": "Honshu",
+      "estimated_uncommonness": 2,
+      "combined_score": 370
+    },
+    {
+      "word": "Ornbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 370
+    },
+    {
+      "word": "Ahorns",
+      "estimated_uncommonness": 2,
+      "combined_score": 341
+    },
+    {
+      "word": "Brauns",
+      "estimated_uncommonness": 2,
+      "combined_score": 341
+    },
+    {
+      "word": "Sharon",
+      "estimated_uncommonness": 2,
+      "combined_score": 341
+    },
+    {
+      "word": "Abruf",
+      "estimated_uncommonness": 3,
+      "combined_score": 338
+    },
+    {
+      "word": "Urahns",
+      "estimated_uncommonness": 2,
+      "combined_score": 312
+    },
+    {
+      "word": "Uranos",
+      "estimated_uncommonness": 2,
+      "combined_score": 312
+    },
+    {
+      "word": "Afros",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Bohrs",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "FORSA",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Forsa",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Hanfs",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "anhob",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Anruf",
+      "estimated_uncommonness": 2,
+      "combined_score": 279
+    },
+    {
+      "word": "Baron",
+      "estimated_uncommonness": 2,
+      "combined_score": 279
+    },
+    {
+      "word": "Bonus",
+      "estimated_uncommonness": 2,
+      "combined_score": 279
+    },
+    {
+      "word": "Borna",
+      "estimated_uncommonness": 2,
+      "combined_score": 279
+    },
+    {
+      "word": "Borns",
+      "estimated_uncommonness": 2,
+      "combined_score": 279
+    },
+    {
+      "word": "Bruno",
+      "estimated_uncommonness": 2,
+      "combined_score": 279
+    },
+    {
+      "word": "Farns",
+      "estimated_uncommonness": 2,
+      "combined_score": 279
+    },
+    {
+      "word": "Fauns",
+      "estimated_uncommonness": 2,
+      "combined_score": 279
+    },
+    {
+      "word": "Furan",
+      "estimated_uncommonness": 2,
+      "combined_score": 279
+    },
+    {
+      "word": "Hohns",
+      "estimated_uncommonness": 2,
+      "combined_score": 279
+    },
+    {
+      "word": "Shoah",
+      "estimated_uncommonness": 2,
+      "combined_score": 279
+    },
+    {
+      "word": "Ahorn",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "Braun",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "Braus",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "Buran",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "Bursa",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "Hahns",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "Horns",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "Horus",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "Huhns",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "Noahs",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "Raubs",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "Shona",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "braun",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "unbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "urban",
+      "estimated_uncommonness": 2,
+      "combined_score": 250
+    },
+    {
+      "word": "BASF",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Hofs",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "froh",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Arnos",
+      "estimated_uncommonness": 2,
+      "combined_score": 221
+    },
+    {
+      "word": "Harns",
+      "estimated_uncommonness": 2,
+      "combined_score": 221
+    },
+    {
+      "word": "Husar",
+      "estimated_uncommonness": 2,
+      "combined_score": 221
+    },
+    {
+      "word": "Nahur",
+      "estimated_uncommonness": 2,
+      "combined_score": 221
+    },
+    {
+      "word": "Noras",
+      "estimated_uncommonness": 2,
+      "combined_score": 221
+    },
+    {
+      "word": "Sonar",
+      "estimated_uncommonness": 2,
+      "combined_score": 221
+    },
+    {
+      "word": "Urahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 221
+    },
+    {
+      "word": "Urson",
+      "estimated_uncommonness": 2,
+      "combined_score": 221
+    },
+    {
+      "word": "Afro",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Bohr",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Fron",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Hanf",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Horb",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Hufs",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Sofa",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "UFOs",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Ufos",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "boah",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "bohr",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "fahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "fuhr",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Urans",
+      "estimated_uncommonness": 1,
+      "combined_score": 192
+    },
+    {
+      "word": "Abos",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Bahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Bahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Boas",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Bons",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Bora",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Born",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Fans",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Farn",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Faun",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Frau",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Fuas",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Hohn",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Hubs",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Obus",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Rufs",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "Snob",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "aufs",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "frau",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "rauf",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "sauf",
+      "estimated_uncommonness": 2,
+      "combined_score": 188
+    },
+    {
+      "word": "BHF",
+      "estimated_uncommonness": 2,
+      "combined_score": 185
+    },
+    {
+      "word": "Hbf",
+      "estimated_uncommonness": 2,
+      "combined_score": 185
+    },
+    {
+      "word": "Bars",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Baus",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Hahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Horn",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Huhn",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "NABU",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "NaOH",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Noah",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Oahu",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Ohrs",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Raub",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "Sohn",
+      "estimated_uncommonness": 2,
+      "combined_score": 159
+    },
+    {
+      "word": "BfA",
+      "estimated_uncommonness": 2,
+      "combined_score": 156
+    },
+    {
+      "word": "BfS",
+      "estimated_uncommonness": 2,
+      "combined_score": 156
+    },
+    {
+      "word": "Hof",
+      "estimated_uncommonness": 2,
+      "combined_score": 156
+    },
+    {
+      "word": "Arno",
+      "estimated_uncommonness": 1,
+      "combined_score": 130
+    },
+    {
+      "word": "Hans",
+      "estimated_uncommonness": 1,
+      "combined_score": 130
+    },
+    {
+      "word": "Harn",
+      "estimated_uncommonness": 1,
+      "combined_score": 130
+    },
+    {
+      "word": "Haus",
+      "estimated_uncommonness": 1,
+      "combined_score": 130
+    },
+    {
+      "word": "Naos",
+      "estimated_uncommonness": 1,
+      "combined_score": 130
+    },
+    {
+      "word": "Nora",
+      "estimated_uncommonness": 1,
+      "combined_score": 130
+    },
+    {
+      "word": "Onus",
+      "estimated_uncommonness": 1,
+      "combined_score": 130
+    },
+    {
+      "word": "Rahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 130
+    },
+    {
+      "word": "Rosa",
+      "estimated_uncommonness": 1,
+      "combined_score": 130
+    },
+    {
+      "word": "rahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 130
+    },
+    {
+      "word": "rosa",
+      "estimated_uncommonness": 1,
+      "combined_score": 130
+    },
+    {
+      "word": "Boh",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Fon",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Huf",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "ORF",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "UFO",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Ufo",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "hob",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Anus",
+      "estimated_uncommonness": 1,
+      "combined_score": 101
+    },
+    {
+      "word": "Runs",
+      "estimated_uncommonness": 1,
+      "combined_score": 101
+    },
+    {
+      "word": "Uran",
+      "estimated_uncommonness": 1,
+      "combined_score": 101
+    },
+    {
+      "word": "raus",
+      "estimated_uncommonness": 1,
+      "combined_score": 101
+    },
+    {
+      "word": "Abo",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "BHs",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "Boa",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "Bon",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "Bor",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "Buh",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "Fan",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "Hab",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "Hub",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "NFS",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "ORB",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "RAF",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "Ruf",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "SFr",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "Ufa",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "auf",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "bah",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "buh",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "hab",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "ruf",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "usf",
+      "estimated_uncommonness": 2,
+      "combined_score": 97
+    },
+    {
+      "word": "ABS",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "ASB",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Abu",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Aub",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Ban",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Bar",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Bau",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Bun",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Bus",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "HNO",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Ohr",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Rab",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Rho",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Sub",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "UBA",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "USB",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "bar",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "bau",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "oha",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "roh",
+      "estimated_uncommonness": 1,
+      "combined_score": 68
+    },
+    {
+      "word": "Ahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "Ahr",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "OAS",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "Rah",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "Ron",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "Ruh",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "Sao",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "UNO",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "Uhr",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "Uno",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "aro",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "hau",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "nah",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "ruh",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "sah",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "son",
+      "estimated_uncommonness": 1,
+      "combined_score": 39
+    },
+    {
+      "word": "Ars",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NSA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NSU",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "RNA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ras",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Run",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "San",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sur",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "USA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Urs",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ans",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "aus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nur",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ran",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "uns",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
