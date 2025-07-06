@@ -1,0 +1,6331 @@
+{
+  "seed_word": "FAMILIENSTAND",
+  "words_length_count": {
+    "3": 137,
+    "4": 252,
+    "5": 301,
+    "6": 254,
+    "7": 183,
+    "8": 90,
+    "9": 33,
+    "10": 12,
+    "13": 1
+  },
+  "words_list": [
+    {
+      "word": "Familienstand",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Filmdienst",
+      "estimated_uncommonness": 4,
+      "combined_score": 759
+    },
+    {
+      "word": "Maisfladen",
+      "estimated_uncommonness": 4,
+      "combined_score": 759
+    },
+    {
+      "word": "infantilem",
+      "estimated_uncommonness": 4,
+      "combined_score": 759
+    },
+    {
+      "word": "Finalisten",
+      "estimated_uncommonness": 4,
+      "combined_score": 697
+    },
+    {
+      "word": "Islandtief",
+      "estimated_uncommonness": 4,
+      "combined_score": 697
+    },
+    {
+      "word": "infantiles",
+      "estimated_uncommonness": 4,
+      "combined_score": 697
+    },
+    {
+      "word": "Diafilmen",
+      "estimated_uncommonness": 4,
+      "combined_score": 678
+    },
+    {
+      "word": "Feldmanns",
+      "estimated_uncommonness": 4,
+      "combined_score": 678
+    },
+    {
+      "word": "Filaments",
+      "estimated_uncommonness": 4,
+      "combined_score": 678
+    },
+    {
+      "word": "Filmdatei",
+      "estimated_uncommonness": 4,
+      "combined_score": 678
+    },
+    {
+      "word": "Filmdaten",
+      "estimated_uncommonness": 4,
+      "combined_score": 678
+    },
+    {
+      "word": "Tafelmann",
+      "estimated_uncommonness": 4,
+      "combined_score": 678
+    },
+    {
+      "word": "Dalmatiens",
+      "estimated_uncommonness": 4,
+      "combined_score": 666
+    },
+    {
+      "word": "Latinismen",
+      "estimated_uncommonness": 4,
+      "combined_score": 666
+    },
+    {
+      "word": "Talismanen",
+      "estimated_uncommonness": 4,
+      "combined_score": 666
+    },
+    {
+      "word": "infamsten",
+      "estimated_uncommonness": 4,
+      "combined_score": 647
+    },
+    {
+      "word": "Fidelitas",
+      "estimated_uncommonness": 4,
+      "combined_score": 616
+    },
+    {
+      "word": "Saftladen",
+      "estimated_uncommonness": 4,
+      "combined_score": 616
+    },
+    {
+      "word": "Tieflands",
+      "estimated_uncommonness": 4,
+      "combined_score": 616
+    },
+    {
+      "word": "infantile",
+      "estimated_uncommonness": 4,
+      "combined_score": 616
+    },
+    {
+      "word": "Laienstand",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Sandanteil",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Standlinie",
+      "estimated_uncommonness": 3,
+      "combined_score": 604
+    },
+    {
+      "word": "Diafilme",
+      "estimated_uncommonness": 4,
+      "combined_score": 598
+    },
+    {
+      "word": "Diafilms",
+      "estimated_uncommonness": 4,
+      "combined_score": 598
+    },
+    {
+      "word": "Familien",
+      "estimated_uncommonness": 4,
+      "combined_score": 598
+    },
+    {
+      "word": "Feldmann",
+      "estimated_uncommonness": 4,
+      "combined_score": 598
+    },
+    {
+      "word": "Felsmann",
+      "estimated_uncommonness": 4,
+      "combined_score": 598
+    },
+    {
+      "word": "Fielmann",
+      "estimated_uncommonness": 4,
+      "combined_score": 598
+    },
+    {
+      "word": "Filament",
+      "estimated_uncommonness": 4,
+      "combined_score": 598
+    },
+    {
+      "word": "Maifelds",
+      "estimated_uncommonness": 4,
+      "combined_score": 598
+    },
+    {
+      "word": "Maisfeld",
+      "estimated_uncommonness": 4,
+      "combined_score": 598
+    },
+    {
+      "word": "Mansfeld",
+      "estimated_uncommonness": 4,
+      "combined_score": 598
+    },
+    {
+      "word": "Tesafilm",
+      "estimated_uncommonness": 4,
+      "combined_score": 598
+    },
+    {
+      "word": "Adelsmann",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "Dalmatien",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "Fantasien",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "Islamiten",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "Landamtes",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "Landemast",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "Landesamt",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "Mailandes",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "Samenland",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "Steilmann",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "Talismane",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "anfandest",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "anfindest",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "anmailten",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "einfandst",
+      "estimated_uncommonness": 3,
+      "combined_score": 585
+    },
+    {
+      "word": "Fatimide",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Feminina",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Feminist",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Infamien",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Manifest",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "infamste",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "manifest",
+      "estimated_uncommonness": 4,
+      "combined_score": 567
+    },
+    {
+      "word": "Animisten",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Diamanten",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Tasmanien",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "diamanten",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Feldsaat",
+      "estimated_uncommonness": 3,
+      "combined_score": 536
+    },
+    {
+      "word": "Festland",
+      "estimated_uncommonness": 3,
+      "combined_score": 536
+    },
+    {
+      "word": "Finalist",
+      "estimated_uncommonness": 3,
+      "combined_score": 536
+    },
+    {
+      "word": "Tiefland",
+      "estimated_uncommonness": 3,
+      "combined_score": 536
+    },
+    {
+      "word": "anfielst",
+      "estimated_uncommonness": 3,
+      "combined_score": 536
+    },
+    {
+      "word": "anliefst",
+      "estimated_uncommonness": 3,
+      "combined_score": 536
+    },
+    {
+      "word": "infantil",
+      "estimated_uncommonness": 3,
+      "combined_score": 536
+    },
+    {
+      "word": "landfein",
+      "estimated_uncommonness": 3,
+      "combined_score": 536
+    },
+    {
+      "word": "Antiideal",
+      "estimated_uncommonness": 3,
+      "combined_score": 524
+    },
+    {
+      "word": "Inlandeis",
+      "estimated_uncommonness": 3,
+      "combined_score": 524
+    },
+    {
+      "word": "Landstein",
+      "estimated_uncommonness": 3,
+      "combined_score": 524
+    },
+    {
+      "word": "Amalfis",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "Diafilm",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "Eisfilm",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "Familie",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "Filmens",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "Filmset",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "Maifeld",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "fatalem",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "filmend",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "filmten",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "finalem",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "mitlief",
+      "estimated_uncommonness": 4,
+      "combined_score": 517
+    },
+    {
+      "word": "Almandin",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Altmains",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Altmanns",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Amtsadel",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Anmalens",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Fantasie",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Feinsand",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Intifada",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Lademann",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Lademast",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Laminats",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Landamts",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Landmine",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Leitmann",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Liniment",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Mailands",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Maintals",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Malaisen",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Mandelas",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Melanins",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Miniland",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Mitleids",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Talisman",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Tiefsinn",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "anfandet",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "anfasend",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "anfindet",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "anleimst",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "anmailen",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "anmailst",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "anmailte",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "anmalend",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "anmalten",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "distalem",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "sintemal",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Fatimas",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Infamie",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Maifest",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "feminin",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "finitem",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "infamen",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "infames",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "sanftem",
+      "estimated_uncommonness": 3,
+      "combined_score": 486
+    },
+    {
+      "word": "Anetamin",
+      "estimated_uncommonness": 3,
+      "combined_score": 474
+    },
+    {
+      "word": "Mandaten",
+      "estimated_uncommonness": 3,
+      "combined_score": 474
+    },
+    {
+      "word": "Mandates",
+      "estimated_uncommonness": 3,
+      "combined_score": 474
+    },
+    {
+      "word": "Samniten",
+      "estimated_uncommonness": 3,
+      "combined_score": 474
+    },
+    {
+      "word": "Sandmine",
+      "estimated_uncommonness": 3,
+      "combined_score": 474
+    },
+    {
+      "word": "damasten",
+      "estimated_uncommonness": 3,
+      "combined_score": 474
+    },
+    {
+      "word": "imstande",
+      "estimated_uncommonness": 3,
+      "combined_score": 474
+    },
+    {
+      "word": "Alfenid",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Astfeld",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Delfins",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Einfalt",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Faltens",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Fanalen",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Fisteln",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Fladens",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Flinten",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Liftens",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "anfielt",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "anlieft",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "faltend",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "faselnd",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "fatalen",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "fatales",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "finalen",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "finales",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "flennst",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "liftend",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "tafelnd",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Alstaden",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Annalist",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Danielas",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Idealist",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Inlandes",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Inntales",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Italiens",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Landnase",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Leinsaat",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Leitsinn",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Leninist",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Natalies",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Sandalen",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "anlandet",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "anlasten",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "anleinst",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "distalen",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Amalfi",
+      "estimated_uncommonness": 3,
+      "combined_score": 437
+    },
+    {
+      "word": "Filmes",
+      "estimated_uncommonness": 3,
+      "combined_score": 437
+    },
+    {
+      "word": "Flamen",
+      "estimated_uncommonness": 3,
+      "combined_score": 437
+    },
+    {
+      "word": "filmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 437
+    },
+    {
+      "word": "filmst",
+      "estimated_uncommonness": 3,
+      "combined_score": 437
+    },
+    {
+      "word": "filmte",
+      "estimated_uncommonness": 3,
+      "combined_score": 437
+    },
+    {
+      "word": "Altmain",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Altmann",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Altseim",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Amalies",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Eltmann",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Emilias",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Emsland",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Fasanen",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Feindin",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Fendant",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Findens",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Islamit",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Laminat",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Landamt",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Limande",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Mailand",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Maintal",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Malaien",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Malaise",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Mandela",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Mandeln",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Manilas",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Mantels",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Melanin",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Milanen",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Mildest",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Misteln",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Mitleid",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Samland",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Simandl",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Tamilen",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Tamilin",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Tilmans",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "anfasen",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "anfinde",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "anleimt",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "anmaile",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "anmailt",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "anmalen",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "anmalst",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "anmalte",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "definit",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "diesmal",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "einfand",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "fandest",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "fastend",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "findest",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "finiten",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "finites",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "fistend",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "leidsam",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "mailend",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "mailten",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "maladen",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "malades",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "nasalem",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "niemals",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "saftend",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "sanften",
+      "estimated_uncommonness": 3,
+      "combined_score": 425
+    },
+    {
+      "word": "Adenitis",
+      "estimated_uncommonness": 2,
+      "combined_score": 412
+    },
+    {
+      "word": "Einstand",
+      "estimated_uncommonness": 2,
+      "combined_score": 412
+    },
+    {
+      "word": "Indianas",
+      "estimated_uncommonness": 2,
+      "combined_score": 412
+    },
+    {
+      "word": "andienst",
+      "estimated_uncommonness": 2,
+      "combined_score": 412
+    },
+    {
+      "word": "einstand",
+      "estimated_uncommonness": 2,
+      "combined_score": 412
+    },
+    {
+      "word": "Fatima",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "infame",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "miefst",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Amtseid",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Animist",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Damaste",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Damians",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Diamant",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Eismann",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Endmast",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Mandant",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Mandate",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Mandats",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Medians",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Medinas",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Mindens",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Mitsein",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Niemand",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Samnite",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Semitin",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Tandems",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "intimen",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "intimes",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "mistend",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "niemand",
+      "estimated_uncommonness": 3,
+      "combined_score": 394
+    },
+    {
+      "word": "Delfin",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Delfts",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Falten",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Fanale",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Fialen",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Filets",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Finale",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Finals",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Fistel",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Fladen",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Flinte",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Liftes",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Tafeln",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Tiflis",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "anfiel",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "anlief",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "falten",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "faseln",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "faselt",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "fatale",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "feilst",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "fielst",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "finale",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "flennt",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "fliest",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "liefst",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "liften",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "tafeln",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Aladins",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Alanins",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Altanen",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Anilins",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Anteils",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Asialie",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Daniela",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Daniels",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Details",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Disteln",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Eilands",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Eisland",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Elastan",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Estland",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Inlands",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Inntals",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Italien",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Landeis",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Landens",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Lateins",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Latinas",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Litanei",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Natalie",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Saladin",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Salaten",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Salinen",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Sandale",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Stadial",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Stendal",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Tadelns",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "alsdann",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "anlaste",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "anseilt",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "distale",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "landein",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "landest",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "lastend",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "linsend",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "listend",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "nasalen",
+      "estimated_uncommonness": 2,
+      "combined_score": 363
+    },
+    {
+      "word": "Filme",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Films",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Flame",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "filme",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "filmt",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Altman",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Amalie",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Amelia",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Amseln",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Anselm",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Antifa",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Dafina",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Eisfan",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Emilia",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Enfant",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Fadens",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Fasane",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Fasnet",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Fasten",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Fiesta",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Finten",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Infant",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Ismael",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Ismail",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Lamina",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Limite",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Limits",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Madlen",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Malaie",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Malate",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Malats",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Malens",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Maltas",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Mandel",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Manila",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Mantel",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Melina",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Milane",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Milans",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Milena",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Milets",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Mindel",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Mistel",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Salami",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Salmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Simile",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Smalte",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Stefan",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Tamile",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Tilman",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Tinnef",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "almend",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "analem",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "anfand",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "anmale",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "anmalt",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "damals",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "desmal",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "einmal",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "fanden",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "fandet",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "fandst",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "fasend",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "fasten",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "feinst",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "finden",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "findet",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "finite",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "fisten",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "leimst",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "lindem",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "mailen",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "mailst",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "mailte",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "malade",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "malend",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "malten",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "medial",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "mental",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "mesial",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "milden",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "mildes",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "saften",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "sanfte",
+      "estimated_uncommonness": 3,
+      "combined_score": 344
+    },
+    {
+      "word": "Andesin",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Andesit",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Anstand",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Asiaten",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Asiatin",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Deistin",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Dinnies",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Einsaat",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Idstein",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Indiana",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Indiens",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Insania",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Nadines",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Stadien",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "andante",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "andient",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "anstand",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "instand",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "nistend",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "sandten",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "standen",
+      "estimated_uncommonness": 2,
+      "combined_score": 332
+    },
+    {
+      "word": "Mafia",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Miefs",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "fadem",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "infam",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "mieft",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Admins",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Amiant",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Amiens",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Aminen",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Atmens",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Damast",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Damian",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Denims",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Desman",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Etamin",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Madita",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Maiden",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Maines",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Manati",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Mandat",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Manien",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Mannas",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Mannes",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Mannit",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Mantas",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Masten",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Median",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Medias",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Medina",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Minden",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Namens",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Saeima",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Tandem",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "atmend",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "einsam",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "intime",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "median",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "mediat",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "meinst",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "miedst",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "misten",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "namens",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "samten",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "timend",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "timide",
+      "estimated_uncommonness": 2,
+      "combined_score": 313
+    },
+    {
+      "word": "Delft",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Falte",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Fanal",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Fasel",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Felds",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Fiale",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Fidel",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Files",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Filet",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Flats",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Flint",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Lifts",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Tafel",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "falte",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "fatal",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "feilt",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "felin",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "fetal",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "fidel",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "fielt",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "final",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "lieft",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "lifte",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "tafle",
+      "estimated_uncommonness": 3,
+      "combined_score": 295
+    },
+    {
+      "word": "Adelns",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Aladin",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Alanin",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Aliens",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Alinea",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Altane",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Altans",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Altena",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Anilin",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Anteil",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Daniel",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Deltas",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Dental",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Detail",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Distel",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Eiland",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Ideals",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Inland",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Inline",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Inntal",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Inseln",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Intels",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Island",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Ladens",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Ladies",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Ladins",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Laitie",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Landei",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Landes",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Lasten",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Latein",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Latina",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Lenins",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Lianen",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Lindas",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Linden",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Linien",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Linnea",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Linsen",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Listen",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Natale",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Natali",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Natals",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Salate",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Salden",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Saline",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Stadel",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Stalin",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Stilen",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Tadels",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Tilden",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "aalend",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "aalten",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "adelst",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "analen",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "anales",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "dealst",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "dental",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "distal",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "einlas",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "landen",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "landet",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "lasten",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "linden",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "lindes",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "linsen",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "linste",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "listen",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "nadeln",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "nadelt",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "nasale",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "tadeln",
+      "estimated_uncommonness": 2,
+      "combined_score": 282
+    },
+    {
+      "word": "Film",
+      "estimated_uncommonness": 3,
+      "combined_score": 276
+    },
+    {
+      "word": "Milf",
+      "estimated_uncommonness": 3,
+      "combined_score": 276
+    },
+    {
+      "word": "Almen",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Amsel",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Dimli",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Email",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Emils",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Etmal",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Faden",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Faina",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Fanta",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Fasan",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Feind",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Feist",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Fiats",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Finne",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Finte",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Fitis",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Islam",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Lamas",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Limas",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Limes",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Limit",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Mails",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Malis",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Malta",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Malte",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Mandl",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Masel",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Metal",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Milan",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Milde",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Milet",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "NAFTA",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Safed",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Salam",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Salem",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Salmi",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Steif",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Tamil",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Teifi",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Tiefs",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "almen",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "altem",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "faden",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "fades",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "fasen",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "faste",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "feind",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "feist",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "finde",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "finit",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "leimt",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "maile",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "mailt",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "malad",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "malen",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "malst",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "malte",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "milde",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "sanft",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "seift",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "steif",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "stief",
+      "estimated_uncommonness": 2,
+      "combined_score": 264
+    },
+    {
+      "word": "Adenin",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Anitas",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Annies",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Asiate",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Dantes",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Dasein",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Dennis",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Dentin",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Dianas",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Dienst",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Dinant",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Indien",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Nadine",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Nantes",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Nastie",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Saaten",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Saiten",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Sanden",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Stande",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Tennis",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Tensid",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "aasend",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "dienst",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "nisten",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "sanden",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "sandte",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Fama",
+      "estimated_uncommonness": 3,
+      "combined_score": 245
+    },
+    {
+      "word": "Feim",
+      "estimated_uncommonness": 3,
+      "combined_score": 245
+    },
+    {
+      "word": "Mief",
+      "estimated_uncommonness": 3,
+      "combined_score": 245
+    },
+    {
+      "word": "Adams",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Admin",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Amina",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Amine",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Amtes",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Anime",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Annam",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Atems",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Atman",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Damen",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Denim",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Edams",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Eidam",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Emnid",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Items",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Maden",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Maine",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Mains",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Manda",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Manie",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Manna",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Manne",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Manns",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Manta",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Masen",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Media",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Mensa",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Midas",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Minen",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Minis",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Minna",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Minne",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Namas",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Namen",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Saami",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Samen",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Semit",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Teams",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Times",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "atmen",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "damit",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "indem",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "intim",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "meins",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "meint",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "meist",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "miste",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "timen",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "timid",
+      "estimated_uncommonness": 2,
+      "combined_score": 233
+    },
+    {
+      "word": "Alfa",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "Alfs",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "Elfi",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "Feld",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "Fels",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "File",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "Fils",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "Flat",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "Leif",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "Lift",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "elft",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "feil",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "fiel",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "lief",
+      "estimated_uncommonness": 2,
+      "combined_score": 214
+    },
+    {
+      "word": "Aalen",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Aales",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Aalst",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Adels",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Aland",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Alane",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Alant",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Aldis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Alena",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Alias",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Alien",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Alina",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Alita",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Altai",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Altan",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Altin",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Andel",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Atlas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Dalai",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Dalis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Deals",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Delta",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Eilat",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Elans",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Elias",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Elisa",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ideal",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Ilias",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Iltis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Insel",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Intel",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Laden",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Laien",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Lands",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Leids",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Lenas",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Lenin",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Lenis",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Liane",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Lides",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Lieds",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Linda",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Linde",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Lindt",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Linie",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Linse",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Liste",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Nadel",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Naila",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Nasal",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Nidel",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Nidle",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Niels",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Saale",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Salat",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Seidl",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Silen",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Stiel",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Stile",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tadel",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tales",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tesla",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Tilde",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "aalen",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "aalst",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "aalte",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "adeln",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "adelt",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "alias",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "alten",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "altes",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "anale",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "dealt",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "eilst",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "ideal",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "laden",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "ladet",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "lande",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "lasen",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "laste",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "least",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "liest",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "linde",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "linse",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "liste",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "nasal",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "natal",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "seilt",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "senil",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "steil",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "tadle",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "teils",
+      "estimated_uncommonness": 2,
+      "combined_score": 202
+    },
+    {
+      "word": "Alma",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Almi",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "EFTA",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Emil",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Fans",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Fant",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Fase",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Fata",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Fenn",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Fest",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Feta",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Fiat",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Fina",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Fine",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Finn",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "ISAF",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Lama",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Leim",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Lima",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Mail",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Male",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Mali",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Mals",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "NTFS",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Safe",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Saft",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Salm",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Selm",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Senf",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Tief",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "fade",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "fand",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "fast",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "fein",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "fest",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "fies",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "find",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "male",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "malt",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "mild",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "seif",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "tief",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "ASEAN",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Aidas",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Anden",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Anita",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Annas",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Annes",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Annie",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Asant",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Asiat",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Asien",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Daina",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Dante",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Datei",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Daten",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Dates",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Deist",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Diana",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Diane",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Ennis",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Estin",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Idist",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Indie",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Inste",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Nasen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Neids",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Neins",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Ninas",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Nisan",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Saint",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Saite",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Sande",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Sanne",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Santa",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Satan",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Satin",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Sedan",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Senat",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Senta",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Siena",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Sinai",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Sinti",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Stade",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Stand",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Stein",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Tands",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Tanna",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Tanne",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Tanse",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Teins",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Tiden",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Tinas",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "aasen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "daten",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "deins",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "dient",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "einst",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "ident",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "indes",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "niest",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "niste",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "sannt",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "sinne",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "sinnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "stand",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "MfS",
+      "estimated_uncommonness": 2,
+      "combined_score": 165
+    },
+    {
+      "word": "Adam",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Amen",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Amid",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Amin",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Amis",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Amts",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Atem",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Dame",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Edam",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Item",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "MIDI",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "MITI",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Maas",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Maat",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Made",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Maid",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Main",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Mais",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Mann",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Mast",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Mate",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Meta",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Mets",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Midi",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Mies",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Mine",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Mini",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Mint",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Mist",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Nama",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Name",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "SMAD",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Same",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Sami",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Samt",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Seim",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Siam",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Team",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Tims",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "amen",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "atme",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "item",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "mein",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "meta",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "mied",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "mies",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "mini",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "mint",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "samt",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "time",
+      "estimated_uncommonness": 2,
+      "combined_score": 152
+    },
+    {
+      "word": "Alf",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Elf",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "FLN",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "elf",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "lfd",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "ADSL",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Aale",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Aals",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Adel",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Aldi",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Alis",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Alta",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Alte",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Alti",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Dali",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Deal",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Dili",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Elan",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Elis",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Elsa",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Ilse",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "LANs",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "LEDs",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Lade",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Laie",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Land",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Last",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Late",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Lead",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Leas",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Leda",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Leid",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Lein",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Lena",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Leni",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Lids",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Lied",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Lina",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Lisa",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Lise",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "List",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Neil",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Nils",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "SALT",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Saal",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Sale",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Seil",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Sial",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Siel",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Silt",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Stil",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Tael",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Tals",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "Teil",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "aalt",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "adle",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "alte",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "anal",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "eilt",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "lade",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "last",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "leid",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "leis",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "lest",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "lies",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "lind",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "seil",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "teil",
+      "estimated_uncommonness": 2,
+      "combined_score": 121
+    },
+    {
+      "word": "AfA",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "AfD",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Alm",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Elm",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "FIA",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Fan",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Fed",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Fes",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Fis",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "IFA",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Ilm",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Mal",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "MdL",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "NFS",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "fad",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "fes",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "fit",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "mal",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "ANSI",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "AStA",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Aast",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Aden",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Aida",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Aids",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Andi",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Anis",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Anna",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Anne",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Anni",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Asia",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Dana",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Data",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Date",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Dias",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "East",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Edna",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Eids",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Eins",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "IATA",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "ISDN",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Idas",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Iden",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Inas",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Ines",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Inns",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Inst",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Inti",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Isen",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "NASA",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Nana",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Nane",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Nase",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Neid",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Nein",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Nena",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Nest",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Niet",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Nina",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Saat",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Said",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Sand",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Sani",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Sean",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Seat",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Sein",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Senn",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Sina",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Sinn",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Sita",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Site",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Stan",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Tade",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Tand",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Tann",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Teds",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Tein",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Tide",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Tina",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "Tisa",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "ante",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "anti",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "dann",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "dein",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "denn",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "dies",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "eina",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "eins",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "eint",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "inne",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "nein",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "sann",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "seid",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "sein",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "seit",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "sind",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "stad",
+      "estimated_uncommonness": 1,
+      "combined_score": 90
+    },
+    {
+      "word": "AMD",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "AMS",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Ami",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Amt",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Anm",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "ESM",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Ems",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "MAD",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "MSN",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Maa",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Mai",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Man",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Met",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Mia",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Min",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "SIM",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "SMD",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Sam",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Sem",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Tam",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Tim",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "dem",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "man",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "min",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "mit",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Aal",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Ale",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Ali",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Als",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Alt",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "DSL",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Eli",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "LAN",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "LED",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "LSD",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "LSI",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "LTI",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Lai",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Lea",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Lei",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Lid",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Lis",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Ltd",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Nil",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "TLS",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Tal",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Tel",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "als",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "alt",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "las",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "ADN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ADS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aad",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aas",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ada",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ade",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Adi",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ain",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ais",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ann",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ase",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Asi",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ast",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "DIN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "DNA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "DNS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Dan",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Des",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Dia",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Die",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Dis",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Dit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ESA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ETA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eid",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eis",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "End",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "IAA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "IDE",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "IDs",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ian",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ida",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Idi",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ina",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Inn",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ist",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NET",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NSA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "SED",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "San",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sen",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Set",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Std",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TAN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ted",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ade",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ans",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "das",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "dat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "den",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "des",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "die",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "dit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ein",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ins",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ist",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "net",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nid",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "sei",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "sie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
