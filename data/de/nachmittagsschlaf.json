@@ -1,0 +1,5994 @@
+{
+  "seed_word": "NACHMITTAGSSCHLAF",
+  "words_length_count": {
+    "3": 135,
+    "4": 207,
+    "5": 232,
+    "6": 188,
+    "7": 147,
+    "8": 117,
+    "9": 89,
+    "10": 45,
+    "11": 25,
+    "12": 4,
+    "13": 5,
+    "17": 1
+  },
+  "words_list": [
+    {
+      "word": "Nachmittagsschlaf",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Flachschnitts",
+      "estimated_uncommonness": 4,
+      "combined_score": 739
+    },
+    {
+      "word": "fastnachtlich",
+      "estimated_uncommonness": 4,
+      "combined_score": 739
+    },
+    {
+      "word": "Mittagsschlaf",
+      "estimated_uncommonness": 4,
+      "combined_score": 722
+    },
+    {
+      "word": "Anschlagstift",
+      "estimated_uncommonness": 4,
+      "combined_score": 688
+    },
+    {
+      "word": "Nachsichtstag",
+      "estimated_uncommonness": 4,
+      "combined_score": 688
+    },
+    {
+      "word": "Flachschnitt",
+      "estimated_uncommonness": 4,
+      "combined_score": 687
+    },
+    {
+      "word": "Liftschachts",
+      "estimated_uncommonness": 4,
+      "combined_score": 687
+    },
+    {
+      "word": "Nachtschlafs",
+      "estimated_uncommonness": 4,
+      "combined_score": 687
+    },
+    {
+      "word": "Schafsmilch",
+      "estimated_uncommonness": 4,
+      "combined_score": 668
+    },
+    {
+      "word": "Liftschacht",
+      "estimated_uncommonness": 4,
+      "combined_score": 634
+    },
+    {
+      "word": "Nachtschlaf",
+      "estimated_uncommonness": 4,
+      "combined_score": 634
+    },
+    {
+      "word": "Schmalstich",
+      "estimated_uncommonness": 4,
+      "combined_score": 617
+    },
+    {
+      "word": "Milchschaf",
+      "estimated_uncommonness": 4,
+      "combined_score": 616
+    },
+    {
+      "word": "Schafmilch",
+      "estimated_uncommonness": 4,
+      "combined_score": 616
+    },
+    {
+      "word": "Samstagnacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 601
+    },
+    {
+      "word": "Glasschicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 600
+    },
+    {
+      "word": "Nachschlags",
+      "estimated_uncommonness": 3,
+      "combined_score": 600
+    },
+    {
+      "word": "Schichtglas",
+      "estimated_uncommonness": 3,
+      "combined_score": 600
+    },
+    {
+      "word": "Schlachttag",
+      "estimated_uncommonness": 3,
+      "combined_score": 600
+    },
+    {
+      "word": "nachschlagt",
+      "estimated_uncommonness": 3,
+      "combined_score": 600
+    },
+    {
+      "word": "schamanisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 600
+    },
+    {
+      "word": "Fachinhalts",
+      "estimated_uncommonness": 3,
+      "combined_score": 583
+    },
+    {
+      "word": "Schalttisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 583
+    },
+    {
+      "word": "Schlafangst",
+      "estimated_uncommonness": 3,
+      "combined_score": 583
+    },
+    {
+      "word": "Schlagstift",
+      "estimated_uncommonness": 3,
+      "combined_score": 583
+    },
+    {
+      "word": "anschlichst",
+      "estimated_uncommonness": 3,
+      "combined_score": 583
+    },
+    {
+      "word": "Flachstich",
+      "estimated_uncommonness": 4,
+      "combined_score": 582
+    },
+    {
+      "word": "Nachttischs",
+      "estimated_uncommonness": 3,
+      "combined_score": 566
+    },
+    {
+      "word": "Schachfans",
+      "estimated_uncommonness": 3,
+      "combined_score": 565
+    },
+    {
+      "word": "Nachmittags",
+      "estimated_uncommonness": 3,
+      "combined_score": 549
+    },
+    {
+      "word": "asthmatisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 549
+    },
+    {
+      "word": "fantastisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 549
+    },
+    {
+      "word": "nachmittags",
+      "estimated_uncommonness": 3,
+      "combined_score": 549
+    },
+    {
+      "word": "Nachschlag",
+      "estimated_uncommonness": 3,
+      "combined_score": 548
+    },
+    {
+      "word": "Nachtfilms",
+      "estimated_uncommonness": 3,
+      "combined_score": 548
+    },
+    {
+      "word": "Schachmatt",
+      "estimated_uncommonness": 3,
+      "combined_score": 548
+    },
+    {
+      "word": "nachmachst",
+      "estimated_uncommonness": 3,
+      "combined_score": 548
+    },
+    {
+      "word": "schachmatt",
+      "estimated_uncommonness": 3,
+      "combined_score": 548
+    },
+    {
+      "word": "Glasschnitt",
+      "estimated_uncommonness": 3,
+      "combined_score": 532
+    },
+    {
+      "word": "Schnittglas",
+      "estimated_uncommonness": 3,
+      "combined_score": 532
+    },
+    {
+      "word": "schanghaist",
+      "estimated_uncommonness": 3,
+      "combined_score": 532
+    },
+    {
+      "word": "Fachinhalt",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "Gasschicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "Lachsfangs",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "Nachtlicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "Schachstil",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "Schlafgast",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "Stahlfachs",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "Tagschicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "afghanisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "anschlicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "flachnasig",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "nachhalfst",
+      "estimated_uncommonness": 3,
+      "combined_score": 531
+    },
+    {
+      "word": "Stahlmagnat",
+      "estimated_uncommonness": 3,
+      "combined_score": 515
+    },
+    {
+      "word": "Fischsalat",
+      "estimated_uncommonness": 3,
+      "combined_score": 514
+    },
+    {
+      "word": "Nachtischs",
+      "estimated_uncommonness": 3,
+      "combined_score": 514
+    },
+    {
+      "word": "Nachtsicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 514
+    },
+    {
+      "word": "Nachttisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 514
+    },
+    {
+      "word": "Schmalhans",
+      "estimated_uncommonness": 3,
+      "combined_score": 514
+    },
+    {
+      "word": "haltmachst",
+      "estimated_uncommonness": 3,
+      "combined_score": 514
+    },
+    {
+      "word": "Fachsicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 512
+    },
+    {
+      "word": "Schachfan",
+      "estimated_uncommonness": 3,
+      "combined_score": 512
+    },
+    {
+      "word": "anastatisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 498
+    },
+    {
+      "word": "Mischsalat",
+      "estimated_uncommonness": 3,
+      "combined_score": 496
+    },
+    {
+      "word": "Nachmittag",
+      "estimated_uncommonness": 3,
+      "combined_score": 496
+    },
+    {
+      "word": "hinschlagt",
+      "estimated_uncommonness": 3,
+      "combined_score": 496
+    },
+    {
+      "word": "nachhaltig",
+      "estimated_uncommonness": 3,
+      "combined_score": 496
+    },
+    {
+      "word": "sachhaltig",
+      "estimated_uncommonness": 3,
+      "combined_score": 496
+    },
+    {
+      "word": "Filmnacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 495
+    },
+    {
+      "word": "Flachhang",
+      "estimated_uncommonness": 3,
+      "combined_score": 495
+    },
+    {
+      "word": "Milchsaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 495
+    },
+    {
+      "word": "Nachtfilm",
+      "estimated_uncommonness": 3,
+      "combined_score": 495
+    },
+    {
+      "word": "Sachfilms",
+      "estimated_uncommonness": 3,
+      "combined_score": 495
+    },
+    {
+      "word": "nachmacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 495
+    },
+    {
+      "word": "schamhaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 495
+    },
+    {
+      "word": "Haftstahls",
+      "estimated_uncommonness": 3,
+      "combined_score": 479
+    },
+    {
+      "word": "Nachtstahl",
+      "estimated_uncommonness": 3,
+      "combined_score": 479
+    },
+    {
+      "word": "Schalttags",
+      "estimated_uncommonness": 3,
+      "combined_score": 479
+    },
+    {
+      "word": "Staatsfilm",
+      "estimated_uncommonness": 3,
+      "combined_score": 479
+    },
+    {
+      "word": "Stahlstich",
+      "estimated_uncommonness": 3,
+      "combined_score": 479
+    },
+    {
+      "word": "Stahltisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 479
+    },
+    {
+      "word": "anhaltisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 479
+    },
+    {
+      "word": "schanghait",
+      "estimated_uncommonness": 3,
+      "combined_score": 479
+    },
+    {
+      "word": "signalhaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 479
+    },
+    {
+      "word": "tasmanisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 479
+    },
+    {
+      "word": "Fischglas",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Lachsfang",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Langfisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Lichtfang",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Schachtag",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Schafhang",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Schafmist",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Schaftalg",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Schiltach",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Schlafhai",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Stahlfach",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "anschlich",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "nachhalft",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "schlichst",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "fachlich",
+      "estimated_uncommonness": 3,
+      "combined_score": 477
+    },
+    {
+      "word": "atlantisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 462
+    },
+    {
+      "word": "Chantisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "Fachatlas",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "Falaschin",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "Faschings",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "Nachsicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "Nachtisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "Nachtmahl",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "Talschaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "flanschst",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "haltmacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "nachmalig",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "naschhaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 461
+    },
+    {
+      "word": "achtfach",
+      "estimated_uncommonness": 3,
+      "combined_score": 460
+    },
+    {
+      "word": "Signalmast",
+      "estimated_uncommonness": 3,
+      "combined_score": 445
+    },
+    {
+      "word": "Almanachs",
+      "estimated_uncommonness": 3,
+      "combined_score": 444
+    },
+    {
+      "word": "Fastnacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 444
+    },
+    {
+      "word": "Hilfsmast",
+      "estimated_uncommonness": 3,
+      "combined_score": 444
+    },
+    {
+      "word": "Hilfsmatt",
+      "estimated_uncommonness": 3,
+      "combined_score": 444
+    },
+    {
+      "word": "Lichtmast",
+      "estimated_uncommonness": 3,
+      "combined_score": 444
+    },
+    {
+      "word": "Malachias",
+      "estimated_uncommonness": 3,
+      "combined_score": 444
+    },
+    {
+      "word": "fanatisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 444
+    },
+    {
+      "word": "mithalfst",
+      "estimated_uncommonness": 3,
+      "combined_score": 444
+    },
+    {
+      "word": "mitlachst",
+      "estimated_uncommonness": 3,
+      "combined_score": 444
+    },
+    {
+      "word": "nachahmst",
+      "estimated_uncommonness": 3,
+      "combined_score": 444
+    },
+    {
+      "word": "Sachfilm",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Schmacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Anschlags",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Galanacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Galatisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Glasnacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Glastisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Haftstahl",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Langsicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Langstich",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Nachtglas",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Schalttag",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Schanghai",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Sichtglas",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "anschlagt",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "ghanaisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "glitschst",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "schlangst",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "schlingst",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Fachamts",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Gschaftl",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Schlacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "aschfahl",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "lachhaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "nachhalf",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "sachlich",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "schlicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Gasanstalt",
+      "estimated_uncommonness": 2,
+      "combined_score": 411
+    },
+    {
+      "word": "Falangist",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "Finaltags",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "Gastmahls",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "Glasstift",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "Nachthais",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "Nichthass",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "Sachalins",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "Sachatlas",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "Stichtags",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "Tischgast",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "Tschiangs",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "nachlasst",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "nachsagst",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "staatlich",
+      "estimated_uncommonness": 3,
+      "combined_score": 410
+    },
+    {
+      "word": "Fachtags",
+      "estimated_uncommonness": 3,
+      "combined_score": 409
+    },
+    {
+      "word": "Fasching",
+      "estimated_uncommonness": 3,
+      "combined_score": 409
+    },
+    {
+      "word": "Fischtag",
+      "estimated_uncommonness": 3,
+      "combined_score": 409
+    },
+    {
+      "word": "Milchtag",
+      "estimated_uncommonness": 3,
+      "combined_score": 409
+    },
+    {
+      "word": "Schachts",
+      "estimated_uncommonness": 3,
+      "combined_score": 409
+    },
+    {
+      "word": "Schischa",
+      "estimated_uncommonness": 3,
+      "combined_score": 409
+    },
+    {
+      "word": "Schtschi",
+      "estimated_uncommonness": 3,
+      "combined_score": 409
+    },
+    {
+      "word": "fasslich",
+      "estimated_uncommonness": 3,
+      "combined_score": 409
+    },
+    {
+      "word": "flanscht",
+      "estimated_uncommonness": 3,
+      "combined_score": 409
+    },
+    {
+      "word": "flichtst",
+      "estimated_uncommonness": 3,
+      "combined_score": 409
+    },
+    {
+      "word": "Glashahns",
+      "estimated_uncommonness": 2,
+      "combined_score": 393
+    },
+    {
+      "word": "Malagassi",
+      "estimated_uncommonness": 2,
+      "combined_score": 393
+    },
+    {
+      "word": "Nataschas",
+      "estimated_uncommonness": 2,
+      "combined_score": 393
+    },
+    {
+      "word": "Stahlmast",
+      "estimated_uncommonness": 2,
+      "combined_score": 393
+    },
+    {
+      "word": "Stalagmit",
+      "estimated_uncommonness": 2,
+      "combined_score": 393
+    },
+    {
+      "word": "anstachst",
+      "estimated_uncommonness": 2,
+      "combined_score": 393
+    },
+    {
+      "word": "misslangt",
+      "estimated_uncommonness": 2,
+      "combined_score": 393
+    },
+    {
+      "word": "satanisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 393
+    },
+    {
+      "word": "Almanach",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Faschist",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Fasnacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Malachit",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Mischgas",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "agamisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "anfachst",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "fitschst",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "matschig",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "mithalft",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "mitlacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "nachahmt",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "nachmals",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Schmach",
+      "estimated_uncommonness": 3,
+      "combined_score": 390
+    },
+    {
+      "word": "Shanghais",
+      "estimated_uncommonness": 2,
+      "combined_score": 376
+    },
+    {
+      "word": "Talismans",
+      "estimated_uncommonness": 2,
+      "combined_score": 376
+    },
+    {
+      "word": "mitsangst",
+      "estimated_uncommonness": 2,
+      "combined_score": 376
+    },
+    {
+      "word": "Achtmast",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Anschlag",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Gaslicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Haftglas",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Hilfsgas",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Lichttag",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Mainacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Malstift",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Mansisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Schmitts",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "anmachst",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "gastlich",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "glitscht",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "manschst",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "mantisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "schlangt",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "schlingt",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "stachlig",
+      "estimated_uncommonness": 3,
+      "combined_score": 375
+    },
+    {
+      "word": "Fachamt",
+      "estimated_uncommonness": 3,
+      "combined_score": 373
+    },
+    {
+      "word": "Macchia",
+      "estimated_uncommonness": 3,
+      "combined_score": 373
+    },
+    {
+      "word": "Schlich",
+      "estimated_uncommonness": 3,
+      "combined_score": 373
+    },
+    {
+      "word": "schlich",
+      "estimated_uncommonness": 3,
+      "combined_score": 373
+    },
+    {
+      "word": "Aalfangs",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Achslast",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Alanisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Altaisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Chantals",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Fasshahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Finaltag",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Gastmahl",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Nachlass",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Nachthai",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Nahsicht",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Sachalin",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Saftglas",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Sichttag",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Stichtag",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Tschiang",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "anlachst",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "hansisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "latschst",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "nachlast",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "nachsagt",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "schaltst",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "schattig",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "schiltst",
+      "estimated_uncommonness": 2,
+      "combined_score": 357
+    },
+    {
+      "word": "Aichach",
+      "estimated_uncommonness": 3,
+      "combined_score": 356
+    },
+    {
+      "word": "Fachtag",
+      "estimated_uncommonness": 3,
+      "combined_score": 356
+    },
+    {
+      "word": "Flansch",
+      "estimated_uncommonness": 3,
+      "combined_score": 356
+    },
+    {
+      "word": "Schachs",
+      "estimated_uncommonness": 3,
+      "combined_score": 356
+    },
+    {
+      "word": "Schacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 356
+    },
+    {
+      "word": "Schicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 356
+    },
+    {
+      "word": "Schilfs",
+      "estimated_uncommonness": 3,
+      "combined_score": 356
+    },
+    {
+      "word": "Schlafs",
+      "estimated_uncommonness": 3,
+      "combined_score": 356
+    },
+    {
+      "word": "faltsch",
+      "estimated_uncommonness": 3,
+      "combined_score": 356
+    },
+    {
+      "word": "schiach",
+      "estimated_uncommonness": 3,
+      "combined_score": 356
+    },
+    {
+      "word": "schlaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 356
+    },
+    {
+      "word": "Antiatlas",
+      "estimated_uncommonness": 2,
+      "combined_score": 342
+    },
+    {
+      "word": "staatsnah",
+      "estimated_uncommonness": 2,
+      "combined_score": 342
+    },
+    {
+      "word": "Aschanti",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Castings",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Fasttags",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Fatalist",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Glashahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Mattglas",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Natascha",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Salafist",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Schaitan",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Schnitts",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "anstacht",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "ansticht",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "misslang",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "statisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 340
+    },
+    {
+      "word": "Calcits",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "Classic",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "Facials",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "Malchin",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "Maschal",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "Schafts",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "achtmal",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "amtlich",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "anfacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "anficht",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "fichtst",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "fischst",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "fitscht",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "magisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "malisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "mithalf",
+      "estimated_uncommonness": 3,
+      "combined_score": 339
+    },
+    {
+      "word": "Altmains",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Amtsstil",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Canastas",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Catanias",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Gashahns",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Glatthai",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Hashtags",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Laminats",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Maintals",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Mastgans",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Matthias",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Samantha",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Shanghai",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Stigmata",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Talisman",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "anmailst",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "mitsangt",
+      "estimated_uncommonness": 2,
+      "combined_score": 323
+    },
+    {
+      "word": "Amalfis",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Analcim",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Chamsin",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Chiasma",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Haching",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Haslach",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Lachgas",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Samisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Schisma",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Schlags",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Schmant",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Schmitt",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "achtsam",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "anglich",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "anmacht",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "attacca",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "glichst",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "manisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "manscht",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "mischst",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "namhaft",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "samisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "schlagt",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "schlang",
+      "estimated_uncommonness": 2,
+      "combined_score": 322
+    },
+    {
+      "word": "Hastings",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Satthals",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "hinsahst",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "sagittal",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Aalfang",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "Afghani",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "Aichtal",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "Chantal",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "Falting",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "Fatimas",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "Gschnas",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "Hafttag",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "Lasisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "Lattich",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "anlacht",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "haschst",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "hatschi",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "laichst",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "latscht",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "nachsah",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "salisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "tsching",
+      "estimated_uncommonness": 2,
+      "combined_score": 305
+    },
+    {
+      "word": "Clinch",
+      "estimated_uncommonness": 3,
+      "combined_score": 304
+    },
+    {
+      "word": "Flachs",
+      "estimated_uncommonness": 3,
+      "combined_score": 304
+    },
+    {
+      "word": "McCain",
+      "estimated_uncommonness": 3,
+      "combined_score": 304
+    },
+    {
+      "word": "Schach",
+      "estimated_uncommonness": 3,
+      "combined_score": 304
+    },
+    {
+      "word": "Schilf",
+      "estimated_uncommonness": 3,
+      "combined_score": 304
+    },
+    {
+      "word": "Schlaf",
+      "estimated_uncommonness": 3,
+      "combined_score": 304
+    },
+    {
+      "word": "falsch",
+      "estimated_uncommonness": 3,
+      "combined_score": 304
+    },
+    {
+      "word": "flacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 304
+    },
+    {
+      "word": "flicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 304
+    },
+    {
+      "word": "schlaf",
+      "estimated_uncommonness": 3,
+      "combined_score": 304
+    },
+    {
+      "word": "Atlantas",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Atlantis",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Natalias",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Saatgans",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Ansicht",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "Anstich",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "Attisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "Casting",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "Fasttag",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "Isfahan",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "Safttag",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "Schnitt",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "anstach",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "attisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "langsam",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "naschst",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "schnitt",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "stachst",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "stichst",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "tischst",
+      "estimated_uncommonness": 2,
+      "combined_score": 288
+    },
+    {
+      "word": "Achalm",
+      "estimated_uncommonness": 2,
+      "combined_score": 287
+    },
+    {
+      "word": "Calcit",
+      "estimated_uncommonness": 2,
+      "combined_score": 287
+    },
+    {
+      "word": "Facial",
+      "estimated_uncommonness": 2,
+      "combined_score": 287
+    },
+    {
+      "word": "Fischs",
+      "estimated_uncommonness": 2,
+      "combined_score": 287
+    },
+    {
+      "word": "Fitsch",
+      "estimated_uncommonness": 2,
+      "combined_score": 287
+    },
+    {
+      "word": "Schaaf",
+      "estimated_uncommonness": 2,
+      "combined_score": 287
+    },
+    {
+      "word": "Schafs",
+      "estimated_uncommonness": 2,
+      "combined_score": 287
+    },
+    {
+      "word": "Schaft",
+      "estimated_uncommonness": 2,
+      "combined_score": 287
+    },
+    {
+      "word": "fachst",
+      "estimated_uncommonness": 2,
+      "combined_score": 287
+    },
+    {
+      "word": "fischt",
+      "estimated_uncommonness": 2,
+      "combined_score": 287
+    },
+    {
+      "word": "schmal",
+      "estimated_uncommonness": 2,
+      "combined_score": 287
+    },
+    {
+      "word": "Satanist",
+      "estimated_uncommonness": 2,
+      "combined_score": 272
+    },
+    {
+      "word": "Agmatin",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Althing",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Altmain",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Amalias",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Amtstag",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Asthmas",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Canasta",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Catania",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Fantast",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Gashahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Haganah",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Hashtag",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Laminat",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Maintal",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Maitags",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Manilas",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Mittags",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Samstag",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Siamang",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Stigmas",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Talhang",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Tilmans",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "anfasst",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "anmailt",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "anmalst",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "halsnah",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "managst",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "mithast",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "mitsang",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "mittags",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Achims",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Amalfi",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Claims",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Fincas",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Ischgl",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Mascha",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Matsch",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Michas",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Minsch",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Mischa",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Schilh",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Schlag",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "amisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "filmst",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "glicht",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "machst",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "mischt",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "schlag",
+      "estimated_uncommonness": 2,
+      "combined_score": 270
+    },
+    {
+      "word": "Agathas",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "Alginat",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "Anglist",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "Anhalts",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "Inhalts",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "Signals",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "Sinhala",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "anmisst",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "hinsaht",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "sattsam",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "sittsam",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "stahlst",
+      "estimated_uncommonness": 2,
+      "combined_score": 254
+    },
+    {
+      "word": "Afghan",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Altach",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Chagas",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Fatima",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Fights",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Flashs",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Gatsch",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Gischt",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Glacis",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Ischls",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Lichts",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Schahs",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Schals",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "Schang",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "achsig",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "faltig",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "halfst",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "hascht",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "hilfst",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "lachst",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "laicht",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "latsch",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "schalt",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "schilt",
+      "estimated_uncommonness": 2,
+      "combined_score": 253
+    },
+    {
+      "word": "flach",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Anstalt",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Ashanti",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Atlanta",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Attilas",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Latinas",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Natalia",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Stalins",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Tantals",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "anlasst",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "ansagst",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "ansahst",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "sattsah",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Achaia",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Attich",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Calais",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Chinas",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Finals",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Haifas",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Lactat",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Lancia",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Lingam",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Malaga",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Nichts",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Niclas",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Sascha",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Schaan",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Schani",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Stichs",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Tanach",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Tischs",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "fingst",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "lahmst",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "mahlst",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "nachts",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "nascht",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "nichts",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "saftig",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "stacht",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "sticht",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "tischt",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Cinch",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Fachs",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Fisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Milch",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Schaf",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "facht",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "ficht",
+      "estimated_uncommonness": 2,
+      "combined_score": 234
+    },
+    {
+      "word": "Anastas",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Satanas",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Tatiana",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Altman",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Amalia",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Amigas",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Antifa",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Asthma",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Caissa",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Fasans",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Gasmai",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Isaacs",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Islams",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Lamina",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Magnat",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Maitag",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Malats",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Maltas",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Mangas",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Manila",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Milans",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Missal",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Mittag",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Salami",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Scania",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Smiths",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Stifts",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Stigma",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Tilman",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "anmalt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "haltig",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "mahnst",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "mailst",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "managt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "massig",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "mithat",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "nahmst",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "samtig",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Achim",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Claim",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Films",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Finca",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Machs",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Macht",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Match",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Micha",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Scham",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Schma",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "filmt",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "glich",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "macht",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "manch",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "misch",
+      "estimated_uncommonness": 2,
+      "combined_score": 217
+    },
+    {
+      "word": "Agatha",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Aglaia",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Altgas",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Amiant",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Anhalt",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Ataman",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Gahnit",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Galina",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Ghanas",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Hagana",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Inhalt",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Lhasas",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Maasai",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Manati",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Mantas",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Massai",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Shisha",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Signal",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Stahls",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Tatami",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Thalia",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Things",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "galant",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "giltst",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "hantig",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "hastig",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "hingst",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "hinsah",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "langst",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "sahnig",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "stahlt",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "tilgst",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Clash",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Fight",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Flash",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Gicht",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Hasch",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Ischl",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Laach",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Lachs",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Laich",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Licht",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Macis",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Mafia",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Schah",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Schal",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "halft",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "hilft",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "infam",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "lacht",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "lasch",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "licht",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "schal",
+      "estimated_uncommonness": 2,
+      "combined_score": 200
+    },
+    {
+      "word": "Altans",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Anlass",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Atlant",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Attila",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Gattin",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Hassan",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Lassan",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Latina",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Natali",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Natals",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Salats",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Satang",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Stalin",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Tangas",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Tantal",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "anhast",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "ansagt",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "ansaht",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "hintat",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "sahnst",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "sangst",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "singst",
+      "estimated_uncommonness": 2,
+      "combined_score": 184
+    },
+    {
+      "word": "Achat",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Agfas",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Aisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Alaaf",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Chats",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "China",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Claas",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Clans",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Clint",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Fanal",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Fangs",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Flats",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Flint",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Gifts",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Glima",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Gmail",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Haifa",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Halma",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Halms",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Hanfs",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Lifts",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Mahls",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Nacht",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Sachs",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Scala",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Schia",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Schis",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Sicht",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Stich",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Tisch",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "alaaf",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "fangt",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "fatal",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "final",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "fingt",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "lahmt",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "mahlt",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "nicht",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "sacht",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "stach",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "stich",
+      "estimated_uncommonness": 2,
+      "combined_score": 183
+    },
+    {
+      "word": "Chic",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Fach",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "chic",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Anatas",
+      "estimated_uncommonness": 1,
+      "combined_score": 167
+    },
+    {
+      "word": "Anitas",
+      "estimated_uncommonness": 1,
+      "combined_score": 167
+    },
+    {
+      "word": "Astana",
+      "estimated_uncommonness": 1,
+      "combined_score": 167
+    },
+    {
+      "word": "Satans",
+      "estimated_uncommonness": 1,
+      "combined_score": 167
+    },
+    {
+      "word": "Satins",
+      "estimated_uncommonness": 1,
+      "combined_score": 167
+    },
+    {
+      "word": "Staats",
+      "estimated_uncommonness": 1,
+      "combined_score": 167
+    },
+    {
+      "word": "Statin",
+      "estimated_uncommonness": 1,
+      "combined_score": 167
+    },
+    {
+      "word": "Titans",
+      "estimated_uncommonness": 1,
+      "combined_score": 167
+    },
+    {
+      "word": "Amiga",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Amish",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Faina",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Fanta",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Fasan",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Fiats",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Ghali",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Hamas",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Isaac",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Islam",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Lamas",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Limas",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Mails",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Malis",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Malta",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Manga",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Milan",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Mings",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "NAFTA",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Safts",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Salam",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Salmi",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Scans",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Sigma",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Stift",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Tafts",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Tamil",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "ahmst",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "fasst",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "light",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "magna",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "magst",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "mahnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "mailt",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "malst",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "nahmt",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "sanft",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "sigma",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Film",
+      "estimated_uncommonness": 2,
+      "combined_score": 165
+    },
+    {
+      "word": "Milf",
+      "estimated_uncommonness": 2,
+      "combined_score": 165
+    },
+    {
+      "word": "mach",
+      "estimated_uncommonness": 2,
+      "combined_score": 165
+    },
+    {
+      "word": "mich",
+      "estimated_uncommonness": 2,
+      "combined_score": 165
+    },
+    {
+      "word": "Algis",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Amina",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Assam",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Atman",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Galan",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Ghana",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Glans",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Glass",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Glast",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Hahns",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Hangs",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Lahti",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Lhasa",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Mains",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Manta",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Massa",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Matta",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Matti",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Missa",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Namas",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Saami",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Samts",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Siams",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Slang",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Slash",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Stahl",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Talgs",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Thing",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "anlag",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "glatt",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "glitt",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "hingt",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "lagst",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "langt",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "misst",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "stahl",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "tilgt",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Fama",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Lich",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Macs",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "fahl",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "hach",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "half",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "hilf",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "lach",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Aalst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Agnat",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Alant",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Alias",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Alina",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Alita",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Altai",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Altan",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Altin",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Angst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Atlas",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Gassi",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Gatts",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Ginas",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Ginst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Gitta",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Hains",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Hansa",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Hansi",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Lassa",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Lassi",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Lisas",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Naila",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Nasal",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Nashi",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Saals",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Sahti",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Salat",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Salsa",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Silas",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Sinah",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Sisal",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Stils",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Taiga",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Tanga",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Tangs",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Thais",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "aalst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "aasig",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "ahnst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "alias",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "angst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "anhat",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "ansah",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "hasst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "hisst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "lasst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "nagst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "nahst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "nasal",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "natal",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "sagst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "sahnt",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "sahst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "sangt",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "singt",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "tagst",
+      "estimated_uncommonness": 1,
+      "combined_score": 132
+    },
+    {
+      "word": "Aach",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Acht",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Agfa",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Alfa",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Alfs",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Asch",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Cash",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Chat",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Clan",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Fang",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Fils",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Flat",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Gift",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "HTML",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Haft",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Halm",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Hanf",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Ichs",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "IfSG",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Inch",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Isch",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Lift",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Mahl",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "SGML",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Schi",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "acht",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "cash",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "fang",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "fing",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "incl",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "lahm",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "nach",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "sich",
+      "estimated_uncommonness": 2,
+      "combined_score": 131
+    },
+    {
+      "word": "Anita",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Asant",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Asiat",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Astat",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Saint",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Sanaa",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Santa",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Satan",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Satin",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Staat",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Stasi",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Tinas",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Titan",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "antat",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "assai",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Alma",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Almi",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Casa",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Cast",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Cats",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Fans",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Fant",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Fass",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Fata",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Fiat",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Fina",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Gams",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "ISAF",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Lama",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Lima",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Mail",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Mali",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Mals",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Ming",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "NTFS",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "SCSI",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Saft",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Salm",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Scan",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Scat",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "Taft",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "acta",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "ahmt",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "fass",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "fast",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "high",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "malt",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "mang",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "nahm",
+      "estimated_uncommonness": 2,
+      "combined_score": 114
+    },
+    {
+      "word": "AFC",
+      "estimated_uncommonness": 2,
+      "combined_score": 112
+    },
+    {
+      "word": "CAF",
+      "estimated_uncommonness": 2,
+      "combined_score": 112
+    },
+    {
+      "word": "NFC",
+      "estimated_uncommonness": 2,
+      "combined_score": 112
+    },
+    {
+      "word": "Amin",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Amis",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Amts",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Gala",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Glan",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Glas",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Haag",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Hahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Hals",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Halt",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Hang",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Lahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Lang",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Liga",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Maas",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Maat",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Main",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Mais",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Mass",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Mast",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Matt",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Mint",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Mist",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Nama",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Nigl",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Sami",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Sams",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Samt",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Siam",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Sims",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Talg",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "Tims",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "agil",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "galt",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "gilt",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "haha",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "halt",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "hing",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "lagt",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "lang",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "matt",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "mint",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "miss",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "samt",
+      "estimated_uncommonness": 1,
+      "combined_score": 97
+    },
+    {
+      "word": "CMS",
+      "estimated_uncommonness": 2,
+      "combined_score": 95
+    },
+    {
+      "word": "LHC",
+      "estimated_uncommonness": 2,
+      "combined_score": 95
+    },
+    {
+      "word": "MSC",
+      "estimated_uncommonness": 2,
+      "combined_score": 95
+    },
+    {
+      "word": "Mac",
+      "estimated_uncommonness": 2,
+      "combined_score": 95
+    },
+    {
+      "word": "MfS",
+      "estimated_uncommonness": 2,
+      "combined_score": 95
+    },
+    {
+      "word": "TCM",
+      "estimated_uncommonness": 2,
+      "combined_score": 95
+    },
+    {
+      "word": "Aals",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Alis",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Alta",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Alti",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Gans",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Gant",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Gasa",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Gast",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Gatt",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Gina",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Gins",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Haan",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Haas",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Hain",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Hais",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Hans",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Hass",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Hast",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Hiat",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Hits",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Inga",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "LANs",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Last",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Lina",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Lisa",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "List",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Naht",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Nils",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "SALT",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Saal",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Saga",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Sang",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Shit",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Sial",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Silt",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Stag",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Stil",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Tals",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Tang",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Thai",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Than",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "aalt",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "ahnt",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "anal",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "hast",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "iaht",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "lass",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "last",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "litt",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "nagt",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "naht",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "sagt",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "saht",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "sang",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "sing",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "tags",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "tagt",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Alf",
+      "estimated_uncommonness": 2,
+      "combined_score": 78
+    },
+    {
+      "word": "CGI",
+      "estimated_uncommonness": 2,
+      "combined_score": 78
+    },
+    {
+      "word": "Chi",
+      "estimated_uncommonness": 2,
+      "combined_score": 78
+    },
+    {
+      "word": "FLN",
+      "estimated_uncommonness": 2,
+      "combined_score": 78
+    },
+    {
+      "word": "GIF",
+      "estimated_uncommonness": 2,
+      "combined_score": 78
+    },
+    {
+      "word": "HTC",
+      "estimated_uncommonness": 2,
+      "combined_score": 78
+    },
+    {
+      "word": "Ich",
+      "estimated_uncommonness": 2,
+      "combined_score": 78
+    },
+    {
+      "word": "THC",
+      "estimated_uncommonness": 2,
+      "combined_score": 78
+    },
+    {
+      "word": "ach",
+      "estimated_uncommonness": 2,
+      "combined_score": 78
+    },
+    {
+      "word": "chi",
+      "estimated_uncommonness": 2,
+      "combined_score": 78
+    },
+    {
+      "word": "ich",
+      "estimated_uncommonness": 2,
+      "combined_score": 78
+    },
+    {
+      "word": "ANSI",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "AStA",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Aast",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Anis",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Asia",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Assi",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "IATA",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "ISSN",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Inas",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Inst",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "NASA",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Nass",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Saat",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Sani",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Sina",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Sita",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Stan",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Tina",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "Tisa",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "anti",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "assi",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "isst",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "nass",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "satt",
+      "estimated_uncommonness": 1,
+      "combined_score": 62
+    },
+    {
+      "word": "ANC",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "AfA",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "Alm",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "CIA",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "CSS",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "Cis",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "FIA",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "Fan",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "Fis",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "GMT",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "ICs",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "IFA",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "Ilm",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "Inc",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "MIG",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "Mal",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "NFS",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "TFT",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "Tic",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "cis",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "fit",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "ihm",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "mAh",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "mag",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "mal",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "sic",
+      "estimated_uncommonness": 1,
+      "combined_score": 61
+    },
+    {
+      "word": "AMS",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Ami",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Amt",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Anm",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Hag",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "IGH",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "MSN",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Maa",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Mai",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Man",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Mia",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Min",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "NHL",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "SIM",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "SMS",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Sam",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Tam",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "Tim",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "lag",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "man",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "min",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "mit",
+      "estimated_uncommonness": 1,
+      "combined_score": 44
+    },
+    {
+      "word": "AGs",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Aal",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Ahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Ali",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Als",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Alt",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "GIs",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "GTA",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "GTI",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Gan",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Gas",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Gin",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Gis",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Hai",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "His",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Hit",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Ing",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Inh",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Ith",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "LAN",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "LSI",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "LTI",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Lai",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Lis",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "NIG",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Nil",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "SGI",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "SSH",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "SSL",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "TLS",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Tag",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "Tal",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "aha",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "als",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "alt",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "gis",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "hat",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "hin",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "iah",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "ihn",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "las",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "nah",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "sag",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "sah",
+      "estimated_uncommonness": 1,
+      "combined_score": 27
+    },
+    {
+      "word": "AAA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aas",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ain",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ais",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Asi",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ass",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ast",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "IAA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ITT",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ian",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ina",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ist",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NSA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "SAS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "San",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TAN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TNT",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ans",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ins",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "iss",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ist",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
