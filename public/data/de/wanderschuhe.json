@@ -1,0 +1,4487 @@
+{
+  "seed_word": "WANDERSCHUHE",
+  "words_length_count": {
+    "3": 108,
+    "4": 149,
+    "5": 190,
+    "6": 162,
+    "7": 115,
+    "8": 85,
+    "9": 49,
+    "10": 31,
+    "11": 4,
+    "12": 1
+  },
+  "words_list": [
+    {
+      "word": "Wanderschuhe",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Heuschwader",
+      "estimated_uncommonness": 5,
+      "combined_score": 914
+    },
+    {
+      "word": "Wanderschuh",
+      "estimated_uncommonness": 5,
+      "combined_score": 914
+    },
+    {
+      "word": "Waschherden",
+      "estimated_uncommonness": 5,
+      "combined_score": 914
+    },
+    {
+      "word": "herschauend",
+      "estimated_uncommonness": 4,
+      "combined_score": 852
+    },
+    {
+      "word": "Dachwehren",
+      "estimated_uncommonness": 5,
+      "combined_score": 828
+    },
+    {
+      "word": "Hundewache",
+      "estimated_uncommonness": 5,
+      "combined_score": 828
+    },
+    {
+      "word": "Schuhwaren",
+      "estimated_uncommonness": 5,
+      "combined_score": 828
+    },
+    {
+      "word": "Schwurhand",
+      "estimated_uncommonness": 5,
+      "combined_score": 828
+    },
+    {
+      "word": "Wachhundes",
+      "estimated_uncommonness": 5,
+      "combined_score": 828
+    },
+    {
+      "word": "Waschherde",
+      "estimated_uncommonness": 5,
+      "combined_score": 828
+    },
+    {
+      "word": "durchwehen",
+      "estimated_uncommonness": 5,
+      "combined_score": 828
+    },
+    {
+      "word": "heranwuchs",
+      "estimated_uncommonness": 5,
+      "combined_score": 828
+    },
+    {
+      "word": "Wundschere",
+      "estimated_uncommonness": 4,
+      "combined_score": 797
+    },
+    {
+      "word": "erwachsend",
+      "estimated_uncommonness": 4,
+      "combined_score": 797
+    },
+    {
+      "word": "wachsender",
+      "estimated_uncommonness": 4,
+      "combined_score": 797
+    },
+    {
+      "word": "waschender",
+      "estimated_uncommonness": 4,
+      "combined_score": 797
+    },
+    {
+      "word": "wucherndes",
+      "estimated_uncommonness": 4,
+      "combined_score": 797
+    },
+    {
+      "word": "Drehachsen",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "Handschere",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "Radschuhen",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "durchsehen",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "erhaschend",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "haschender",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "hauchender",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "hauchendes",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "herschauen",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "huschender",
+      "estimated_uncommonness": 4,
+      "combined_score": 766
+    },
+    {
+      "word": "Dachwehre",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "Drehwuchs",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "Schuhware",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "Wachhunde",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "Wachhunds",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "Endursache",
+      "estimated_uncommonness": 4,
+      "combined_score": 735
+    },
+    {
+      "word": "Hauswehren",
+      "estimated_uncommonness": 4,
+      "combined_score": 735
+    },
+    {
+      "word": "erschauend",
+      "estimated_uncommonness": 4,
+      "combined_score": 735
+    },
+    {
+      "word": "rauchendes",
+      "estimated_uncommonness": 4,
+      "combined_score": 735
+    },
+    {
+      "word": "rauschende",
+      "estimated_uncommonness": 4,
+      "combined_score": 735
+    },
+    {
+      "word": "schauender",
+      "estimated_uncommonness": 4,
+      "combined_score": 735
+    },
+    {
+      "word": "schauernde",
+      "estimated_uncommonness": 4,
+      "combined_score": 735
+    },
+    {
+      "word": "Erwachens",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "erwachend",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "erwachsen",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "erwuchsen",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "unschwere",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "wachender",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "wachendes",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "wachsende",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "waschende",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "wuchernde",
+      "estimated_uncommonness": 4,
+      "combined_score": 711
+    },
+    {
+      "word": "Drehachse",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "Handschur",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "Heerschau",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "Radschuhe",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "durchsehe",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "erhaschen",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "harschend",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "haschende",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "hauchende",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "herschaue",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "huschende",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "nachdrehe",
+      "estimated_uncommonness": 4,
+      "combined_score": 680
+    },
+    {
+      "word": "Hausherden",
+      "estimated_uncommonness": 3,
+      "combined_score": 673
+    },
+    {
+      "word": "Dachwehr",
+      "estimated_uncommonness": 4,
+      "combined_score": 656
+    },
+    {
+      "word": "Nachwehe",
+      "estimated_uncommonness": 4,
+      "combined_score": 656
+    },
+    {
+      "word": "Wachhund",
+      "estimated_uncommonness": 4,
+      "combined_score": 656
+    },
+    {
+      "word": "Andechser",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "Erdachsen",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "Hauswehre",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "Suchender",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "ausrechne",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "erschauen",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "ersuchend",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "rauchende",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "rauschend",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "scharende",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "schaudere",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "schaudern",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "schauende",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "schauernd",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "scheuernd",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "suchender",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "Erdwachs",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "Erwachen",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "Hauscrew",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "Schwaden",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "Schweden",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "Wucherns",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "erwachen",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "erwachse",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "schweren",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "unschwer",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "wachende",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "wacheren",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "wacheres",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "wachsend",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "waschend",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "wuchernd",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "wurachen",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "wahrendes",
+      "estimated_uncommonness": 3,
+      "combined_score": 618
+    },
+    {
+      "word": "Hauchens",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "Hedschra",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "Radschuh",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "durchsah",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "erhasche",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "harschen",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "haschend",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "hauchend",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "huschend",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "nachsehe",
+      "estimated_uncommonness": 4,
+      "combined_score": 594
+    },
+    {
+      "word": "Hausehren",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Hausherde",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Achsende",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Andersch",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Drachens",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Endachse",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Erdachse",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Hauswehr",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Nachrede",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Rauchens",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Rauschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Rechauds",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Sachrede",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Schauder",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Schraden",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Schrunde",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Suchende",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Urechsen",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Ursachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Wehrhaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "crashend",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "dreschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "erschaue",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "ersuchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "nachrede",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "rauchend",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "rauschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "scharend",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "schaudre",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "schauend",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "schauere",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "schauern",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "scherend",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "scheuend",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "scheuern",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "suchende",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "ausdrehen",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "erhausend",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "hausender",
+      "estimated_uncommonness": 3,
+      "combined_score": 557
+    },
+    {
+      "word": "Schwade",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "Schwede",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "Schwund",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "Wachens",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "Waschen",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "Wuchers",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "Wunsche",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "anwuchs",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "erwache",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "erwuchs",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "schwand",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "schwere",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "wachend",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "wachere",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "wachsen",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "waschen",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "wuchere",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "wuchern",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "wuchsen",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "wuschen",
+      "estimated_uncommonness": 4,
+      "combined_score": 539
+    },
+    {
+      "word": "unwahres",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "wahrende",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Hachsen",
+      "estimated_uncommonness": 3,
+      "combined_score": 508
+    },
+    {
+      "word": "Hascher",
+      "estimated_uncommonness": 3,
+      "combined_score": 508
+    },
+    {
+      "word": "Schuhen",
+      "estimated_uncommonness": 3,
+      "combined_score": 508
+    },
+    {
+      "word": "harsche",
+      "estimated_uncommonness": 3,
+      "combined_score": 508
+    },
+    {
+      "word": "haschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 508
+    },
+    {
+      "word": "hauchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 508
+    },
+    {
+      "word": "hernach",
+      "estimated_uncommonness": 3,
+      "combined_score": 508
+    },
+    {
+      "word": "huschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 508
+    },
+    {
+      "word": "nachher",
+      "estimated_uncommonness": 3,
+      "combined_score": 508
+    },
+    {
+      "word": "Hausehre",
+      "estimated_uncommonness": 3,
+      "combined_score": 502
+    },
+    {
+      "word": "Hausheer",
+      "estimated_uncommonness": 3,
+      "combined_score": 502
+    },
+    {
+      "word": "Hausherd",
+      "estimated_uncommonness": 3,
+      "combined_score": 502
+    },
+    {
+      "word": "Wensauer",
+      "estimated_uncommonness": 3,
+      "combined_score": 502
+    },
+    {
+      "word": "wunderes",
+      "estimated_uncommonness": 3,
+      "combined_score": 502
+    },
+    {
+      "word": "Andechs",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Aschern",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Dachsen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Drachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Dresche",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Duschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Nascher",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Nerchau",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Rachens",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Rauches",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Rechaud",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Rechens",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Schaden",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Schande",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Schauer",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Scheren",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Scheuer",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Scheune",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Schrund",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Schuren",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Seuchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Suchard",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Suchern",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Urechse",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Ursache",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "ansuche",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "arschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "aschend",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "crashen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "dresche",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "duschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "ersuche",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "raschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "rauchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "rausche",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "rechend",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "schaden",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "scharen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "schauen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "scheren",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "scheuen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "scheuer",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "suchend",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Erdhasen",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "ausdehne",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "ausdrehe",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "erdnahes",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "erhausen",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "hauender",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "hauendes",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "hausende",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "hurendes",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "ruhendes",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Chawer",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Schwan",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Schwen",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Schwur",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Wucher",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Wunsch",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "schwer",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "wachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "wacher",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "waches",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "wachse",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "wasche",
+      "estimated_uncommonness": 3,
+      "combined_score": 453
+    },
+    {
+      "word": "Secunda",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Wahrens",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Wanduhr",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Wehners",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Wehrden",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Wehrens",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "unwahre",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "wahrend",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "wehrend",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Ausreden",
+      "estimated_uncommonness": 2,
+      "combined_score": 440
+    },
+    {
+      "word": "ausreden",
+      "estimated_uncommonness": 2,
+      "combined_score": 440
+    },
+    {
+      "word": "rauendes",
+      "estimated_uncommonness": 2,
+      "combined_score": 440
+    },
+    {
+      "word": "sauender",
+      "estimated_uncommonness": 2,
+      "combined_score": 440
+    },
+    {
+      "word": "Hachse",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Hadsch",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Harsch",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Hauchs",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Hechse",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Huchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Husche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Schuhe",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "harsch",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "hasche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "hauche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "husche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Andrews",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "Neuware",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "Urwesen",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "Wenders",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "Werdens",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "Wunders",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "wandere",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "wundere",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "wunders",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "Achern",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Achner",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Achsen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Archen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Ascher",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Cheder",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Daches",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Dachse",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Daesch",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Drache",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Drusch",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Dusche",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Echsen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Eschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Escher",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Rachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Rauchs",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Rausch",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Rechen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Sachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Sacher",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Schade",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Scheer",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Schere",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Schnee",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Schnur",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Schund",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Schura",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Seuche",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Suchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Sucher",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "aschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "durchs",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "dusche",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "eschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "nasche",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "rasche",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "rauche",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "rechen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "rechne",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "schade",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "schare",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "schaue",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "schere",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "scheue",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "suchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 392
+    },
+    {
+      "word": "Drehens",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Erdhase",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Erdhaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Haderns",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Headern",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Headers",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Heuerns",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Husaren",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Sanduhr",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Seehund",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "andrehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "erdnahe",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "hauende",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "hausend",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "heuernd",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "hurende",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "ruhende",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Chewa",
+      "estimated_uncommonness": 3,
+      "combined_score": 368
+    },
+    {
+      "word": "Schwa",
+      "estimated_uncommonness": 3,
+      "combined_score": 368
+    },
+    {
+      "word": "Wache",
+      "estimated_uncommonness": 3,
+      "combined_score": 368
+    },
+    {
+      "word": "Wachs",
+      "estimated_uncommonness": 3,
+      "combined_score": 368
+    },
+    {
+      "word": "Wuchs",
+      "estimated_uncommonness": 3,
+      "combined_score": 368
+    },
+    {
+      "word": "wache",
+      "estimated_uncommonness": 3,
+      "combined_score": 368
+    },
+    {
+      "word": "wasch",
+      "estimated_uncommonness": 3,
+      "combined_score": 368
+    },
+    {
+      "word": "wuchs",
+      "estimated_uncommonness": 3,
+      "combined_score": 368
+    },
+    {
+      "word": "wusch",
+      "estimated_uncommonness": 3,
+      "combined_score": 368
+    },
+    {
+      "word": "Saucen",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "Screen",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "Seneca",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "Usance",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "Wehens",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "Wehner",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "anwehe",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "unwahr",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "wahren",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "wahres",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "wehend",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "wehren",
+      "estimated_uncommonness": 3,
+      "combined_score": 361
+    },
+    {
+      "word": "Ausrede",
+      "estimated_uncommonness": 2,
+      "combined_score": 354
+    },
+    {
+      "word": "Dauerns",
+      "estimated_uncommonness": 2,
+      "combined_score": 354
+    },
+    {
+      "word": "Seerand",
+      "estimated_uncommonness": 2,
+      "combined_score": 354
+    },
+    {
+      "word": "anderes",
+      "estimated_uncommonness": 2,
+      "combined_score": 354
+    },
+    {
+      "word": "ausrede",
+      "estimated_uncommonness": 2,
+      "combined_score": 354
+    },
+    {
+      "word": "rasende",
+      "estimated_uncommonness": 2,
+      "combined_score": 354
+    },
+    {
+      "word": "rauende",
+      "estimated_uncommonness": 2,
+      "combined_score": 354
+    },
+    {
+      "word": "sauende",
+      "estimated_uncommonness": 2,
+      "combined_score": 354
+    },
+    {
+      "word": "Crews",
+      "estimated_uncommonness": 3,
+      "combined_score": 337
+    },
+    {
+      "word": "Hasch",
+      "estimated_uncommonness": 3,
+      "combined_score": 337
+    },
+    {
+      "word": "Hauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 337
+    },
+    {
+      "word": "Schah",
+      "estimated_uncommonness": 3,
+      "combined_score": 337
+    },
+    {
+      "word": "Schuh",
+      "estimated_uncommonness": 3,
+      "combined_score": 337
+    },
+    {
+      "word": "hauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 337
+    },
+    {
+      "word": "husch",
+      "estimated_uncommonness": 3,
+      "combined_score": 337
+    },
+    {
+      "word": "Andrew",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "Wadern",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "Werdau",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "Wernau",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "Wrasen",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "Wunder",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "hehren",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "hehres",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "werden",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "wunder",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "wundes",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "wundre",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "wurden",
+      "estimated_uncommonness": 2,
+      "combined_score": 330
+    },
+    {
+      "word": "Acher",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Achse",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Arche",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Arsch",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Asche",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Churs",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Crash",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Dachs",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Echse",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Esche",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Rache",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Ranch",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Rauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Resch",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Rusch",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Sache",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Schar",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Schau",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Scheu",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Schur",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Suche",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "UNHCR",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "durch",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "rasch",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "rauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "reche",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "resch",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "schau",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "scher",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "scheu",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "suche",
+      "estimated_uncommonness": 3,
+      "combined_score": 306
+    },
+    {
+      "word": "Ahrens",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ehrens",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Hanser",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Hauens",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Hauern",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Hauers",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Hausen",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Hauser",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Header",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Herden",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Herdes",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Hernes",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Hudern",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Hundes",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Nehrus",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Rahden",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ruhens",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Seeuhr",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Sehern",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Sehnde",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Sehren",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Unehre",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Urahns",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "ansehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "drehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "ehrend",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "erahne",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "erdnah",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "hadere",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "hadern",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "hauend",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "hausen",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "heraus",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "heuend",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "heuern",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "hudern",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "hurend",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "ruhend",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "sehend",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "wach",
+      "estimated_uncommonness": 3,
+      "combined_score": 282
+    },
+    {
+      "word": "Acres",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "Arcus",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "Cards",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "Ceres",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "Decan",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "Deuce",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "Sauce",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "Sucre",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "Wahns",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "Wehrs",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "Wuhne",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "auweh",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "wahre",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "wehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "wehre",
+      "estimated_uncommonness": 2,
+      "combined_score": 275
+    },
+    {
+      "word": "Anders",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Anrede",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Dauner",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Denare",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Denars",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Drusen",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Erdens",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Neruda",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Randes",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Rauens",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Redens",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Reusen",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Sander",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Sender",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Serena",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Suaden",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "andere",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "anders",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "anrede",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "dauere",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "dauern",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "rasend",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "rauend",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "reuend",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "rundes",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "sauend",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "sauren",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "unsere",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Crew",
+      "estimated_uncommonness": 3,
+      "combined_score": 251
+    },
+    {
+      "word": "hach",
+      "estimated_uncommonness": 3,
+      "combined_score": 251
+    },
+    {
+      "word": "huch",
+      "estimated_uncommonness": 3,
+      "combined_score": 251
+    },
+    {
+      "word": "Hahns",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Huhns",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Narew",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Swane",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Waden",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Waren",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Wasen",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Wende",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Werne",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Wesen",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Weser",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Wunde",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "hehre",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "waren",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "warne",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "waser",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "weder",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "wende",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "werde",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "wunde",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "wurde",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Ache",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Asch",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Cash",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Chur",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Dach",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Ehec",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Esch",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Ruch",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Sech",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Ucha",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "auch",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "cash",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "euch",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "nach",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "such",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Ahern",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Daesh",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Drehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Drehs",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Ehren",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Hader",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Hades",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Hands",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Hanse",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Haren",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Harns",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Hasen",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Hauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Haune",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Heers",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Herde",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Herds",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Herne",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Herse",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Heuer",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Hunde",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Hunds",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Husar",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Nahur",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Nehru",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Rahen",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Rehau",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Rehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Rehna",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Rhede",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Rhens",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Sahne",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Sehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Seher",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Sehne",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Uhren",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Urahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "ahnde",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "daher",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "dehne",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "drehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "ehern",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "ehren",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "hadre",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "hauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "hause",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "heran",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "heuen",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "heuer",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "huren",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "naher",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "nahes",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "ruhen",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "sahen",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "sahne",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "sehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "sehne",
+      "estimated_uncommonness": 2,
+      "combined_score": 213
+    },
+    {
+      "word": "Acer",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Acne",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Acre",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "CERN",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Caen",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Card",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Cree",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Curd",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Duce",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Ecus",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Scan",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Shaw",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Wahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Wehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Wehr",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "nsec",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "wahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "wehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 189
+    },
+    {
+      "word": "Adern",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Adner",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Arnes",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Arsen",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Dauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Daune",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Denar",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Druse",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Edens",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Eders",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Endes",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Ernas",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Narde",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Nerds",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Neues",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Nurse",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Rades",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Rande",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Rasen",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Reuse",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Runde",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Sande",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Sarde",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Sauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Sedan",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Seren",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Suade",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Sudan",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Suren",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Urans",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Usern",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "deren",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "draus",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "erden",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "euren",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "eures",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "neuer",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "neues",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "rasen",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "rauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "raues",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "raune",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "reden",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "reuen",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "runde",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "sauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "sauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "saure",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "sende",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "unser",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "WCs",
+      "estimated_uncommonness": 2,
+      "combined_score": 165
+    },
+    {
+      "word": "Hahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "Huhn",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "News",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "REWE",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "Suwa",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "Uwes",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "WASD",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "Wade",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "Wand",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "Ware",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "Weda",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "Weed",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "Wune",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "hehr",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "wand",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "werd",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "wund",
+      "estimated_uncommonness": 2,
+      "combined_score": 158
+    },
+    {
+      "word": "Che",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "Chr",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "ach",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "ech",
+      "estimated_uncommonness": 2,
+      "combined_score": 134
+    },
+    {
+      "word": "ADHS",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Ahne",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Dahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Dehu",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Dreh",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Ehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Ehre",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Hand",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Hans",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Harn",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Hase",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Haue",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Haus",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Heer",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Hera",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Herd",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Heus",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Hund",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Hure",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Nahe",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Rahe",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Rahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Reha",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Rehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Rehs",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "Ruhe",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "ahne",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "dreh",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "eher",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "ehre",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "haue",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "heda",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "hure",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "nahe",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "rahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "ruhe",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "sehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "sehr",
+      "estimated_uncommonness": 2,
+      "combined_score": 127
+    },
+    {
+      "word": "ACD",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "ANC",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "CAD",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "CDU",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "CDs",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "CSU",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Cer",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Ces",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Cru",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Ecu",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Esc",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "NEC",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Weh",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "weh",
+      "estimated_uncommonness": 2,
+      "combined_score": 103
+    },
+    {
+      "word": "Aden",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Ader",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Anus",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Aren",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Ares",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Arnd",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Arne",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Auen",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Auer",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Daun",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Daus",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Eden",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Eder",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Edna",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Ende",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Erde",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Eren",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Erna",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Esau",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Esra",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Nase",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Naue",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Neer",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Nerd",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Rade",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Rads",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Rand",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Rede",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Reed",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Rees",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Rens",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Reue",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Rund",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Rune",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Runs",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Sand",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Sean",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Seen",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Sund",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Sure",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Uran",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Urea",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "Urne",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "User",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "dran",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "ende",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "erde",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "euer",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "eure",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "neue",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "rase",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "raue",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "raus",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "rede",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "reue",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "rund",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "saue",
+      "estimated_uncommonness": 1,
+      "combined_score": 96
+    },
+    {
+      "word": "EWS",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "EWU",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Ewe",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "NRW",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "New",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "RWE",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "SWR",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Uwe",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "WDR",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Wau",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "usw",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "war",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "was",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "wau",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "wen",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "wer",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "wes",
+      "estimated_uncommonness": 2,
+      "combined_score": 72
+    },
+    {
+      "word": "Ahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Ahr",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Ehe",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Heu",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Rah",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Reh",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Ruh",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "Uhr",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "ehe",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "hau",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "her",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "nah",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "ruh",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "sah",
+      "estimated_uncommonness": 1,
+      "combined_score": 41
+    },
+    {
+      "word": "ADN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ADS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ARD",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ade",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ars",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ase",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "DNA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "DNS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Dan",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Dau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Des",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Dur",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ESA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "EUR",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ede",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "End",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ern",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NDR",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NSA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NSU",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "RNA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rad",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ras",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ren",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Run",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "SED",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "San",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "See",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sen",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sud",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sur",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "USA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Urd",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Urs",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ade",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ans",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "aus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "dar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "das",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "den",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "der",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "des",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "dun",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "neu",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nur",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ran",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "sue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "und",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "uns",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
