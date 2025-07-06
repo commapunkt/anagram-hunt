@@ -1,0 +1,4809 @@
+{
+  "seed_word": "AUTOBAHNAUSFAHRT",
+  "words_length_count": {
+    "3": 141,
+    "4": 201,
+    "5": 213,
+    "6": 160,
+    "7": 119,
+    "8": 80,
+    "9": 28,
+    "10": 4,
+    "11": 5,
+    "12": 5,
+    "13": 1,
+    "16": 1
+  },
+  "words_list": [
+    {
+      "word": "Autobahnausfahrt",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Autobahnfahrt",
+      "estimated_uncommonness": 4,
+      "combined_score": 815
+    },
+    {
+      "word": "Autofahrbahn",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Startbahnhof",
+      "estimated_uncommonness": 4,
+      "combined_score": 753
+    },
+    {
+      "word": "Autobusfahrt",
+      "estimated_uncommonness": 4,
+      "combined_score": 730
+    },
+    {
+      "word": "Bahnhofsart",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Hofbrauhaus",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Ostfahrbahn",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Autoausfahrt",
+      "estimated_uncommonness": 4,
+      "combined_score": 683
+    },
+    {
+      "word": "Autobahnstau",
+      "estimated_uncommonness": 3,
+      "combined_score": 659
+    },
+    {
+      "word": "Bahnhofstr",
+      "estimated_uncommonness": 4,
+      "combined_score": 630
+    },
+    {
+      "word": "Notausfahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 621
+    },
+    {
+      "word": "Startaufbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 621
+    },
+    {
+      "word": "Hausnotruf",
+      "estimated_uncommonness": 3,
+      "combined_score": 559
+    },
+    {
+      "word": "Bahnfahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 545
+    },
+    {
+      "word": "Hofbaurat",
+      "estimated_uncommonness": 3,
+      "combined_score": 545
+    },
+    {
+      "word": "aufbohrst",
+      "estimated_uncommonness": 3,
+      "combined_score": 545
+    },
+    {
+      "word": "Frontstab",
+      "estimated_uncommonness": 3,
+      "combined_score": 521
+    },
+    {
+      "word": "Hanfstroh",
+      "estimated_uncommonness": 3,
+      "combined_score": 521
+    },
+    {
+      "word": "Turbofans",
+      "estimated_uncommonness": 3,
+      "combined_score": 521
+    },
+    {
+      "word": "aufbahrst",
+      "estimated_uncommonness": 3,
+      "combined_score": 521
+    },
+    {
+      "word": "Brautautos",
+      "estimated_uncommonness": 3,
+      "combined_score": 512
+    },
+    {
+      "word": "Rathausbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 512
+    },
+    {
+      "word": "Bahnhofs",
+      "estimated_uncommonness": 3,
+      "combined_score": 507
+    },
+    {
+      "word": "Aufbauart",
+      "estimated_uncommonness": 3,
+      "combined_score": 498
+    },
+    {
+      "word": "Autofahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 498
+    },
+    {
+      "word": "Hausfront",
+      "estimated_uncommonness": 3,
+      "combined_score": 498
+    },
+    {
+      "word": "aufbraust",
+      "estimated_uncommonness": 3,
+      "combined_score": 498
+    },
+    {
+      "word": "Braunhof",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Fahrbahn",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Forsthub",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Frosthub",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "aufbohrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "aufhobst",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Brathuhns",
+      "estimated_uncommonness": 3,
+      "combined_score": 474
+    },
+    {
+      "word": "Ostbhutan",
+      "estimated_uncommonness": 3,
+      "combined_score": 474
+    },
+    {
+      "word": "naturhaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 474
+    },
+    {
+      "word": "Busfahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 460
+    },
+    {
+      "word": "Farbtons",
+      "estimated_uncommonness": 3,
+      "combined_score": 460
+    },
+    {
+      "word": "Turbofan",
+      "estimated_uncommonness": 3,
+      "combined_score": 460
+    },
+    {
+      "word": "abfuhrst",
+      "estimated_uncommonness": 3,
+      "combined_score": 460
+    },
+    {
+      "word": "aufbahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 460
+    },
+    {
+      "word": "Autoraubs",
+      "estimated_uncommonness": 3,
+      "combined_score": 451
+    },
+    {
+      "word": "Brautauto",
+      "estimated_uncommonness": 3,
+      "combined_score": 451
+    },
+    {
+      "word": "Brauthaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 451
+    },
+    {
+      "word": "Brusthaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 451
+    },
+    {
+      "word": "Natursaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 451
+    },
+    {
+      "word": "Startbahn",
+      "estimated_uncommonness": 3,
+      "combined_score": 451
+    },
+    {
+      "word": "Stuntfrau",
+      "estimated_uncommonness": 3,
+      "combined_score": 451
+    },
+    {
+      "word": "Bahnhof",
+      "estimated_uncommonness": 3,
+      "combined_score": 445
+    },
+    {
+      "word": "Anrufbus",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Artushof",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Bohrhaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Hafthaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Haftorts",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Hofstaat",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Ohrfasan",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Ostfahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Torfhaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "abstraft",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "aufbaust",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "nahrhaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 436
+    },
+    {
+      "word": "Ausbauart",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Hausautor",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Naturbaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Truthuhns",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Uranstaub",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "antastbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 427
+    },
+    {
+      "word": "Bauhofs",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Brauhof",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Hofstab",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "aufhobt",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "boshaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "habhaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Astrofan",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Ausfahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Autobahn",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Autofans",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Bahnhaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Brathuhn",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Brothaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Fortunas",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Hanftaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Hartbahn",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Hausbahn",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Hausbrot",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Hausfrau",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Horstbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Sauftour",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "anbohrst",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "ausbohrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "ausfahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "ausfuhrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 413
+    },
+    {
+      "word": "Astronaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 403
+    },
+    {
+      "word": "Abfahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "Farbton",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "Harthof",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "Haushof",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "Hofhaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "Hohnruf",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "Hufhorn",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "abfahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "abfuhrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "aufhabt",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "aufstob",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "haftbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 398
+    },
+    {
+      "word": "Anbauort",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Aronstab",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Autobaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Autoraub",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Basthaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Botsuana",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Brauhaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Brustton",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Bruthaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Haarstab",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Hauthorn",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Hornhaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Ostanbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Ostbantu",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Rothuhns",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Staubahn",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Strohhut",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "antrafst",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "aufraust",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "aufstaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "auftaust",
+      "estimated_uncommonness": 3,
+      "combined_score": 389
+    },
+    {
+      "word": "Aufbaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 374
+    },
+    {
+      "word": "Haftort",
+      "estimated_uncommonness": 3,
+      "combined_score": 374
+    },
+    {
+      "word": "Hofrats",
+      "estimated_uncommonness": 3,
+      "combined_score": 374
+    },
+    {
+      "word": "Nothaft",
+      "estimated_uncommonness": 3,
+      "combined_score": 374
+    },
+    {
+      "word": "Rasthof",
+      "estimated_uncommonness": 3,
+      "combined_score": 374
+    },
+    {
+      "word": "Saftbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 374
+    },
+    {
+      "word": "abrufst",
+      "estimated_uncommonness": 3,
+      "combined_score": 374
+    },
+    {
+      "word": "abstuft",
+      "estimated_uncommonness": 3,
+      "combined_score": 374
+    },
+    {
+      "word": "aufbaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 374
+    },
+    {
+      "word": "Anbauart",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "Astharth",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "Autohaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "Baustart",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "Harthaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "Hautnaht",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "Naturbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "Staubart",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "Thanatos",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "Truthahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "Truthuhn",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "abturnst",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "antrabst",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "ausraubt",
+      "estimated_uncommonness": 2,
+      "combined_score": 365
+    },
+    {
+      "word": "Bauhof",
+      "estimated_uncommonness": 3,
+      "combined_score": 360
+    },
+    {
+      "word": "Bushof",
+      "estimated_uncommonness": 3,
+      "combined_score": 360
+    },
+    {
+      "word": "Hofbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 360
+    },
+    {
+      "word": "aufhob",
+      "estimated_uncommonness": 3,
+      "combined_score": 360
+    },
+    {
+      "word": "Ahnfrau",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Anfahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Ausfuhr",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Autofan",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Autoruf",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Fortuna",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Haftart",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Hanfart",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Hanftau",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Hausruf",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Hubhaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Notrufs",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Ostbahn",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Ostfurt",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Rohbaus",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Sabaoth",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Taufort",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "anbohrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "anfahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "anhobst",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "aufhast",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "aufsaht",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "ausfuhr",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Harnstau",
+      "estimated_uncommonness": 2,
+      "combined_score": 342
+    },
+    {
+      "word": "Tasthaar",
+      "estimated_uncommonness": 2,
+      "combined_score": 342
+    },
+    {
+      "word": "Abfuhr",
+      "estimated_uncommonness": 3,
+      "combined_score": 336
+    },
+    {
+      "word": "Barhuf",
+      "estimated_uncommonness": 3,
+      "combined_score": 336
+    },
+    {
+      "word": "Buhruf",
+      "estimated_uncommonness": 3,
+      "combined_score": 336
+    },
+    {
+      "word": "Obfrau",
+      "estimated_uncommonness": 3,
+      "combined_score": 336
+    },
+    {
+      "word": "abfuhr",
+      "estimated_uncommonness": 3,
+      "combined_score": 336
+    },
+    {
+      "word": "aufbot",
+      "estimated_uncommonness": 3,
+      "combined_score": 336
+    },
+    {
+      "word": "Abortus",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Arafats",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Aufstau",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Autobau",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Autobus",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Bahnart",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Bauhaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Baunaht",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Bhutans",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Burnout",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Burtons",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Bustour",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Buttons",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Fantast",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Hausbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Hausbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Obstart",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Rohhaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Rothuhn",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Taufart",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Torbaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Torstab",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Urfaust",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "abhaust",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "absahnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "anbotst",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "anrufst",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "ansauft",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "antraft",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "aufraut",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "auftaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "auftrat",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "auftust",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "ausruft",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "austobt",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "rotbunt",
+      "estimated_uncommonness": 2,
+      "combined_score": 327
+    },
+    {
+      "word": "Abrufs",
+      "estimated_uncommonness": 3,
+      "combined_score": 313
+    },
+    {
+      "word": "Aufbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 313
+    },
+    {
+      "word": "Brunft",
+      "estimated_uncommonness": 3,
+      "combined_score": 313
+    },
+    {
+      "word": "Busfan",
+      "estimated_uncommonness": 3,
+      "combined_score": 313
+    },
+    {
+      "word": "Hofart",
+      "estimated_uncommonness": 3,
+      "combined_score": 313
+    },
+    {
+      "word": "Hofrat",
+      "estimated_uncommonness": 3,
+      "combined_score": 313
+    },
+    {
+      "word": "Rufbus",
+      "estimated_uncommonness": 3,
+      "combined_score": 313
+    },
+    {
+      "word": "abruft",
+      "estimated_uncommonness": 3,
+      "combined_score": 313
+    },
+    {
+      "word": "unfroh",
+      "estimated_uncommonness": 3,
+      "combined_score": 313
+    },
+    {
+      "word": "Autouhr",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Baurats",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Baustau",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Braunau",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Haustor",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Hausuhr",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Hautton",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Huthaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Rabatts",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Rothaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Rothaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Suharto",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Torhaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Trabant",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Turbans",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "abturnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "anbaust",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "antrabt",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "ausbaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "hautnah",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "ortsnah",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "tastbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "thronst",
+      "estimated_uncommonness": 2,
+      "combined_score": 304
+    },
+    {
+      "word": "Futons",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Hufart",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Notruf",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Rohbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Rufton",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Tonruf",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Trafos",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "anfuhr",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "anhobt",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "aufhat",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "aufsah",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "aushob",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "bohrst",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "fortan",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "fuhrst",
+      "estimated_uncommonness": 2,
+      "combined_score": 289
+    },
+    {
+      "word": "Hausrat",
+      "estimated_uncommonness": 2,
+      "combined_score": 280
+    },
+    {
+      "word": "Rathaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 280
+    },
+    {
+      "word": "Taranto",
+      "estimated_uncommonness": 2,
+      "combined_score": 280
+    },
+    {
+      "word": "ausruht",
+      "estimated_uncommonness": 2,
+      "combined_score": 280
+    },
+    {
+      "word": "Abaton",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Aborts",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Anrufs",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Arafat",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Aushub",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Ausruf",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Barons",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Bauort",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Bhutan",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Bornas",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Brunos",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Burton",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Button",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Fanart",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Futurs",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Habana",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Honshu",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Notbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Ornbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Ostbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Safran",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Torbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Turbos",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "abhaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "absaht",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "anhabt",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "anruft",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "antraf",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "auftat",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "auftun",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "auftut",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "bahnst",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "brutto",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "franst",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "nahbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "raufst",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "robust",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "straft",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "taufst",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "trafst",
+      "estimated_uncommonness": 2,
+      "combined_score": 266
+    },
+    {
+      "word": "Unstrut",
+      "estimated_uncommonness": 2,
+      "combined_score": 257
+    },
+    {
+      "word": "anraust",
+      "estimated_uncommonness": 2,
+      "combined_score": 257
+    },
+    {
+      "word": "anstaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 257
+    },
+    {
+      "word": "antaust",
+      "estimated_uncommonness": 2,
+      "combined_score": 257
+    },
+    {
+      "word": "austrat",
+      "estimated_uncommonness": 2,
+      "combined_score": 257
+    },
+    {
+      "word": "Abruf",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Forth",
+      "estimated_uncommonness": 2,
+      "combined_score": 251
+    },
+    {
+      "word": "Ahorns",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Anbaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Arubas",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Ausbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Bantus",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Bauart",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Baurat",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Brauns",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Brunst",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Brutus",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Burnus",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Busart",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Butans",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Hartha",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Hutton",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Nahost",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Oshana",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Rabatt",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Rothut",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Sharon",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Subaru",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Thorns",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Throns",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Turban",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "abtrat",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "abtust",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "anbaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "ausbat",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "braust",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "raubst",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "starbt",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "staubt",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "thront",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "trabst",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Afros",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Bohrs",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "FORSA",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Fahrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Fonts",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Forsa",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Forst",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Forts",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Front",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Frost",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Furth",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Futon",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Hanfs",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Obhut",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Tofus",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Torfs",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Trafo",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "anhob",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "bohrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "fahrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "fuhrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "hobst",
+      "estimated_uncommonness": 2,
+      "combined_score": 228
+    },
+    {
+      "word": "Aarhus",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Aarons",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Autors",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Hanaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Hanuta",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Hartau",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Notars",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Notaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Ostara",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Sahara",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Sontra",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Stator",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Tarots",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Tonart",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Tonsur",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Toraus",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Tutors",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Urahns",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Uranos",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "anhast",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "anhaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "ansaht",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "haarst",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Abort",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Anruf",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Arfst",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Baron",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Barth",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Baton",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Bator",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Bonus",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Borna",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Borns",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Bruno",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Butor",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Fanta",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Farns",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Fasan",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Fauna",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Fauns",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Faust",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Frust",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Furan",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Futur",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Hohns",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "NAFTA",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Ranft",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Shoah",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Tabor",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Tafts",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Trauf",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Turbo",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "absah",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "anbot",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "bahnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "botst",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "buhst",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "rauft",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "rufst",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "sanft",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "sauft",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "stuft",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "surft",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "tauft",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "tobst",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "traft",
+      "estimated_uncommonness": 2,
+      "combined_score": 204
+    },
+    {
+      "word": "Aaraus",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Anatas",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Astana",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Naurus",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Rattan",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Saturn",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Statur",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Stuart",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Tantra",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Tartan",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Tartus",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Tatars",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Taunus",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Taurus",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Turnus",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Unrast",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Unrats",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "Uranus",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "anraut",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "antaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "antrat",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "antust",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "natura",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "rasant",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "raunst",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "staunt",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "tarnst",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "traust",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "turnst",
+      "estimated_uncommonness": 2,
+      "combined_score": 195
+    },
+    {
+      "word": "BASF",
+      "estimated_uncommonness": 2,
+      "combined_score": 190
+    },
+    {
+      "word": "Hofs",
+      "estimated_uncommonness": 2,
+      "combined_score": 190
+    },
+    {
+      "word": "froh",
+      "estimated_uncommonness": 2,
+      "combined_score": 190
+    },
+    {
+      "word": "Abart",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Abasa",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Ahorn",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Anbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Arbat",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Aruba",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Athos",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Banat",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Bantu",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Basar",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Basra",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Brast",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Braun",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Braus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Braut",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Brust",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Buran",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Bursa",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Burst",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Butan",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Hahns",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Horns",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Horst",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Horus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Huhns",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Noahs",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "North",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rabat",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Raubs",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Shona",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "South",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Staub",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Stroh",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tabus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Thora",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Thorn",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Thors",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Thron",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Torah",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tsuba",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tubus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "abtat",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "abtun",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "abtut",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "barst",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "basta",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "batst",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "baust",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "braun",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "braut",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "raubt",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "starb",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "trabt",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "unbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "urban",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Afro",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Bohr",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Font",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Fort",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Fron",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Haft",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Hanf",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Horb",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Hufs",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Sofa",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Tofu",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Torf",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "UFOs",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Ufos",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "boah",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "bohr",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "fahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "fort",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "fuhr",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "hobt",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "soft",
+      "estimated_uncommonness": 2,
+      "combined_score": 166
+    },
+    {
+      "word": "Aaron",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Ahaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Aorta",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Arnos",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Arosa",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Astor",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Autor",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Autos",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Haars",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Hanau",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Hansa",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Harns",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Harst",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Hausa",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Husar",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Hutus",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Nahur",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Noras",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Notar",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Ornat",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Ostau",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Ruths",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Sahra",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Sarah",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Sonar",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Stuhr",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Tarot",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Tauon",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Thurn",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Toast",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Tonus",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Torus",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Tours",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Trash",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Troas",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Trost",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Tutor",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Unruh",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Urahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Urson",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "Utahs",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "ahnst",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "anhat",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "ansah",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "haart",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "haust",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "hurst",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "nahst",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "ruhst",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "sahnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "tourt",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "untot",
+      "estimated_uncommonness": 2,
+      "combined_score": 157
+    },
+    {
+      "word": "BHF",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Hbf",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Abos",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Afar",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Afra",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Ahab",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Bahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Bahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Baht",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Boas",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Bons",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Bora",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Born",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Bots",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Brot",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Fans",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Fant",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Farn",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Fata",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Faun",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Frau",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Fuas",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Furt",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Hohn",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Hubs",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "NTFS",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Obst",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Obus",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Rufs",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Saft",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Snob",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Taft",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Turf",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "aufs",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "buht",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "fast",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "frau",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "habt",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "rauf",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "ruft",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "sauf",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "stob",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "tobt",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "traf",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Aarau",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Artus",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Asant",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Astat",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Astra",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Autan",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Natur",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Nauru",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Sanaa",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Santa",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Satan",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Sauna",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Staat",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Start",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Stunt",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Taran",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Tartu",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Tatar",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Tatra",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Trans",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Trust",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Turan",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Turas",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Tutus",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Unart",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Unrat",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Untat",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Urans",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "Utans",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "antat",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "antut",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "raunt",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "raust",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "staut",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "tarnt",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "taust",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "traut",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "tunst",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "turnt",
+      "estimated_uncommonness": 1,
+      "combined_score": 133
+    },
+    {
+      "word": "BfA",
+      "estimated_uncommonness": 2,
+      "combined_score": 128
+    },
+    {
+      "word": "BfS",
+      "estimated_uncommonness": 2,
+      "combined_score": 128
+    },
+    {
+      "word": "Hof",
+      "estimated_uncommonness": 2,
+      "combined_score": 128
+    },
+    {
+      "word": "Baan",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Baar",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Baas",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Bars",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Bart",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Bast",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Baus",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Brut",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Butt",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Hahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Horn",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Hort",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Host",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Huhn",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "NABU",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "NaOH",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Naab",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Noah",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Oahu",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Ohrs",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Raab",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Raub",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Roth",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Saab",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Saba",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Shot",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Sohn",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Stab",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Tabs",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Tabu",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Thon",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Thor",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Trab",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Tuba",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "baut",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "brat",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "brut",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "bunt",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "haha",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "hott",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "huhu",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "tabu",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "taub",
+      "estimated_uncommonness": 2,
+      "combined_score": 119
+    },
+    {
+      "word": "Boh",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "Fon",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "Huf",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "ORF",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "UFO",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "Ufo",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "hob",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "oft",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "Arno",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Asot",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Auto",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Haan",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Haar",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Haas",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Hans",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Harn",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Hart",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Hast",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Haus",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Haut",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Hunt",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Huts",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Hutu",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Huus",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "NATO",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Naht",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Naos",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Nato",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Nora",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Nota",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Onus",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Orts",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Rahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Rosa",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Rost",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Rota",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Ruth",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Stoa",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Taro",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Than",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Thun",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Tons",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Tora",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Tors",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Tort",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Tour",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Uhus",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Utah",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "ahnt",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "hart",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "hast",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "haut",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "hurt",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "naht",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "rahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "rosa",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "rott",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "ruht",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "saht",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "sott",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "tost",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Abo",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "AfA",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "BHs",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Boa",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Bon",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Bor",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Bot",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Buh",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Fan",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Fut",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Hab",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Hub",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "NFS",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "ORB",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "RAF",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "RTF",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Ruf",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "SFr",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "TFT",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "UTF",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Ufa",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "auf",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "bah",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "bot",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "buh",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "hab",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "ruf",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "usf",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "AStA",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Aast",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Anus",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Aras",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Aura",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "NASA",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Rast",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Rats",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Runs",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Saar",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Saat",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Sara",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Stan",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Star",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Stau",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Tara",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Tran",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Tuns",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Tutu",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "UART",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Uran",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Urat",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Utan",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Utas",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "Utta",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "rasa",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "rast",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "raus",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "raut",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "satt",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "saut",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "stur",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "taut",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "trat",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "trau",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "tunt",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "turn",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "tust",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "urst",
+      "estimated_uncommonness": 1,
+      "combined_score": 72
+    },
+    {
+      "word": "ABS",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "ASB",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Aab",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Aba",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Abt",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Abu",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Aub",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Ban",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Bar",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Bau",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Bun",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Bus",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "HNO",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Ohr",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Rab",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Rho",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Sub",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Tab",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "UBA",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "USB",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "bar",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "bat",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "bau",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "oha",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "roh",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Ahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ahr",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Hut",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Not",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "OAS",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ort",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ost",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ott",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Out",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Rah",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ron",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Rot",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ruh",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Sao",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Tao",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ton",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Tor",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "UNO",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Uhr",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Uhu",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Uno",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "aha",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "aro",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "hat",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "hau",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "nah",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "not",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "out",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "rot",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "ruh",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "sah",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "son",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "tot",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "AAA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ATU",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aas",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ara",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ars",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Art",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ast",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NSA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NSU",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nut",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "RNA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Raa",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ras",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Run",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "San",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sur",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TAN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TNT",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TUS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TuS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tun",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "USA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Urs",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Uta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ans",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "aua",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "aus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nur",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ran",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tun",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tut",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "uns",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
