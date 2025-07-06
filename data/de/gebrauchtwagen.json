@@ -1,0 +1,9118 @@
+{
+  "seed_word": "GEBRAUCHTWAGEN",
+  "words_length_count": {
+    "3": 153,
+    "4": 269,
+    "5": 355,
+    "6": 361,
+    "7": 277,
+    "8": 212,
+    "9": 136,
+    "10": 41,
+    "11": 13,
+    "12": 2,
+    "14": 1
+  },
+  "words_list": [
+    {
+      "word": "Gebrauchtwagen",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Unterwegbach",
+      "estimated_uncommonness": 4,
+      "combined_score": 839
+    },
+    {
+      "word": "weggebracht",
+      "estimated_uncommonness": 4,
+      "combined_score": 794
+    },
+    {
+      "word": "nachgebauter",
+      "estimated_uncommonness": 4,
+      "combined_score": 792
+    },
+    {
+      "word": "Bergwachten",
+      "estimated_uncommonness": 4,
+      "combined_score": 771
+    },
+    {
+      "word": "wegbrachten",
+      "estimated_uncommonness": 4,
+      "combined_score": 771
+    },
+    {
+      "word": "unbewachter",
+      "estimated_uncommonness": 4,
+      "combined_score": 747
+    },
+    {
+      "word": "angebrachte",
+      "estimated_uncommonness": 4,
+      "combined_score": 724
+    },
+    {
+      "word": "gebrauchten",
+      "estimated_uncommonness": 4,
+      "combined_score": 724
+    },
+    {
+      "word": "nachgebaute",
+      "estimated_uncommonness": 4,
+      "combined_score": 724
+    },
+    {
+      "word": "waagrechten",
+      "estimated_uncommonness": 4,
+      "combined_score": 724
+    },
+    {
+      "word": "Bruchwegen",
+      "estimated_uncommonness": 4,
+      "combined_score": 702
+    },
+    {
+      "word": "Burgwachen",
+      "estimated_uncommonness": 4,
+      "combined_score": 702
+    },
+    {
+      "word": "Grabwachen",
+      "estimated_uncommonness": 4,
+      "combined_score": 702
+    },
+    {
+      "word": "Wachburgen",
+      "estimated_uncommonness": 4,
+      "combined_score": 702
+    },
+    {
+      "word": "wegbrachen",
+      "estimated_uncommonness": 4,
+      "combined_score": 702
+    },
+    {
+      "word": "wegbrachte",
+      "estimated_uncommonness": 4,
+      "combined_score": 702
+    },
+    {
+      "word": "Abwehragent",
+      "estimated_uncommonness": 4,
+      "combined_score": 700
+    },
+    {
+      "word": "Wagengeburt",
+      "estimated_uncommonness": 4,
+      "combined_score": 700
+    },
+    {
+      "word": "Buchwerten",
+      "estimated_uncommonness": 4,
+      "combined_score": 679
+    },
+    {
+      "word": "Tuchwebern",
+      "estimated_uncommonness": 4,
+      "combined_score": 679
+    },
+    {
+      "word": "unbewachte",
+      "estimated_uncommonness": 4,
+      "combined_score": 679
+    },
+    {
+      "word": "abgehungert",
+      "estimated_uncommonness": 3,
+      "combined_score": 676
+    },
+    {
+      "word": "angerauchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 676
+    },
+    {
+      "word": "Gartenbuch",
+      "estimated_uncommonness": 4,
+      "combined_score": 655
+    },
+    {
+      "word": "Nachbargut",
+      "estimated_uncommonness": 4,
+      "combined_score": 655
+    },
+    {
+      "word": "Nachgeburt",
+      "estimated_uncommonness": 4,
+      "combined_score": 655
+    },
+    {
+      "word": "angebracht",
+      "estimated_uncommonness": 4,
+      "combined_score": 655
+    },
+    {
+      "word": "gebrachten",
+      "estimated_uncommonness": 4,
+      "combined_score": 655
+    },
+    {
+      "word": "gebrauchen",
+      "estimated_uncommonness": 4,
+      "combined_score": 655
+    },
+    {
+      "word": "gebrauchte",
+      "estimated_uncommonness": 4,
+      "combined_score": 655
+    },
+    {
+      "word": "nachgebaut",
+      "estimated_uncommonness": 4,
+      "combined_score": 655
+    },
+    {
+      "word": "waagerecht",
+      "estimated_uncommonness": 4,
+      "combined_score": 655
+    },
+    {
+      "word": "waagrechte",
+      "estimated_uncommonness": 4,
+      "combined_score": 655
+    },
+    {
+      "word": "wegtauchen",
+      "estimated_uncommonness": 4,
+      "combined_score": 655
+    },
+    {
+      "word": "abgegaunert",
+      "estimated_uncommonness": 3,
+      "combined_score": 653
+    },
+    {
+      "word": "Bergwacht",
+      "estimated_uncommonness": 4,
+      "combined_score": 634
+    },
+    {
+      "word": "Bewachung",
+      "estimated_uncommonness": 4,
+      "combined_score": 634
+    },
+    {
+      "word": "Bruchwege",
+      "estimated_uncommonness": 4,
+      "combined_score": 634
+    },
+    {
+      "word": "Buchwegen",
+      "estimated_uncommonness": 4,
+      "combined_score": 634
+    },
+    {
+      "word": "Burgwache",
+      "estimated_uncommonness": 4,
+      "combined_score": 634
+    },
+    {
+      "word": "Grabwache",
+      "estimated_uncommonness": 4,
+      "combined_score": 634
+    },
+    {
+      "word": "Wachtberg",
+      "estimated_uncommonness": 4,
+      "combined_score": 634
+    },
+    {
+      "word": "Wagenbach",
+      "estimated_uncommonness": 4,
+      "combined_score": 634
+    },
+    {
+      "word": "Wagenbuch",
+      "estimated_uncommonness": 4,
+      "combined_score": 634
+    },
+    {
+      "word": "Baurechten",
+      "estimated_uncommonness": 3,
+      "combined_score": 631
+    },
+    {
+      "word": "abrauchten",
+      "estimated_uncommonness": 3,
+      "combined_score": 631
+    },
+    {
+      "word": "Bewachern",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "Buchegger",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "Buchwerte",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "Gegenbach",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "Gegenbuch",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "Tuchweber",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "Warenbach",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "Warenbuch",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "bewachten",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "bewachter",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "bewuchern",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "bewuchert",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "unbewacht",
+      "estimated_uncommonness": 4,
+      "combined_score": 610
+    },
+    {
+      "word": "Brautwagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 608
+    },
+    {
+      "word": "Wagenbauer",
+      "estimated_uncommonness": 3,
+      "combined_score": 608
+    },
+    {
+      "word": "Wagnertuba",
+      "estimated_uncommonness": 3,
+      "combined_score": 608
+    },
+    {
+      "word": "Webagentur",
+      "estimated_uncommonness": 3,
+      "combined_score": 608
+    },
+    {
+      "word": "Wehrbauten",
+      "estimated_uncommonness": 3,
+      "combined_score": 608
+    },
+    {
+      "word": "Wertangabe",
+      "estimated_uncommonness": 3,
+      "combined_score": 608
+    },
+    {
+      "word": "angeraucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 608
+    },
+    {
+      "word": "gerauchten",
+      "estimated_uncommonness": 3,
+      "combined_score": 608
+    },
+    {
+      "word": "gerngehabt",
+      "estimated_uncommonness": 3,
+      "combined_score": 608
+    },
+    {
+      "word": "Bachtagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "Beachtung",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "Regenbach",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "Tagebruch",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "achtgeben",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "gebrachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "gebrauche",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "gebraucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "gebruncht",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "gebuchten",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "gebuchter",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "gewachten",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "gewachter",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "gewuchert",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "waagrecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "weggehabt",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "wegtauche",
+      "estimated_uncommonness": 3,
+      "combined_score": 586
+    },
+    {
+      "word": "abgenagter",
+      "estimated_uncommonness": 3,
+      "combined_score": 584
+    },
+    {
+      "word": "abgetragen",
+      "estimated_uncommonness": 3,
+      "combined_score": 584
+    },
+    {
+      "word": "abhungerte",
+      "estimated_uncommonness": 3,
+      "combined_score": 584
+    },
+    {
+      "word": "anbaggerte",
+      "estimated_uncommonness": 3,
+      "combined_score": 584
+    },
+    {
+      "word": "angehabter",
+      "estimated_uncommonness": 3,
+      "combined_score": 584
+    },
+    {
+      "word": "heranwagte",
+      "estimated_uncommonness": 3,
+      "combined_score": 584
+    },
+    {
+      "word": "Bruchweg",
+      "estimated_uncommonness": 4,
+      "combined_score": 565
+    },
+    {
+      "word": "Buchwege",
+      "estimated_uncommonness": 4,
+      "combined_score": 565
+    },
+    {
+      "word": "Wachberg",
+      "estimated_uncommonness": 4,
+      "combined_score": 565
+    },
+    {
+      "word": "Wachburg",
+      "estimated_uncommonness": 4,
+      "combined_score": 565
+    },
+    {
+      "word": "Wegbruch",
+      "estimated_uncommonness": 4,
+      "combined_score": 565
+    },
+    {
+      "word": "wegbrach",
+      "estimated_uncommonness": 4,
+      "combined_score": 565
+    },
+    {
+      "word": "Baurechte",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Bewahrung",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Bewehrung",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Buchenart",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Burgwegen",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Grabenweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Grubenweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Nachbauer",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Nachbeter",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Tauchgang",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Tuchwaren",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Unterbach",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Wagenberg",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Wagenburg",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Wagengrab",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Wegangabe",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "abgewehrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "abrauchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "abrauchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "abrechnet",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "abtauchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "achtbaren",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "anbrachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "brauchten",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "erwachten",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "nachbaute",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "wucherten",
+      "estimated_uncommonness": 3,
+      "combined_score": 563
+    },
+    {
+      "word": "Bauerntage",
+      "estimated_uncommonness": 3,
+      "combined_score": 561
+    },
+    {
+      "word": "angebauter",
+      "estimated_uncommonness": 3,
+      "combined_score": 561
+    },
+    {
+      "word": "unbehaarte",
+      "estimated_uncommonness": 3,
+      "combined_score": 561
+    },
+    {
+      "word": "Bewacher",
+      "estimated_uncommonness": 3,
+      "combined_score": 541
+    },
+    {
+      "word": "Buchwert",
+      "estimated_uncommonness": 3,
+      "combined_score": 541
+    },
+    {
+      "word": "Wachgang",
+      "estimated_uncommonness": 3,
+      "combined_score": 541
+    },
+    {
+      "word": "bewachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 541
+    },
+    {
+      "word": "bewachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 541
+    },
+    {
+      "word": "Abwertung",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Bahnwerte",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Bauernweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Bewertung",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Brauwegen",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Burghagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Hugenberg",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Nachtauge",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Rechengut",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Wartebahn",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "abwehrten",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "bewahrten",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "gerauchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "hergewagt",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "nachtrage",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "unbewehrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "ungerecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "angegraute",
+      "estimated_uncommonness": 3,
+      "combined_score": 537
+    },
+    {
+      "word": "Bachtage",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "Brechung",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "Buchtage",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "Gebrauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "Grabtuch",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "Tagbruch",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "Tagebuch",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "Wachtang",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "Wegrecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "abgeacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "gebracht",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "gebuchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "gewachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "nachgabt",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "nachgebe",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "nachgebt",
+      "estimated_uncommonness": 3,
+      "combined_score": 518
+    },
+    {
+      "word": "Abtragung",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Bauwarten",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Bauwerten",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Behaarung",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Brautgang",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Gartenweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Gegenwart",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Gutenberg",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Haarwegen",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Hartwagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Hutgraben",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Naturwabe",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Tragwagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Warthegau",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "abgehauen",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "abgenagte",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "abhungere",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "abhungert",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "anbaggere",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "anbaggert",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "angehabte",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "baggerten",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "entgehbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "gebahnter",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "gewahrten",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "heranwagt",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "herwagten",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "weghauten",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "wegtragen",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "wegtrugen",
+      "estimated_uncommonness": 3,
+      "combined_score": 516
+    },
+    {
+      "word": "Buchweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 496
+    },
+    {
+      "word": "Aberchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Auerbach",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Bachauen",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Bahnwege",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Barchent",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Baurecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Bewegung",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Bucharen",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Burgwege",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Erwachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Hubwagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Hubwegen",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Nacherbe",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Nachtbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Tuchware",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Wachauer",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Wagenhub",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Warntuch",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Werbegag",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "abrauche",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "abraucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "abrechne",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "abtauche",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "achtbare",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "anbracht",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "anbreche",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "anbrecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "beachten",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "brachten",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "brauchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "brauchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "erwachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "erwachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "nachbaue",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "nachbaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "nachbete",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "wacheren",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "weggaben",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "weghaben",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "wucherte",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "wurachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 494
+    },
+    {
+      "word": "Bauerntag",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "Etagenbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "Gartenbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "Naturgabe",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "Naturwege",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "Tagebauen",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "abgeraten",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "abgetaner",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "angebaute",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "beantrage",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "begaunert",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "behaarten",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "gebrauten",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "gehungert",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "geraubten",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "unbehaart",
+      "estimated_uncommonness": 3,
+      "combined_score": 492
+    },
+    {
+      "word": "Wachbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 473
+    },
+    {
+      "word": "bewache",
+      "estimated_uncommonness": 3,
+      "combined_score": 473
+    },
+    {
+      "word": "bewacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 473
+    },
+    {
+      "word": "Bauwagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Bauwegen",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Begehung",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Berghang",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Brauwege",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Burghang",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Cabernet",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Gehwagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Grachten",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Grauchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Grenache",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Gretchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Hangwege",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Nachtrag",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Wagenbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Webgarne",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Wehrgang",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Werbetag",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "abwehren",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "abwehrte",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "bewahren",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "bewahrte",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "geraucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "gewabert",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "nachtrug",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "unbewegt",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Hagenauer",
+      "estimated_uncommonness": 3,
+      "combined_score": 469
+    },
+    {
+      "word": "Regenhaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 469
+    },
+    {
+      "word": "Ruhetagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 469
+    },
+    {
+      "word": "angegraut",
+      "estimated_uncommonness": 3,
+      "combined_score": 469
+    },
+    {
+      "word": "gegaunert",
+      "estimated_uncommonness": 3,
+      "combined_score": 469
+    },
+    {
+      "word": "hautenger",
+      "estimated_uncommonness": 3,
+      "combined_score": 469
+    },
+    {
+      "word": "Wegchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 449
+    },
+    {
+      "word": "gebrach",
+      "estimated_uncommonness": 3,
+      "combined_score": 449
+    },
+    {
+      "word": "gebucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 449
+    },
+    {
+      "word": "gewacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 449
+    },
+    {
+      "word": "nachgab",
+      "estimated_uncommonness": 3,
+      "combined_score": 449
+    },
+    {
+      "word": "Aachener",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Anrechte",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Bahntage",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Bauwarte",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Bauwerte",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Bergtage",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Brutgang",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Ergebung",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Erhebung",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Gebarung",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Guthaben",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Haarwege",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Harnwege",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Heuwagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Rauchtee",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Raunacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Tauchern",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Teuchern",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Tracheen",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "Webarten",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "abgehaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "abgenagt",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "abgeregt",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "abwarten",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "abwerten",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "angehabt",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "angeweht",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "baggerte",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "behagten",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "erachten",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "gangbare",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "gebahnte",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "gegraben",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "gehabert",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "gehabten",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "gehabter",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "gernhabe",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "gernhabt",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "gewagten",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "gewagter",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "gewahrte",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "guthaben",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "hergaben",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "herwagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "herwagte",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "rauchten",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "unechter",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "unrechte",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "waberten",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "weggetan",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "weghauen",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "weghaute",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "wegtrage",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "wehgetan",
+      "estimated_uncommonness": 3,
+      "combined_score": 447
+    },
+    {
+      "word": "angeraute",
+      "estimated_uncommonness": 2,
+      "combined_score": 445
+    },
+    {
+      "word": "Abrecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Anbruch",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Bachaue",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Bahnweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Barchan",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Bergweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Bhagwan",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Brachet",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Branche",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Buchara",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Buchare",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Buchart",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Buchter",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Burgweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Hubwege",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Nachbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Nachbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Neubach",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Teebuch",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Wechten",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Wegberg",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Weggabe",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "abachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "achtbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "anbrach",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "beachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "bechern",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "bechert",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "brachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "brachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "brauche",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "braucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "brechen",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "buchten",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "erwache",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "erwacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "wachere",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "wachten",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "weggabt",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "weggebt",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "weghabe",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "weghabt",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "wuchere",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "wuchern",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "wuchert",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "wuchten",
+      "estimated_uncommonness": 3,
+      "combined_score": 426
+    },
+    {
+      "word": "Abartung",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Beratung",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Bhutaner",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Bretagne",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Geburten",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Grebenau",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Gurthang",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Naturweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Tagebaue",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Thebaner",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Unterweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Wagenart",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Wegarten",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "abgetane",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "abhauten",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "abhertun",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "abheuern",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "abheuert",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "abregnet",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "abregten",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "abtragen",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "abtrugen",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "angebaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "behaarte",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "behauten",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "behauter",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "benagter",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "beruhten",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "betragen",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "betrugen",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "gebauten",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "gebauter",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "gebraten",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "gebraute",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "genarbte",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "geraubte",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "gewarnte",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "wegtauen",
+      "estimated_uncommonness": 3,
+      "combined_score": 424
+    },
+    {
+      "word": "Abwegen",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Achtung",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Bauwege",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Brauweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Cabaret",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Chargen",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Erchtag",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Guanche",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Hangweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Tagchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Webgarn",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Wegebau",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Wehrbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Werbung",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "abwehre",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "abwehrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "bewahre",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "bewahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "bewehrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "gerecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "weggeht",
+      "estimated_uncommonness": 3,
+      "combined_score": 402
+    },
+    {
+      "word": "Bauarten",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "Ehrengut",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "Ehrentag",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "Regenhut",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "Regentag",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "Ruhetage",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "Teeanbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "angeregt",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "betrauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "entraube",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "erbauten",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "geahnter",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "gegarten",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "genagter",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "geruhten",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "getragen",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "hautenge",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "hungerte",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "tauberen",
+      "estimated_uncommonness": 2,
+      "combined_score": 400
+    },
+    {
+      "word": "Anrecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Bahntag",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Bauwart",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Bauwert",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Behagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Berggut",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Berghut",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Bergung",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Chateau",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Erbgang",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Gangbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Gerbung",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Grabgut",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Grabung",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Haarweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Harnweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Hartweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Hergabe",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Hugbert",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Hutberg",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Nauarch",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Nerchau",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Rechten",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Taucher",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Trachea",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Trachee",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Tranche",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Unrecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Wahrung",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "abgehen",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "abwarte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "abwerte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "achaten",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "achtern",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "anwarbt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "anwerbe",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "anwerbt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "baggere",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "baggern",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "baggert",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "begehrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "behagen",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "behagte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "erachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "gangbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "gebahnt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "gebangt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "gebeugt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "gegerbt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "gehaben",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "gehabte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "gewagte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "gewahrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "gewehrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "guthabe",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "hergabt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "hergebt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "herwage",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "herwagt",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "rauchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "rauchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "rechnet",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "rechten",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "tauchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "unechte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "unrecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "waberte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "weghaue",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "weghaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "wegtrug",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Augenart",
+      "estimated_uncommonness": 2,
+      "combined_score": 376
+    },
+    {
+      "word": "Rathenau",
+      "estimated_uncommonness": 2,
+      "combined_score": 376
+    },
+    {
+      "word": "angeraut",
+      "estimated_uncommonness": 2,
+      "combined_score": 376
+    },
+    {
+      "word": "anheuert",
+      "estimated_uncommonness": 2,
+      "combined_score": 376
+    },
+    {
+      "word": "enthaare",
+      "estimated_uncommonness": 2,
+      "combined_score": 376
+    },
+    {
+      "word": "geraunte",
+      "estimated_uncommonness": 2,
+      "combined_score": 376
+    },
+    {
+      "word": "getrauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 376
+    },
+    {
+      "word": "Baruch",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Becher",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Brache",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Brauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Brunch",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Buchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Chawer",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Cherub",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Erbach",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Hubweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Wachau",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Wechte",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Wucher",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "bracht",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "brauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "breche",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "brecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "buchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "buchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "wachen",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "wacher",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "wachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "weggab",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "wuchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Angeber",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Bahnart",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Baunaht",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Bautage",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Beuthen",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Brautag",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Bungert",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Egberta",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Gabuner",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Gebaren",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Gebauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Gehrung",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Habaner",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Hergang",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Neuberg",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Raubehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Tagebau",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Uhrgang",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Wagener",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Warngau",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Wartung",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Wertgen",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Wertung",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "abgetan",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "abhauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "abhaute",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "abnagte",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "abregen",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "abregte",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "abtrage",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "anwehte",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "behaart",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "behauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "behaute",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "benagte",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "beruhen",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "beruhte",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "betrage",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "beugten",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "ergaben",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "erhaben",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "gebaren",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "gebaute",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "gebraut",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "gegehrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "genarbt",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "geraubt",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "gerbten",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "gewarnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "nahbare",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "unwahre",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "wahrten",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "wegtaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "wehrten",
+      "estimated_uncommonness": 2,
+      "combined_score": 355
+    },
+    {
+      "word": "Abwege",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Abwehr",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Bauweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Carban",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Charge",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Erbweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Gehweg",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Geruch",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Gracht",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Wegbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "bewegt",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "gewebt",
+      "estimated_uncommonness": 3,
+      "combined_score": 334
+    },
+    {
+      "word": "Abarten",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Abtenau",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Anbauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Anbeter",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Ergetag",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Gangart",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Garagen",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Ghanaer",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Gunther",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Hagenau",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Hagener",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Hartgen",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Hartung",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Neuware",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Neuwert",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Nuraghe",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Rabenau",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Ruhetag",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Trauben",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Turbane",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "abarten",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "abernte",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "abraten",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "abtauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "abturne",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "anbaute",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "anbrate",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "antrabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "beraten",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "betraue",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "brauten",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "buntere",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "erbaten",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "erbauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "erbaute",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "geahnte",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "gegarte",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "gegraut",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "gehaart",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "geharnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "gehauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "genagte",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "geruhen",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "geruhte",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "hageren",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "hauteng",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "hungere",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "hungert",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "rangehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "rangeht",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "raubten",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "taubere",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "unwerte",
+      "estimated_uncommonness": 2,
+      "combined_score": 331
+    },
+    {
+      "word": "Aachen",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Abgang",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Abhang",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Achate",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Achern",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Achner",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Achter",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Archen",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Bagage",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Bagger",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Begehr",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Behang",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Charta",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Gehabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Gewehr",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Hebung",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Herweg",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Rachen",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Rechen",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Rechte",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Tabgha",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Tanach",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Taucha",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Tenach",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Tuchen",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Webart",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Webern",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Werben",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "aacher",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "abgehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "abgeht",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "achten",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "achter",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "anwarb",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "begeht",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "behage",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "behagt",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "echten",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "echter",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "gehabt",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "gewagt",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "gewahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "geweht",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "hergab",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "rauche",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "raucht",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "rechen",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "rechne",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "rechte",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "tauche",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "tuchen",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "unecht",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "wabern",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "wabert",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "warben",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "webten",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "weghat",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "werben",
+      "estimated_uncommonness": 2,
+      "combined_score": 310
+    },
+    {
+      "word": "Agentur",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Anthere",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Athener",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Generat",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Geraune",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Granate",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Hanauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Renegat",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Ruthene",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Tanager",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Teerung",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Teheran",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Urethan",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "angurte",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "anregte",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "antrage",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "erahnte",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "genauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "geraten",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "geraunt",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "getaner",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "grauten",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "haarten",
+      "estimated_uncommonness": 2,
+      "combined_score": 308
+    },
+    {
+      "word": "Bache",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Batch",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Bauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Beach",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Bruch",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Buach",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Buche",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Bucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Chewa",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Crwth",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Wache",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Wucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "brach",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "buche",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "bucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "butch",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "wache",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "wacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 289
+    },
+    {
+      "word": "Agbert",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Angabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bahren",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bautag",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bergen",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bertha",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Betrag",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Betrug",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Beuger",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bhutan",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bregen",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Brehna",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Bungee",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Burgen",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Center",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Centre",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Egbert",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Erbgut",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Garben",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Gauben",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Gebern",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Geburt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Graben",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Gruben",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Hauben",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Hebern",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Hubert",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Negwer",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Neuweg",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Tagbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Theben",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Trance",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Waagen",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Wagner",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Warthe",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Wegart",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Wehner",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "abhaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "abhaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "abnage",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "abnagt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "abrege",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "abregt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "abtrug",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "angabt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "angebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "angebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "anhabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "anhabt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "anhebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "anhebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "anwehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "anweht",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "bahnte",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "banger",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "bangte",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "bargen",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "beehrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "beengt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "behaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "behaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "benage",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "benagt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "bergan",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "bergen",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "beruhe",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "beruht",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "betrug",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "beugen",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "beugte",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "buhten",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "cetera",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "ergabt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "ergebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "erhebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "gebart",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "gebaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "geerbt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "gehegt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "gerben",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "gerbte",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "graben",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "gruben",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "habern",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "herben",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "nahbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "unwahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wagten",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wahren",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wahrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wegtue",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wegtun",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wehren",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wehrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wehten",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wehtue",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wehtun",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wergen",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "wrangt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "anraute",
+      "estimated_uncommonness": 2,
+      "combined_score": 284
+    },
+    {
+      "word": "Abece",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Abweg",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Bruce",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Caban",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Gauch",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "beweg",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Agathe",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Anerbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Barten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Bauart",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Bauern",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Baurat",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Bauten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Bernau",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Braten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Bruten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Ehrung",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Garage",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Gargut",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Gegner",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Gehaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Gehren",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Grethe",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Grunge",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Gurage",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Haager",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Hagnau",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Hangar",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Hegern",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Hergen",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Hunger",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Nugget",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Raguhn",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Reggae",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Regung",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Taggen",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Tagung",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Tauber",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Theurg",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Traube",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Turban",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Warane",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Warnau",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Wernau",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "abrate",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "anbaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "anbaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "anbete",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "angehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "angeht",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "bauten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "beaten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "berate",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "bereut",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "beuten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "braten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "brauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "braune",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "braute",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "bunter",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "erbaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "erbaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "erbten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "ergeht",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "geahnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "geehrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "gegart",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "gehaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "geheut",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "gehren",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "gehurt",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "genagt",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "genaht",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "geragt",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "geregt",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "geruhe",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "geruht",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "hagere",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "hegten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "rauben",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "raubte",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "tauben",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "tauber",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "traben",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "unbare",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "unwert",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "urbane",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "warnte",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "warten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "werten",
+      "estimated_uncommonness": 2,
+      "combined_score": 263
+    },
+    {
+      "word": "Achat",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Acher",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Achte",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Arche",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Chart",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Grace",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Nacht",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Rache",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Ranch",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Rauch",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Recht",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Tuche",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "UNHCR",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Uchta",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "UrhWG",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Waben",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Weber",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "achte",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "echte",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "rauch",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "reche",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "recht",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "warbt",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "weben",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "webte",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "werbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "werbt",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Agneta",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Angert",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Antrag",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Athena",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Athene",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Etagen",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Ganter",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Garant",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Garten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Gauner",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Genera",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Genter",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Gerten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Granat",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Graten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Grauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Gunter",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Gurten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Haaren",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Hanuta",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Hartau",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Hauern",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Herten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Heuert",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Nurage",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Reagan",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Regent",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Tagner",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Tanger",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Tragen",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Truhen",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Tuareg",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Unehre",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Urgent",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "anhaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "anrege",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "anregt",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "antrug",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "ehrten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "erahne",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "erahnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "garten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "genaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "gerate",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "geraut",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "gereut",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "getane",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "getreu",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "grauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "graute",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "gurten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "haaren",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "haarte",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "harten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "hauten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "heuern",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "heuert",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "hurten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "ragten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "regnet",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "regten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "ruhten",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "taugen",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "tragen",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "trugen",
+      "estimated_uncommonness": 2,
+      "combined_score": 239
+    },
+    {
+      "word": "Bach",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Buch",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "wach",
+      "estimated_uncommonness": 2,
+      "combined_score": 220
+    },
+    {
+      "word": "Bahne",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Bahre",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Bange",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Barth",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Berge",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Beuge",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Beuth",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Buhne",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Ceuta",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Gabun",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Garbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Gaube",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Geber",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Gebet",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Grube",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Guben",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Haben",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Haube",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Heber",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Huber",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Waage",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Wagen",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Wange",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Wegen",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Werth",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Wuhne",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "abher",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "angab",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "auweh",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "bahne",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "bahnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "bange",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "bangt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "bargt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "beeng",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "berge",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "bergt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "beuge",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "beugt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "buhen",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "buhte",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "ergab",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "gaben",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "gebar",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "geben",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "gerbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "gerbt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "grabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "grabt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "grubt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "haben",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "habet",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "heben",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "herab",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "herbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "wagen",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "wagte",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "wahre",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "wahrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "wegen",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "wehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "wehre",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "wehrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "wehte",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "wrang",
+      "estimated_uncommonness": 2,
+      "combined_score": 218
+    },
+    {
+      "word": "Eutern",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Nature",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Neutra",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Renate",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Tauern",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Treuen",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "anrate",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "anraue",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "anraut",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "antaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "erneut",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "natura",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "raunte",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "rauten",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "reuten",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "teuren",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "trauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "treuen",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "untere",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Crew",
+      "estimated_uncommonness": 2,
+      "combined_score": 196
+    },
+    {
+      "word": "gech",
+      "estimated_uncommonness": 2,
+      "combined_score": 196
+    },
+    {
+      "word": "Abart",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Abate",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Abner",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Agger",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Anbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Arbat",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Aruba",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Aware",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Banat",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Bantu",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Barte",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Bauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Bauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Baute",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Beata",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Beate",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Bernt",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Berta",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Beter",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Beute",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Braue",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Braun",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Braut",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Brent",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Buran",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Buren",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Butan",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Buten",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Ebart",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Ebern",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Ebert",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Ebner",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Eggen",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Egger",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Ewert",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Gagen",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Gange",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Gehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Geher",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Ghana",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Hagen",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Heger",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Narbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Narew",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Naugh",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Nebra",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Raabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Rabat",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Rabea",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Raben",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Reben",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Taube",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Trebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Tuben",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Tuber",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Waran",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Waren",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Warna",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Warte",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Werne",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "abern",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "abtue",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "abtun",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "baren",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "baten",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "bauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "baute",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "beten",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "beute",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "brate",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "braue",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "braun",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "braut",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "bunte",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "buten",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "ebnet",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "erbat",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "erben",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "erbte",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "etwer",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "gegen",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "gehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "genug",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "hager",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "hegen",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "hegte",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "raube",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "raubt",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "taube",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "trabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "unbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "urban",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "waren",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "warne",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "warnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "warte",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "waten",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "werte",
+      "estimated_uncommonness": 2,
+      "combined_score": 194
+    },
+    {
+      "word": "Aach",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "Ache",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "Acht",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "Chat",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "Chur",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "Ehec",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "Ruch",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "Tuch",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "Ucha",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "Wabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "acht",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "auch",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "echt",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "euch",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "nach",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "warb",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "webe",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "webt",
+      "estimated_uncommonness": 2,
+      "combined_score": 173
+    },
+    {
+      "word": "Agent",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Agnat",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Ahern",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Anger",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Argen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Athen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Augen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Earth",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Ehren",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Enger",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Ertag",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Etage",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Ethan",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Ethen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Ether",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Eugen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Garne",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Gauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Geert",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Genre",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Genua",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Gerte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Getue",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Grant",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Grate",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Green",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Greta",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Grete",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Gurte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Guter",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Haare",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Hanau",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Haren",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Hauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Haune",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Herne",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Herta",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Heuer",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Heute",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Hunte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Nager",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Nahur",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Neger",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Nehru",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Nugat",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Rahen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Range",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Regen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Rehau",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Rehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Rehna",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Runge",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Tanga",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Thure",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Thurn",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Trage",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Truhe",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Uhren",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Ungar",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Urahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "ahnte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "anhat",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "argen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "ehern",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "ehren",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "ehrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "enger",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "engte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "garen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "garte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "genau",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "geren",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "gerne",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "getan",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "graue",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "graut",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "gurte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "guten",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "guter",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "haare",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "haart",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "harte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "hauen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "haute",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "heran",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "heuen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "heuer",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "heute",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "huren",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "hurte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "nagte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "naher",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "nahte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "neger",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "ragen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "ragte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "rangt",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "regen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "regne",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "regte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "ruhen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "ruhte",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "tagen",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "tauge",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "trage",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "HCB",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Acer",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Acne",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Acre",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Agaw",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Ahab",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "BUGA",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Bahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Bahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Baht",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Barg",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Berg",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Burg",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "CERN",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Caen",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Cent",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Cree",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Gabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Grab",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Habe",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Hebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Hube",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "RWTH",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Waag",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Wahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Wege",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Wehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Wehr",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Werg",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "acta",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "bang",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "barg",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "beug",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "buhe",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "buht",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "gabt",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "gebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "gebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "grub",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "habe",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "habt",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "hebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "hebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "herb",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "wage",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "wagt",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "wahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "wehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "weht",
+      "estimated_uncommonness": 2,
+      "combined_score": 149
+    },
+    {
+      "word": "Arena",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Autan",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Ernte",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Euter",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Natur",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Raute",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Rente",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Ruten",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Taran",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Trane",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Treue",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Tuner",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Turan",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Unart",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Unrat",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "Unter",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "antue",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "arten",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "ernte",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "euren",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "neuer",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "raten",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "rauen",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "raune",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "raunt",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "raute",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "reuen",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "reute",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "tarne",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "tauen",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "teuer",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "teure",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "traue",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "treue",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "turne",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "unter",
+      "estimated_uncommonness": 1,
+      "combined_score": 147
+    },
+    {
+      "word": "ABC",
+      "estimated_uncommonness": 2,
+      "combined_score": 128
+    },
+    {
+      "word": "Abc",
+      "estimated_uncommonness": 2,
+      "combined_score": 128
+    },
+    {
+      "word": "Cab",
+      "estimated_uncommonness": 2,
+      "combined_score": 128
+    },
+    {
+      "word": "NBC",
+      "estimated_uncommonness": 2,
+      "combined_score": 128
+    },
+    {
+      "word": "Tbc",
+      "estimated_uncommonness": 2,
+      "combined_score": 128
+    },
+    {
+      "word": "Abee",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Aber",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Agge",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Baan",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Baar",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Bane",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Bart",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Beat",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Beau",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Beer",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Beet",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Bern",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Bert",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Beta",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Brut",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Bure",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Eber",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Egge",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Erbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "EuGH",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Gage",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Gang",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Ghee",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Haag",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Hang",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "NABU",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Naab",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Nabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "REWE",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Raab",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Rabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Raub",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Rebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Tabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Tabu",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Thug",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Trab",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Tuba",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Tube",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Twen",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Twer",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "UrhG",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Want",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Ware",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Wart",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Wert",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Wune",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "Wurt",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "aber",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "bare",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "baue",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "baut",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "bete",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "betr",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "brat",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "brut",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "bunt",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "eben",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "ebne",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "erbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "erbt",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "etwa",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "gaga",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "gehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "geht",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "hege",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "hegt",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "tabu",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "taub",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "wart",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "wate",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "wert",
+      "estimated_uncommonness": 2,
+      "combined_score": 126
+    },
+    {
+      "word": "BGH",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "Che",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "Chr",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "HGB",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "HTC",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "THC",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "Web",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "ach",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "ech",
+      "estimated_uncommonness": 2,
+      "combined_score": 104
+    },
+    {
+      "word": "Agar",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Agra",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Ahne",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Auge",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Eger",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Ehen",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Ehre",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Enge",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Gant",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Garn",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Gate",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Gaue",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Gaur",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Gene",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Gent",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Gera",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Gert",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Geta",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Gran",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Grat",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Gurt",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Haan",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Haar",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Harn",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Hart",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Haue",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Haut",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Heer",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Hera",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Hete",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Hunt",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Hure",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Nahe",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Naht",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Rage",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Rahe",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Rahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Rang",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Reha",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Rehe",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Ruhe",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Ruth",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Tage",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Tang",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Than",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Thea",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Thun",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Trug",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "Utah",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "ahne",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "ahnt",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "arge",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "eher",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "ehre",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "ehrt",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "enge",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "engt",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "gare",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "gart",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "gern",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "grau",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "gute",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "hart",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "haue",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "haut",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "heut",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "hure",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "hurt",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "nage",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "nagt",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "nahe",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "naht",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "rage",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "ragt",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "rahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "rang",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "rege",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "regt",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "ruhe",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "ruht",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "tage",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "trag",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "trug",
+      "estimated_uncommonness": 1,
+      "combined_score": 102
+    },
+    {
+      "word": "AGB",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "ANC",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "AWG",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "BGE",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Bug",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Buh",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Cer",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Cru",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Cut",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "EWG",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Ecu",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "GEW",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "GbR",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Hab",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Hub",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "NEC",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "RGB",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "RTC",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Weg",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Weh",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "bah",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "buh",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "etc",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "gab",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "geb",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "hab",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "heb",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "weg",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "weh",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "Aare",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Aren",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Arne",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Auen",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Auer",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Aura",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Ente",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Eren",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Erna",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Naue",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Neer",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Nute",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Rate",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Reet",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Reue",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Rune",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Rute",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Tara",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Teen",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Teer",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Tran",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "UART",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Uran",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Urat",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Urea",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Urne",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Urte",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Utan",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "ante",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "arte",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "euer",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "eure",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "neue",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "rate",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "raue",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "raut",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "reue",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "reut",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "taue",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "trau",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "treu",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "tune",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "turn",
+      "estimated_uncommonness": 1,
+      "combined_score": 79
+    },
+    {
+      "word": "Aab",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Aba",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Abt",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Abu",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Aub",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "BER",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Ban",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Bar",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Bau",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Bea",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Ben",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Bun",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "EWU",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Ewe",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "GGT",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Gag",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Hag",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "NRW",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "New",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "RWE",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Rab",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "TWA",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Tab",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "UBA",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Uwe",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Wat",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Wau",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "Wut",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "bar",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "bat",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "bau",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "geh",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "war",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "wau",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "wen",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "wer",
+      "estimated_uncommonness": 1,
+      "combined_score": 57
+    },
+    {
+      "word": "AEG",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ahr",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Arg",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Aug",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "EEG",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "ETH",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ehe",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Eth",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "GAU",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "GTA",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Gan",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Gau",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Gen",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ger",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Gnu",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Gun",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Gut",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Heu",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Hut",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Rag",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Rah",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Reh",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Ruh",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Tag",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "Uhr",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "aha",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "arg",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "ehe",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "eng",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "gar",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "gen",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "gut",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "hat",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "hau",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "her",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "nah",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "reg",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "ruh",
+      "estimated_uncommonness": 1,
+      "combined_score": 34
+    },
+    {
+      "word": "ATU",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ara",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Art",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ETA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "EUR",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ern",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NET",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nut",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "RNA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Raa",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ren",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Run",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TAN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tun",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Uta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ute",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "aua",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "net",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "neu",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nur",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ran",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tun",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
