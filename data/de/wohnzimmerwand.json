@@ -1,0 +1,4621 @@
+{
+  "seed_word": "WOHNZIMMERWAND",
+  "words_length_count": {
+    "3": 140,
+    "4": 239,
+    "5": 230,
+    "6": 179,
+    "7": 75,
+    "8": 42,
+    "9": 13,
+    "10": 2,
+    "11": 1
+  },
+  "words_list": [
+    {
+      "word": "Wohnzimmern",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Wohnzimmer",
+      "estimated_uncommonness": 5,
+      "combined_score": 911
+    },
+    {
+      "word": "Zimmerwand",
+      "estimated_uncommonness": 4,
+      "combined_score": 856
+    },
+    {
+      "word": "Mordwanze",
+      "estimated_uncommonness": 4,
+      "combined_score": 739
+    },
+    {
+      "word": "Womanizer",
+      "estimated_uncommonness": 4,
+      "combined_score": 739
+    },
+    {
+      "word": "Zonendamm",
+      "estimated_uncommonness": 4,
+      "combined_score": 739
+    },
+    {
+      "word": "Mazedonin",
+      "estimated_uncommonness": 3,
+      "combined_score": 684
+    },
+    {
+      "word": "Modezarin",
+      "estimated_uncommonness": 3,
+      "combined_score": 684
+    },
+    {
+      "word": "Nazimorde",
+      "estimated_uncommonness": 3,
+      "combined_score": 684
+    },
+    {
+      "word": "Rheindamm",
+      "estimated_uncommonness": 3,
+      "combined_score": 684
+    },
+    {
+      "word": "Harmonien",
+      "estimated_uncommonness": 3,
+      "combined_score": 656
+    },
+    {
+      "word": "Nordenham",
+      "estimated_uncommonness": 3,
+      "combined_score": 656
+    },
+    {
+      "word": "Weinahorn",
+      "estimated_uncommonness": 3,
+      "combined_score": 656
+    },
+    {
+      "word": "hinmorden",
+      "estimated_uncommonness": 3,
+      "combined_score": 656
+    },
+    {
+      "word": "Wehrdamm",
+      "estimated_uncommonness": 4,
+      "combined_score": 649
+    },
+    {
+      "word": "Harnwinde",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Normandie",
+      "estimated_uncommonness": 3,
+      "combined_score": 629
+    },
+    {
+      "word": "Immanenz",
+      "estimated_uncommonness": 3,
+      "combined_score": 622
+    },
+    {
+      "word": "Rhizomen",
+      "estimated_uncommonness": 3,
+      "combined_score": 622
+    },
+    {
+      "word": "Wohnwand",
+      "estimated_uncommonness": 3,
+      "combined_score": 622
+    },
+    {
+      "word": "Zweihorn",
+      "estimated_uncommonness": 3,
+      "combined_score": 622
+    },
+    {
+      "word": "wimmernd",
+      "estimated_uncommonness": 3,
+      "combined_score": 622
+    },
+    {
+      "word": "zimmernd",
+      "estimated_uncommonness": 3,
+      "combined_score": 622
+    },
+    {
+      "word": "Dominanz",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Heizmann",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Herzwand",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Mannheim",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Mehrmann",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Mondamin",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Romanzen",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Wandzone",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Wehrmann",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Weinmond",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Windzone",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Zweihand",
+      "estimated_uncommonness": 3,
+      "combined_score": 594
+    },
+    {
+      "word": "Anwohner",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "Harmonie",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "Heizdorn",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "Inwohner",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "Mainzern",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "Nordheim",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "Wandhorn",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "Weidmann",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "Weinwand",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "Windhorn",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "Zinnware",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "zwirnend",
+      "estimated_uncommonness": 3,
+      "combined_score": 567
+    },
+    {
+      "word": "Mizoram",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "Dreizahn",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Inwahner",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Mahnerin",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Meinhard",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Mondrian",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Omanerin",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Randzone",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Romandie",
+      "estimated_uncommonness": 3,
+      "combined_score": 539
+    },
+    {
+      "word": "Mahomed",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Monheim",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Rhizome",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Zimmern",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "wimmend",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "wimmern",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "zimmern",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Wanderin",
+      "estimated_uncommonness": 3,
+      "combined_score": 512
+    },
+    {
+      "word": "androhen",
+      "estimated_uncommonness": 3,
+      "combined_score": 512
+    },
+    {
+      "word": "anwidern",
+      "estimated_uncommonness": 3,
+      "combined_score": 512
+    },
+    {
+      "word": "Arzheim",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Memoria",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Mendoza",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Modezar",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Romanze",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "marodem",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Dimmern",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Drewanz",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Mahonie",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Mainzer",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Rohwein",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Warmien",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Winzern",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Wohnrad",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Zweirad",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "marinem",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "rammend",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "wohnend",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "zwirnen",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "zahmem",
+      "estimated_uncommonness": 3,
+      "combined_score": 471
+    },
+    {
+      "word": "Ahrwein",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Arnheim",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Heimrad",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Hermann",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Ironman",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Maronen",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Monaden",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Neonazi",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Nomaden",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Nomadin",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Romanen",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "einnahm",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "harzend",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "ihrzend",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "mahnend",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "maroden",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "normend",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "rahmend",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "wahrend",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "zahnend",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Rhizom",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Wimmer",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Zimmer",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "warmem",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "wimmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "wimmre",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "zimmer",
+      "estimated_uncommonness": 3,
+      "combined_score": 443
+    },
+    {
+      "word": "Ahornen",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Dornhan",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Drohnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Einhorn",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Einwand",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Erdmann",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Heraion",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Marinen",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Niemand",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Riemann",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Wardein",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Zandern",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "androhe",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "marinen",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "mindern",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "niemand",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "wandern",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "warnend",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Hammer",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "Iwanow",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "Warnow",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "Window",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "wahrem",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "zahmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "zahmer",
+      "estimated_uncommonness": 3,
+      "combined_score": 416
+    },
+    {
+      "word": "Einhand",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Einhard",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Endharn",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Endhirn",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Oranien",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "anordne",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "harnend",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "hindern",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "onanier",
+      "estimated_uncommonness": 2,
+      "combined_score": 395
+    },
+    {
+      "word": "Dahome",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Dammer",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Demmin",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Dimmer",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Homann",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Howard",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Imamen",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Marzin",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Mohair",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Mohren",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Nohwer",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Rhinow",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Wanzen",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Warzen",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Weimar",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Winzer",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Wizard",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Wohnen",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "dimmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "mimend",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "nimmer",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "rammen",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "warmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "widmen",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "wohnen",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "zwirne",
+      "estimated_uncommonness": 3,
+      "combined_score": 388
+    },
+    {
+      "word": "Dinaren",
+      "estimated_uncommonness": 2,
+      "combined_score": 368
+    },
+    {
+      "word": "Adenom",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Amnion",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Anomer",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Anomie",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Arnhem",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Aromen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Azoren",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Daheim",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Dirham",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Domain",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Domina",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Harmen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Harzen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Ihrzen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Mahner",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Marino",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Marion",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Marone",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Maroni",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Menhir",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Menora",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Merino",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Minoer",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Modena",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Monade",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Monden",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Morden",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Nahmen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Nimrod",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Nomade",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Nomina",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Norman",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Normen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Omaner",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Rahmen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Romane",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Romani",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Zahnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "anheim",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "daheim",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "harzen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "ihrzen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "mahnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "marode",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "modern",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "morden",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "nahmen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "normen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "rahmen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "wahren",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "worden",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "worein",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "zahnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 361
+    },
+    {
+      "word": "Wamme",
+      "estimated_uncommonness": 3,
+      "combined_score": 354
+    },
+    {
+      "word": "Ahorne",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Aminen",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Andrew",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Anreiz",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Arznei",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Darwin",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Diwane",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Dramen",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Drohne",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Endarm",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Enzian",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Eriwan",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Hadron",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Heroin",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Hidroa",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Horden",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Maiden",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Manien",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Manier",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Marend",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Marien",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Marine",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Median",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Medina",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Merian",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Minden",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Mindre",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Newari",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Ranzen",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Rhoden",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Wadern",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Wendin",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Winden",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Winner",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Zander",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Zinder",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "aridem",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "drohen",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "honend",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "marine",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "median",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "minder",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "wanden",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "warnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "widern",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "winden",
+      "estimated_uncommonness": 2,
+      "combined_score": 333
+    },
+    {
+      "word": "Ammon",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Mirow",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Modem",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Monem",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "zahme",
+      "estimated_uncommonness": 3,
+      "combined_score": 326
+    },
+    {
+      "word": "Andorn",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Anoden",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Danone",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Donner",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Dornen",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Haider",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Hainen",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Hirnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Nodien",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Norden",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Onanie",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Rahden",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Roadie",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "ahnden",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "ahnend",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "donnre",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "erdnah",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "hadern",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "harnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "hieran",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "hindre",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "iahend",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "nahend",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "norden",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "ordnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 306
+    },
+    {
+      "word": "Ammei",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ammen",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ammer",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Homan",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Homer",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Homie",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Honza",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Horaz",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Imame",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Immen",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Mainz",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Minze",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Oheim",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Ramme",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Wanze",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Warwe",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Warze",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Zamie",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Zwane",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Zwirn",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "armem",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "dimme",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "immer",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "mimen",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "ramme",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "rohem",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "warme",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "widme",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "woher",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "wohin",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "wohne",
+      "estimated_uncommonness": 2,
+      "combined_score": 299
+    },
+    {
+      "word": "Adenin",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "Dinare",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "Dinner",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "Dirnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "Einrad",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "Indern",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "Nadine",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "Radien",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "Rainen",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "Rianne",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "Rinden",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "ariden",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "darein",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "raiden",
+      "estimated_uncommonness": 2,
+      "combined_score": 278
+    },
+    {
+      "word": "Amero",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Azone",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Dahme",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Domen",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Donez",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Hamen",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Hanzi",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Harem",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Harze",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Heinz",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Mahdi",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Manon",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Maori",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Mario",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Moden",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Moder",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Monde",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Morde",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Naomi",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Noemi",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Nomen",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Norma",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Omani",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Ozean",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Radom",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Rhema",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Roman",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Wedro",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Wodan",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Wonne",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Zonen",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "ahmen",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "enorm",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "harze",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "ihrem",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "mahne",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "menno",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "modre",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "morde",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "nahem",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "norme",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "ownen",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "wahre",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "woran",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "worin",
+      "estimated_uncommonness": 2,
+      "combined_score": 271
+    },
+    {
+      "word": "Admin",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Adwin",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Ahorn",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Amine",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Amrei",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Anime",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Armen",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Armin",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Arnim",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Damen",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Denim",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Dimer",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Diwan",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Dohna",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Drohn",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Edwin",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Eidam",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Emnid",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Erwin",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Hanno",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Hanoi",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Haori",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Heino",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Heron",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Hoden",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Honda",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Horde",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Horen",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Idaho",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Maden",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Maier",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Maine",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Manie",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Manne",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Marei",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Maren",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Marie",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Marne",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Media",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Meran",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Minen",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Minna",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Minne",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Namen",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Narew",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Ohren",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Ramen",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Ramin",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Ranze",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Rhode",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Rhone",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Waden",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Wanne",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Waren",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Warin",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Weida",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Winde",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Zaire",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Zaren",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Zarin",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Zinne",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "armen",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "drohe",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "honen",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "indem",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "marin",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "rohen",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "waren",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "warne",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "wider",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "widre",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "winde",
+      "estimated_uncommonness": 2,
+      "combined_score": 244
+    },
+    {
+      "word": "Hamm",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Immo",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Memo",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Mizo",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Omme",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "zahm",
+      "estimated_uncommonness": 2,
+      "combined_score": 237
+    },
+    {
+      "word": "Ahern",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Ahnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Ahnin",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Anion",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Anode",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Dario",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Donar",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Donna",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Doria",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Dorne",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Hader",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Haien",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Haine",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Hanne",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Hanni",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Haren",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Henan",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Henna",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Henni",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Henri",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Hinde",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Hirne",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Ihnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Ihren",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Ionen",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Nahie",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Norne",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Orden",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Radio",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Radon",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Rahen",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Rehna",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Reihn",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Rhein",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Rodin",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Ronde",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Ronin",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "ahnde",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "ahnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "anhin",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "daher",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "dahin",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "hadre",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "heran",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "hinan",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "iahen",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "ihnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "ihren",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "nahen",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "naher",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "ordne",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "roden",
+      "estimated_uncommonness": 2,
+      "combined_score": 216
+    },
+    {
+      "word": "Amme",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Damm",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Emma",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Emmi",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Home",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "IMHO",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Imam",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Imme",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Mami",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Mime",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Mohn",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Mohr",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Weiz",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Zwei",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "mime",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "nimm",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "warm",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "zwar",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "zwei",
+      "estimated_uncommonness": 2,
+      "combined_score": 209
+    },
+    {
+      "word": "Adern",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Adner",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Anden",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Annie",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Arien",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Denar",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Diane",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Dinar",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Diner",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Dirne",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Einar",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Inder",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Nadir",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Narde",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Raine",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Rande",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Rinde",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Rinne",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "aride",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "darin",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "drein",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "inner",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "irden",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "rinne",
+      "estimated_uncommonness": 1,
+      "combined_score": 189
+    },
+    {
+      "word": "Amor",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Demo",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Dome",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "HDMI",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Harm",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Harz",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Heim",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Hemd",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Hemi",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Herz",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Hinz",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Iowa",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Mahd",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Mahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Mehr",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Mode",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Modi",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Mona",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Mond",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Moni",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Mord",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "More",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Nemo",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Noam",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Norm",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Odem",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Oman",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Omar",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Omen",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Owen",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Rahm",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Roma",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Wahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Wehr",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Word",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Zahn",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Zehn",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Zeno",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Zero",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Zion",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Zone",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Zorn",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "ahme",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "down",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "heim",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "mehr",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "moin",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "nahm",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "wahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "weih",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "zehn",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "zehr",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "zieh",
+      "estimated_uncommonness": 2,
+      "combined_score": 182
+    },
+    {
+      "word": "Amen",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Amid",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Amin",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Arme",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Azid",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Azin",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "DRAM",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Dame",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Darm",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Diez",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Doha",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Dram",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Edam",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Emir",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Hero",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Horn",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Irma",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Iwan",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Made",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Maid",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Main",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Mann",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Mare",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Mari",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Mine",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Mira",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "NaOH",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Name",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Nazi",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Nerz",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Noah",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Ohre",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Reim",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Reiz",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Wade",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Wadi",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Waid",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Wand",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Ware",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Weda",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Wein",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Wenn",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Wied",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Wien",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Wina",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Wind",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Zain",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Zier",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "Zinn",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "ahoi",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "amen",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "arme",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "mein",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "mied",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "ohne",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "rohe",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "wand",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "wann",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "wenn",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "werd",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "wird",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "zier",
+      "estimated_uncommonness": 2,
+      "combined_score": 154
+    },
+    {
+      "word": "MHz",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "MWh",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "wow",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "zwo",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Ahne",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Arno",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Dahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Dero",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Dino",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Dior",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Dora",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Dorn",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Dreh",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Enno",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Haie",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Hain",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Hand",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Harn",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Hedi",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Heia",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Hein",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Hera",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Herd",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Hirn",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Ihde",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Ihne",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Ihre",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Inro",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Nahe",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Nano",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Neon",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Nero",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Nino",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Noir",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "None",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Nora",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Nord",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Oden",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Oder",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Odin",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Onna",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Orne",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Rahe",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Rahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Reha",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "Roda",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "ahne",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "anno",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "dero",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "dreh",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "heda",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "hier",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "ihre",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "nahe",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "oder",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "rahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "rode",
+      "estimated_uncommonness": 1,
+      "combined_score": 127
+    },
+    {
+      "word": "MEZ",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Mem",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Ohm",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "WAZ",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "WHO",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Wim",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "wem",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Aden",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Ader",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Andi",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Anne",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Anni",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Aren",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Arie",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Arnd",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Arne",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Dari",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Dirn",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Drei",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Edna",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Erna",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Iden",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Iran",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Iren",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Nane",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Neid",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Nein",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Nena",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Nerd",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Nina",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "RAID",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Rade",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Radi",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Raid",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Rain",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Rand",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Rein",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Riad",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Ried",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "Rind",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "arid",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "dann",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "dein",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "denn",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "dran",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "drei",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "drin",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "eina",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "inne",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "nein",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "rann",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "rein",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "renn",
+      "estimated_uncommonness": 1,
+      "combined_score": 99
+    },
+    {
+      "word": "AWO",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Dom",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Emo",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Imo",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mao",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mio",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Moa",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Mod",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "NWO",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "OEM",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Oma",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Omi",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "ROM",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Rom",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Weh",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Won",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Zeh",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "ihm",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "mAh",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "weh",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "AIZ",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "AMD",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Ami",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Anm",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Arm",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Dez",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Enz",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Erz",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "HNO",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "MAD",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "MDR",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Mai",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Man",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Mia",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Min",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Mir",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Mrd",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "NRW",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "NRZ",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Naz",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "New",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Ohr",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "RAM",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "RWE",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Rho",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "WDR",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Wie",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Zar",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Zea",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Zen",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Zer",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "arm",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "dem",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "hoi",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "man",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "min",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "mir",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "oha",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "roh",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "war",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "wen",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "wer",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "wie",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "wir",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Ado",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ahn",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ahr",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Dao",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Deo",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Don",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Hai",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ido",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ihr",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Inh",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Iod",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ion",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ode",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Rah",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Reh",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Rio",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ron",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "aro",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "hei",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "her",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "hie",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "hin",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "iah",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "ihn",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "ihr",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "nah",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "ADN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ARD",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ade",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Adi",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ain",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Air",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ann",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ari",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "DIN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "DNA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Dan",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Dia",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Die",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eid",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "End",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ern",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "IDE",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "IRA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ian",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ida",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ina",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Inn",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ire",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NDR",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "RNA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rad",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ren",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ria",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ade",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "dar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "den",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "der",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "die",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "dir",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ein",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nid",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ran",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
