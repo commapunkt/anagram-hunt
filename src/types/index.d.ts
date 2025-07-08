@@ -17,6 +17,10 @@ export interface LevelFile {
   words_list: Word[];
 }
 
+export interface LevelInfo {
+  seed_words: string[];
+}
+
 export interface LevelMapping {
-  [key: string]: string;
+  [key: string]: LevelInfo;
 } 

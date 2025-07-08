@@ -30,6 +30,7 @@ export interface CurrentGameState {
   level: number;
   language: 'en' | 'de';
   seedWord: string;
+  selectedSeedWordFile: string;
   foundWords: FoundWordInfo[];
   score: number;
   timeRemaining: number;

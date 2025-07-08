@@ -1,4 +1,8 @@
 {
-  "1": "verstehen.json",
-  "2": "zuverlässigkeit.json"
+  "1": {
+    "seed_words": ["abfallentsorgung.json"]
+  },
+  "2": {
+    "seed_words": ["blitzableiter.json"]
+  }
 }

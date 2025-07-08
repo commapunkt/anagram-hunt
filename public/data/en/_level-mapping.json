@@ -1,5 +1,11 @@
 {
-  "1": "misunderstanding.json",
-  "2": "switzerland.json",
-  "3": "vegetable.json"
+  "1": {
+    "seed_words": ["misunderstanding.json", "acknowledge.json", "adjustments.json", "communicator.json"]
+  },
+  "2": {
+    "seed_words": ["switzerland.json"]
+  },
+  "3": {
+    "seed_words": ["vegetable.json"]
+  }
 }
