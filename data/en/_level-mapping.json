@@ -1,11 +1,77 @@
 {
   "1": {
-    "seed_words": ["misunderstanding.json", "acknowledge.json", "adjustments.json", "communicator.json"]
+    "seed_words": ["misunderstanding.json", "relationship.json", "congratulations.json", "underestimate.json"]
   },
   "2": {
-    "seed_words": ["switzerland.json"]
+    "seed_words": ["consideration.json", "representation.json", "compensating.json", "establishment.json"]
   },
   "3": {
-    "seed_words": ["vegetable.json"]
+    "seed_words": ["recommendation.json", "disappointment.json", "professional.json", "switzerland.json"]
+  },
+  "4": {
+    "seed_words": ["spontaneously.json", "infrastructure.json", "unforgettable.json", "discrepancies.json"]
+  },
+  "5": {
+    "seed_words": ["forgetfulness.json", "questionable.json", "schoolteacher.json", "graciousness.json"]
+  },
+  "6": {
+    "seed_words": ["comprehension.json", "procrastination.json", "persuasively.json", "disappearance.json"]
+  },
+  "7": {
+    "seed_words": ["observation.json", "outrageously.json", "depressingly.json", "brainstorming.json"]
+  },
+  "8": {
+    "seed_words": ["revolutionary.json", "celebration.json", "contemplation.json", "masterpiece.json"]
+  },
+  "9": {
+    "seed_words": ["generational.json", "vulnerability.json", "houseplant.json", "administration.json"]
+  },
+  "10": {
+    "seed_words": ["leadership.json", "encouragement.json", "rollercoaster.json", "supermarket.json"]
+  },
+  "11": {
+    "seed_words": ["thankfulness.json", "transportation.json", "grandmother.json", "implementation.json"]
+  },
+  "12": {
+    "seed_words": ["rattlesnake.json", "exploration.json", "appreciation.json", "apprehensive.json"]
+  },
+  "13": {
+    "seed_words": ["tablespoon.json", "misbehavior.json", "calculations.json", "kindhearted.json"]
+  },
+  "14": {
+    "seed_words": ["overwhelming.json", "knowledgeable.json", "fundamentally.json", "forgiveness.json"]
+  },
+  "15": {
+    "seed_words": ["ghostwriter.json", "informative.json", "companionship.json", "whiteboard.json"]
+  },
+  "16": {
+    "seed_words": ["thunderbolt.json", "exaggeration.json", "friendliness.json", "destination.json"]
+  },
+  "17": {
+    "seed_words": ["meaningfully.json", "concentration.json", "acknowledge.json", "rejuvenation.json"]
+  },
+  "18": {
+    "seed_words": ["scheduling.json", "adjustments.json", "hospitality.json", "identification.json"]
+  },
+  "19": {
+    "seed_words": ["functionality.json", "communicator.json", "perseverance.json", "something.json"]
+  },
+  "20": {
+    "seed_words": ["playground.json", "recollection.json", "improvement.json", "dishwasher.json"]
+  },
+  "21": {
+    "seed_words": ["reassurance.json", "expression.json", "participation.json", "compassion.json"]
+  },
+  "22": {
+    "seed_words": ["questioning.json", "background.json", "entertainment.json", "friendship.json"]
+  },
+  "23": {
+    "seed_words": ["forthcoming.json", "stockbroker.json", "surprisingly.json", "adventure.json"]
+  },
+  "24": {
+    "seed_words": ["impressive.json", "hurricane.json", "possession.json", "confidence.json"]
+  },
+  "25": {
+    "seed_words": ["reluctantly.json", "experiencing.json", "toothpaste.json", "vegetable.json"]
   }
 }
