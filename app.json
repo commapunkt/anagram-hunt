@@ -27,9 +27,6 @@
       "bundler": "metro",
       "backgroundColor": "#121212",
       "themeColor": "#121212"
-    },
-    "experiments": {
-      "baseUrl": "/anagram-hunt"
     }
   }
 }

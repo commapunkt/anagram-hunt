@@ -2,7 +2,7 @@
   "name": "anagram-hunt",
   "version": "1.0.0",
   "main": "index.ts",
-  "homepage": "https://bright-words-studio.github.io/anagram-hunt",
+  "homepage": "https://commapunkt.github.io/anagram-hunt",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
