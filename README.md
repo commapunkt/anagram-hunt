@@ -4,7 +4,7 @@ A React Native word game where players find sub-words from a seed word within a 
 
 ## Live Demo
 
-🌐 **Play the game online**: [https://commapunkt.github.io/anagram-hunt](https://commapunkt.github.io/anagram-hunt)
+🌐 **Play the game online**: [https://commapunkt.com/anagram-hunt](https://commapunkt.com/anagram-hunt)
 
 ## Features
 
@@ -18,7 +18,7 @@ A React Native word game where players find sub-words from a seed word within a 
 
 ## Dev tools
 
-There are a few dev tools, accessible via: [https://commapunkt.github.io/anagram-hunt?devtools=true](https://commapunkt.github.io/anagram-hunt?devtools=true)
+There are a few dev tools, accessible via: [https://commapunkt.com/anagram-hunt?devtools=true](https://commapunkt.com/anagram-hunt?devtools=true)
 
 ## Automatic Deployment
 
@@ -26,7 +26,7 @@ This app is automatically deployed to GitHub Pages on every push to the main bra
 
 1. **Builds** the web version using Expo
 2. **Deploys** to GitHub Pages automatically
-3. **Updates** the live demo at [https://commapunkt.github.io/anagram-hunt](https://commapunkt.github.io/anagram-hunt)
+3. **Updates** the live demo at [https://commapunkt.com/anagram-hunt](https://commapunkt.com/anagram-hunt)
 
 ## Installation
 
