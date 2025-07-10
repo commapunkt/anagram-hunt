@@ -1,0 +1,3352 @@
+{
+  "seed_word": "TAGESSTRUKTUR",
+  "words_length_count": {
+    "3": 73,
+    "4": 132,
+    "5": 173,
+    "6": 136,
+    "7": 98,
+    "8": 38,
+    "9": 14,
+    "10": 1,
+    "11": 1,
+    "13": 1
+  },
+  "words_list": [
+    {
+      "word": "Tagesstruktur",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Gasstruktur",
+      "estimated_uncommonness": 4,
+      "combined_score": 830
+    },
+    {
+      "word": "Startkurse",
+      "estimated_uncommonness": 4,
+      "combined_score": 710
+    },
+    {
+      "word": "Kurgastes",
+      "estimated_uncommonness": 4,
+      "combined_score": 661
+    },
+    {
+      "word": "Tageskurs",
+      "estimated_uncommonness": 4,
+      "combined_score": 661
+    },
+    {
+      "word": "Tragekurs",
+      "estimated_uncommonness": 4,
+      "combined_score": 661
+    },
+    {
+      "word": "Startkurs",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "erstarkst",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "kraustest",
+      "estimated_uncommonness": 4,
+      "combined_score": 625
+    },
+    {
+      "word": "Kurstage",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Ratskrug",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "gekraust",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "gestakst",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "gurktest",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "kargster",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "kargstes",
+      "estimated_uncommonness": 4,
+      "combined_score": 576
+    },
+    {
+      "word": "Ratsgutes",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Streuguts",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Trugratte",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "austrugst",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "graustest",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Struktur",
+      "estimated_uncommonness": 3,
+      "combined_score": 540
+    },
+    {
+      "word": "erstarkt",
+      "estimated_uncommonness": 3,
+      "combined_score": 540
+    },
+    {
+      "word": "karrtest",
+      "estimated_uncommonness": 3,
+      "combined_score": 540
+    },
+    {
+      "word": "krausest",
+      "estimated_uncommonness": 3,
+      "combined_score": 540
+    },
+    {
+      "word": "kraustet",
+      "estimated_uncommonness": 3,
+      "combined_score": 540
+    },
+    {
+      "word": "Erststart",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "ausstreut",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "starrtest",
+      "estimated_uncommonness": 3,
+      "combined_score": 519
+    },
+    {
+      "word": "Kurgast",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Kurstag",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Kurtage",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Sektgut",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "gekarrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "gestakt",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "gestukt",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "kargste",
+      "estimated_uncommonness": 3,
+      "combined_score": 491
+    },
+    {
+      "word": "Streugut",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "austrugt",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "ergraust",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "ertrugst",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "gestarrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "geurasst",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "grastest",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "grausest",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "graustet",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "grautest",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "saugtest",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "sauguter",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "saugutes",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "taugtest",
+      "estimated_uncommonness": 3,
+      "combined_score": 470
+    },
+    {
+      "word": "Akteurs",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Karstes",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Kraters",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Krauter",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Krautes",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Kreatur",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Kursart",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Kutters",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Traktes",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Traktur",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Tretakt",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "karrtet",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "kauerst",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "kautest",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "krasser",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "krauser",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "krauses",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "krauste",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "stakest",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "starker",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "starkes",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "taktest",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Erststau",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "Starters",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "Statutes",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "ratterst",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "starrste",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "starrtet",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "startest",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "stautest",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "sturster",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "surrtest",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "trauerst",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "trautest",
+      "estimated_uncommonness": 2,
+      "combined_score": 434
+    },
+    {
+      "word": "Kruges",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Kuguar",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "gekaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "gekurt",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "gurkst",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "gurkte",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "karger",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "karges",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Auguste",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Augusts",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Ersttag",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Ertrags",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Gastest",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Gatters",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Gussart",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Ratsgut",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Restgas",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Restgut",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Saugers",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Targets",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Testgas",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Testtag",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "austrug",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "ergraut",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "ertragt",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "ertrugt",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "gesaust",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "gestaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "gesurrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "getraut",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "grasest",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "grastet",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "grauste",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "grautet",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "gurtest",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "ragtest",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "sagtest",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "saugtet",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "saugute",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "tagtest",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "taugtet",
+      "estimated_uncommonness": 2,
+      "combined_score": 385
+    },
+    {
+      "word": "Akteur",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Karsts",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Katers",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Krater",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Krause",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Krauss",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Krauts",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Kretas",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Kruste",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Kurses",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Kursus",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Kutter",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Rekrut",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Rekurs",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Skater",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Skates",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Staket",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Steaks",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Taktes",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Tektur",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Trakte",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Trakts",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Ukasse",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "akuter",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "akutes",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "karrst",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "karrte",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "kauert",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "kautet",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "krasse",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "krause",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "kraust",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "stakst",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "stakte",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "starke",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "taktet",
+      "estimated_uncommonness": 3,
+      "combined_score": 371
+    },
+    {
+      "word": "Arrests",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "Erstart",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "Erstrat",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "Rasters",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "Restart",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "Sartres",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "Starter",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "Statuts",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "Stuarts",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "Tasters",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "Testart",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "rarstes",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "rastert",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "rastest",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "rattert",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "rauster",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "raustes",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "rautest",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "saustet",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "sautest",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "starres",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "starrst",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "starrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "startet",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "stautet",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "streust",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "sturste",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "surrtet",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "tastest",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "tautest",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "tratest",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "trauert",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "trauter",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "trautes",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "trautet",
+      "estimated_uncommonness": 2,
+      "combined_score": 349
+    },
+    {
+      "word": "Gurke",
+      "estimated_uncommonness": 3,
+      "combined_score": 321
+    },
+    {
+      "word": "Krugs",
+      "estimated_uncommonness": 3,
+      "combined_score": 321
+    },
+    {
+      "word": "gurkt",
+      "estimated_uncommonness": 3,
+      "combined_score": 321
+    },
+    {
+      "word": "karge",
+      "estimated_uncommonness": 3,
+      "combined_score": 321
+    },
+    {
+      "word": "August",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Erguss",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Ertrag",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Gaster",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Gastes",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Gatter",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Gestus",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Grases",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Grates",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Sarges",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Sauger",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Target",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Tuareg",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "ertrug",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "gerast",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "geraut",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "gesaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "getaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "graste",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "grauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "graues",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "grause",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "graust",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "graute",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "gurrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "gurtet",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "guttat",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "guttut",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "ragtet",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "sagtet",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "saugst",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "saugte",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "saugut",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "tagtet",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "taugst",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "taugte",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "trugst",
+      "estimated_uncommonness": 2,
+      "combined_score": 300
+    },
+    {
+      "word": "Aktes",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Arkus",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Asket",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Askus",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Karre",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Karst",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Karte",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kasse",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kaste",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kasus",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kater",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kaute",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kraus",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kraut",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kreta",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kruse",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kurse",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kurts",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Kutte",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Rauke",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Sekts",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Skats",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Steak",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Stuka",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Takts",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Tasks",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Trakt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Turku",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "akute",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "karre",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "karrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "kaust",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "kaute",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "krass",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "kraus",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "kurst",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "skate",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "stakt",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "stark",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "takte",
+      "estimated_uncommonness": 2,
+      "combined_score": 286
+    },
+    {
+      "word": "Arrest",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Attest",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Auster",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Raseur",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Raster",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Rauert",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Sartre",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Sauser",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Starts",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Statue",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Statur",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Status",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Statut",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Stauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Stuart",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Tartus",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Taster",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Taurus",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Testat",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Trasse",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Tratte",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Trauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Trusts",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Uterus",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "rarste",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "rasest",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "rastet",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "rattre",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "rauste",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "rautet",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "satter",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "sattes",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "saurer",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "saures",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "sauste",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "sautet",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "starre",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "starrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "starte",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "statte",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "staust",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "staute",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "streut",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "sturer",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "stures",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "surrst",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "surrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "tastet",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "tatest",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "tautet",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "tratet",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "tratst",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "traust",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "traute",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "tutest",
+      "estimated_uncommonness": 2,
+      "combined_score": 265
+    },
+    {
+      "word": "Krug",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "karg",
+      "estimated_uncommonness": 2,
+      "combined_score": 236
+    },
+    {
+      "word": "Argus",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Auges",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Augur",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Ertag",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Gases",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Gasse",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Gates",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Gatte",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Gatts",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Geras",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Gerts",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Gesas",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Grass",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Grate",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Grats",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Graus",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Greta",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Gurte",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Gurus",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Guter",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Gutes",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Sager",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Sargs",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Stage",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Stegs",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Tages",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Trage",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "arger",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "arges",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "garer",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "gares",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "garte",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "grase",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "grast",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "graue",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "graut",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "gurrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "gurte",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "guter",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "gutes",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "ragst",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "ragte",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "regst",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "sagst",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "sagte",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "sauge",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "saugt",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "tagst",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "tagte",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "tauge",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "taugt",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "trage",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "tragt",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "trugt",
+      "estimated_uncommonness": 2,
+      "combined_score": 215
+    },
+    {
+      "word": "Akte",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Akts",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Akut",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Arke",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Kart",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Kate",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Kaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Kues",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Kurs",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Kurt",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Kuss",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Sake",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Sekt",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Skat",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Takt",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Task",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Teak",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Ukas",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Uruk",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "akut",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "kaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "kaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "kess",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "stak",
+      "estimated_uncommonness": 2,
+      "combined_score": 201
+    },
+    {
+      "word": "Artur",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Artus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Asser",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Asset",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Aster",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Astes",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Esaus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Etats",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Raser",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rasse",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rasur",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rates",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Ratte",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Raute",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rests",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Russe",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Rutte",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Satte",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Sauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Sause",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Stare",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Stars",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Start",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Staus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Streu",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Stute",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tarte",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tartu",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Taser",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tasse",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Taste",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Taues",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Terra",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tessa",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tests",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Trass",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Trust",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Trute",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Turas",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tusse",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tutte",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Tutus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Ursus",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "Users",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "artet",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "rares",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "raste",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "ratet",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "rauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "raues",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "raust",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "raute",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "satte",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "sauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "saure",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "sause",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "saust",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "saute",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "starr",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "statt",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "staue",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "staut",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "stets",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "streu",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "sture",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "surre",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "surrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "taste",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "tatet",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "tatst",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "taust",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "taute",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "traue",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "traut",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "tutet",
+      "estimated_uncommonness": 2,
+      "combined_score": 180
+    },
+    {
+      "word": "EKG",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Auge",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "EStG",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "GAUs",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gase",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gast",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gate",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gatt",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gaur",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gera",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gert",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gesa",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gest",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Geta",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gras",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Grat",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Gurt",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Guru",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Guss",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Guts",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Rage",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Sage",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Sarg",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Stag",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Steg",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Tage",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Trug",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "UStG",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "arge",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "gare",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "gart",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "grau",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "gute",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "rage",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "ragt",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "regt",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "sage",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "sagt",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "saug",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "tage",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "tags",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "tagt",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "trag",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "trug",
+      "estimated_uncommonness": 2,
+      "combined_score": 130
+    },
+    {
+      "word": "Akt",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Erk",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "KRA",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Kar",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Kat",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Kea",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Kur",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Ska",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "USK",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Uke",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "kau",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "sek",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "tak",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Ares",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Asse",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Auer",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "East",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Esau",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Esra",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Etat",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "REST",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Rast",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Rate",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Rats",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Rest",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Rute",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "SARS",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Saus",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Seat",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Sets",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Star",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Stau",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Ster",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "SuSE",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Sure",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Susa",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Suse",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Tatt",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Test",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Tutu",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "UART",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "USSR",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Urat",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Urea",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Urte",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "User",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Usus",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Utas",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Utes",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "Utta",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "arte",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "erst",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "esst",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "rare",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "rase",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "rast",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "rate",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "raue",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "raus",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "raut",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "reut",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "satt",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "saue",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "saut",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "sers",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "stet",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "stur",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "taue",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "taut",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "trat",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "trau",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "treu",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "tust",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "tute",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "urst",
+      "estimated_uncommonness": 1,
+      "combined_score": 95
+    },
+    {
+      "word": "AEG",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "AGs",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Arg",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Aug",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "GAU",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "GTA",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "GUS",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Gas",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Gau",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Ger",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Ges",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Gut",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Rag",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "SRG",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Tag",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "arg",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "gar",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "gut",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "reg",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "sag",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "ATU",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ars",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Art",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ase",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ass",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ast",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ESA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ETA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "EUR",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "RSS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ras",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "SAS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Set",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sur",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TUS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TuS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "USA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "USS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Urs",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Uta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ute",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "aus",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "rar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "sue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tut",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
