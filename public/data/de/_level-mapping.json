@@ -1,8 +1,77 @@
 {
   "1": {
-    "seed_words": ["abfallentsorgung.json"]
+    "seed_words": ["vereinsmitgliedschaft.json", "personalabteilung.json", "lebensabschnittspartnerin.json", "abwesenheitsmeldung.json"]
   },
   "2": {
-    "seed_words": ["blitzableiter.json"]
+    "seed_words": ["fremdsprachenkenntnisse.json", "sitzplatzreservierung.json", "fahrradverleihstation.json", "weihnachtsdekoration.json"]
+  },
+  "3": {
+    "seed_words": ["naturschutzgebiet.json", "entwicklungsabteilung.json", "strassenverkehrsordnung.json", "verabredungszeit.json"]
+  },
+  "4": {
+    "seed_words": ["lautsprecherboxen.json", "studienberatung.json", "terminverschiebung.json", "rettungshubschrauber.json"]
+  },
+  "5": {
+    "seed_words": ["sportveranstaltung.json", "abfallentsorgung.json", "krankheitsausfall.json", "gesundheitsvorsorge.json"]
+  },
+  "6": {
+    "seed_words": ["weltmeisterschaft.json", "fahrgemeinschaft.json", "entscheidungshilfe.json", "schreibtischlampe.json"]
+  },
+  "7": {
+    "seed_words": ["beratungsstelle.json", "haushaltskalender.json", "bastelanleitung.json", "hochzeitsgesellschaft.json"]
+  },
+  "8": {
+    "seed_words": ["einkaufsgewohnheiten.json", "heizungsmonteur.json", "geburtstagsfeier.json", "schulferienbeginn.json"]
+  },
+  "9": {
+    "seed_words": ["nachhilfeunterricht.json", "lebensversicherung.json", "zahlungserinnerung.json", "anmeldefrist.json"]
+  },
+  "10": {
+    "seed_words": ["sachbearbeiterin.json", "auslandssemester.json", "telefonanschluss.json", "bildungsministerin.json"]
+  },
+  "11": {
+    "seed_words": ["schaufensterpuppe.json", "elterninformation.json", "kundenbetreuer.json", "energiesparlampe.json"]
+  },
+  "12": {
+    "seed_words": ["lebensmittelpunkt.json", "mitarbeiterliste.json", "wertstoffsammelstelle.json", "unfallbericht.json"]
+  },
+  "13": {
+    "seed_words": ["hochgeschwindigkeit.json", "gebrauchtwagen.json", "wahrheitsgehalt.json", "wohnungsbesichtigung.json"]
+  },
+  "14": {
+    "seed_words": ["stellenangebot.json", "anmeldeformular.json", "teilnahmepflicht.json", "kleiderordnung.json"]
+  },
+  "15": {
+    "seed_words": ["arbeitsvertrag.json", "fluggesellschaft.json", "berufserfahrung.json", "familienstand.json"]
+  },
+  "16": {
+    "seed_words": ["wartelisten.json", "ankunftshalle.json", "toilettenpapier.json", "verkehrsmittel.json"]
+  },
+  "17": {
+    "seed_words": ["nachmittagsschlaf.json", "projektleiterin.json", "lernzielkontrolle.json", "stromrechnung.json"]
+  },
+  "18": {
+    "seed_words": ["wochenenddienst.json", "autobahnausfahrt.json", "wohnzimmerwand.json", "perlentaucher.json"]
+  },
+  "19": {
+    "seed_words": ["lichtschalter.json", "wintergarten.json", "kopfkissenbezug.json", "fensterrahmen.json"]
+  },
+  "20": {
+    "seed_words": ["zahnarzttermin.json", "lernplattform.json", "wanderschuhe.json", "bezahlvorgang.json"]
+  },
+  "21": {
+    "seed_words": ["mietnebenkosten.json", "krankenkassenkarte.json", "kaffeemaschine.json", "blitzableiter.json"]
+  },
+  "22": {
+    "seed_words": ["tagesstruktur.json", "ferienhaus.json", "stundenplan.json", "waschmaschine.json"]
+  },
+  "23": {
+    "seed_words": ["parkhausausfahrt.json", "sichtweisen.json", "kindergeld.json", "hotelzimmer.json"]
+  },
+  "24": {
+    "seed_words": ["wasserkocher.json", "urlaubsplanung.json", "freizeitpark.json", "hausaufgaben.json"]
+  },
+  "25": {
+    "seed_words": ["enkelkinder.json", "kanonenkugel.json", "fussballfeld.json", "bahnhofsuhr.json"]
   }
 }
