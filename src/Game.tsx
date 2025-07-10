@@ -90,8 +90,9 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
   const [levelCompletionButtonText, setLevelCompletionButtonText] = useState('');
   
   const gameStateRef = useRef<any>(null);
-  const savedSeedWordFileRef = useRef<string>('');
-  const lastLoadedDataRef = useRef<{level: number, seedWordFile: string} | null>(null);
+  const savedSeedWordFileRef = useRef<string | null>(null);
+  const savedSeedWordLevelRef = useRef<number | null>(null);
+  const lastLoadedDataRef = useRef<{ level: number; seedWordFile: string } | null>(null);
   
   useEffect(() => {
     gameStateRef.current = {
@@ -118,7 +119,9 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
 
   const clearSavedSeedWordFile = useCallback(() => {
     console.log('Clearing savedSeedWordFileRef.current');
-    savedSeedWordFileRef.current = '';
+    savedSeedWordFileRef.current = null;
+    console.log('Clearing savedSeedWordLevelRef.current');
+    savedSeedWordLevelRef.current = null;
     console.log('Clearing lastLoadedDataRef.current');
     lastLoadedDataRef.current = null;
   }, []);
@@ -310,7 +313,9 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
       
       // Store the selected seed word file before clearing the state
       savedSeedWordFileRef.current = currentGameState.selectedSeedWordFile;
+      savedSeedWordLevelRef.current = currentGameState.level;
       console.log('savedSeedWordFileRef.current set to:', savedSeedWordFileRef.current);
+      console.log('savedSeedWordLevelRef.current set to:', savedSeedWordLevelRef.current);
       clearCurrentGameState();
       console.log('Current game state cleared');
       
@@ -399,6 +404,7 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
       
       // Check if we have a saved seed word file for this level (from resuming)
       const savedSeedWordFile = savedSeedWordFileRef.current;
+      const savedSeedWordLevel = savedSeedWordLevelRef.current;
       
       // Check if we've already loaded this exact combination
       const dataKey = { level: levelToLoad, seedWordFile: savedSeedWordFile || 'random' };
@@ -413,27 +419,26 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
         return;
       }
       
-      // If we're resuming and have a saved seed word file, use it
-      if (isResumingGame && savedSeedWordFile) {
-        console.log('LOADING: Resuming with saved seed word file:', savedSeedWordFile);
-        loadData(levelToLoad, savedSeedWordFile);
-        lastLoadedDataRef.current = dataKey;
-      } else if (savedSeedWordFile) {
-        // We have a saved seed word file but we're not in resuming mode
-        // This means we're in a resumed game session - use the saved seed word file
-        console.log('LOADING: Resumed game session - using saved seed word file:', savedSeedWordFile);
+      // If we're resuming the same level and have a saved seed word file, use it
+      if (isResumingGame && savedSeedWordFile && savedSeedWordLevel === levelToLoad) {
+        console.log('LOADING: Resuming same level - using saved seed word file:', savedSeedWordFile);
         loadData(levelToLoad, savedSeedWordFile);
         lastLoadedDataRef.current = dataKey;
       } else if (!isResumingGame && !savedSeedWordFile) {
-        // Only load data for non-resuming cases (new games, replaying levels)
-        // AND when we don't have a saved seed word file
-        console.log('LOADING: New game/replay - loading random seed word');
+        // We're not resuming and don't have a saved seed word file (new game, next level, replay level) - load random seed word
+        console.log('LOADING: New game/next level/replay - loading random seed word');
         loadData(levelToLoad);
         lastLoadedDataRef.current = dataKey;
       } else {
         console.log('SKIPPING LOAD:');
         if (isResumingGame && !savedSeedWordFile) {
           console.log('- Resuming but no saved seed word file');
+        } else if (isResumingGame && savedSeedWordLevel !== levelToLoad) {
+          console.log('- Resuming but saved seed word is for different level:', savedSeedWordLevel, 'vs', levelToLoad);
+        } else if (isResumingGame && savedSeedWordFile && savedSeedWordLevel === levelToLoad) {
+          console.log('- Resuming but waiting for isResumingGame to be properly set');
+        } else if (!isResumingGame && savedSeedWordFile) {
+          console.log('- Not resuming but have saved seed word file - waiting for resume setup to complete');
         }
       }
       // If we're resuming but don't have a saved seed word file, don't load anything
@@ -487,22 +492,36 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
     console.log('isResumingGame:', isResumingGame);
     console.log('isLoading:', isLoading);
     console.log('savedSeedWordFileRef.current:', savedSeedWordFileRef.current);
+    console.log('seedWord:', seedWord);
     
-    if (isResumingGame && !isLoading) {
-      console.log('Setting timer to finish resuming mode...');
-      const timer = setTimeout(() => {
-        console.log('Timer fired - setting isResumingGame to false');
-        setIsResumingGame(false);
-        // Don't clear the saved seed word file ref - keep it for the entire resumed game session
-        // This prevents the second load with a random word
-        console.log('Keeping savedSeedWordFileRef.current:', savedSeedWordFileRef.current);
-      }, 300);
-      return () => {
-        console.log('Clearing timer');
-        clearTimeout(timer);
-      };
+    // Only finish resuming mode if:
+    // 1. We're in resuming mode
+    // 2. We're not loading anymore
+    // 3. We have a seed word (data has been loaded)
+    // 4. The seed word matches the saved seed word file (to ensure we loaded the right data)
+    if (isResumingGame && !isLoading && seedWord) {
+      const savedSeedWordFile = savedSeedWordFileRef.current;
+      const savedSeedWordLevel = savedSeedWordLevelRef.current;
+      
+      // Check if we loaded the correct seed word file
+      if (savedSeedWordFile && selectedSeedWordFile === savedSeedWordFile) {
+        console.log('Data loaded successfully with saved seed word file, finishing resuming mode...');
+        const timer = setTimeout(() => {
+          console.log('Timer fired - setting isResumingGame to false');
+          setIsResumingGame(false);
+          // Don't clear the saved seed word file ref - keep it for the entire resumed game session
+          console.log('Keeping savedSeedWordFileRef.current:', savedSeedWordFileRef.current);
+        }, 300);
+        return () => {
+          console.log('Clearing timer');
+          clearTimeout(timer);
+        };
+      } else {
+        console.log('Waiting for correct seed word file to be loaded...');
+        console.log('Expected:', savedSeedWordFile, 'Actual:', selectedSeedWordFile);
+      }
     }
-  }, [isResumingGame, isLoading]);
+  }, [isResumingGame, isLoading, seedWord, selectedSeedWordFile]);
 
   // Check for new best score
   useEffect(() => {
@@ -727,6 +746,13 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
     
     // Go to the next unplayed level
     console.log('handleNextLevel - going to next unplayed level:', nextUnplayedLevel);
+    
+    // Clear the saved seed word file since it belongs to the previous level
+    console.log('Clearing saved seed word file for new level');
+    savedSeedWordFileRef.current = null;
+    savedSeedWordLevelRef.current = null;
+    lastLoadedDataRef.current = null;
+    
     setFoundWords([]);
     setScore(0);
     setTimeLeft(GAME_CONFIG.TIME_LIMIT);
@@ -844,16 +870,21 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
             <Text style={styles.newBestScoreLabel}>🏆 NEW BEST!</Text>
           )}
         </View>
-        <Text style={styles.timerText}>{formatTime(timeLeft)}</Text>
-        <View style={styles.headerButtons}>
-          <TouchableOpacity style={styles.historyButton} onPress={handleShowHistory}>
-            <Text style={styles.historyButtonText}>📈</Text>
-          </TouchableOpacity>
-          {onPause && (
-            <TouchableOpacity style={styles.pauseButton} onPress={onPause}>
-              <Text style={styles.pauseButtonText}>⏸</Text>
+        <Text style={styles.levelText}>
+          {t('game.level', language, { level: currentLevel })}
+        </Text>
+        <View style={styles.timerAndButtons}>
+          <View style={styles.headerButtons}>
+            <TouchableOpacity style={styles.historyButton} onPress={handleShowHistory}>
+              <Text style={styles.historyButtonText}>📈</Text>
             </TouchableOpacity>
-          )}
+            {onPause && (
+              <TouchableOpacity style={styles.pauseButton} onPress={onPause}>
+                <Text style={styles.pauseButtonText}>⏸</Text>
+              </TouchableOpacity>
+            )}
+          </View>
+          <Text style={styles.timerText}>{formatTime(timeLeft)}</Text>
         </View>
       </View>
 
@@ -936,6 +967,7 @@ const styles = StyleSheet.create({
     color: '#FFD700',
     fontSize: 22,
     fontWeight: 'bold',
+    marginTop: 10,
   },
   header: {
     width: '100%',
@@ -961,6 +993,15 @@ const styles = StyleSheet.create({
     fontSize: 12,
     fontWeight: 'bold',
     marginTop: 2,
+  },
+  levelText: {
+    color: '#fff',
+    fontSize: 18,
+    fontWeight: 'bold',
+    textAlign: 'center',
+  },
+  timerAndButtons: {
+    alignItems: 'flex-end',
   },
   headerButtons: {
     flexDirection: 'row',
