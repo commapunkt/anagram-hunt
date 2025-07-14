@@ -25,6 +25,9 @@ jobs:
       
     - name: Build web app
       run: npx expo export --platform web
+
+    - name: Add custom domain
+      run: echo "anagramhunt.commapunkt.com" > ./dist/CNAME
       
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v4
