@@ -798,6 +798,7 @@ export default function Game({ language, isResuming, onPause, onPlayAgain, start
         onClose={() => setBonusInfo(null)}
         title={bonusInfo?.title || ''}
         description={bonusInfo?.description || ''}
+        language={language}
       />
 
       <ScoreHistoryModal
@@ -950,7 +951,7 @@ const styles = StyleSheet.create({
   },
   seedWordText: {
     color: '#fff',
-    fontSize: 32,
+    fontSize: 24,
     fontWeight: 'bold',
     letterSpacing: 2,
     textAlign: 'center',
@@ -1013,6 +1014,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 12,
     paddingVertical: 8,
     borderRadius: 6,
+    justifyContent: 'center',
   },
   historyButtonText: {
     color: '#fff',
@@ -1024,6 +1026,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 12,
     paddingVertical: 8,
     borderRadius: 6,
+    justifyContent: 'center',
   },
   pauseButtonText: {
     color: '#fff',
@@ -1117,6 +1120,7 @@ const styles = StyleSheet.create({
     paddingVertical: 10,
     paddingHorizontal: 30,
     borderRadius: 8,
+    justifyContent: 'center',
   },
   nextLevelButtonText: {
     color: '#fff',

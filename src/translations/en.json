@@ -38,10 +38,20 @@
         "playLevelAgain": "Play Again",
         "startOver": "Start Over",
         "startOverConfirm": "Are you sure? All progress will be lost.",
+        "confirmStartOverMessage": "Are you sure? All previously played levels will be lost",
         "seeScores": "See Scores",
         "newHighScore": "🏆 New High Score!",
         "previousScoreKept": "Previous high score kept: {score}",
-        "ok": "OK"
+        "ok": "OK",
+        "gamePaused": "Game Paused",
+        "savedGameInProgress": "You have a saved game in progress.",
+        "resumeGame": "Resume Game",
+        "history": "📈 History",
+        "restartLevel": "Restart Level",
+        "cancel": "Cancel",
+        "playLevelAgainTitle": "Play Level Again",
+        "playLevelAgainConfirm": "Start a new attempt for Level {level}?",
+        "gotIt": "Got it!"
     },
     "splash": {
         "title": "Anagram Hunt",
@@ -49,7 +59,9 @@
         "rule1": "You'll get a seed word and 5 minutes on the clock.",
         "rule2": "Find as many words as you can using only the letters from the seed word.",
         "rule3": "Look for bonuses to get extra points!",
-        "startGame": "Start Game"
+        "startGame": "Start Game",
+        "presents": "Presents",
+        "resumeGame": "Resume Game"
     },
     "bonus": {
         "streakTitle": "Streak Bonus",

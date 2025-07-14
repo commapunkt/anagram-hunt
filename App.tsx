@@ -1,12 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, Text, View, Button, TouchableOpacity, Alert, Modal } from 'react-native';
 import { Platform } from 'react-native';
-import Game from './src/Game';
-import DevToolsScreen from './src/screens/DevToolsScreen';
 import SplashScreen from './src/screens/SplashScreen';
+import DevToolsScreen from './src/screens/DevToolsScreen';
+import Game from './src/Game';
 import ScoreHistoryModal from './src/components/ScoreHistoryModal';
 import { Language } from './src/types';
 import { loadCurrentGameState, clearCurrentGameState, clearGameProgress, loadGameProgress, GameProgress } from './src/utils/storage';
+import { t } from './src/utils/translations';
 
 type GameState = 'splash' | 'playing' | 'devtools' | 'paused';
 
@@ -148,20 +149,21 @@ export default function App() {
             case 'paused':
                 return (
                     <View style={styles.pausedContainer}>
-                        <Text style={styles.pausedTitle}>Game Paused</Text>
-                        <Text style={styles.pausedText}>You have a saved game in progress.</Text>
+                        <Text style={styles.pausedTitle}>{t('game.gamePaused', language)}</Text>
+                        <Text style={styles.pausedText}>{t('game.savedGameInProgress', language)}</Text>
+                        
                         <View style={styles.pausedButtons}>
                             <TouchableOpacity style={styles.resumeButton} onPress={handleResumeGame}>
-                                <Text style={styles.buttonText}>Resume Game</Text>
+                                <Text style={styles.buttonText}>{t('game.resumeGame', language)}</Text>
                             </TouchableOpacity>
                             <TouchableOpacity style={styles.historyButton} onPress={handleShowHistory}>
-                                <Text style={styles.buttonText}>📈 History</Text>
+                                <Text style={styles.buttonText}>{t('game.history', language)}</Text>
                             </TouchableOpacity>
                             <TouchableOpacity style={styles.restartLevelButton} onPress={handleRestartLevel}>
-                                <Text style={styles.buttonText}>Restart Level</Text>
+                                <Text style={styles.buttonText}>{t('game.restartLevel', language)}</Text>
                             </TouchableOpacity>
                             <TouchableOpacity style={styles.startOverButton} onPress={handleStartOver}>
-                                <Text style={styles.buttonText}>Start Over</Text>
+                                <Text style={styles.buttonText}>{t('game.startOver', language)}</Text>
                             </TouchableOpacity>
                         </View>
                     </View>
@@ -210,14 +212,14 @@ export default function App() {
             >
                 <View style={styles.modalOverlay}>
                     <View style={styles.confirmDialog}>
-                        <Text style={styles.confirmTitle}>Start Over</Text>
-                        <Text style={styles.confirmMessage}>Are you sure? All previously played levels will be lost</Text>
+                        <Text style={styles.confirmTitle}>{t('game.startOver', language)}</Text>
+                        <Text style={styles.confirmMessage}>{t('game.confirmStartOverMessage', language)}</Text>
                         <View style={styles.confirmButtons}>
                             <TouchableOpacity style={styles.cancelButton} onPress={handleCancelStartOver}>
-                                <Text style={styles.buttonText}>Cancel</Text>
+                                <Text style={styles.buttonText}>{t('game.cancel', language)}</Text>
                             </TouchableOpacity>
                             <TouchableOpacity style={styles.confirmButton} onPress={handleConfirmStartOver}>
-                                <Text style={styles.buttonText}>Start Over</Text>
+                                <Text style={styles.buttonText}>{t('game.startOver', language)}</Text>
                             </TouchableOpacity>
                         </View>
                     </View>
@@ -416,6 +418,7 @@ const styles = StyleSheet.create({
         backgroundColor: '#2196F3',
         padding: 15,
         borderRadius: 5,
+        justifyContent: 'center',
     },
     playAgainButtonText: {
         color: '#fff',
@@ -427,6 +430,7 @@ const styles = StyleSheet.create({
         padding: 15,
         borderRadius: 5,
         marginLeft: 10,
+        justifyContent: 'center',
     },
     nextLevelButtonText: {
         color: '#fff',
@@ -498,12 +502,14 @@ const styles = StyleSheet.create({
         borderRadius: 8,
         minWidth: 120,
         alignItems: 'center',
+        justifyContent: 'center',
     },
     newGameButton: {
         backgroundColor: '#2196F3',
         paddingHorizontal: 20,
         paddingVertical: 12,
         borderRadius: 8,
+        justifyContent: 'center',
     },
     startOverButton: {
         backgroundColor: '#D32F2F',
@@ -512,6 +518,7 @@ const styles = StyleSheet.create({
         borderRadius: 8,
         minWidth: 120,
         alignItems: 'center',
+        justifyContent: 'center',
     },
     restartLevelButton: {
         backgroundColor: '#2196F3',
@@ -520,6 +527,7 @@ const styles = StyleSheet.create({
         borderRadius: 8,
         minWidth: 120,
         alignItems: 'center',
+        justifyContent: 'center',
     },
     historyButton: {
         backgroundColor: '#4CAF50',
@@ -528,6 +536,7 @@ const styles = StyleSheet.create({
         borderRadius: 8,
         minWidth: 120,
         alignItems: 'center',
+        justifyContent: 'center',
     },
     modalOverlay: {
         flex: 1,
@@ -565,12 +574,14 @@ const styles = StyleSheet.create({
         paddingHorizontal: 20,
         paddingVertical: 12,
         borderRadius: 8,
+        justifyContent: 'center',
     },
     confirmButton: {
         backgroundColor: '#D32F2F',
         paddingHorizontal: 20,
         paddingVertical: 12,
         borderRadius: 8,
+        justifyContent: 'center',
     },
     buttonText: {
         color: '#fff',

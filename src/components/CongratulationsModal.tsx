@@ -131,7 +131,7 @@ export default function CongratulationsModal({
                 style={styles.cancelButton} 
                 onPress={() => setShowConfirmDialog(false)}
               >
-                <Text style={styles.buttonText}>Cancel</Text>
+                <Text style={styles.buttonText}>{t('game.cancel', language)}</Text>
               </TouchableOpacity>
               <TouchableOpacity 
                 style={styles.confirmButton} 
@@ -155,16 +155,16 @@ export default function CongratulationsModal({
       >
         <View style={styles.modalContainer}>
           <View style={styles.confirmDialog}>
-            <Text style={styles.confirmTitle}>Play Level Again</Text>
+            <Text style={styles.confirmTitle}>{t('game.playLevelAgainTitle', language)}</Text>
             <Text style={styles.confirmMessage}>
-              Start a new attempt for Level {selectedLevel}?
+              {selectedLevel ? t('game.playLevelAgainConfirm', language, { level: selectedLevel }) : ''}
             </Text>
             <View style={styles.confirmButtons}>
               <TouchableOpacity 
                 style={styles.cancelButton} 
                 onPress={() => setShowRetryConfirmDialog(false)}
               >
-                <Text style={styles.buttonText}>Cancel</Text>
+                <Text style={styles.buttonText}>{t('game.cancel', language)}</Text>
               </TouchableOpacity>
               <TouchableOpacity 
                 style={styles.confirmButton} 
@@ -175,7 +175,7 @@ export default function CongratulationsModal({
                   }
                 }}
               >
-                <Text style={styles.buttonText}>Play Again</Text>
+                <Text style={styles.buttonText}>{t('game.playLevelAgain', language)}</Text>
               </TouchableOpacity>
             </View>
           </View>
@@ -293,6 +293,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 30,
     borderRadius: 10,
     alignItems: 'center',
+    justifyContent: 'center',
   },
   playAgainButtonText: {
     color: '#fff',
@@ -319,6 +320,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 30,
     borderRadius: 10,
     alignItems: 'center',
+    justifyContent: 'center',
   },
   startOverButtonText: {
     color: '#fff',
@@ -355,12 +357,14 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     paddingHorizontal: 20,
     borderRadius: 8,
+    justifyContent: 'center',
   },
   confirmButton: {
     backgroundColor: '#FF6B35',
     paddingVertical: 12,
     paddingHorizontal: 20,
     borderRadius: 8,
+    justifyContent: 'center',
   },
   buttonText: {
     color: '#fff',

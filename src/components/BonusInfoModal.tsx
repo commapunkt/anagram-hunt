@@ -1,14 +1,17 @@
 import React from 'react';
 import { View, Text, Modal, StyleSheet, TouchableOpacity } from 'react-native';
+import { Language } from '../types';
+import { t } from '../utils/translations';
 
 interface BonusInfoModalProps {
   isVisible: boolean;
   onClose: () => void;
   title: string;
   description: string;
+  language: Language;
 }
 
-const BonusInfoModal = ({ isVisible, onClose, title, description }: BonusInfoModalProps) => {
+const BonusInfoModal = ({ isVisible, onClose, title, description, language }: BonusInfoModalProps) => {
   return (
     <Modal
       visible={isVisible}
@@ -21,7 +24,7 @@ const BonusInfoModal = ({ isVisible, onClose, title, description }: BonusInfoMod
           <Text style={styles.modalTitle}>{title}</Text>
           <Text style={styles.modalDescription}>{description}</Text>
           <TouchableOpacity style={styles.closeButton} onPress={onClose}>
-            <Text style={styles.closeButtonText}>Got it!</Text>
+            <Text style={styles.closeButtonText}>{t('game.gotIt', language)}</Text>
           </TouchableOpacity>
         </TouchableOpacity>
       </TouchableOpacity>
@@ -66,6 +69,7 @@ const styles = StyleSheet.create({
     paddingVertical: 10,
     paddingHorizontal: 30,
     borderRadius: 8,
+    justifyContent: 'center',
   },
   closeButtonText: {
     color: '#fff',
@@ -74,4 +78,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default BonusInfoModal; 
+export default BonusInfoModal;

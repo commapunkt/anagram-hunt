@@ -109,16 +109,16 @@ export default function ScoreHistoryModal({
       >
         <View style={styles.modalContainer}>
           <View style={styles.confirmDialog}>
-            <Text style={styles.confirmTitle}>Play Level Again</Text>
+            <Text style={styles.confirmTitle}>{t('game.playLevelAgainTitle', language)}</Text>
             <Text style={styles.confirmMessage}>
-              Start a new attempt for Level {selectedLevel}?
+              {selectedLevel ? t('game.playLevelAgainConfirm', language, { level: selectedLevel }) : ''}
             </Text>
             <View style={styles.confirmButtons}>
               <TouchableOpacity 
                 style={styles.cancelButton} 
                 onPress={() => setShowConfirmDialog(false)}
               >
-                <Text style={styles.buttonText}>Cancel</Text>
+                <Text style={styles.buttonText}>{t('game.cancel', language)}</Text>
               </TouchableOpacity>
               <TouchableOpacity 
                 style={styles.confirmButton} 
@@ -130,7 +130,7 @@ export default function ScoreHistoryModal({
                   onClose();
                 }}
               >
-                <Text style={styles.buttonText}>Play Again</Text>
+                <Text style={styles.buttonText}>{t('game.playLevelAgain', language)}</Text>
               </TouchableOpacity>
             </View>
           </View>
@@ -277,12 +277,14 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     paddingHorizontal: 20,
     borderRadius: 8,
+    justifyContent: 'center',
   },
   confirmButton: {
     backgroundColor: '#2196F3',
     paddingVertical: 12,
     paddingHorizontal: 20,
     borderRadius: 8,
+    justifyContent: 'center',
   },
   buttonText: {
     color: '#fff',

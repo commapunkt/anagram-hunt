@@ -38,10 +38,20 @@
         "playLevelAgain": "Noch einmal spielen",
         "startOver": "Von vorne beginnen",
         "startOverConfirm": "Bist du sicher? Der gesamte Fortschritt geht verloren.",
+        "confirmStartOverMessage": "Bist du sicher? Alle zuvor gespielten Level gehen verloren",
         "seeScores": "Punktzahl anzeigen",
         "newHighScore": "🏆 Neue Bestpunktzahl!",
         "previousScoreKept": "Vorherige Bestpunktzahl beibehalten: {score}",
-        "ok": "OK"
+        "ok": "OK",
+        "gamePaused": "Spiel pausiert",
+        "savedGameInProgress": "Sie haben ein gespeichertes Spiel in Bearbeitung.",
+        "resumeGame": "Spiel fortsetzen",
+        "history": "📈 Verlauf",
+        "restartLevel": "Level neu starten",
+        "cancel": "Abbrechen",
+        "playLevelAgainTitle": "Level noch einmal spielen",
+        "playLevelAgainConfirm": "Neuen Versuch für Level {level} starten?",
+        "gotIt": "Verstanden!"
     },
     "splash": {
         "title": "Anagramm Jagd",
@@ -49,7 +59,9 @@
         "rule1": "Du bekommst ein Startwort und 5 Minuten Zeit.",
         "rule2": "Bilde so viele Wörter wie möglich aus den Buchstaben des Startworts.",
         "rule3": "Achte auf Boni für zusätzliche Punkte!",
-        "startGame": "Spiel starten"
+        "startGame": "Spiel starten",
+        "presents": "Präsentiert",
+        "resumeGame": "Spiel fortsetzen"
     },
     "bonus": {
         "streakTitle": "Serienbonus",
