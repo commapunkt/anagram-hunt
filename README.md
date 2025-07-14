@@ -18,7 +18,7 @@ A React Native word game where players find sub-words from a seed word within a 
 
 ## Dev tools
 
-There are a few dev tools, accessible via: [https://anagram-hunt.commapunkt.com?devtools=true](https://anagram-hunt.commapunkt.com?devtools=true)
+There are a few dev tools, accessible via: [https://anagramhunt.commapunkt.com?devtools=true](https://anagramhunt.commapunkt.com?devtools=true)
 
 ## Automatic Deployment
 
