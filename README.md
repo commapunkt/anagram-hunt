@@ -4,7 +4,7 @@ A React Native word game where players find sub-words from a seed word within a 
 
 ## Live Demo
 
-🌐 **Play the game online**: [https://anagram-hunt.commapunkt.com](https://anagram-hunt.commapunkt.com)
+🌐 **Play the game online**: [https://anagramhunt.commapunkt.com](https://anagramhunt.commapunkt.com)
 
 ## Features
 
