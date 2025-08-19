@@ -1,0 +1,4917 @@
+{
+  "seed_word": "ENTSCHEIDUNG",
+  "words_length_count": {
+    "3": 118,
+    "4": 127,
+    "5": 200,
+    "6": 211,
+    "7": 162,
+    "8": 103,
+    "9": 42,
+    "10": 13,
+    "11": 3,
+    "12": 1
+  },
+  "words_list": [
+    {
+      "word": "Entscheidung",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Gutscheinen",
+      "estimated_uncommonness": 5,
+      "combined_score": 910
+    },
+    {
+      "word": "Scheidungen",
+      "estimated_uncommonness": 5,
+      "combined_score": 910
+    },
+    {
+      "word": "Schneidegut",
+      "estimated_uncommonness": 5,
+      "combined_score": 910
+    },
+    {
+      "word": "Dichtungen",
+      "estimated_uncommonness": 4,
+      "combined_score": 819
+    },
+    {
+      "word": "Eigensucht",
+      "estimated_uncommonness": 4,
+      "combined_score": 819
+    },
+    {
+      "word": "Gutscheine",
+      "estimated_uncommonness": 4,
+      "combined_score": 819
+    },
+    {
+      "word": "Schneidgut",
+      "estimated_uncommonness": 4,
+      "combined_score": 819
+    },
+    {
+      "word": "Sichtungen",
+      "estimated_uncommonness": 4,
+      "combined_score": 819
+    },
+    {
+      "word": "geduschten",
+      "estimated_uncommonness": 4,
+      "combined_score": 819
+    },
+    {
+      "word": "geschunden",
+      "estimated_uncommonness": 4,
+      "combined_score": 819
+    },
+    {
+      "word": "Seidentuch",
+      "estimated_uncommonness": 4,
+      "combined_score": 784
+    },
+    {
+      "word": "schindeten",
+      "estimated_uncommonness": 4,
+      "combined_score": 784
+    },
+    {
+      "word": "sichtenden",
+      "estimated_uncommonness": 4,
+      "combined_score": 784
+    },
+    {
+      "word": "tuschenden",
+      "estimated_uncommonness": 4,
+      "combined_score": 784
+    },
+    {
+      "word": "Eichgutes",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Eichungen",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Gedichten",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Gedichtes",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Gutschein",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Inguschen",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Scheidung",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Schienung",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "eugenisch",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "geduschte",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "genetisch",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "geschient",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "geschneit",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "gesuchten",
+      "estimated_uncommonness": 4,
+      "combined_score": 729
+    },
+    {
+      "word": "Gesundheit",
+      "estimated_uncommonness": 4,
+      "combined_score": 713
+    },
+    {
+      "word": "Entscheid",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "Schneiden",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "Steinchen",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "Tischende",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "Tuchenden",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "deutschen",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "entschied",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "scheinend",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "schienend",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "schienten",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "schindete",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "schneiden",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "schneidet",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "schneiend",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "schneiten",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "sichtende",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "suchenden",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "tuschende",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "undichten",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "undichtes",
+      "estimated_uncommonness": 4,
+      "combined_score": 694
+    },
+    {
+      "word": "Hindeutens",
+      "estimated_uncommonness": 3,
+      "combined_score": 678
+    },
+    {
+      "word": "Dichtung",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "Eichsteg",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "Gedichte",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "Gedichts",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "Geschein",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "Gesuchen",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "Gischten",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "Neuching",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "Schengen",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "Sichtung",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "Tesching",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "gedeicht",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "gedeucht",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "geduscht",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "gescheid",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "gescheit",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "gescheut",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "geseicht",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "gesiecht",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "gesuchte",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "schneeig",
+      "estimated_uncommonness": 4,
+      "combined_score": 639
+    },
+    {
+      "word": "Gehstunde",
+      "estimated_uncommonness": 3,
+      "combined_score": 623
+    },
+    {
+      "word": "Chinesen",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Deutsche",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Dichtens",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Dietsche",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Dschenin",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Endchens",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Nestchen",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Neudeich",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Neuteich",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Scheinen",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Scheiten",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Scheunen",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Schienen",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Schneide",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Suchende",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "deutsche",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "ditschen",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "duschten",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "scheiden",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "scheidet",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "scheinen",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "scheuend",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "scheuten",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "schieden",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "schiedet",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "schienen",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "schiente",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "schinden",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "schindet",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "schneide",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "schneien",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "schneite",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "schunden",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "seichend",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "seichten",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "sichtend",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "siechend",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "siechten",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "stechend",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "suchende",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "tuschend",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "undichte",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "unechten",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "unechtes",
+      "estimated_uncommonness": 4,
+      "combined_score": 603
+    },
+    {
+      "word": "Enteisung",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Neudesign",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "designten",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "dunstigen",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "hindeuten",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "hustenden",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "ungedient",
+      "estimated_uncommonness": 3,
+      "combined_score": 587
+    },
+    {
+      "word": "Chengdu",
+      "estimated_uncommonness": 4,
+      "combined_score": 548
+    },
+    {
+      "word": "Eichgut",
+      "estimated_uncommonness": 4,
+      "combined_score": 548
+    },
+    {
+      "word": "Eichung",
+      "estimated_uncommonness": 4,
+      "combined_score": 548
+    },
+    {
+      "word": "Gedicht",
+      "estimated_uncommonness": 4,
+      "combined_score": 548
+    },
+    {
+      "word": "Geseich",
+      "estimated_uncommonness": 4,
+      "combined_score": 548
+    },
+    {
+      "word": "Gesicht",
+      "estimated_uncommonness": 4,
+      "combined_score": 548
+    },
+    {
+      "word": "Gesuche",
+      "estimated_uncommonness": 4,
+      "combined_score": 548
+    },
+    {
+      "word": "Schiege",
+      "estimated_uncommonness": 4,
+      "combined_score": 548
+    },
+    {
+      "word": "geeicht",
+      "estimated_uncommonness": 4,
+      "combined_score": 548
+    },
+    {
+      "word": "gesucht",
+      "estimated_uncommonness": 4,
+      "combined_score": 548
+    },
+    {
+      "word": "tsching",
+      "estimated_uncommonness": 4,
+      "combined_score": 548
+    },
+    {
+      "word": "Ehingens",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Hengsten",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "eingehst",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "gedeihst",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "gediehst",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "heutigen",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "heutiges",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "sehnigen",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Chinese",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Deichen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Deiches",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Deutsch",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Dichten",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Dschinn",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Duschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Eichens",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Endchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Entchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Nichten",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Nischen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Nutsche",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Scheide",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Scheine",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Scheite",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Scheune",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Schiene",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Schneid",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Schnute",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Schuten",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Seichen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Seuchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Stechen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Stichen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Teichen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Teiches",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Tischen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "deichen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "deutsch",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "dichten",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "dichtes",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "duschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "duschte",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "eichend",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "eichten",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "scheide",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "scheine",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "scheint",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "scheuen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "scheute",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "schiene",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "schient",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "schinde",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "schneie",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "schneit",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "seichen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "seichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "sichten",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "siechen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "siechte",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "stechen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "suchend",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "suchten",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "tischen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "tuchend",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "tuschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "undicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "unechte",
+      "estimated_uncommonness": 3,
+      "combined_score": 513
+    },
+    {
+      "word": "Digesten",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "Eisengut",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "Eisenhut",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "Eutingen",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "Genuesin",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "Ideengut",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "Neugeist",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "Steingen",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "Tugenden",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "designen",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "designte",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "dunstige",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "einengst",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "endigten",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "gedunsen",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "genuines",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "gesinnte",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "gesunden",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "gesundet",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "hindeute",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "hustende",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "singende",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "steigend",
+      "estimated_uncommonness": 3,
+      "combined_score": 497
+    },
+    {
+      "word": "Diensten",
+      "estimated_uncommonness": 2,
+      "combined_score": 462
+    },
+    {
+      "word": "Endstein",
+      "estimated_uncommonness": 2,
+      "combined_score": 462
+    },
+    {
+      "word": "Nudisten",
+      "estimated_uncommonness": 2,
+      "combined_score": 462
+    },
+    {
+      "word": "Tensiden",
+      "estimated_uncommonness": 2,
+      "combined_score": 462
+    },
+    {
+      "word": "Tunesien",
+      "estimated_uncommonness": 2,
+      "combined_score": 462
+    },
+    {
+      "word": "nistende",
+      "estimated_uncommonness": 2,
+      "combined_score": 462
+    },
+    {
+      "word": "tunendes",
+      "estimated_uncommonness": 2,
+      "combined_score": 462
+    },
+    {
+      "word": "Gesche",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Gesuch",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Gischt",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Gusche",
+      "estimated_uncommonness": 3,
+      "combined_score": 458
+    },
+    {
+      "word": "Dehnung",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "Ehingen",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "Gehuste",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "Genthin",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "Hengste",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "Uhingen",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "eingeht",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "gedehnt",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "gedeiht",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "gedieht",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "gesehnt",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "geseiht",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "heutige",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "sehnige",
+      "estimated_uncommonness": 3,
+      "combined_score": 442
+    },
+    {
+      "word": "Deiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Deichs",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Dichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Dieche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Dusche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Echsen",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Eschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Nichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Nichts",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Nische",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Schein",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Scheit",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Schied",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Schiet",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Schinn",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Schnee",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Schund",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Schute",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Seiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Seuche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Stiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Suchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Teiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Teichs",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Tuchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Tuches",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Tusche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "dichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "dusche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "duscht",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "echten",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "echtes",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "eichen",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "eichst",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "eichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "eschen",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "etisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "nichts",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "scheue",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "scheut",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "schied",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "schien",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "seicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "sichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "sieche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "siecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "steche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "suchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "suchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "tische",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "tuchen",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "tusche",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "unecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 422
+    },
+    {
+      "word": "Dehnens",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Dingens",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Eignens",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Endsieg",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Ethnien",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Gesinde",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Gestein",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Gneisen",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Gunsten",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Gutsein",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Neigens",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Neuheit",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Nietung",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Seeding",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Seehund",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Sendung",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Tunings",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Undinge",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Undings",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Ungeist",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Unsegen",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Usingen",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "dehnten",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "designe",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "designt",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "dunstig",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "eignend",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "eignest",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "einengt",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "einseht",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "endigen",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "endigst",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "endigte",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "engsten",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "gedient",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "geniest",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "genuine",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "gesennt",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "gesinnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "gesunde",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "hustend",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "neigend",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "neigten",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "segnend",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "sehnend",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "sehnten",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "seihend",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "sengend",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "sengten",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "siegend",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "siegten",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "singend",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "stehend",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "steigen",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "stiegen",
+      "estimated_uncommonness": 2,
+      "combined_score": 407
+    },
+    {
+      "word": "Deutens",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "Dienens",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "Dienste",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "Neidens",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "Neusein",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "Nietens",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "Steinen",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "Studien",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "Stunden",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "Sudeten",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "Tenside",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "dienten",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "dunsten",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "neidest",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "neuntes",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "niesend",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "niesten",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "nietend",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "nistend",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "stunden",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "tuenden",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "tuendes",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "tunende",
+      "estimated_uncommonness": 2,
+      "combined_score": 371
+    },
+    {
+      "word": "Gicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 368
+    },
+    {
+      "word": "Gedeih",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Gehens",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Hegens",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Hengst",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Hennig",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Hungen",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Things",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "gedieh",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "gehend",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "geheut",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "hegend",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "hegten",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "heutig",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "hingen",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "hingst",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "sehnig",
+      "estimated_uncommonness": 2,
+      "combined_score": 352
+    },
+    {
+      "word": "Deich",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Ducht",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Echse",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Eiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Esche",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Etsch",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Ische",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Scheu",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Sicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Stich",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Suche",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Sucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Teich",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Tisch",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Tuche",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Tuchs",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Tusch",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Uschi",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "dicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "echte",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "eiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "eicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "nicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "scheu",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "siech",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "stich",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "suche",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "sucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 332
+    },
+    {
+      "word": "Degens",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Design",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Digest",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Dingen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Dinges",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Dunges",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Ediths",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Endung",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Engine",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Ethins",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Ethnie",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Eugens",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Geiste",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Genies",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Genius",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Gesine",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Gesten",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Getues",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Gneise",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Guides",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Guinee",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Heiden",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Heines",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Hennes",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Hindus",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Hunden",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Hundes",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Husten",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Sehnde",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Sehnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Seihen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Siegen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Signet",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Singen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Stegen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Steige",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Stiege",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Teigen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Teiges",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Tengen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Thesen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Tugend",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Tuning",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Unding",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "dehnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "dehnst",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "dehnte",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "dingen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "eigens",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "eignen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "eignet",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "endige",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "endigt",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "engste",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "engten",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "geeint",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "geeist",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "geiend",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "genest",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "genuin",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "gesund",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "heuend",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "hinten",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "hintun",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "hunten",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "husten",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "neigen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "neigst",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "neigte",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "segnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "segnet",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "sehend",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "sehnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "sehnte",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "seihen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "sengen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "sengte",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "siegen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "siegte",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "singen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "stehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "steige",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "stiege",
+      "estimated_uncommonness": 2,
+      "combined_score": 316
+    },
+    {
+      "word": "Cents",
+      "estimated_uncommonness": 2,
+      "combined_score": 297
+    },
+    {
+      "word": "Deuce",
+      "estimated_uncommonness": 2,
+      "combined_score": 297
+    },
+    {
+      "word": "Denise",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Dennis",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Dentin",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Dienst",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Einens",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Einsen",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Endens",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Eutins",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Neides",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Niesen",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Nudist",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Seiten",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Senden",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Steine",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Studie",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Stunde",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Suiten",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Sunnit",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Tennis",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Tensid",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Tenuis",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Undine",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "United",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "Usenet",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "deinen",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "deines",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "deuten",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "dienen",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "dienst",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "diente",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "diesen",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "dunste",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "einend",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "einten",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "endest",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "iTunes",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "neiden",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "neidet",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "neunte",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "niesen",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "nieste",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "nieten",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "nisten",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "nutend",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "seiden",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "seiend",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "seinen",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "senden",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "sendet",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "sieden",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "siedet",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "stunde",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "tuende",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "tunend",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "uneins",
+      "estimated_uncommonness": 2,
+      "combined_score": 281
+    },
+    {
+      "word": "gech",
+      "estimated_uncommonness": 3,
+      "combined_score": 277
+    },
+    {
+      "word": "Gehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 261
+    },
+    {
+      "word": "Thing",
+      "estimated_uncommonness": 2,
+      "combined_score": 261
+    },
+    {
+      "word": "gehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 261
+    },
+    {
+      "word": "gehst",
+      "estimated_uncommonness": 2,
+      "combined_score": 261
+    },
+    {
+      "word": "hegen",
+      "estimated_uncommonness": 2,
+      "combined_score": 261
+    },
+    {
+      "word": "hegst",
+      "estimated_uncommonness": 2,
+      "combined_score": 261
+    },
+    {
+      "word": "hegte",
+      "estimated_uncommonness": 2,
+      "combined_score": 261
+    },
+    {
+      "word": "hinge",
+      "estimated_uncommonness": 2,
+      "combined_score": 261
+    },
+    {
+      "word": "hingt",
+      "estimated_uncommonness": 2,
+      "combined_score": 261
+    },
+    {
+      "word": "Ehec",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Esch",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Ichs",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Inch",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Isch",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Schi",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Sech",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Tuch",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "dich",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "echt",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "euch",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "sich",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "such",
+      "estimated_uncommonness": 2,
+      "combined_score": 242
+    },
+    {
+      "word": "Degen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Dings",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Dungs",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Edith",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Eigen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Engen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Ethen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Ethin",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Eugen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Geest",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Geist",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Genen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Genie",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Gents",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Genus",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Geste",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Getue",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Ginst",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Gneis",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Guide",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Gunne",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Gunst",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Gutes",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Heide",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Heine",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Henne",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Henni",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Heute",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Hinde",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Hindu",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Hunde",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Hunds",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Hunne",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Hunni",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Hunte",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Hutes",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Ihnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Inges",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Negus",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Neige",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Nguni",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Segen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Sehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Sehne",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Seige",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Senge",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Siege",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Stege",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Steig",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Teige",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Teigs",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Thein",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "These",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "dehne",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "dehnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "dinge",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "eigen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "eigne",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "engen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "enges",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "engst",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "engte",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "geien",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "guten",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "gutes",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "heint",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "heuen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "heute",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "huste",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "ihnen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "neige",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "neigt",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "segne",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "sehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "sehne",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "sehnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "senge",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "sengt",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "siege",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "siegt",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "siehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "sieht",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "singe",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "singt",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "stehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "steig",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "stieg",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "untig",
+      "estimated_uncommonness": 2,
+      "combined_score": 226
+    },
+    {
+      "word": "Cent",
+      "estimated_uncommonness": 2,
+      "combined_score": 206
+    },
+    {
+      "word": "Cuts",
+      "estimated_uncommonness": 2,
+      "combined_score": 206
+    },
+    {
+      "word": "DECT",
+      "estimated_uncommonness": 2,
+      "combined_score": 206
+    },
+    {
+      "word": "Duce",
+      "estimated_uncommonness": 2,
+      "combined_score": 206
+    },
+    {
+      "word": "Ecus",
+      "estimated_uncommonness": 2,
+      "combined_score": 206
+    },
+    {
+      "word": "ICEs",
+      "estimated_uncommonness": 2,
+      "combined_score": 206
+    },
+    {
+      "word": "NiCd",
+      "estimated_uncommonness": 2,
+      "combined_score": 206
+    },
+    {
+      "word": "nsec",
+      "estimated_uncommonness": 2,
+      "combined_score": 206
+    },
+    {
+      "word": "Deist",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Dunst",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Edens",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Eiden",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Eides",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Eisen",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Endes",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Ennis",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Ennui",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Enten",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Esten",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Estin",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Etuis",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Eutin",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Ideen",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Indus",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Inste",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Neids",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Neins",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Neues",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Neune",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Niete",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Nuten",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Seide",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Seine",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Seite",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Senne",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Stein",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Studi",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Suite",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Teens",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Teins",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Tenne",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Tiden",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Tunis",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Udine",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "Units",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "deine",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "deins",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "denen",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "deute",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "diene",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "dient",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "diese",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "einen",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "eines",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "einst",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "einte",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "enden",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "endet",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "ennet",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "ident",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "indes",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "intus",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "neide",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "neuen",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "neues",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "neunt",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "niese",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "niest",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "niete",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "niste",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "nuten",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "seien",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "seine",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "sende",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "siede",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "sinne",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "sinnt",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "tuend",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "tunen",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "unten",
+      "estimated_uncommonness": 2,
+      "combined_score": 191
+    },
+    {
+      "word": "EuGH",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Ghee",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "Thug",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "gehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "geht",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "hege",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "hegt",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "hing",
+      "estimated_uncommonness": 2,
+      "combined_score": 171
+    },
+    {
+      "word": "CGI",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Che",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Chi",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "HTC",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Ich",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "THC",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "chi",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "ech",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "ich",
+      "estimated_uncommonness": 2,
+      "combined_score": 151
+    },
+    {
+      "word": "Degu",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Dehu",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Ding",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Dung",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "EStG",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Ehen",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Enge",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "GUID",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Gene",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Gens",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Gent",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Gest",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Gins",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Gnus",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Guts",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Hedi",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Hein",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Hete",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Heus",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Hits",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Hund",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Hunt",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Huts",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Ihde",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Ihne",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Inge",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Shit",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Sieg",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Steg",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Teig",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "Thun",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "UStG",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "enge",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "engt",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "gute",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "heut",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "sehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "seht",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "sieh",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "sing",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "steh",
+      "estimated_uncommonness": 2,
+      "combined_score": 136
+    },
+    {
+      "word": "CDI",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "CDU",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "CDs",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "CNN",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "CSU",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Ces",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Cis",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Cut",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Ecu",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Esc",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "ICE",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "ICs",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Inc",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "NEC",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Tic",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "cis",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "etc",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "sic",
+      "estimated_uncommonness": 2,
+      "combined_score": 116
+    },
+    {
+      "word": "Deut",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Dust",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Eden",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Eide",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Eids",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Eins",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Eise",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Ende",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Ente",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Este",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Etui",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "ISDN",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Idee",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Iden",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Ines",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Inns",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Inst",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Isen",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Neid",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Nein",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Nest",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Neun",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Niet",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Niue",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Nute",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Seen",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Sein",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Senn",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Sinn",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Site",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Sund",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Teds",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Teen",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Tees",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Tein",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Tide",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Tuns",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Unis",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Unit",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "Utes",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "dein",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "denn",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "dies",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "eine",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "eins",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "eint",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "ende",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "inne",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "nein",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "neue",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "neun",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "seid",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "sein",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "seit",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "sind",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "tune",
+      "estimated_uncommonness": 1,
+      "combined_score": 100
+    },
+    {
+      "word": "IGH",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "geh",
+      "estimated_uncommonness": 2,
+      "combined_score": 81
+    },
+    {
+      "word": "EEG",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "ETH",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Ehe",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Eth",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "GIs",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "GTI",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "GUI",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "GUS",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Gei",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Gen",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Ges",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Gin",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Gis",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Gnu",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Gun",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Gut",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Heu",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "His",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Hit",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Hut",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Ing",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Inh",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "Ith",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "NIG",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "SGI",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "ehe",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "eng",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "gen",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "gis",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "gut",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "hei",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "hie",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "hin",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "hui",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "ihn",
+      "estimated_uncommonness": 1,
+      "combined_score": 45
+    },
+    {
+      "word": "DIN",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "DNS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Des",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Die",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Dis",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Dit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ede",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eid",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eis",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "End",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "IDE",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "IDs",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Inn",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ist",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NET",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "NSU",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Nut",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "SED",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "See",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sen",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Set",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Std",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Sud",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TUI",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TUS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ted",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TuS",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tun",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Uni",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ute",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "den",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "des",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "die",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "dit",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "dun",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ein",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ins",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ist",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "net",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "neu",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nid",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "nun",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "sei",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "sie",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "sue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tun",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "und",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "uni",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "uns",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
