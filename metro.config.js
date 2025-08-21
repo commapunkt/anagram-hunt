@@ -5,6 +5,8 @@ const config = getDefaultConfig(__dirname);
 // Enable web support
 config.resolver.platforms = ['ios', 'android', 'native', 'web'];
 
+config.version = 1;
+
 // Add support for additional file extensions
 config.resolver.sourceExts = [
   'js',
