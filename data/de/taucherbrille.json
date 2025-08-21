@@ -1,0 +1,6602 @@
+{
+  "seed_word": "TAUCHERBRILLE",
+  "words_length_count": {
+    "3": 129,
+    "4": 243,
+    "5": 301,
+    "6": 242,
+    "7": 167,
+    "8": 122,
+    "9": 77,
+    "10": 27,
+    "11": 8,
+    "13": 1
+  },
+  "words_list": [
+    {
+      "word": "Taucherbrille",
+      "estimated_uncommonness": 5,
+      "combined_score": 1000
+    },
+    {
+      "word": "Blaulichter",
+      "estimated_uncommonness": 5,
+      "combined_score": 846
+    },
+    {
+      "word": "Tauchbrille",
+      "estimated_uncommonness": 5,
+      "combined_score": 846
+    },
+    {
+      "word": "lichtblauer",
+      "estimated_uncommonness": 5,
+      "combined_score": 846
+    },
+    {
+      "word": "Baurechtler",
+      "estimated_uncommonness": 4,
+      "combined_score": 819
+    },
+    {
+      "word": "blutreicher",
+      "estimated_uncommonness": 4,
+      "combined_score": 819
+    },
+    {
+      "word": "erbaulicher",
+      "estimated_uncommonness": 4,
+      "combined_score": 819
+    },
+    {
+      "word": "Ballreiche",
+      "estimated_uncommonness": 4,
+      "combined_score": 769
+    },
+    {
+      "word": "Bruchrille",
+      "estimated_uncommonness": 4,
+      "combined_score": 769
+    },
+    {
+      "word": "lichtblaue",
+      "estimated_uncommonness": 4,
+      "combined_score": 769
+    },
+    {
+      "word": "habitueller",
+      "estimated_uncommonness": 4,
+      "combined_score": 764
+    },
+    {
+      "word": "traulichere",
+      "estimated_uncommonness": 4,
+      "combined_score": 764
+    },
+    {
+      "word": "Bartlerche",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "Bauchteile",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "Blutreiche",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "Breitlauch",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "Bruchteile",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "Talbereich",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "betulicher",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "erbauliche",
+      "estimated_uncommonness": 4,
+      "combined_score": 742
+    },
+    {
+      "word": "Baurichter",
+      "estimated_uncommonness": 4,
+      "combined_score": 714
+    },
+    {
+      "word": "Braurechte",
+      "estimated_uncommonness": 4,
+      "combined_score": 714
+    },
+    {
+      "word": "Brauteiche",
+      "estimated_uncommonness": 4,
+      "combined_score": 714
+    },
+    {
+      "word": "Eierbrauch",
+      "estimated_uncommonness": 4,
+      "combined_score": 714
+    },
+    {
+      "word": "Rauchbiere",
+      "estimated_uncommonness": 4,
+      "combined_score": 714
+    },
+    {
+      "word": "Teichralle",
+      "estimated_uncommonness": 4,
+      "combined_score": 714
+    },
+    {
+      "word": "lautlicher",
+      "estimated_uncommonness": 4,
+      "combined_score": 714
+    },
+    {
+      "word": "Alubleche",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Ballreich",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Blaulicht",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Blechteil",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Blutlache",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Leitblech",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Lichtalbe",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "abchillte",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "lichtblau",
+      "estimated_uncommonness": 4,
+      "combined_score": 692
+    },
+    {
+      "word": "Halbleiter",
+      "estimated_uncommonness": 4,
+      "combined_score": 687
+    },
+    {
+      "word": "erlauchter",
+      "estimated_uncommonness": 4,
+      "combined_score": 687
+    },
+    {
+      "word": "habituelle",
+      "estimated_uncommonness": 4,
+      "combined_score": 687
+    },
+    {
+      "word": "traulicher",
+      "estimated_uncommonness": 4,
+      "combined_score": 687
+    },
+    {
+      "word": "ultrareich",
+      "estimated_uncommonness": 4,
+      "combined_score": 687
+    },
+    {
+      "word": "Bauchteil",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Belichter",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Bierlache",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Bleichart",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Bluteiche",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Blutrache",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Blutreich",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Bruchteil",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Buchalter",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Buchteile",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Leichtbau",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Teilbruch",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "ableuchte",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "baulicher",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "betuliche",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "erbaulich",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "erbleicht",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "erblicher",
+      "estimated_uncommonness": 4,
+      "combined_score": 665
+    },
+    {
+      "word": "Blaureiher",
+      "estimated_uncommonness": 3,
+      "combined_score": 659
+    },
+    {
+      "word": "Lehrarbeit",
+      "estimated_uncommonness": 3,
+      "combined_score": 659
+    },
+    {
+      "word": "halbierter",
+      "estimated_uncommonness": 3,
+      "combined_score": 659
+    },
+    {
+      "word": "herleitbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 659
+    },
+    {
+      "word": "Abrichter",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Bachtiere",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Baurechte",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Braurecht",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Brauteich",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Eichbauer",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Eiterbach",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Rauchbier",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Tierbauch",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "elterlich",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "erbrachte",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "lautliche",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "riechbare",
+      "estimated_uncommonness": 4,
+      "combined_score": 637
+    },
+    {
+      "word": "Alublech",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Lichtalb",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "abchille",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "abchillt",
+      "estimated_uncommonness": 4,
+      "combined_score": 615
+    },
+    {
+      "word": "Altreiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Bierhalle",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Blutlehre",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Halbliter",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Halbteile",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Realrecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "achterlei",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "erlauchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "habituell",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "trauliche",
+      "estimated_uncommonness": 3,
+      "combined_score": 610
+    },
+    {
+      "word": "Alberich",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "Albrecht",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "Altbruch",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "Bacherle",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "Bruchtal",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "Buchteil",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "Teilbuch",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "Telebuch",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "Teleclub",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "Ulbricht",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "ablichte",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "bauliche",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "belichte",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "betulich",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "bleicher",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "bleichte",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "erbliche",
+      "estimated_uncommonness": 4,
+      "combined_score": 587
+    },
+    {
+      "word": "Billeteur",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Bleialter",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Halbtiere",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Liberaler",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Raucherei",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Taucherei",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Teilhaber",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "halbierte",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "heilbarer",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "labilerer",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "liberaler",
+      "estimated_uncommonness": 3,
+      "combined_score": 582
+    },
+    {
+      "word": "Bachtier",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "Baurecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "Eierbuch",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "Erbacher",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "Erbrecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "Erbreich",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "Reitclub",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "Tierbuch",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "Tierclub",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "abrichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "berichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "beriecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "brauchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "erbracht",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "erbrecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "erbricht",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "lautlich",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "riechbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "ruchbare",
+      "estimated_uncommonness": 3,
+      "combined_score": 560
+    },
+    {
+      "word": "Bauleiter",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Erbheirat",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Hautrille",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Lautlehre",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Reibelaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Reithalle",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Ruhrallee",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "aburteile",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "brutalere",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "erlaubter",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "teilbarer",
+      "estimated_uncommonness": 3,
+      "combined_score": 555
+    },
+    {
+      "word": "Allbuch",
+      "estimated_uncommonness": 4,
+      "combined_score": 538
+    },
+    {
+      "word": "Blechle",
+      "estimated_uncommonness": 4,
+      "combined_score": 538
+    },
+    {
+      "word": "Altreich",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Beatrice",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Halbteil",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Hellbier",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Ichlaute",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Lauchert",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Leichter",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Leuchter",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Rechtler",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Treichel",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "erlaucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "etlicher",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "halbleer",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "leichter",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "lichtere",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "traulich",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "treulich",
+      "estimated_uncommonness": 3,
+      "combined_score": 533
+    },
+    {
+      "word": "Aluleiter",
+      "estimated_uncommonness": 3,
+      "combined_score": 527
+    },
+    {
+      "word": "Raubtiere",
+      "estimated_uncommonness": 3,
+      "combined_score": 527
+    },
+    {
+      "word": "Reitbauer",
+      "estimated_uncommonness": 3,
+      "combined_score": 527
+    },
+    {
+      "word": "arteriell",
+      "estimated_uncommonness": 3,
+      "combined_score": 527
+    },
+    {
+      "word": "ritueller",
+      "estimated_uncommonness": 3,
+      "combined_score": 527
+    },
+    {
+      "word": "Baluchi",
+      "estimated_uncommonness": 3,
+      "combined_score": 511
+    },
+    {
+      "word": "Bichler",
+      "estimated_uncommonness": 3,
+      "combined_score": 511
+    },
+    {
+      "word": "Buchtel",
+      "estimated_uncommonness": 3,
+      "combined_score": 511
+    },
+    {
+      "word": "baulich",
+      "estimated_uncommonness": 3,
+      "combined_score": 511
+    },
+    {
+      "word": "blechte",
+      "estimated_uncommonness": 3,
+      "combined_score": 511
+    },
+    {
+      "word": "bleiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 511
+    },
+    {
+      "word": "bleicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 511
+    },
+    {
+      "word": "erblich",
+      "estimated_uncommonness": 3,
+      "combined_score": 511
+    },
+    {
+      "word": "Altliebe",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Auricher",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Ballerei",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Baulehre",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Bratelle",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Buhlerei",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Bullerei",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Halbtier",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Hartblei",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Liebherr",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Rauchtee",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Rubellit",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "abheilte",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "abhielte",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "ballerte",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "blutleer",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "chartere",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "erreicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "errichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "halbiere",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "halbiert",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "halbirre",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "heilbare",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "labilere",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "lehrbare",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "liberale",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "reichert",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "reliabel",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "teilhabe",
+      "estimated_uncommonness": 3,
+      "combined_score": 505
+    },
+    {
+      "word": "Abrecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Artclub",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Beichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Bereich",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Bericht",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Brachet",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Brecher",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Bruchei",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Buchare",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Buchart",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Buchter",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Ellrich",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Reibach",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Teebuch",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "beachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "bechert",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "beichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "brachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "brauche",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "braucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "chillte",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "erbrach",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "ruchbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 483
+    },
+    {
+      "word": "Ableiter",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Altbiere",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Baureihe",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Bauteile",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Bierruhe",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Bleirute",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Hellerau",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Heribert",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Teilebau",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Thriller",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "abheuert",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "beharrte",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "behauter",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "belauert",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "brutaler",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "erlaubte",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "hertrieb",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "teilbare",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "terrible",
+      "estimated_uncommonness": 3,
+      "combined_score": 478
+    },
+    {
+      "word": "Charlie",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Chelate",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Ichlaut",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Lachter",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Leuchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Lichter",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "achtele",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "etliche",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "laichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "leichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "leuchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "lichter",
+      "estimated_uncommonness": 3,
+      "combined_score": 456
+    },
+    {
+      "word": "Arbeiter",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Bautiere",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Beiruter",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Brauerei",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Bruteier",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Eierraub",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Erhalter",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Raubtier",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Realteil",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Urtriebe",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "erbauter",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "rituelle",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "tauberer",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "trillere",
+      "estimated_uncommonness": 3,
+      "combined_score": 450
+    },
+    {
+      "word": "Belche",
+      "estimated_uncommonness": 3,
+      "combined_score": 434
+    },
+    {
+      "word": "Bilche",
+      "estimated_uncommonness": 3,
+      "combined_score": 434
+    },
+    {
+      "word": "Lebach",
+      "estimated_uncommonness": 3,
+      "combined_score": 434
+    },
+    {
+      "word": "bleche",
+      "estimated_uncommonness": 3,
+      "combined_score": 434
+    },
+    {
+      "word": "blecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 434
+    },
+    {
+      "word": "bleich",
+      "estimated_uncommonness": 3,
+      "combined_score": 434
+    },
+    {
+      "word": "blicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 434
+    },
+    {
+      "word": "Barthel",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Braille",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Charter",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Hilbert",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Leiberl",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Raucher",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Richter",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Riecher",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Tabelle",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Taucher",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Trachee",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Uracile",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "abheile",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "abheilt",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "abhielt",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "ballere",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "ballert",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "behalte",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "behielt",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "belehrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "beleiht",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "belieht",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "chartre",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "erachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "heilbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "labelte",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "labiler",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "lehrbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "liberal",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "liebhat",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "rauchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "rechter",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "reicher",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "reichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 428
+    },
+    {
+      "word": "Eutheria",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "lauterer",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "realiter",
+      "estimated_uncommonness": 2,
+      "combined_score": 422
+    },
+    {
+      "word": "Achill",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Bacile",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Baruch",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Becher",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Brache",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Brauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Cherub",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Erbach",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "bracht",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "brauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "breche",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "brecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "bricht",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "buchte",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "chille",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "chillt",
+      "estimated_uncommonness": 3,
+      "combined_score": 406
+    },
+    {
+      "word": "Abteile",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Alberei",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Allheit",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Altbier",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Bauerle",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Bauherr",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Bauteil",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Cartier",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Caterer",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Erbteil",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Haberer",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Herbert",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Leberau",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Leitbau",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Raubehe",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Retabel",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Tauberl",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Telebar",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Urheber",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "ableite",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "abteile",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "alberte",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "beharre",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "beharrt",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "behaute",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "beruhte",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "brutale",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "ehrbare",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "erhellt",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "erlaube",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "erlaubt",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "laberte",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "teilbar",
+      "estimated_uncommonness": 3,
+      "combined_score": 401
+    },
+    {
+      "word": "Achtel",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Alrich",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Catull",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Celler",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Chalet",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Chelat",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Eichel",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Lacher",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Leiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Lerche",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Lichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Lurche",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Rachel",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Ulrich",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "achtel",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "chiral",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "etlich",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "lachte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "laiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "laicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "leicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "lichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 379
+    },
+    {
+      "word": "Altherr",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Altrehe",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Arbiter",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Bautier",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Berater",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Bierart",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Erbauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Heilart",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Heilrat",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Lauheit",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Lehrart",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Lehrter",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Literal",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Tierbau",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Treiber",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Triller",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Urtrieb",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "abirrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "abriete",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "arbeite",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "beirrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "betraue",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "breiter",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "erbaute",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "erhalte",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "erhielt",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "letaler",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "literal",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "rituell",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "taubere",
+      "estimated_uncommonness": 2,
+      "combined_score": 373
+    },
+    {
+      "word": "Bilch",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Blech",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "blach",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "blich",
+      "estimated_uncommonness": 3,
+      "combined_score": 357
+    },
+    {
+      "word": "Achter",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Aurich",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Ballei",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Belial",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Bethel",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Billet",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Bleuel",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Brille",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Buhler",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Churer",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Claire",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Eclair",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Elbtal",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Rebell",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Rechte",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Reiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Teiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Ulcera",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Uracil",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "achter",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "ballre",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "ballte",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "behalt",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "belieh",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "bellte",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "buhlte",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "echter",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "eichte",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "halber",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "hebelt",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "labele",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "labelt",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "labile",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "rauche",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "raucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "rechte",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "reiche",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "reicht",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "richte",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "rieche",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "riecht",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "tauche",
+      "estimated_uncommonness": 3,
+      "combined_score": 351
+    },
+    {
+      "word": "Atelier",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "Eieruhr",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "Harriet",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "Hauerei",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "Hurerei",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "Litauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "Rauheit",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "Rituale",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "Trailer",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "Urethra",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "alerter",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "eluiert",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "heirate",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "irreale",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "lauerer",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "lauerte",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "lautere",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "uralter",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "urteile",
+      "estimated_uncommonness": 2,
+      "combined_score": 346
+    },
+    {
+      "word": "Bache",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Batch",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Bauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Beach",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Bruch",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Buach",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Buche",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Bucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Calbe",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "brach",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "brich",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "buche",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "bucht",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "butch",
+      "estimated_uncommonness": 3,
+      "combined_score": 329
+    },
+    {
+      "word": "Abelie",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Aberle",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Abteil",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Abulie",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Albert",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Barrel",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Bartel",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Beatle",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Beitel",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Beliar",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Bertha",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Beutel",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Birthe",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Bluter",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Butler",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Carter",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Curare",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Haller",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Herbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Hubert",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Leiber",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Libera",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Riebel",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Thrill",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Tracer",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Trubel",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "albere",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "albert",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "allhie",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "beehrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "beeilt",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "behaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "behaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "beruhe",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "beruht",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "beulte",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "beutle",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "blauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "brutal",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "cetera",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "ehrbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "erhebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "erlebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "hallte",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "heller",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "hellte",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "herbei",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "herber",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "labere",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "labert",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "lieber",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "liebte",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "tribal",
+      "estimated_uncommonness": 2,
+      "combined_score": 324
+    },
+    {
+      "word": "Arterie",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "Eritrea",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "Urtiere",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "eruiert",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "tariere",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "trauere",
+      "estimated_uncommonness": 2,
+      "combined_score": 318
+    },
+    {
+      "word": "Abece",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Bruce",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "CeBIT",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Cella",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Celle",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Celli",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Chile",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Elche",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Lache",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Laich",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Lauch",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Leich",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Licht",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Lurch",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "lache",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "lacht",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "licht",
+      "estimated_uncommonness": 3,
+      "combined_score": 302
+    },
+    {
+      "word": "Abitur",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Altheu",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Altreh",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Arbeit",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Beirat",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Beirut",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Bieter",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Brauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Breite",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Brutei",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Ehlert",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Erhalt",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Halite",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Halter",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Heiler",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Heuler",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Hitler",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Iberer",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Lehrer",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Lehrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Luther",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Reherl",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Taille",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Tauber",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Teller",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Tellur",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Thiele",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Traber",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Traube",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Treber",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Triell",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Trulla",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Trulli",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "abirre",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "abirrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "abriet",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "beirre",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "beirrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "berate",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "bereit",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "bereut",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "beriet",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "braute",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "breite",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "erbaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "erbaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "ererbt",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "heiler",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "heilte",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "heulte",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "hielte",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "lehrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "letale",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "raubte",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "tauber",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "treibe",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "triebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "urbare",
+      "estimated_uncommonness": 2,
+      "combined_score": 296
+    },
+    {
+      "word": "Acher",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Achte",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Alice",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Arche",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Bella",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Bille",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Buhle",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Bulle",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Bulli",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Chart",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Clare",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Eiche",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Erich",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Halbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Hebel",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Helbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Label",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Leica",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Lucia",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Rache",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Rauch",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Recht",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Reich",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Teich",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Tuche",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Uchta",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "achte",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "balle",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "ballt",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "belle",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "bellt",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "buhle",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "buhlt",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "echte",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "eiche",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "eicht",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "habil",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "halbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "heble",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "labil",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "rauch",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "reche",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "recht",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "reich",
+      "estimated_uncommonness": 2,
+      "combined_score": 274
+    },
+    {
+      "word": "Arthur",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Autler",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Eihaut",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Heirat",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Hertie",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Heuert",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Italer",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Latrie",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Lauter",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Leiter",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Reiher",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Rethra",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Ritual",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Teiler",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Urteil",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "alerte",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "altere",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "eitler",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "ereilt",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "harrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "harter",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "heiter",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "heuert",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "irreal",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "lauere",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "lauert",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "lauter",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "leiert",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "realer",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "reihte",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "rurale",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "uralte",
+      "estimated_uncommonness": 2,
+      "combined_score": 268
+    },
+    {
+      "word": "Bach",
+      "estimated_uncommonness": 3,
+      "combined_score": 252
+    },
+    {
+      "word": "Buch",
+      "estimated_uncommonness": 3,
+      "combined_score": 252
+    },
+    {
+      "word": "Club",
+      "estimated_uncommonness": 3,
+      "combined_score": 252
+    },
+    {
+      "word": "Abele",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Albit",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Bahre",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Balte",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Barth",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Baule",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Beile",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Betel",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Beule",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Beuth",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Bihar",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Blair",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Buhei",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Ceuta",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Curie",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Erica",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Habit",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Halle",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Haube",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Hebei",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Heber",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Hella",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Hiebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Hille",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Hubei",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Huber",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Laibe",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Laube",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Leber",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Leibe",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Liebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Rubel",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Talib",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Tubel",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "abher",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "beeil",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "beule",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "blaue",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "blute",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "buhte",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "habet",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "halle",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "hallt",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "helle",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "hellt",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "herab",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "herbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "hiebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "labte",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "lebte",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "leibt",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "liebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "liebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 247
+    },
+    {
+      "word": "Raeter",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Rauert",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Reiter",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Reuter",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Trauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Ureter",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Urtier",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "errate",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "erriet",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "rauere",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "teurer",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "treuer",
+      "estimated_uncommonness": 2,
+      "combined_score": 241
+    },
+    {
+      "word": "Elch",
+      "estimated_uncommonness": 2,
+      "combined_score": 225
+    },
+    {
+      "word": "Lech",
+      "estimated_uncommonness": 2,
+      "combined_score": 225
+    },
+    {
+      "word": "Lich",
+      "estimated_uncommonness": 2,
+      "combined_score": 225
+    },
+    {
+      "word": "Luch",
+      "estimated_uncommonness": 2,
+      "combined_score": 225
+    },
+    {
+      "word": "lach",
+      "estimated_uncommonness": 2,
+      "combined_score": 225
+    },
+    {
+      "word": "Abtei",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Allee",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Aller",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Barte",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Bauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Baute",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Beate",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Berit",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Berta",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Berti",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Beter",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Beute",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Biere",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Birte",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Braue",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Braut",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Breie",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Brite",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Ebart",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Ebert",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Elath",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Eller",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Iller",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Lahti",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Lehre",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Rahel",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Ralle",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Reibe",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Rille",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Rubra",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Ruhla",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Taube",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Thale",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Thiel",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Thule",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Tiber",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Trabi",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Trebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Trieb",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Tuber",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Ubier",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Urbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "abtue",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "aller",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "barer",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "baute",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "beute",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "biete",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "brate",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "braue",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "braut",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "breit",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "briet",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "erbat",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "erbte",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "halte",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "heile",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "heilt",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "helau",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "heule",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "heult",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "hielt",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "lehre",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "lehrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "leihe",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "leiht",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "letal",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "lieht",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "raube",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "raubt",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "reell",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "reibe",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "reibt",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "riebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "riebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "taube",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "trabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "treib",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "trieb",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "urbar",
+      "estimated_uncommonness": 2,
+      "combined_score": 219
+    },
+    {
+      "word": "Ache",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Acht",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Ball",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Bell",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Bill",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Bull",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Carl",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Chat",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Chur",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Ctrl",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Ehec",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Luca",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Ruch",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Tuch",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "UCLA",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Ucha",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "acht",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "auch",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "echt",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "euch",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "halb",
+      "estimated_uncommonness": 2,
+      "combined_score": 197
+    },
+    {
+      "word": "Alter",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Ariel",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Artel",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Aulet",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Aurel",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Earth",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Eilat",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Eitel",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Elite",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Elter",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Ether",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Euler",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Harre",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Hauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Herta",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Heuer",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Heute",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Hirte",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Hurra",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Lauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Laute",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Leier",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Leite",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Leute",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Liter",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Rehau",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Reihe",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Taler",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Teile",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Theia",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Therr",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Thure",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Trail",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Trial",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Triel",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Truhe",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Ultra",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "Uriel",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "alert",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "alter",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "ehrte",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "eilte",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "eitel",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "eitle",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "harre",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "harrt",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "harte",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "haute",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "heuer",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "heute",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "hurra",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "hurte",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "ihrer",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "lauer",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "laute",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "leert",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "leite",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "reale",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "reihe",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "reiht",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "ruhte",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "rural",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "teile",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "ultra",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "uralt",
+      "estimated_uncommonness": 2,
+      "combined_score": 192
+    },
+    {
+      "word": "HCB",
+      "estimated_uncommonness": 2,
+      "combined_score": 175
+    },
+    {
+      "word": "Abel",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Acer",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Acre",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Albe",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Albi",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Bahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Baht",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Bali",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Beil",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Bela",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Belt",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Blau",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Blei",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Blut",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Cree",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Ebel",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Elba",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Elbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Eric",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Habe",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Hall",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Hebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Hieb",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Hube",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Labe",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Laib",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Laub",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Lehl",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Leib",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Rica",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "blau",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "bleu",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "buhe",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "buht",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "habe",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "habt",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "hebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "hebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "hell",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "herb",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "hieb",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "labe",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "labt",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "lebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "lebt",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "lieb",
+      "estimated_uncommonness": 2,
+      "combined_score": 169
+    },
+    {
+      "word": "Arier",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Artur",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Autie",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Eiter",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Euter",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Raute",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Terra",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Tiere",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Treue",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Trier",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "Uteri",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "eiert",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "eitre",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "eurer",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "irrte",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "rauer",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "raute",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "reite",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "reute",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "riete",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "teuer",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "teure",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "traue",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "treue",
+      "estimated_uncommonness": 1,
+      "combined_score": 164
+    },
+    {
+      "word": "ABC",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Abc",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Cab",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "LHC",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Tbc",
+      "estimated_uncommonness": 2,
+      "combined_score": 148
+    },
+    {
+      "word": "Abee",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Aber",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Abri",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Ahle",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Bait",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Bari",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Bart",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Beat",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Beau",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Beer",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Beet",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Bert",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Beta",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Bier",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Brar",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Brei",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Brie",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Brit",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Brut",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Bure",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Eber",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Eibe",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Ella",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Elle",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Elli",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Elul",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Erbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Halt",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Heil",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Heli",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Hula",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Lahr",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Lale",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Lila",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Luhe",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Lula",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Rabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Raub",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Rebe",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Tabe",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Tabu",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Tell",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Thul",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Till",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Trab",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Tuba",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Tube",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Ulla",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "aber",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "alle",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "bare",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "baue",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "baut",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "bete",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "betr",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "brat",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "brut",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "erbe",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "erbt",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "halt",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "heil",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "leih",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "lieh",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "lila",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "rieb",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "tabu",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "taub",
+      "estimated_uncommonness": 2,
+      "combined_score": 142
+    },
+    {
+      "word": "Che",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Chi",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Chr",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "HTC",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Ich",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "LCR",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "THC",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "ach",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "chi",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "ech",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "ich",
+      "estimated_uncommonness": 2,
+      "combined_score": 120
+    },
+    {
+      "word": "Alte",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Alti",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "EULA",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Earl",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Ehre",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Eile",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Elea",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Erle",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Eule",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Haie",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Hart",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Haue",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Haut",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Heer",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Heia",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Hera",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Herr",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Hete",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Hiat",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Hirt",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Hure",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Huri",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Ihre",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Laie",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Late",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Laut",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Lear",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Leer",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Lira",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Lire",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Rahe",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Real",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Reha",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Rehe",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Rial",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Ruhe",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Ruhr",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Ruth",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Tael",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Teil",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Tele",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Thai",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Thea",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Ural",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Utah",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "alte",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "eher",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "ehre",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "ehrt",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "eile",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "eilt",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "harr",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "hart",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "haue",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "haut",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "heut",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "hier",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "hure",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "hurt",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "iaht",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "ihre",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "laue",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "laut",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "leer",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "real",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "ruhe",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "ruht",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "teil",
+      "estimated_uncommonness": 1,
+      "combined_score": 115
+    },
+    {
+      "word": "Alb",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Buh",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "CIA",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Cer",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Cru",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Cut",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Ecu",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Elb",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Hab",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Hub",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "ICE",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "IRC",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Lab",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "RTC",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Tic",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "bah",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "bla",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "buh",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "etc",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "hab",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "heb",
+      "estimated_uncommonness": 2,
+      "combined_score": 93
+    },
+    {
+      "word": "Arie",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Arri",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Auer",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Eier",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Etui",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Irre",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Rate",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Reet",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Reue",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Rita",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Rute",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Teer",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Tier",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "UART",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Urat",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Urea",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Urte",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "arte",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "euer",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "eure",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "irre",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "irrt",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "rare",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "rate",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "raue",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "raut",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "reue",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "reut",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "riet",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "rite",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "taue",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "trau",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "treu",
+      "estimated_uncommonness": 1,
+      "combined_score": 87
+    },
+    {
+      "word": "Abi",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Abt",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Abu",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "All",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Aub",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "BER",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Bai",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Bar",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Bau",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Bea",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Bit",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Rab",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Tab",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "UBA",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "all",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "bar",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "bat",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "bau",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "bei",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "brr",
+      "estimated_uncommonness": 1,
+      "combined_score": 65
+    },
+    {
+      "word": "Ahr",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ale",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ali",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Alt",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Alu",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Aul",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "ETH",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ehe",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Eli",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Eth",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Hai",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Heu",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Hit",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Hut",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ihr",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ith",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "LTI",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "LTU",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Lai",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Lar",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Lea",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Lee",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Lei",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Leu",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "RAL",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "RTL",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Rah",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Reh",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Ruh",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Tal",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Tel",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "URL",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Uhr",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "Uli",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "alt",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "ehe",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "hat",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "hau",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "hei",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "her",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "hie",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "hui",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "iah",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "ihr",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "lau",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "ruh",
+      "estimated_uncommonness": 1,
+      "combined_score": 38
+    },
+    {
+      "word": "ATU",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Air",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ari",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Art",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Aue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "ETA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "EUR",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Eta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "IRA",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ire",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rae",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rat",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ria",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "TUI",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Tee",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Uri",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Uta",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "Ute",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "irr",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "rar",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "rau",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    },
+    {
+      "word": "tue",
+      "estimated_uncommonness": 1,
+      "combined_score": 10
+    }
+  ]
+}
